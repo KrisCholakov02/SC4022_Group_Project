@@ -1,0 +1,2884 @@
+<?xml version="1.0"?>
+<dblpperson name="Yinan Li" pid="49/612" n="161">
+<person publtype="disambiguation" key="homepages/49/612" mdate="2020-01-09">
+<author pid="49/612">Yinan Li</author>
+</person>
+<homonyms n="2">
+<h f="l/Li_0001:Yinan"><person key="homepages/49/612-1" mdate="2022-05-06">
+<author pid="49/612-1">Yinan Li 0001</author>
+<note label="PhD 2019" type="affiliation">University of Waterloo, Ontario, Canada</note>
+<url>https://orcid.org/0000-0001-7137-7823</url>
+</person>
+</h>
+<h f="l/Li_0002:Yinan"><person key="homepages/49/612-2" mdate="2020-01-09">
+<author pid="49/612-2">Yinan Li 0002</author>
+<note label="PhD 2012" type="affiliation">Virginia Tech, Blacksburg, VA, USA</note>
+<note type="affiliation">Northern Virginia Graduate Center, Department of Computer Science, VA, USA</note>
+<note type="affiliation">Virginia Polytechnic Institute and State University, Department of Computer Science, VA, USA</note>
+</person>
+</h>
+</homonyms>
+<r><article key="journals/isci/ZhiMLW24" mdate="2023-12-10">
+<author orcid="0000-0002-3598-9053" pid="73/11533">Huilai Zhi</author>
+<author pid="182/7259">Yifan Ma</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="13/5641">Hongwei Wang</author>
+<title>Granule description with undetermined values in a three-way epistemic perspective.</title>
+<pages>119863</pages>
+<year>2024</year>
+<month>January</month>
+<volume>655</volume>
+<journal>Inf. Sci.</journal>
+<ee>https://doi.org/10.1016/j.ins.2023.119863</ee>
+<url>db/journals/isci/isci655.html#ZhiMLW24</url>
+</article>
+</r>
+<r><article key="journals/isci/ZhiQL24" mdate="2024-03-01">
+<author pid="73/11533">Huilai Zhi</author>
+<author pid="369/8323">Zhenhao Qi</author>
+<author pid="49/612">Yinan Li</author>
+<title>An efficient conflict analysis method based on splitting and merging of formal contexts.</title>
+<pages>120154</pages>
+<year>2024</year>
+<volume>661</volume>
+<journal>Inf. Sci.</journal>
+<ee>https://doi.org/10.1016/j.ins.2024.120154</ee>
+<url>db/journals/isci/isci661.html#ZhiQL24</url>
+</article>
+</r>
+<r><article key="journals/tgrs/LuZLCYLLL24" mdate="2024-01-26">
+<author orcid="0000-0001-8573-3489" pid="152/6257">Hailiang Lu</author>
+<author orcid="0000-0003-3665-3364" pid="177/9356-1">Wenchao Zheng 0001</author>
+<author pid="22/2743">Weili Liu</author>
+<author pid="366/2124">Jieqia Chen</author>
+<author orcid="0000-0001-6764-1679" pid="09/10345">Songhua Yan</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="142/6581">Rongchuan Lv</author>
+<author pid="17/5705">Hao Li</author>
+<title>Analysis of Field of View for Passive Interferometric Microwave Sensor in Target Detection.</title>
+<pages>1-13</pages>
+<year>2024</year>
+<volume>62</volume>
+<journal>IEEE Trans. Geosci. Remote. Sens.</journal>
+<ee>https://doi.org/10.1109/TGRS.2023.3346189</ee>
+<url>db/journals/tgrs/tgrs62.html#LuZLCYLLL24</url>
+</article>
+</r>
+<r><article key="journals/access/LiMZY23" mdate="2023-02-25">
+<author orcid="0000-0001-9620-8241" pid="49/612">Yinan Li</author>
+<author orcid="0000-0002-8744-3423" pid="184/9558">Yiwei Ma</author>
+<author orcid="0000-0002-5110-4526" pid="174/0086">Yiyi Zhou</author>
+<author orcid="0000-0002-0314-9295" pid="89/2407">Xiao Yu</author>
+<title>Semantic-Guided Selective Representation for Image Captioning.</title>
+<pages>14500-14510</pages>
+<year>2023</year>
+<volume>11</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2023.3243952</ee>
+<url>db/journals/access/access11.html#LiMZY23</url>
+</article>
+</r>
+<r><article key="journals/ijar/ZhiL23" mdate="2023-09-30">
+<author orcid="0000-0002-3598-9053" pid="73/11533">Huilai Zhi</author>
+<author orcid="0000-0002-3300-8098" pid="49/612">Yinan Li</author>
+<title>Attribute granulation in fuzzy formal contexts based on <i>L</i>-fuzzy concepts.</title>
+<pages>108947</pages>
+<year>2023</year>
+<month>August</month>
+<volume>159</volume>
+<journal>Int. J. Approx. Reason.</journal>
+<ee>https://doi.org/10.1016/j.ijar.2023.108947</ee>
+<url>db/journals/ijar/ijar159.html#ZhiL23</url>
+</article>
+</r>
+<r><article key="journals/lgrs/LiDYRZYWS023" mdate="2023-06-02">
+<author pid="49/612">Yinan Li</author>
+<author orcid="0000-0002-3042-6657" pid="170/9765">Haofeng Dou</author>
+<author orcid="0009-0009-3761-6718" pid="202/9077">Xin Yao</author>
+<author orcid="0000-0001-9421-9051" pid="348/1939">Fengchao Ren</author>
+<author pid="69/2928">Yunjie Zhang</author>
+<author pid="48/450">Yang Yang</author>
+<author pid="229/5056">Yuanchao Wu</author>
+<author pid="153/8597">Guangnan Song</author>
+<author orcid="0000-0001-7817-2812" pid="308/8430-2">Rong Jin 0002</author>
+<title>A Coastal RFI Mitigation Method for Synthetic Aperture Interferometric Radiometer.</title>
+<pages>1-5</pages>
+<year>2023</year>
+<volume>20</volume>
+<journal>IEEE Geosci. Remote. Sens. Lett.</journal>
+<ee>https://doi.org/10.1109/LGRS.2023.3274582</ee>
+<url>db/journals/lgrs/lgrs20.html#LiDYRZYWS023</url>
+</article>
+</r>
+<r><article key="journals/pacmmod/LiLC23" mdate="2023-07-07">
+<author orcid="0009-0004-5483-2862" pid="49/612">Yinan Li</author>
+<author orcid="0000-0003-0741-1913" pid="44/10023">Jianan Lu</author>
+<author orcid="0000-0002-8468-4037" pid="01/2861">Badrish Chandramouli</author>
+<title>Selection Pushdown in Column Stores using Bit Manipulation Instructions.</title>
+<pages>178:1-178:26</pages>
+<year>2023</year>
+<volume>1</volume>
+<journal>Proc. ACM Manag. Data</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3589323</ee>
+<url>db/journals/pacmmod/pacmmod1.html#LiLC23</url>
+</article>
+</r>
+<r><article key="journals/remotesensing/LiLDXLLLWS23" mdate="2023-08-30">
+<author pid="17/5705-49">Hao Li 0049</author>
+<author pid="62/2655">Gang Li</author>
+<author orcid="0000-0002-3042-6657" pid="170/9765">Haofeng Dou</author>
+<author orcid="0000-0001-6229-2852" pid="309/8946">Chengwang Xiao</author>
+<author orcid="0000-0002-5980-9141" pid="229/5143-1">Zhenyu Lei 0001</author>
+<author pid="142/6581">Rongchuan Lv</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="229/5056">Yuanchao Wu</author>
+<author pid="153/8597">Guangnan Song</author>
+<title>Array Configuration Design for Mirrored Aperture Synthesis Radiometers Based on Dual-Polarization Measurements.</title>
+<pages>167</pages>
+<year>2023</year>
+<month>January</month>
+<volume>15</volume>
+<journal>Remote. Sens.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.3390/rs15010167</ee>
+<url>db/journals/remotesensing/remotesensing15.html#LiLDXLLLWS23</url>
+</article>
+</r>
+<r><article key="journals/remotesensing/ZhangTRHJZLJD23" mdate="2024-01-24">
+<author pid="343/4345">Xintian Zhang</author>
+<author orcid="0000-0002-9213-0085" pid="144/0341">Shiyang Tang</author>
+<author pid="75/6568">Yi Ren</author>
+<author pid="321/5086">Jiahao Han</author>
+<author pid="131/5567">Chenghao Jiang</author>
+<author pid="14/2573">Juan Zhang</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="177/5631">Tong Jiang</author>
+<author pid="59/3833">Qi Dong</author>
+<title>Spatially Variant Error Elimination for High-Resolution UAV SAR with Extremely Small Incident Angle.</title>
+<pages>3700</pages>
+<year>2023</year>
+<month>July</month>
+<volume>15</volume>
+<journal>Remote. Sens.</journal>
+<number>14</number>
+<ee type="oa">https://doi.org/10.3390/rs15143700</ee>
+<url>db/journals/remotesensing/remotesensing15.html#ZhangTRHJZLJD23</url>
+</article>
+</r>
+<r><article key="journals/staeors/JiangTDLZSZ23" mdate="2023-11-09">
+<author orcid="0009-0007-4125-6490" pid="131/5567">Chenghao Jiang</author>
+<author orcid="0000-0002-9213-0085" pid="144/0341">Shiyang Tang</author>
+<author pid="59/3833">Qi Dong</author>
+<author pid="49/612">Yinan Li</author>
+<author orcid="0000-0003-1287-5659" pid="14/2573">Juan Zhang</author>
+<author pid="30/7699">Guoliang Sun</author>
+<author pid="06/6908">Linrang Zhang</author>
+<title>Three-Dimensional Reconstruction for Single-Channel Curvilinear SAR Based on Azimuth Prefocusing.</title>
+<pages>10033-10048</pages>
+<year>2023</year>
+<volume>16</volume>
+<journal>IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.</journal>
+<ee type="oa">https://doi.org/10.1109/JSTARS.2023.3323521</ee>
+<url>db/journals/staeors/staeors16.html#JiangTDLZSZ23</url>
+</article>
+</r>
+<r><article key="journals/tcyb/LiWFSL23" mdate="2023-12-10">
+<author orcid="0000-0002-2778-877X" pid="49/612">Yinan Li</author>
+<author orcid="0000-0001-7117-2772" pid="00/7016">Ruili Wang</author>
+<author orcid="0000-0001-7259-9823" pid="124/5793">Yuqiang Fang</author>
+<author orcid="0000-0002-7435-3752" pid="81/1237-1">Meng Sun 0001</author>
+<author orcid="0000-0002-1683-5745" pid="191/6457">Zhangkai Luo</author>
+<title>Alternating Direction Method of Multipliers for Convolutive Non-Negative Matrix Factorization.</title>
+<pages>7735-7748</pages>
+<year>2023</year>
+<month>December</month>
+<volume>53</volume>
+<journal>IEEE Trans. Cybern.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TCYB.2022.3204723</ee>
+<url>db/journals/tcyb/tcyb53.html#LiWFSL23</url>
+</article>
+</r>
+<r><article key="journals/tgrs/DouXLLDLLSWYLJW23" mdate="2023-03-28">
+<author orcid="0000-0002-3042-6657" pid="170/9765">Haofeng Dou</author>
+<author orcid="0000-0001-6229-2852" pid="309/8946">Chengwang Xiao</author>
+<author pid="17/5705-49">Hao Li 0049</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="211/1850">Pengju Dang</author>
+<author pid="142/6581">Rongchuan Lv</author>
+<author pid="10/1749">Pengfei Li</author>
+<author pid="153/8597">Guangnan Song</author>
+<author pid="229/5056">Yuanchao Wu</author>
+<author pid="211/2030">Xiaojiao Yang</author>
+<author orcid="0000-0002-9116-1437" pid="90/4308">Shubo Liu</author>
+<author pid="342/0357">Renzhi Jiang</author>
+<author pid="42/1822">Wenjing Wang</author>
+<title>Deep Learning Imaging for 1-D Aperture Synthesis Radiometers.</title>
+<pages>1-16</pages>
+<year>2023</year>
+<volume>61</volume>
+<journal>IEEE Trans. Geosci. Remote. Sens.</journal>
+<ee>https://doi.org/10.1109/TGRS.2023.3249239</ee>
+<url>db/journals/tgrs/tgrs61.html#DouXLLDLLSWYLJW23</url>
+</article>
+</r>
+<r><article key="journals/tgrs/LuLLWXYFZJLL23" mdate="2024-01-19">
+<author orcid="0000-0001-8573-3489" pid="152/6257">Hailiang Lu</author>
+<author pid="49/612">Yinan Li</author>
+<author orcid="0000-0002-2723-4515" pid="98/9621">Liang Lang</author>
+<author pid="204/0396">Lulu Wu</author>
+<author pid="40/1068">Lin Xu</author>
+<author orcid="0000-0001-6764-1679" pid="09/10345">Songhua Yan</author>
+<author pid="206/5794">Qingbiao Fan</author>
+<author orcid="0000-0003-3665-3364" pid="177/9356-1">Wenchao Zheng 0001</author>
+<author orcid="0000-0001-7817-2812" pid="308/8430-2">Rong Jin 0002</author>
+<author pid="142/6581">Rongchuan Lv</author>
+<author pid="17/5705-49">Hao Li 0049</author>
+<title>An Improved Ship Detection Algorithm for an Airborne Passive Interferometric Microwave Sensor (PIMS) Based on Ship Wakes.</title>
+<pages>1-12</pages>
+<year>2023</year>
+<volume>61</volume>
+<journal>IEEE Trans. Geosci. Remote. Sens.</journal>
+<ee>https://doi.org/10.1109/TGRS.2023.3302029</ee>
+<url>db/journals/tgrs/tgrs61.html#LuLLWXYFZJLL23</url>
+</article>
+</r>
+<r><article key="journals/tgrs/LuLXLFLCLLL23" mdate="2023-07-07">
+<author orcid="0000-0001-8573-3489" pid="152/6257">Hailiang Lu</author>
+<author pid="49/612">Yinan Li</author>
+<author orcid="0000-0002-8483-7515" pid="95/7632-2">Xu Xie 0002</author>
+<author orcid="0009-0006-1461-2907" pid="59/871">Yi Li</author>
+<author pid="206/5794">Qingbiao Fan</author>
+<author orcid="0000-0002-2723-4515" pid="98/9621">Liang Lang</author>
+<author pid="67/6383">Gang Chen</author>
+<author pid="142/6581">Rongchuan Lv</author>
+<author pid="17/5705">Hao Li</author>
+<author pid="91/5508">Qingxia Li</author>
+<title>Aircraft Detection by a Ground-Based Passive Interferometric Microwave Sensor (PIMS).</title>
+<pages>1-13</pages>
+<year>2023</year>
+<volume>61</volume>
+<journal>IEEE Trans. Geosci. Remote. Sens.</journal>
+<ee>https://doi.org/10.1109/TGRS.2023.3281827</ee>
+<url>db/journals/tgrs/tgrs61.html#LuLXLFLCLLL23</url>
+</article>
+</r>
+<r><article key="journals/tgrs/TangZHCDLZGZS23" mdate="2023-04-16">
+<author orcid="0000-0002-9213-0085" pid="144/0341">Shiyang Tang</author>
+<author pid="343/4345">Xintian Zhang</author>
+<author pid="271/5232">Zixuan He</author>
+<author orcid="0000-0002-2590-7704" pid="233/6172">Zhanye Chen</author>
+<author pid="343/4414">Wangwang Du</author>
+<author pid="49/612">Yinan Li</author>
+<author orcid="0000-0003-1287-5659" pid="14/2573">Juan Zhang</author>
+<author orcid="0000-0002-6355-5666" pid="33/5440">Ping Guo</author>
+<author pid="06/6908">Linrang Zhang</author>
+<author orcid="0000-0001-8396-7898" pid="09/461">Hing Cheung So</author>
+<title>Practical Issue Analyses and Imaging Approach for Hypersonic Vehicle-Borne SAR With Near-Vertical Diving Trajectory.</title>
+<pages>1-16</pages>
+<year>2023</year>
+<volume>61</volume>
+<journal>IEEE Trans. Geosci. Remote. Sens.</journal>
+<ee>https://doi.org/10.1109/TGRS.2023.3254164</ee>
+<url>db/journals/tgrs/tgrs61.html#TangZHCDLZGZS23</url>
+</article>
+</r>
+<r><article key="journals/tgrs/XiaoDLJZWLL23" mdate="2023-03-28">
+<author orcid="0000-0001-6229-2852" pid="309/8946">Chengwang Xiao</author>
+<author orcid="0000-0002-3042-6657" pid="170/9765">Haofeng Dou</author>
+<author pid="17/5705-49">Hao Li 0049</author>
+<author orcid="0000-0001-7817-2812" pid="308/8430-2">Rong Jin 0002</author>
+<author pid="323/0604">Ren Zhai</author>
+<author pid="42/1822">Wenjing Wang</author>
+<author pid="142/6581">Rongchuan Lv</author>
+<author pid="49/612">Yinan Li</author>
+<title>Image Reconstruction of Synthetic Aperture Radiometer by Transformer.</title>
+<pages>1-15</pages>
+<year>2023</year>
+<volume>61</volume>
+<journal>IEEE Trans. Geosci. Remote. Sens.</journal>
+<ee>https://doi.org/10.1109/TGRS.2023.3249899</ee>
+<url>db/journals/tgrs/tgrs61.html#XiaoDLJZWLL23</url>
+</article>
+</r>
+<r><article key="journals/tgrs/ZhouLLYLLLWY23" mdate="2023-10-27">
+<author orcid="0000-0002-1034-3176" pid="14/7096">Wu Zhou</author>
+<author orcid="0000-0001-5468-1591" pid="53/9003">Mingsen Lin</author>
+<author orcid="0000-0001-6116-7718" pid="64/6025-203">Wei Li 0203</author>
+<author orcid="0000-0003-3422-8129" pid="55/8988">Xiaobin Yin</author>
+<author pid="49/612">Yinan Li</author>
+<author orcid="0000-0002-4734-7357" pid="46/2311-8">Xi Li 0008</author>
+<author pid="91/5508">Qingxia Li</author>
+<author orcid="0000-0002-0539-2213" pid="253/4411">Shishuai Wang</author>
+<author pid="43/4940">Rui Yu</author>
+<title>HY-2B SMR's Sea Surface Temperature Retrieval Considering Parameter Crosstalk.</title>
+<pages>1-12</pages>
+<year>2023</year>
+<volume>61</volume>
+<journal>IEEE Trans. Geosci. Remote. Sens.</journal>
+<ee>https://doi.org/10.1109/TGRS.2023.3319665</ee>
+<url>db/journals/tgrs/tgrs61.html#ZhouLLYLLLWY23</url>
+</article>
+</r>
+<r><inproceedings key="conf/cvpr/HuangLFWSJ23" mdate="2023-08-29">
+<author pid="202/1720">Jingjia Huang</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="56/8278">Jiashi Feng</author>
+<author pid="269/4913">Xinglong Wu</author>
+<author pid="26/5787">Xiaoshuai Sun</author>
+<author pid="86/5681">Rongrong Ji</author>
+<title>Clover: Towards A Unified Video-Language Alignment and Fusion Model.</title>
+<pages>14856-14866</pages>
+<year>2023</year>
+<booktitle>CVPR</booktitle>
+<ee>https://doi.org/10.1109/CVPR52729.2023.01427</ee>
+<crossref>conf/cvpr/2023</crossref>
+<url>db/conf/cvpr/cvpr2023.html#HuangLFWSJ23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/CuiZBCHLR0SI23" mdate="2023-07-07">
+<author orcid="0009-0005-9362-3585" pid="42/3805">Wei Cui</author>
+<author orcid="0000-0002-0646-5365" pid="291/4798">Qianxi Zhang</author>
+<author orcid="0009-0004-2703-7177" pid="65/5338">Spyros Blanas</author>
+<author orcid="0009-0008-9151-6024" pid="26/8398">Jes&#250;s Camacho-Rodr&#237;guez</author>
+<author orcid="0000-0002-1501-9586" pid="180/5761">Brandon Haynes</author>
+<author orcid="0009-0004-5483-2862" pid="49/612">Yinan Li</author>
+<author orcid="0000-0002-3484-0038" pid="02/4973">Ravi Ramamurthy</author>
+<author orcid="0000-0003-4014-4757" pid="76/185-5">Peng Cheng 0005</author>
+<author orcid="0000-0003-4736-2837" pid="08/2832">Rathijit Sen</author>
+<author orcid="0000-0002-5756-8321" pid="49/10034">Matteo Interlandi</author>
+<title>Query Processing on Gaming Consoles.</title>
+<pages>86-88</pages>
+<year>2023</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/3592980.3595313</ee>
+<crossref>conf/damon/2023</crossref>
+<url>db/conf/damon/damon2023.html#CuiZBCHLR0SI23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iconip/YangZLCLY23" mdate="2023-12-12">
+<author pid="27/3367">Liu Yang</author>
+<author pid="361/4665">Kaiting Zhang</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="361/3855">Yunfei Chen 0015</author>
+<author pid="40/5250">Jun Long</author>
+<author pid="51/11433">Zhan Yang</author>
+<title>S3ACH: Semi-Supervised Semantic Adaptive Cross-Modal Hashing.</title>
+<pages>252-269</pages>
+<year>2023</year>
+<booktitle>ICONIP (4)</booktitle>
+<ee>https://doi.org/10.1007/978-981-99-8070-3_20</ee>
+<crossref>conf/iconip/2023-4</crossref>
+<url>db/conf/iconip/iconip2023-4.html#YangZLCLY23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iconip/ChenLLWY23" mdate="2023-12-12">
+<author pid="361/3855">Yunfei Chen 0015</author>
+<author pid="40/5250">Jun Long</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="234/1163">Yanrui Wu</author>
+<author pid="51/11433">Zhan Yang</author>
+<title>Unsupervised Joint-Semantics Autoencoder Hashing for Multimedia Retrieval.</title>
+<pages>318-330</pages>
+<year>2023</year>
+<booktitle>ICONIP (5)</booktitle>
+<ee>https://doi.org/10.1007/978-981-99-8073-4_25</ee>
+<crossref>conf/iconip/2023-5</crossref>
+<url>db/conf/iconip/iconip2023-5.html#ChenLLWY23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mm/YangJSWLMJ23" mdate="2024-02-21">
+<author orcid="0009-0009-9259-6967" pid="324/3772">Danni Yang</author>
+<author orcid="0000-0002-9956-6308" pid="250/9459">Jiayi Ji</author>
+<author orcid="0000-0003-3912-9306" pid="26/5787">Xiaoshuai Sun</author>
+<author orcid="0009-0006-0289-9672" pid="94/10479-1">Haowei Wang 0001</author>
+<author orcid="0000-0001-9620-8241" pid="49/612">Yinan Li</author>
+<author orcid="0000-0002-8744-3423" pid="184/9558">Yiwei Ma</author>
+<author orcid="0000-0001-9163-2932" pid="86/5681">Rongrong Ji</author>
+<title>Semi-Supervised Panoptic Narrative Grounding.</title>
+<pages>7164-7174</pages>
+<year>2023</year>
+<booktitle>ACM Multimedia</booktitle>
+<ee>https://doi.org/10.1145/3581783.3612259</ee>
+<crossref>conf/mm/2023</crossref>
+<url>db/conf/mm/mm2023.html#YangJSWLMJ23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-07528" mdate="2023-10-26">
+<author pid="33/382">Zhan Yu</author>
+<author pid="318/3464">Qiuhao Chen</author>
+<author pid="136/7658">Yuling Jiao</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="70/7812">Xiliang Lu</author>
+<author pid="10/5630">Xin Wang</author>
+<author pid="11/9336">Jerry Zhijian Yang</author>
+<title>Provable Advantage of Parameterized Quantum Circuit in Function Approximation.</title>
+<year>2023</year>
+<volume>abs/2310.07528</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.07528</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-07528</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-11021" mdate="2023-10-26">
+<author pid="51/5923">Kun Fang</author>
+<author pid="359/1904">Munan Zhang</author>
+<author pid="359/1293">Ruqi Shi</author>
+<author pid="49/612">Yinan Li</author>
+<title>Dynamic quantum circuit compilation.</title>
+<year>2023</year>
+<volume>abs/2310.11021</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.11021</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-11021</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-15411" mdate="2023-10-31">
+<author pid="49/612">Yinan Li</author>
+<author pid="149/2402">Chicheng Zhang</author>
+<title>Efficient Active Learning Halfspaces with Tsybakov Noise: A Non-convex Optimization Approach.</title>
+<year>2023</year>
+<volume>abs/2310.15411</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.15411</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-15411</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-18142" mdate="2024-02-21">
+<author pid="324/3772">Danni Yang</author>
+<author pid="250/9459">Jiayi Ji</author>
+<author pid="26/5787">Xiaoshuai Sun</author>
+<author pid="94/10479-1">Haowei Wang 0001</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="184/9558">Yiwei Ma</author>
+<author pid="86/5681">Rongrong Ji</author>
+<title>Semi-Supervised Panoptic Narrative Grounding.</title>
+<year>2023</year>
+<volume>abs/2310.18142</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.18142</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-18142</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2312-13680" mdate="2024-02-05">
+<author pid="02/8828">Jiaxin Pan</author>
+<author pid="203/6666">Mojtaba Nayyeri</author>
+<author pid="49/612">Yinan Li</author>
+<author orcid="0000-0002-0780-4154" pid="s/SteffenStaab">Steffen Staab</author>
+<title>HGE: Embedding Temporal Knowledge Graphs in a Product Space of Heterogeneous Geometric Subspaces.</title>
+<year>2023</year>
+<volume>abs/2312.13680</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2312.13680</ee>
+<url>db/journals/corr/corr2312.html#abs-2312-13680</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/eccc/LiQWWZ23" mdate="2023-03-06">
+<author pid="49/612">Yinan Li</author>
+<author pid="91/312">Youming Qiao</author>
+<author pid="w/AviWigderson">Avi Wigderson</author>
+<author pid="157/8452">Yuval Wigderson</author>
+<author pid="265/8205">Chuanqi Zhang</author>
+<title>On linear-algebraic notions of expansion.</title>
+<publnr>TR23-004</publnr>
+<year>2023</year>
+<volume>TR23</volume>
+<journal>Electron. Colloquium Comput. Complex.</journal>
+<ee type="oa">https://eccc.weizmann.ac.il/report/2023/004</ee>
+<url>db/journals/eccc/eccc2023.html#LiQWWZ23</url>
+</article>
+</r>
+<r><article key="journals/digearth/WangZYLC22" mdate="2023-05-17">
+<author orcid="0000-0003-4424-1589" pid="132/0459">Decheng Wang</author>
+<author pid="181/2734">Feng Zhao</author>
+<author pid="71/10593">Hui Yi</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="56/7393">Xiangning Chen</author>
+<title>An unsupervised heterogeneous change detection method based on image translation network and post-processing algorithm.</title>
+<pages>1056-1080</pages>
+<year>2022</year>
+<month>December</month>
+<volume>15</volume>
+<journal>Int. J. Digit. Earth</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1080/17538947.2022.2092658</ee>
+<url>db/journals/digearth/digearth15.html#WangZYLC22</url>
+</article>
+</r>
+<r><article key="journals/lgrs/DouLHWLLSLCGL22" mdate="2023-08-30">
+<author orcid="0000-0002-3042-6657" pid="170/9765">Haofeng Dou</author>
+<author pid="17/5705-49">Hao Li 0049</author>
+<author pid="61/678">Zheng He</author>
+<author pid="229/5056">Yuanchao Wu</author>
+<author pid="142/6581">Rongchuan Lv</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="153/8597">Guangnan Song</author>
+<author pid="91/5508">Qingxia Li</author>
+<author orcid="0000-0002-3358-3885" pid="47/6529-14">Ke Chen 0014</author>
+<author orcid="0000-0003-3649-5597" pid="143/9997">Liangqi Gui</author>
+<author orcid="0000-0002-5980-9141" pid="229/5143-1">Zhenyu Lei 0001</author>
+<title>Analysis and Correction of the Phase and Amplitude Errors for Mirrored Aperture Synthesis.</title>
+<pages>1-5</pages>
+<year>2022</year>
+<volume>19</volume>
+<journal>IEEE Geosci. Remote. Sens. Lett.</journal>
+<ee>https://doi.org/10.1109/LGRS.2021.3084698</ee>
+<url>db/journals/lgrs/lgrs19.html#DouLHWLLSLCGL22</url>
+</article>
+</r>
+<r><article key="journals/lgrs/DouLWSLLWLCGL22" mdate="2023-08-30">
+<author orcid="0000-0002-3042-6657" pid="170/9765">Haofeng Dou</author>
+<author pid="17/5705-49">Hao Li 0049</author>
+<author pid="229/5056">Yuanchao Wu</author>
+<author pid="153/8597">Guangnan Song</author>
+<author pid="142/6581">Rongchuan Lv</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="309/8359">Zhongkai Wen</author>
+<author pid="91/5508">Qingxia Li</author>
+<author orcid="0000-0002-3358-3885" pid="47/6529-14">Ke Chen 0014</author>
+<author orcid="0000-0003-3649-5597" pid="143/9997">Liangqi Gui</author>
+<author orcid="0000-0002-5980-9141" pid="229/5143-1">Zhenyu Lei 0001</author>
+<title>One-Dimensional Mirrored Aperture Synthesis With Two Tilted Reflectors.</title>
+<pages>1-5</pages>
+<year>2022</year>
+<volume>19</volume>
+<journal>IEEE Geosci. Remote. Sens. Lett.</journal>
+<ee>https://doi.org/10.1109/LGRS.2021.3098617</ee>
+<url>db/journals/lgrs/lgrs19.html#DouLWSLLWLCGL22</url>
+</article>
+</r>
+<r><article key="journals/lgrs/LiZZZ22" mdate="2022-01-03">
+<author pid="49/612">Yinan Li</author>
+<author pid="85/1177">Wenxuan Zhang</author>
+<author pid="14/2573">Juan Zhang</author>
+<author pid="06/6908">Linrang Zhang</author>
+<title>Improved CLEAN Algorithm for RFI Mitigation of Aperture Synthesis Radiometer Images.</title>
+<pages>1-5</pages>
+<year>2022</year>
+<volume>19</volume>
+<journal>IEEE Geosci. Remote. Sens. Lett.</journal>
+<ee>https://doi.org/10.1109/LGRS.2021.3107863</ee>
+<url>db/journals/lgrs/lgrs19.html#LiZZZ22</url>
+</article>
+</r>
+<r><article key="journals/lgrs/WangLLJYLLZ22" mdate="2022-04-01">
+<author orcid="0000-0002-1212-2502" pid="120/5872">Congcong Wang</author>
+<author pid="49/612">Yinan Li</author>
+<author orcid="0000-0001-8573-3489" pid="152/6257">Hailiang Lu</author>
+<author pid="70/2014">Xu Jin</author>
+<author pid="43/4940">Rui Yu</author>
+<author pid="142/6581">Rongchuan Lv</author>
+<author pid="17/5705-49">Hao Li 0049</author>
+<author orcid="0000-0002-1034-3176" pid="14/7096">Wu Zhou</author>
+<title>Estimation of HY-2B Main Reflector Emissivity From Cold Space Observations.</title>
+<pages>1-5</pages>
+<year>2022</year>
+<volume>19</volume>
+<journal>IEEE Geosci. Remote. Sens. Lett.</journal>
+<ee>https://doi.org/10.1109/LGRS.2022.3152509</ee>
+<url>db/journals/lgrs/lgrs19.html#WangLLJYLLZ22</url>
+</article>
+</r>
+<r><article key="journals/remotesensing/LiuLYZLJD22" mdate="2022-07-27">
+<author pid="90/4308">Shubo Liu</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="211/2030">Xiaojiao Yang</author>
+<author pid="14/7096">Wu Zhou</author>
+<author pid="121/6360">Ailing Lv</author>
+<author pid="70/2014">Xu Jin</author>
+<author pid="186/8706">Hongxing Dang</author>
+<title>Sea Surface Wind Retrieval under Rainy Conditions from Active and Passive Microwave Measurements.</title>
+<pages>3016</pages>
+<year>2022</year>
+<volume>14</volume>
+<journal>Remote. Sens.</journal>
+<number>13</number>
+<ee type="oa">https://doi.org/10.3390/rs14133016</ee>
+<url>db/journals/remotesensing/remotesensing14.html#LiuLYZLJD22</url>
+</article>
+</r>
+<r><article key="journals/remotesensing/JiangTRLZLZ22" mdate="2022-10-02">
+<author pid="131/5567">Chenghao Jiang</author>
+<author orcid="0000-0002-9213-0085" pid="144/0341">Shiyang Tang</author>
+<author pid="75/6568">Yi Ren</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="14/2573">Juan Zhang</author>
+<author pid="23/3761">Geng Li</author>
+<author pid="06/6908">Linrang Zhang</author>
+<title>Three-Dimensional Coordinate Extraction Based on Radargrammetry for Single-Channel Curvilinear SAR System.</title>
+<pages>4091</pages>
+<year>2022</year>
+<volume>14</volume>
+<journal>Remote. Sens.</journal>
+<number>16</number>
+<ee type="oa">https://doi.org/10.3390/rs14164091</ee>
+<url>db/journals/remotesensing/remotesensing14.html#JiangTRLZLZ22</url>
+</article>
+</r>
+<r><article key="journals/tfs/ZhiLL22" mdate="2022-12-25">
+<author orcid="0000-0002-3598-9053" pid="73/11533">Huilai Zhi</author>
+<author orcid="0000-0002-5206-9304" pid="69/9201">Jinhai Li</author>
+<author orcid="0000-0002-3300-8098" pid="49/612">Yinan Li</author>
+<title>Multilevel Conflict Analysis Based on Fuzzy Formal Contexts.</title>
+<pages>5128-5142</pages>
+<year>2022</year>
+<volume>30</volume>
+<journal>IEEE Trans. Fuzzy Syst.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TFUZZ.2022.3167789</ee>
+<url>db/journals/tfs/tfs30.html#ZhiLL22</url>
+</article>
+</r>
+<r><article key="journals/tgrs/LiLYDWLSLLLTZS22" mdate="2022-12-29">
+<author pid="49/612">Yinan Li</author>
+<author orcid="0000-0002-9116-1437" pid="90/4308">Shubo Liu</author>
+<author pid="211/2030">Xiaojiao Yang</author>
+<author pid="211/1850">Pengju Dang</author>
+<author pid="229/5056">Yuanchao Wu</author>
+<author pid="10/1749">Pengfei Li</author>
+<author pid="153/8597">Guangnan Song</author>
+<author orcid="0000-0002-4734-7357" pid="46/2311-8">Xi Li 0008</author>
+<author pid="17/5705">Hao Li</author>
+<author pid="142/6581">Rongchuan Lv</author>
+<author orcid="0000-0002-9213-0085" pid="144/0341">Shiyang Tang</author>
+<author pid="06/6908">Linrang Zhang</author>
+<author orcid="0000-0001-8396-7898" pid="09/461">Hing Cheung So</author>
+<title>An Airborne C-Band One-Dimensional Microwave Interferometric Radiometer With Ocean Aviation Experimental Results.</title>
+<pages>1-16</pages>
+<year>2022</year>
+<volume>60</volume>
+<journal>IEEE Trans. Geosci. Remote. Sens.</journal>
+<ee>https://doi.org/10.1109/TGRS.2022.3226222</ee>
+<url>db/journals/tgrs/tgrs60.html#LiLYDWLSLLLTZS22</url>
+</article>
+</r>
+<r><article key="journals/tgrs/LiYZLLL22" mdate="2022-08-20">
+<author orcid="0000-0003-3237-4835" pid="87/660-88">Yan Li 0088</author>
+<author orcid="0000-0003-3422-8129" pid="55/8988">Xiaobin Yin</author>
+<author orcid="0000-0002-1034-3176" pid="14/7096">Wu Zhou</author>
+<author orcid="0000-0001-5468-1591" pid="53/9003">Mingsen Lin</author>
+<author orcid="0000-0002-0392-0844" pid="09/3214-1">Hao Liu 0001</author>
+<author pid="49/612">Yinan Li</author>
+<title>Performance Simulation of the Payload IMR and MICAP Onboard the Chinese Ocean Salinity Satellite.</title>
+<pages>1-16</pages>
+<year>2022</year>
+<volume>60</volume>
+<journal>IEEE Trans. Geosci. Remote. Sens.</journal>
+<ee>https://doi.org/10.1109/TGRS.2021.3111026</ee>
+<url>db/journals/tgrs/tgrs60.html#LiYZLLL22</url>
+</article>
+</r>
+<r><article key="journals/tit/GaoGL22" mdate="2023-08-28">
+<author orcid="0000-0002-9220-0119" pid="18/4703">Li Gao</author>
+<author pid="200/8633">Sander Gribling</author>
+<author orcid="0000-0002-5456-1319" pid="49/612">Yinan Li</author>
+<title>On a Tracial Version of Haemers Bound.</title>
+<pages>6585-6604</pages>
+<year>2022</year>
+<volume>68</volume>
+<journal>IEEE Trans. Inf. Theory</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TIT.2022.3176935</ee>
+<ee>https://www.wikidata.org/entity/Q114084294</ee>
+<url>db/journals/tit/tit68.html#GaoGL22</url>
+</article>
+</r>
+<r><inproceedings key="conf/compsac/LiL22" mdate="2023-11-17">
+<author pid="49/612">Yinan Li</author>
+<author orcid="0000-0003-3028-5927" pid="67/5807-6">Fang Liu 0006</author>
+<title>Adaptive Noisy Data Augmentation for Regularized Estimation and Inference of Generalized Linear Models.</title>
+<pages>311-320</pages>
+<year>2022</year>
+<booktitle>COMPSAC</booktitle>
+<ee>https://doi.org/10.1109/COMPSAC54236.2022.00051</ee>
+<crossref>conf/compsac/2022</crossref>
+<url>db/conf/compsac/compsac2022.html#LiL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icip/Li0FYMY22" mdate="2023-03-21">
+<author pid="49/612">Yinan Li</author>
+<author pid="20/612-1">Weiming Zhang 0001</author>
+<author pid="209/7867">Han Fang</author>
+<author pid="13/1520">Xi Yang</author>
+<author orcid="0000-0002-8153-341X" pid="240/2623">Zehua Ma</author>
+<author pid="96/5144">Nenghai Yu</author>
+<title>Font Watermarking Network for Text Images.</title>
+<pages>486-490</pages>
+<year>2022</year>
+<booktitle>ICIP</booktitle>
+<ee>https://doi.org/10.1109/ICIP46576.2022.9897724</ee>
+<crossref>conf/icip/2022</crossref>
+<url>db/conf/icip/icip2022.html#Li0FYMY22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icpr/LiLH22" mdate="2022-12-01">
+<author pid="49/612">Yinan Li</author>
+<author pid="60/7089">Ronghua Luo</author>
+<author pid="334/6459">Zhenming Huang</author>
+<title>Class Incremental Learning based on Local Structure Constraints in Feature Space.</title>
+<pages>2056-2062</pages>
+<year>2022</year>
+<booktitle>ICPR</booktitle>
+<ee>https://doi.org/10.1109/ICPR56361.2022.9956413</ee>
+<crossref>conf/icpr/2022</crossref>
+<url>db/conf/icpr/icpr2022.html#LiLH22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/WangL0GL22" mdate="2022-10-04">
+<author pid="120/5872">Congcong Wang</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="17/5705-49">Hao Li 0049</author>
+<author pid="92/2355">Wenyu Gao</author>
+<author pid="142/6581">Rongchuan Lv</author>
+<title>Radio-Frequency Interference (RFI) in HY-2B.</title>
+<pages>5270-5273</pages>
+<year>2022</year>
+<booktitle>IGARSS</booktitle>
+<ee>https://doi.org/10.1109/IGARSS46834.2022.9883481</ee>
+<crossref>conf/igarss/2022</crossref>
+<url>db/conf/igarss/igarss2022.html#WangL0GL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/LiDLWLLSLX22" mdate="2023-08-30">
+<author pid="17/5705-49">Hao Li 0049</author>
+<author pid="170/9765">Haofeng Dou</author>
+<author pid="229/5143-1">Zhenyu Lei 0001</author>
+<author pid="229/5056">Yuanchao Wu</author>
+<author pid="142/6581">Rongchuan Lv</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="153/8597">Guangnan Song</author>
+<author pid="91/5508">Qingxia Li</author>
+<author pid="309/8946">Chengwang Xiao</author>
+<title>Mirrored Aperture Synthesis with Tilting Reflectors.</title>
+<pages>7329-7332</pages>
+<year>2022</year>
+<booktitle>IGARSS</booktitle>
+<ee>https://doi.org/10.1109/IGARSS46834.2022.9884719</ee>
+<crossref>conf/igarss/2022</crossref>
+<url>db/conf/igarss/igarss2022.html#LiDLWLLSLX22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/WangLGLL22" mdate="2022-10-04">
+<author pid="120/5872">Congcong Wang</author>
+<author pid="17/5705">Hao Li</author>
+<author pid="92/2355">Wenyu Gao</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="142/6581">Rongchuan Lv</author>
+<title>Ground-Based Multi-Frequency Radiometer Measurements: The HY-2B Offshore Platform Experiment.</title>
+<pages>7383-7386</pages>
+<year>2022</year>
+<booktitle>IGARSS</booktitle>
+<ee>https://doi.org/10.1109/IGARSS46834.2022.9884429</ee>
+<crossref>conf/igarss/2022</crossref>
+<url>db/conf/igarss/igarss2022.html#WangLGLL22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sai/LiL22" mdate="2023-11-17">
+<author pid="49/612">Yinan Li</author>
+<author orcid="0000-0003-3028-5927" pid="67/5807-6">Fang Liu 0006</author>
+<title>Noise-Augmented Privacy-Preserving Empirical Risk Minimization with Dual-Purpose Regularizer and Privacy Budget Retrieval and Recycling.</title>
+<pages>660-681</pages>
+<year>2022</year>
+<booktitle>SAI (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-10467-1_40</ee>
+<crossref>conf/sai/2022-3</crossref>
+<url>db/conf/sai/sai2022-3.html#LiL22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2204-08574" mdate="2022-04-25">
+<author pid="49/612">Yinan Li</author>
+<author pid="67/5807">Fang Liu</author>
+<title>Adaptive Noisy Data Augmentation for Regularized Estimation and Inference in Generalized Linear Models.</title>
+<year>2022</year>
+<volume>abs/2204.08574</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2204.08574</ee>
+<url>db/journals/corr/corr2204.html#abs-2204-08574</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-04815" mdate="2022-06-20">
+<author pid="49/612">Yinan Li</author>
+<author pid="91/312">Youming Qiao</author>
+<author pid="w/AviWigderson">Avi Wigderson</author>
+<author pid="157/8452">Yuval Wigderson</author>
+<author pid="265/8205">Chuanqi Zhang</author>
+<title>Connections between graphs and matrix spaces.</title>
+<year>2022</year>
+<volume>abs/2206.04815</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.04815</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-04815</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-07885" mdate="2022-07-19">
+<author pid="202/1720">Jingjia Huang</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="56/8278">Jiashi Feng</author>
+<author pid="26/5787">Xiaoshuai Sun</author>
+<author pid="86/5681">Rongrong Ji</author>
+<title>Clover: Towards A Unified Video-Language Alignment and Fusion Model.</title>
+<year>2022</year>
+<volume>abs/2207.07885</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.07885</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-07885</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2212-13154" mdate="2023-01-02">
+<author pid="49/612">Yinan Li</author>
+<author pid="91/312">Youming Qiao</author>
+<author pid="w/AviWigderson">Avi Wigderson</author>
+<author pid="157/8452">Yuval Wigderson</author>
+<author pid="265/8205">Chuanqi Zhang</author>
+<title>On linear-algebraic notions of expansion.</title>
+<year>2022</year>
+<volume>abs/2212.13154</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2212.13154</ee>
+<url>db/journals/corr/corr2212.html#abs-2212-13154</url>
+</article>
+</r>
+<r><article key="journals/pvldb/DurnerCL21" mdate="2022-04-21">
+<author pid="241/5228">Dominik Durner</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="49/612">Yinan Li</author>
+<title>Crystal: A Unified Cache Storage System for Analytical Databases.</title>
+<pages>2432-2444</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol14/p2432-durner.pdf</ee>
+<ee>https://doi.org/10.14778/3476249.3476292</ee>
+<url>db/journals/pvldb/pvldb14.html#DurnerCL21</url>
+</article>
+</r>
+<r><article key="journals/staeors/LuLCZLDLYF21" mdate="2022-01-11">
+<author orcid="0000-0001-8573-3489" pid="152/6257">Hailiang Lu</author>
+<author pid="17/5705-49">Hao Li 0049</author>
+<author orcid="0000-0002-5319-5791" pid="170/9550">Yayun Cheng</author>
+<author orcid="0000-0001-6423-5050" pid="57/5560">Dong Zhu</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="211/1850">Pengju Dang</author>
+<author pid="142/6581">Rongchuan Lv</author>
+<author pid="43/4940">Rui Yu</author>
+<author pid="283/4189">Yongjie Fu</author>
+<title>An L-Band Phased Array Radiometer for Sea Surface Salinity in Coastal Zones.</title>
+<pages>1520-1531</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.</journal>
+<ee type="oa">https://doi.org/10.1109/JSTARS.2020.3045813</ee>
+<url>db/journals/staeors/staeors14.html#LuLCZLDLYF21</url>
+</article>
+</r>
+<r><article key="journals/staeors/LuLCCZLLCSLLZ21" mdate="2023-05-01">
+<author orcid="0000-0001-8573-3489" pid="152/6257">Hailiang Lu</author>
+<author pid="17/5705-49">Hao Li 0049</author>
+<author orcid="0000-0003-3182-5315" pid="129/9233">Liangbing Chen</author>
+<author orcid="0000-0002-5319-5791" pid="170/9550">Yayun Cheng</author>
+<author orcid="0000-0001-6423-5050" pid="57/5560">Dong Zhu</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="142/6581">Rongchuan Lv</author>
+<author pid="67/6383">Gang Chen</author>
+<author orcid="0000-0002-7928-344X" pid="30/6911">Xiang Su</author>
+<author pid="98/9621">Liang Lang</author>
+<author pid="91/5508">Qingxia Li</author>
+<author pid="166/3018">Yingying Zhao</author>
+<title>A Ship Detection and Tracking Algorithm for an Airborne Passive Interferometric Microwave Sensor (PIMS).</title>
+<pages>3519-3532</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.</journal>
+<ee type="oa">https://doi.org/10.1109/JSTARS.2021.3066514</ee>
+<url>db/journals/staeors/staeors14.html#LuLCCZLLCSLLZ21</url>
+</article>
+</r>
+<r><article key="journals/staeors/WangLCJLYSLLL21" mdate="2022-01-11">
+<author orcid="0000-0003-3362-7654" pid="171/0110">Jiakun Wang</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="82/8228">Wenxin Chen</author>
+<author pid="210/9966">Pengju Jin</author>
+<author orcid="0000-0001-8573-3489" pid="152/6257">Hailiang Lu</author>
+<author pid="211/2030">Xiaojiao Yang</author>
+<author pid="153/8597">Guangnan Song</author>
+<author pid="10/1749">Pengfei Li</author>
+<author pid="17/5705-49">Hao Li 0049</author>
+<author pid="142/6581">Rongchuan Lv</author>
+<title>In-Orbit External Calibration Method for Synthetic Aperture Radiometer.</title>
+<pages>3763-3773</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.</journal>
+<ee type="oa">https://doi.org/10.1109/JSTARS.2021.3066488</ee>
+<url>db/journals/staeors/staeors14.html#WangLCJLYSLLL21</url>
+</article>
+</r>
+<r><article key="journals/staeors/LiWLSYLLLC21" mdate="2022-05-16">
+<author pid="49/612">Yinan Li</author>
+<author orcid="0000-0002-1212-2502" pid="120/5872">Congcong Wang</author>
+<author orcid="0000-0001-8573-3489" pid="152/6257">Hailiang Lu</author>
+<author pid="153/8597">Guangnan Song</author>
+<author pid="211/2030">Xiaojiao Yang</author>
+<author pid="10/1749">Pengfei Li</author>
+<author pid="142/6581">Rongchuan Lv</author>
+<author pid="17/5705-49">Hao Li 0049</author>
+<author pid="82/8228">Wenxin Chen</author>
+<title>Spaceborne High Precision Sea Surface Salinity Remote Sensing by Interferometric Radiometry.</title>
+<pages>9383-9395</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>IEEE J. Sel. Top. Appl. Earth Obs. Remote. Sens.</journal>
+<ee type="oa">https://doi.org/10.1109/JSTARS.2021.3111782</ee>
+<url>db/journals/staeors/staeors14.html#LiWLSYLLLC21</url>
+</article>
+</r>
+<r><article key="journals/tit/LiZ21" mdate="2021-02-11">
+<author orcid="0000-0002-5456-1319" pid="49/612">Yinan Li</author>
+<author orcid="0000-0003-0651-6238" pid="162/0063">Jeroen Zuiddam</author>
+<title>Quantum Asymptotic Spectra of Graphs and Non-Commutative Graphs, and Quantum Shannon Capacities.</title>
+<pages>416-432</pages>
+<year>2021</year>
+<volume>67</volume>
+<journal>IEEE Trans. Inf. Theory</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TIT.2020.3032686</ee>
+<url>db/journals/tit/tit67.html#LiZ21</url>
+</article>
+</r>
+<r><inproceedings key="conf/colt/ZhangL21" mdate="2021-08-25">
+<author pid="149/2402">Chicheng Zhang</author>
+<author pid="49/612">Yinan Li</author>
+<title>Improved Algorithms for Efficient Active Learning Halfspaces with Massart and Tsybakov Noise.</title>
+<pages>4526-4527</pages>
+<year>2021</year>
+<booktitle>COLT</booktitle>
+<ee type="oa">http://proceedings.mlr.press/v134/zhang21a.html</ee>
+<crossref>conf/colt/2021</crossref>
+<url>db/conf/colt/colt2021.html#ZhangL21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dsaa/LiLL21" mdate="2023-11-17">
+<author pid="49/612">Yinan Li</author>
+<author orcid="0000-0003-3028-5927" pid="67/5807-6">Fang Liu 0006</author>
+<author pid="82/1364">Xiao Liu</author>
+<title>Adaptive Noisy Data Augmentation for Regularized Construction of Undirected Graphical Models.</title>
+<pages>1-10</pages>
+<year>2021</year>
+<booktitle>DSAA</booktitle>
+<ee>https://doi.org/10.1109/DSAA53316.2021.9564128</ee>
+<crossref>conf/dsaa/2021</crossref>
+<url>db/conf/dsaa/dsaa2021.html#LiLL21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icaiis/ChenZYJL21" mdate="2021-10-30">
+<author pid="87/3677">Hang Chen</author>
+<author pid="74/3823">Li Zhu</author>
+<author pid="61/5907">Haitao Yang</author>
+<author pid="295/3889">Mingyong Jiang</author>
+<author pid="49/612">Yinan Li</author>
+<title>Chaotic Encryption Method of Color Image Based on Improved Convolutional Neural Network.</title>
+<pages>335:1-335:7</pages>
+<year>2021</year>
+<booktitle>ICAIIS</booktitle>
+<ee>https://doi.org/10.1145/3469213.3471366</ee>
+<crossref>conf/icaiis/2021</crossref>
+<url>db/conf/icaiis/icaiis2021.html#ChenZYJL21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalp/ApeldoornGLNWW21" mdate="2023-02-17">
+<author pid="200/8513">Joran van Apeldoorn</author>
+<author pid="200/8633">Sander Gribling</author>
+<author pid="49/612">Yinan Li</author>
+<author orcid="0000-0003-3627-3636" pid="273/3929">Harold Nieuwboer</author>
+<author orcid="0000-0002-3073-1408" pid="66/2288-5">Michael Walter 0005</author>
+<author pid="w/RonalddeWolf">Ronald de Wolf</author>
+<title>Quantum Algorithms for Matrix Scaling and Matrix Balancing.</title>
+<pages>110:1-110:17</pages>
+<year>2021</year>
+<booktitle>ICALP</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ICALP.2021.110</ee>
+<crossref>conf/icalp/2021</crossref>
+<url>db/conf/icalp/icalp2021.html#ApeldoornGLNWW21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/FuTGGWGLZLZLW21" mdate="2023-11-02">
+<author pid="303/9898">Shijian Fu</author>
+<author pid="87/2412-1">Ling Tong 0001</author>
+<author pid="58/5901">Xun Gong</author>
+<author pid="176/6793">Xinyi Gao</author>
+<author pid="147/7771">Peicheng Wang</author>
+<author pid="93/2407">Bo Gao</author>
+<author pid="202/6966">Yukai Liu</author>
+<author pid="96/3115">Kun Zhang</author>
+<author pid="17/5705-49">Hao Li 0049</author>
+<author pid="304/0225">Weilai Zhou</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="171/0110">Jiakun Wang</author>
+<title>Design of Intermediate Frequency Module of Microwave Radiometer Based on Polyphase Filter Bank.</title>
+<pages>7984-7987</pages>
+<year>2021</year>
+<booktitle>IGARSS</booktitle>
+<ee>https://doi.org/10.1109/IGARSS47720.2021.9553949</ee>
+<crossref>conf/igarss/2021</crossref>
+<url>db/conf/igarss/igarss2021.html#FuTGGWGLZLZLW21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pkdd/LiL21" mdate="2021-09-20">
+<author pid="49/612">Yinan Li</author>
+<author orcid="0000-0003-3028-5927" pid="67/5807-6">Fang Liu 0006</author>
+<title>Continuous-Time Markov-Switching GARCH Process with Robust State Path Identification and Volatility Estimation.</title>
+<pages>370-387</pages>
+<year>2021</year>
+<booktitle>ECML/PKDD (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-86486-6_23</ee>
+<crossref>conf/pkdd/2021-1</crossref>
+<url>db/conf/pkdd/pkdd2021-1.html#LiL21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DingMCWLLKGK21" mdate="2022-09-15">
+<author pid="145/8597">Jialin Ding</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="09/404-1">Chi Wang 0001</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="22/1805">Ying Li</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>Instance-Optimized Data Layouts for Cloud Analytics Workloads.</title>
+<pages>418-431</pages>
+<year>2021</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3448016.3457270</ee>
+<crossref>conf/sigmod/2021</crossref>
+<url>db/conf/sigmod/sigmod2021.html#DingMCWLLKGK21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2102-05312" mdate="2021-02-18">
+<author pid="149/2402">Chicheng Zhang</author>
+<author pid="49/612">Yinan Li</author>
+<title>Improved Algorithms for Efficient Active Learning Halfspaces with Massart and Tsybakov noise.</title>
+<year>2021</year>
+<volume>abs/2102.05312</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.05312</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-05312</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2107-02567" mdate="2021-07-07">
+<author pid="18/4703">Li Gao</author>
+<author pid="200/8633">Sander Gribling</author>
+<author pid="49/612">Yinan Li</author>
+<title>On a tracial version of Haemers bound.</title>
+<year>2021</year>
+<volume>abs/2107.02567</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2107.02567</ee>
+<url>db/journals/corr/corr2107.html#abs-2107-02567</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2110-08676" mdate="2021-10-25">
+<author pid="49/612">Yinan Li</author>
+<author pid="67/5807">Fang Liu</author>
+<title>Noise-Augmented Privacy-Preserving Empirical Risk Minimization with Dual-purpose Regularizer and Privacy Budget Retrieval and Recycling.</title>
+<year>2021</year>
+<volume>abs/2110.08676</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2110.08676</ee>
+<url>db/journals/corr/corr2110.html#abs-2110-08676</url>
+</article>
+</r>
+<r><article key="journals/access/LiuWCWL20" mdate="2020-03-19">
+<author orcid="0000-0002-1845-5623" pid="34/7806">Tonglai Liu</author>
+<author pid="21/1136">Jigang Wu</author>
+<author pid="64/5725-6">Long Chen 0006</author>
+<author pid="18/9166">Yalan Wu</author>
+<author pid="49/612">Yinan Li</author>
+<title>Smart Contract-Based Long-Term Auction for Mobile Blockchain Computation Offloading.</title>
+<pages>36029-36042</pages>
+<year>2020</year>
+<volume>8</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2020.2974750</ee>
+<url>db/journals/access/access8.html#LiuWCWL20</url>
+</article>
+</r>
+<r><article key="journals/jsait/GriblingL20" mdate="2021-02-11">
+<author orcid="0000-0002-6817-2971" pid="200/8633">Sander Gribling</author>
+<author orcid="0000-0002-5456-1319" pid="49/612">Yinan Li</author>
+<title>The Haemers Bound of Noncommutative Graphs.</title>
+<pages>424-431</pages>
+<year>2020</year>
+<volume>1</volume>
+<journal>IEEE J. Sel. Areas Inf. Theory</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/jsait.2020.3012708</ee>
+<url>db/journals/jsait/jsait1.html#GriblingL20</url>
+</article>
+</r>
+<r><article key="journals/lgrs/LuLYJLLLZ20" mdate="2022-01-11">
+<author orcid="0000-0001-8573-3489" pid="152/6257">Hailiang Lu</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="43/4940">Rui Yu</author>
+<author pid="211/2789">Anzhong Jin</author>
+<author pid="142/6581">Rongchuan Lv</author>
+<author pid="17/5705-49">Hao Li 0049</author>
+<author pid="91/5508">Qingxia Li</author>
+<author orcid="0000-0001-6423-5050" pid="57/5560">Dong Zhu</author>
+<title>An RFI Detection and Mitigation Algorithm for an L-Band Phased Array Radiometer.</title>
+<pages>779-783</pages>
+<year>2020</year>
+<volume>17</volume>
+<journal>IEEE Geosci. Remote. Sens. Lett.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/LGRS.2019.2932606</ee>
+<url>db/journals/lgrs/lgrs17.html#LuLYJLLLZ20</url>
+</article>
+</r>
+<r><article key="journals/tgrs/LuLLLLLSLWXZ20" mdate="2022-01-11">
+<author orcid="0000-0001-8573-3489" pid="152/6257">Hailiang Lu</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="17/5705-49">Hao Li 0049</author>
+<author pid="142/6581">Rongchuan Lv</author>
+<author pid="98/9621">Liang Lang</author>
+<author pid="91/5508">Qingxia Li</author>
+<author pid="153/8597">Guangnan Song</author>
+<author pid="10/1749">Pengfei Li</author>
+<author pid="181/2613">Ke Wang</author>
+<author pid="52/6941">Liang Xue</author>
+<author orcid="0000-0001-6423-5050" pid="57/5560">Dong Zhu</author>
+<title>Ship Detection by an Airborne Passive Interferometric Microwave Sensor (PIMS).</title>
+<pages>2682-2694</pages>
+<year>2020</year>
+<volume>58</volume>
+<journal>IEEE Trans. Geosci. Remote. Sens.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TGRS.2019.2953355</ee>
+<url>db/journals/tgrs/tgrs58.html#LuLLLLLSLWXZ20</url>
+</article>
+</r>
+<r><inproceedings key="conf/eitce/RenCL20" mdate="2023-08-04">
+<author pid="40/713">He Ren</author>
+<author pid="82/8228">Wenxin Chen</author>
+<author pid="49/612">Yinan Li</author>
+<title>A Skewness-Based RFI Detecting Method in Synthetic Aperture Interferometric Radiometer Imaging.</title>
+<pages>449-453</pages>
+<year>2020</year>
+<booktitle>EITCE</booktitle>
+<ee>https://doi.org/10.1145/3443467.3444708</ee>
+<crossref>conf/eitce/2020</crossref>
+<url>db/conf/eitce/eitce2020.html#RenCL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esa/BrooksbankLQW20" mdate="2021-10-14">
+<author orcid="0000-0002-3985-2177" pid="45/4653">Peter A. Brooksbank</author>
+<author pid="49/612">Yinan Li</author>
+<author orcid="0000-0003-4334-1449" pid="91/312">Youming Qiao</author>
+<author orcid="0000-0002-5819-3197" pid="68/5859">James B. Wilson</author>
+<title>Improved Algorithms for Alternating Matrix Space Isometry: From Theory to Practice.</title>
+<pages>26:1-26:15</pages>
+<year>2020</year>
+<booktitle>ESA</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.ESA.2020.26</ee>
+<crossref>conf/esa/2020</crossref>
+<url>db/conf/esa/esa2020.html#BrooksbankLQW20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/LiYZLMJLL20" mdate="2022-08-20">
+<author pid="87/660-88">Yan Li 0088</author>
+<author pid="55/8988">Xiaobin Yin</author>
+<author pid="14/7096">Wu Zhou</author>
+<author pid="53/9003">Mingsen Lin</author>
+<author pid="211/2113">Chaofei Ma</author>
+<author pid="308/8430-2">Rong Jin 0002</author>
+<author pid="09/3214">Hao Liu</author>
+<author pid="49/612">Yinan Li</author>
+<title>Simulation Analysis of Payload IMR and MICAP Onboard Chinese Ocean Salinity Satellite.</title>
+<pages>5635-5638</pages>
+<year>2020</year>
+<booktitle>IGARSS</booktitle>
+<ee>https://doi.org/10.1109/IGARSS39084.2020.9324194</ee>
+<crossref>conf/igarss/2020</crossref>
+<url>db/conf/igarss/igarss2020.html#LiYZLMJLL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/GongTGWGLWLLLH20" mdate="2023-11-02">
+<author pid="58/5901">Xun Gong</author>
+<author pid="87/2412-1">Ling Tong 0001</author>
+<author pid="93/2407">Bo Gao</author>
+<author pid="147/7771">Peicheng Wang</author>
+<author pid="176/6793">Xinyi Gao</author>
+<author pid="202/6966">Yukai Liu</author>
+<author pid="171/0110">Jiakun Wang</author>
+<author pid="17/5705-49">Hao Li 0049</author>
+<author pid="142/6581">Rongchuan Lv</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="61/678">Zheng He</author>
+<title>Test and Analysis of a Hyperspectral Microwave Radiometer Intermediate Frequency Module.</title>
+<pages>6453-6456</pages>
+<year>2020</year>
+<booktitle>IGARSS</booktitle>
+<ee>https://doi.org/10.1109/IGARSS39084.2020.9323907</ee>
+<crossref>conf/igarss/2020</crossref>
+<url>db/conf/igarss/igarss2020.html#GongTGWGLWLLLH20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isnn/LiL20" mdate="2023-11-12">
+<author pid="49/612">Yinan Li</author>
+<author orcid="0000-0003-3028-5927" pid="67/5807-6">Fang Liu 0006</author>
+<title>Adaptive Gaussian Noise Injection Regularization for Neural Networks.</title>
+<pages>176-189</pages>
+<year>2020</year>
+<booktitle>ISNN</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-64221-1_16</ee>
+<crossref>conf/isnn/2020</crossref>
+<url>db/conf/isnn/isnn2020.html#LiL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/YangCWGLMLKA20" mdate="2022-09-15">
+<author pid="181/5822">Zongheng Yang</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="09/404-1">Chi Wang 0001</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="l/PALarson">Per-&#197;ke Larson</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="263/7214">Rajeev Acharya</author>
+<title>Qd-tree: Learning Data Layouts for Big Data Analytics.</title>
+<pages>193-208</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389770</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#YangCWGLMLKA20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/DingMYWDLZCGKLK20" mdate="2022-09-15">
+<author pid="145/8597">Jialin Ding</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author orcid="0000-0003-1340-6475" pid="86/3457-1">Jia Yu 0001</author>
+<author pid="09/404-1">Chi Wang 0001</author>
+<author pid="40/7404">Jaeyoung Do</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="155/9999">Hantian Zhang</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="l/DavidBLomet">David B. Lomet</author>
+<author pid="26/6037">Tim Kraska</author>
+<title>ALEX: An Updatable Adaptive Learned Index.</title>
+<pages>969-984</pages>
+<year>2020</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3318464.3389711</ee>
+<crossref>conf/sigmod/2020</crossref>
+<url>db/conf/sigmod/sigmod2020.html#DingMYWDLZCGKLK20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-10898" mdate="2022-09-15">
+<author pid="181/5822">Zongheng Yang</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="09/404-1">Chi Wang 0001</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="l/PALarson">Per-&#197;ke Larson</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="263/7214">Rajeev Acharya</author>
+<title>Qd-tree: Learning Data Layouts for Big Data Analytics.</title>
+<year>2020</year>
+<volume>abs/2004.10898</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.10898</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-10898</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-12110" mdate="2023-02-17">
+<author pid="52/1065">Peter B&#252;rgisser</author>
+<author pid="49/612">Yinan Li</author>
+<author orcid="0000-0003-3627-3636" pid="273/3929">Harold Nieuwboer</author>
+<author pid="66/2288-5">Michael Walter 0005</author>
+<title>Interior-point methods for unconstrained geometric programming and scaling problems.</title>
+<year>2020</year>
+<volume>abs/2008.12110</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.12110</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-12110</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2011-12823" mdate="2023-02-17">
+<author pid="200/8513">Joran van Apeldoorn</author>
+<author pid="200/8633">Sander Gribling</author>
+<author pid="49/612">Yinan Li</author>
+<author orcid="0000-0003-3627-3636" pid="273/3929">Harold Nieuwboer</author>
+<author pid="66/2288-5">Michael Walter 0005</author>
+<author pid="w/RonalddeWolf">Ronald de Wolf</author>
+<title>Quantum algorithms for matrix scaling and matrix balancing.</title>
+<year>2020</year>
+<volume>abs/2011.12823</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2011.12823</ee>
+<url>db/journals/corr/corr2011.html#abs-2011-12823</url>
+</article>
+</r>
+<r><article key="journals/access/LiSHZY19" mdate="2020-12-29">
+<author orcid="0000-0002-2778-877X" pid="49/612">Yinan Li</author>
+<author orcid="0000-0002-7435-3752" pid="81/1237-1">Meng Sun 0001</author>
+<author orcid="0000-0003-1331-5186" pid="77/6519">Hugo Van hamme</author>
+<author pid="86/2678">Xiongwei Zhang</author>
+<author pid="157/9096">Jibin Yang</author>
+<title>Robust Hierarchical Learning for Non-Negative Matrix Factorization With Outliers.</title>
+<pages>10546-10558</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2018.2890723</ee>
+<url>db/journals/access/access7.html#LiSHZY19</url>
+</article>
+</r>
+<r><article key="journals/chinaf/LiuLD19" mdate="2023-08-30">
+<author pid="36/9116-2">Shusen Liu 0002</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="74/315">Runyao Duan</author>
+<title>Distinguishing unitary gates on the IBM quantum processor.</title>
+<pages>72502:1-72502:7</pages>
+<year>2019</year>
+<volume>62</volume>
+<journal>Sci. China Inf. Sci.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1007/s11432-018-9703-y</ee>
+<url>db/journals/chinaf/chinaf62.html#LiuLD19</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ChandramouliXLK19" mdate="2023-09-30">
+<author pid="01/2861">Badrish Chandramouli</author>
+<author orcid="0000-0003-4857-900X" pid="20/6977-1">Dong Xie 0001</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>FishStore: Fast Ingestion and Indexing of Raw Data.</title>
+<pages>1922-1925</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol12/p1922-chandramouli.pdf</ee>
+<ee>https://doi.org/10.14778/3352063.3352100</ee>
+<url>db/journals/pvldb/pvldb12.html#ChandramouliXLK19</url>
+</article>
+</r>
+<r><inproceedings key="conf/hpcc/LiW019" mdate="2019-10-07">
+<author pid="49/612">Yinan Li</author>
+<author pid="21/1136">Jigang Wu</author>
+<author pid="64/5725-6">Long Chen 0006</author>
+<title>POEM+: Pricing Longer for Mobile Blockchain Computation Offloading with Edge Computing.</title>
+<pages>162-167</pages>
+<year>2019</year>
+<booktitle>HPCC/SmartCity/DSS</booktitle>
+<ee>https://doi.org/10.1109/HPCC/SmartCity/DSS.2019.00037</ee>
+<crossref>conf/hpcc/2019</crossref>
+<url>db/conf/hpcc/hpcc2019.html#LiW019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/YangSLLLW19" mdate="2019-11-23">
+<author pid="211/2030">Xiaojiao Yang</author>
+<author pid="153/8597">Guangnan Song</author>
+<author pid="152/6257">Hailiang Lu</author>
+<author pid="10/1749">Pengfei Li</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="171/0110">Jiakun Wang</author>
+<title>Characterization of the X-band FPASMR Airborne Experiment.</title>
+<pages>8886-8888</pages>
+<year>2019</year>
+<booktitle>IGARSS</booktitle>
+<ee>https://doi.org/10.1109/IGARSS.2019.8898408</ee>
+<crossref>conf/igarss/2019</crossref>
+<url>db/conf/igarss/igarss2019.html#YangSLLLW19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/WangCLJLYSL19" mdate="2019-11-23">
+<author pid="171/0110">Jiakun Wang</author>
+<author pid="82/8228">Wenxin Chen</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="210/9966">Pengju Jin</author>
+<author pid="152/6257">Hailiang Lu</author>
+<author pid="211/2030">Xiaojiao Yang</author>
+<author pid="153/8597">Guangnan Song</author>
+<author pid="10/1749">Pengfei Li</author>
+<title>The Research on an in-Orbit External Calibration Method of Aperture Synthetic Radiometer.</title>
+<pages>8960-8963</pages>
+<year>2019</year>
+<booktitle>IGARSS</booktitle>
+<ee>https://doi.org/10.1109/IGARSS.2019.8898941</ee>
+<crossref>conf/igarss/2019</crossref>
+<url>db/conf/igarss/igarss2019.html#WangCLJLYSL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/ChenLSYZ19" mdate="2023-04-26">
+<author pid="245/0305">Zhihuai Chen</author>
+<author pid="49/612">Yinan Li</author>
+<author orcid="0000-0002-0281-1670" pid="87/285-1">Xiaoming Sun 0001</author>
+<author pid="198/0000">Pei Yuan</author>
+<author orcid="0000-0002-6245-1013" pid="91/2798-1">Jialin Zhang 0001</author>
+<title>A Quantum-inspired Classical Algorithm for Separable Non-negative Matrix Factorization.</title>
+<year>2019</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2019/627</ee>
+<crossref>conf/ijcai/2019</crossref>
+<url>db/conf/ijcai/ijcai2019.html#ChenLSYZ19</url>
+<pages>4511-4517</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispa/LiZZZMN19" mdate="2022-04-28">
+<author pid="49/612">Yinan Li</author>
+<author pid="142/7079-1">Fuquan Zhang 0001</author>
+<author orcid="0000-0002-7695-1633" pid="94/1593">Yifan Zhu</author>
+<author pid="235/8641">Sifan Zhang</author>
+<author pid="59/5119">Yu Mao</author>
+<author orcid="0000-0002-0576-7572" pid="06/3613">Zhendong Niu</author>
+<title>Chinese Lexical Based Sentiment Analysis Framework in Meteorology.</title>
+<pages>1652-1658</pages>
+<year>2019</year>
+<booktitle>ISPA/BDCloud/SocialCom/SustainCom</booktitle>
+<ee>https://doi.org/10.1109/ISPA-BDCloud-SustainCom-SocialCom48970.2019.00244</ee>
+<crossref>conf/ispa/2019</crossref>
+<url>db/conf/ispa/ispa2019.html#LiZZZMN19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/0002LECK19" mdate="2022-10-02">
+<author orcid="0000-0001-8788-4379" pid="122/5424-2">Chang Ge 0002</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="18/8783">Eric Eilebrecht</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Speculative Distributed CSV Data Parsing for Big Data Analytics.</title>
+<pages>883-899</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3319898</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#0002LECK19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/XieCLK19" mdate="2023-09-30">
+<author orcid="0000-0003-4857-900X" pid="20/6977-1">Dong Xie 0001</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>FishStore: Faster Ingestion with Subset Hashing.</title>
+<pages>1711-1728</pages>
+<year>2019</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/3299869.3319896</ee>
+<crossref>conf/sigmod/2019</crossref>
+<url>db/conf/sigmod/sigmod2019.html#XieCLK19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-02518" mdate="2019-05-27">
+<author pid="45/4653">Peter A. Brooksbank</author>
+<author pid="39/782">Joshua A. Grochow</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="91/312">Youming Qiao</author>
+<author pid="68/5859">James B. Wilson</author>
+<title>Incorporating Weisfeiler-Leman into algorithms for group isomorphism.</title>
+<year>2019</year>
+<volume>abs/1905.02518</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.02518</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-02518</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1905-08898" mdate="2022-09-15">
+<author pid="145/8597">Jialin Ding</author>
+<author pid="99/6349">Umar Farooq Minhas</author>
+<author pid="155/9999">Hantian Zhang</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="09/404-1">Chi Wang 0001</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JohannesGehrke">Johannes Gehrke</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<author pid="l/DavidBLomet">David B. Lomet</author>
+<title>ALEX: An Updatable Adaptive Learned Index.</title>
+<year>2019</year>
+<volume>abs/1905.08898</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1905.08898</ee>
+<url>db/journals/corr/corr1905.html#abs-1905-08898</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1907-05568" mdate="2023-04-26">
+<author pid="245/0305">Zhihuai Chen</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="87/285-1">Xiaoming Sun 0001</author>
+<author pid="198/0000">Pei Yuan</author>
+<author pid="91/2798-1">Jialin Zhang 0001</author>
+<title>A Quantum-inspired Classical Algorithm for Separable Non-negative Matrix Factorization.</title>
+<year>2019</year>
+<volume>abs/1907.05568</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1907.05568</ee>
+<url>db/journals/corr/corr1907.html#abs-1907-05568</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-11775" mdate="2023-10-06">
+<author pid="76/6452-3">Yongqiang Li 0003</author>
+<author pid="249/8177">Chaolun Lu</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="36/1628">Zhongsheng Hou</author>
+<author pid="30/4550">Yu Feng</author>
+<author pid="99/9686">Yuanjing Feng</author>
+<title>Stabilization with Closed-loop DOA Enlargement: An Interval Analysis Approach.</title>
+<year>2019</year>
+<volume>abs/1912.11775</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.11775</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-11775</url>
+</article>
+</r>
+<r><phdthesis key="phd/au/Li18" mdate="2023-04-12">
+<author pid="49/612">Yinan Li</author>
+<title>Applications of matrix spaces in quantum information and computational complexity</title>
+<school>University of Technology Sydney, Australia</school>
+<year>2018</year>
+<ee>https://hdl.handle.net/10453/127912</ee>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/ica3pp/LiWC18" mdate="2018-12-10">
+<author pid="49/612">Yinan Li</author>
+<author pid="21/1136">Jigang Wu</author>
+<author pid="64/5725-6">Long Chen 0006</author>
+<title>NESTLE: Incentive Mechanism Specialized for Computation Offloading in Local Edge Community.</title>
+<pages>90-104</pages>
+<year>2018</year>
+<booktitle>ICA3PP (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-05054-2_7</ee>
+<crossref>conf/ica3pp/2018-2</crossref>
+<url>db/conf/ica3pp/ica3pp2018-2.html#LiWC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChandramouliGL18" mdate="2023-03-24">
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="49/612">Yinan Li</author>
+<title>Impatience Is a Virtue: Revisiting Disorder in High-Performance Log Analytics.</title>
+<pages>677-688</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00067</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00067</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#ChandramouliGL18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icit2/Caicedo-Narvaez18" mdate="2019-07-11">
+<author pid="244/5885">Carlos Caicedo-Narvaez</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="244/6026">Lizon Maharjan</author>
+<author pid="244/5801">Eva Cosoroaba</author>
+<author pid="17/5795">Babak Fahimi</author>
+<author pid="159/5166">Morgan Kiani</author>
+<author pid="78/10321">Mehdi Moallem</author>
+<title>Thermal signature analysis of an 8/6 switched reluctance motor under inter-turn short circuit fault.</title>
+<pages>1859-1864</pages>
+<year>2018</year>
+<booktitle>ICIT</booktitle>
+<ee>https://doi.org/10.1109/ICIT.2018.8352468</ee>
+<crossref>conf/icit2/2018</crossref>
+<url>db/conf/icit2/icit2018.html#Caicedo-Narvaez18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/DuLLDT18" mdate="2023-06-26">
+<author pid="222/7868">Yuxuan Du</author>
+<author orcid="0000-0002-9640-6472" pid="150/6667">Tongliang Liu</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="74/315">Runyao Duan</author>
+<author pid="46/3391">Dacheng Tao</author>
+<title>Quantum Divide-and-Conquer Anchoring for Separable Non-negative Matrix Factorization.</title>
+<pages>2093-2099</pages>
+<year>2018</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2018/289</ee>
+<crossref>conf/ijcai/2018</crossref>
+<url>db/conf/ijcai/ijcai2018.html#DuLLDT18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isie/LiFK18" mdate="2018-08-17">
+<author pid="49/612">Yinan Li</author>
+<author pid="17/5795">Babak Fahimi</author>
+<author pid="159/5166">Morgan Kiani</author>
+<title>Influencing Radial Vibration in Switched Reluctance Machine via Altering the Design of Endcaps.</title>
+<pages>140-144</pages>
+<year>2018</year>
+<booktitle>ISIE</booktitle>
+<ee>https://doi.org/10.1109/ISIE.2018.8433819</ee>
+<crossref>conf/isie/2018</crossref>
+<url>db/conf/isie/isie2018.html#LiFK18</url>
+</inproceedings>
+</r>
+<r><incollection key="conf/birthday/LiuWZGLHDY17" mdate="2023-08-30">
+<author pid="36/9116-2">Shusen Liu 0002</author>
+<author pid="10/5630-22">Xin Wang 0022</author>
+<author pid="54/40">Li Zhou</author>
+<author pid="205/2739">Ji Guan</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="06/1998">Yang He</author>
+<author pid="74/315">Runyao Duan</author>
+<author orcid="0000-0003-4847-702X" pid="13/6525">Mingsheng Ying</author>
+<title>Q|SI&#10217; : A Quantum Programming Environment.</title>
+<pages>133-164</pages>
+<year>2018</year>
+<booktitle>Symposium on Real-Time and Hybrid Systems</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-01461-2_8</ee>
+<crossref>conf/birthday/zhou2017</crossref>
+<url>db/conf/birthday/zhou2017.html#LiuWZGLHDY17</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-00744" mdate="2018-11-01">
+<author pid="49/612">Yinan Li</author>
+<author pid="162/0063">Jeroen Zuiddam</author>
+<title>Quantum asymptotic spectra of graphs and non-commutative graphs, and quantum Shannon capacities.</title>
+<year>2018</year>
+<volume>abs/1810.00744</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.00744</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-00744</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1810-04851" mdate="2019-08-08">
+<author pid="49/612">Yinan Li</author>
+<author pid="82/1364">Xiao Liu</author>
+<author pid="67/5807-6">Fang Liu 0006</author>
+<title>Panda: AdaPtive Noisy Data Augmentation for Regularization of Undirected Graphical Models.</title>
+<year>2018</year>
+<volume>abs/1810.04851</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1810.04851</ee>
+<url>db/journals/corr/corr1810.html#abs-1810-04851</url>
+</article>
+</r>
+<r><article key="journals/pvldb/LiKCGK17" mdate="2020-04-25">
+<author pid="49/612">Yinan Li</author>
+<author pid="142/7802">Nikos R. Katsipoulakis</author>
+<author pid="01/2861">Badrish Chandramouli</author>
+<author pid="g/JonathanGoldstein">Jonathan Goldstein</author>
+<author pid="k/DonaldKossmann">Donald Kossmann</author>
+<title>Mison: A Fast JSON Parser for Data Analytics.</title>
+<pages>1118-1129</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p1118-li.pdf</ee>
+<ee>https://doi.org/10.14778/3115404.3115416</ee>
+<url>db/journals/pvldb/pvldb10.html#LiKCGK17</url>
+</article>
+</r>
+<r><inproceedings key="conf/focs/LiQ17" mdate="2023-03-23">
+<author pid="49/612">Yinan Li</author>
+<author orcid="0000-0003-4334-1449" pid="91/312">Youming Qiao</author>
+<title>Linear Algebraic Analogues of the Graph Isomorphism Problem and the Erd&#337;s-R&#233;nyi Model.</title>
+<pages>463-474</pages>
+<year>2017</year>
+<booktitle>FOCS</booktitle>
+<ee>https://doi.org/10.1109/FOCS.2017.49</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/FOCS.2017.49</ee>
+<crossref>conf/focs/2017</crossref>
+<url>db/conf/focs/focs2017.html#LiQ17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/LvLSLLYD17" mdate="2017-12-21">
+<author pid="142/6581">Rongchuan Lv</author>
+<author pid="10/1749">Pengfei Li</author>
+<author pid="153/8597">Guangnan Song</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="152/6257">Hailiang Lu</author>
+<author pid="211/2030">Xiaojiao Yang</author>
+<author pid="211/1850">Pengju Dang</author>
+<title>Study on data processing method of synthetic aperture microwave radiometer.</title>
+<pages>703-706</pages>
+<year>2017</year>
+<booktitle>IGARSS</booktitle>
+<ee>https://doi.org/10.1109/IGARSS.2017.8127049</ee>
+<crossref>conf/igarss/2017</crossref>
+<url>db/conf/igarss/igarss2017.html#LvLSLLYD17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/YinMWLL17" mdate="2017-12-21">
+<author pid="55/8988">Xiaobin Yin</author>
+<author pid="211/2113">Chaofei Ma</author>
+<author pid="120/5872">Congcong Wang</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="211/2099">Tongkui Liao</author>
+<title>In-orbit onboard wind vector rapid reterival using polarimeteric microwave radiometer.</title>
+<pages>2152-2155</pages>
+<year>2017</year>
+<booktitle>IGARSS</booktitle>
+<ee>https://doi.org/10.1109/IGARSS.2017.8127412</ee>
+<crossref>conf/igarss/2017</crossref>
+<url>db/conf/igarss/igarss2017.html#YinMWLL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/LuLYJL17" mdate="2017-12-22">
+<author pid="152/6257">Hailiang Lu</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="43/4940">Rui Yu</author>
+<author pid="211/2789">Anzhong Jin</author>
+<author pid="142/6581">Rongchuan Lv</author>
+<title>A l-band phased array radiometer for sea surface salinity.</title>
+<pages>2935-2938</pages>
+<year>2017</year>
+<booktitle>IGARSS</booktitle>
+<ee>https://doi.org/10.1109/IGARSS.2017.8127613</ee>
+<crossref>conf/igarss/2017</crossref>
+<url>db/conf/igarss/igarss2017.html#LuLYJL17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/LiLSYLLT17" mdate="2017-12-22">
+<author pid="49/612">Yinan Li</author>
+<author pid="142/6581">Rongchuan Lv</author>
+<author pid="153/8597">Guangnan Song</author>
+<author pid="211/2030">Xiaojiao Yang</author>
+<author pid="152/6257">Hailiang Lu</author>
+<author pid="10/1749">Pengfei Li</author>
+<author pid="201/0708">Qinggui Tan</author>
+<title>FPASMR: A new instrument for future sea surface salinity measurement.</title>
+<pages>3560-3563</pages>
+<year>2017</year>
+<booktitle>IGARSS</booktitle>
+<ee>https://doi.org/10.1109/IGARSS.2017.8127768</ee>
+<crossref>conf/igarss/2017</crossref>
+<url>db/conf/igarss/igarss2017.html#LiLSYLLT17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/SongYLLL17" mdate="2017-12-22">
+<author pid="153/8597">Guangnan Song</author>
+<author pid="211/2030">Xiaojiao Yang</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="10/1749">Pengfei Li</author>
+<author pid="152/6257">Hailiang Lu</author>
+<title>The stability test of radiometer.</title>
+<pages>3568-3571</pages>
+<year>2017</year>
+<booktitle>IGARSS</booktitle>
+<ee>https://doi.org/10.1109/IGARSS.2017.8127770</ee>
+<crossref>conf/igarss/2017</crossref>
+<url>db/conf/igarss/igarss2017.html#SongYLLL17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1708-04501" mdate="2018-08-13">
+<author pid="49/612">Yinan Li</author>
+<author pid="91/312">Youming Qiao</author>
+<title>Linear algebraic analogues of the graph isomorphism problem and the Erd&#337;s-R&#233;nyi model.</title>
+<year>2017</year>
+<volume>abs/1708.04501</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1708.04501</ee>
+<url>db/journals/corr/corr1708.html#abs-1708-04501</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1710-09500" mdate="2023-08-30">
+<author pid="36/9116-2">Shusen Liu 0002</author>
+<author pid="10/5630-22">Xin Wang 0022</author>
+<author pid="54/40">Li Zhou</author>
+<author pid="205/2739">Ji Guan</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="06/1998">Yang He</author>
+<author pid="74/315">Runyao Duan</author>
+<author pid="13/6525">Mingsheng Ying</author>
+<title>Q|SI&#12297;: A Quantum Programming Environment.</title>
+<year>2017</year>
+<volume>abs/1710.09500</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1710.09500</ee>
+<url>db/journals/corr/corr1710.html#abs-1710-09500</url>
+</article>
+</r>
+<r><article key="journals/ieicet/HuZZSML16" mdate="2020-04-11">
+<author pid="49/7213">Yonggang Hu</author>
+<author pid="86/2678">Xiongwei Zhang</author>
+<author pid="06/7721">Xia Zou</author>
+<author pid="81/1237-1">Meng Sun 0001</author>
+<author pid="157/9293">Gang Min</author>
+<author pid="49/612">Yinan Li</author>
+<title>Improved Semi-Supervised NMF Based Real-Time Capable Speech Enhancement.</title>
+<pages>402-406</pages>
+<year>2016</year>
+<volume>99-A</volume>
+<journal>IEICE Trans. Fundam. Electron. Commun. Comput. Sci.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1587/transfun.E99.A.402</ee>
+<ee>http://search.ieice.org/bin/summary.php?id=e99-a_1_402</ee>
+<url>db/journals/ieicet/ieicet99a.html#HuZZSML16</url>
+</article>
+</r>
+<r><article key="journals/ieicet/LiZSHL16" mdate="2020-04-11">
+<author pid="49/612">Yinan Li</author>
+<author pid="86/2678">Xiongwei Zhang</author>
+<author pid="81/1237-1">Meng Sun 0001</author>
+<author pid="49/7213">Yonggang Hu</author>
+<author pid="53/2189">Li Li</author>
+<title>Online Convolutive Non-Negative Bases Learning for Speech Enhancement.</title>
+<pages>1609-1613</pages>
+<year>2016</year>
+<volume>99-A</volume>
+<journal>IEICE Trans. Fundam. Electron. Commun. Comput. Sci.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1587/transfun.E99.A.1609</ee>
+<ee>http://search.ieice.org/bin/summary.php?id=e99-a_8_1609</ee>
+<url>db/journals/ieicet/ieicet99a.html#LiZSHL16</url>
+</article>
+</r>
+<r><article key="journals/ieicet/LiZSJZ16" mdate="2020-04-11">
+<author pid="49/612">Yinan Li</author>
+<author pid="86/2678">Xiongwei Zhang</author>
+<author pid="81/1237-1">Meng Sun 0001</author>
+<author pid="68/8347">Chong Jia</author>
+<author pid="06/7721">Xia Zou</author>
+<title>Automatic Model Order Selection for Convolutive Non-Negative Matrix Factorization.</title>
+<pages>1867-1870</pages>
+<year>2016</year>
+<volume>99-A</volume>
+<journal>IEICE Trans. Fundam. Electron. Commun. Comput. Sci.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1587/transfun.E99.A.1867</ee>
+<ee>http://search.ieice.org/bin/summary.php?id=e99-a_10_1867</ee>
+<url>db/journals/ieicet/ieicet99a.html#LiZSJZ16</url>
+</article>
+</r>
+<r><article key="journals/lgrs/LuLJCLFLL16" mdate="2022-01-11">
+<author pid="152/6257">Hailiang Lu</author>
+<author pid="91/5508">Qingxia Li</author>
+<author pid="308/8430-2">Rong Jin 0002</author>
+<author pid="47/6529-14">Ke Chen 0014</author>
+<author pid="87/660-20">Yan Li 0020</author>
+<author pid="39/456-2">Li Feng 0002</author>
+<author pid="17/5705-49">Hao Li 0049</author>
+<author pid="49/612">Yinan Li</author>
+<title>A Hybrid Calibration Method for Aperture Synthesis Radiometers.</title>
+<pages>651-655</pages>
+<year>2016</year>
+<volume>13</volume>
+<journal>IEEE Geosci. Remote. Sens. Lett.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/LGRS.2016.2532966</ee>
+<url>db/journals/lgrs/lgrs13.html#LuLJCLFLL16</url>
+</article>
+</r>
+<r><inproceedings key="conf/embc/LiF16" mdate="2018-11-14">
+<author pid="49/612">Yinan Li</author>
+<author pid="17/5795">Babak Fahimi</author>
+<title>Thermal analysis of multiple-antenna-excited breast model for breast cancer detection.</title>
+<pages>1058-1061</pages>
+<year>2016</year>
+<booktitle>EMBC</booktitle>
+<ee>https://doi.org/10.1109/EMBC.2016.7590885</ee>
+<ee>https://www.wikidata.org/entity/Q52894991</ee>
+<crossref>conf/embc/2016</crossref>
+<url>db/conf/embc/embc2016.html#LiF16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icassp/LiZSMY16" mdate="2021-10-14">
+<author pid="49/612">Yinan Li</author>
+<author pid="86/2678">Xiongwei Zhang</author>
+<author orcid="0000-0002-7435-3752" pid="81/1237-1">Meng Sun 0001</author>
+<author pid="157/9293">Gang Min</author>
+<author pid="157/9096">Jibin Yang</author>
+<title>Adaptive extraction of repeating non-negative temporal patterns for single-channel speech enhancement.</title>
+<pages>494-498</pages>
+<year>2016</year>
+<booktitle>ICASSP</booktitle>
+<ee>https://doi.org/10.1109/ICASSP.2016.7471724</ee>
+<crossref>conf/icassp/2016</crossref>
+<url>db/conf/icassp/icassp2016.html#LiZSMY16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsh/ShengLLZXL16" mdate="2021-10-14">
+<author pid="04/7822">Ming Sheng</author>
+<author pid="43/3771">Jianwei Liu</author>
+<author pid="37/28">Hongxia Liu</author>
+<author pid="66/4615-2">Yong Zhang 0002</author>
+<author orcid="0000-0001-9390-3097" pid="x/ChunxiaoXing">Chunxiao Xing</author>
+<author pid="49/612">Yinan Li</author>
+<title>A Networked and Intelligent Regional Collaborative Treatment System for AMI.</title>
+<pages>132-143</pages>
+<year>2016</year>
+<booktitle>ICSH</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-59858-1_13</ee>
+<crossref>conf/icsh/2016</crossref>
+<url>db/conf/icsh/icsh2016.html#ShengLLZXL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isit/DuanGLL16" mdate="2017-05-24">
+<author pid="74/315">Runyao Duan</author>
+<author pid="76/5349">Cheng Guo</author>
+<author pid="24/3627">Chi-Kwong Li</author>
+<author pid="49/612">Yinan Li</author>
+<title>Parallel distinguishability of quantum operations.</title>
+<pages>2259-2263</pages>
+<year>2016</year>
+<booktitle>ISIT</booktitle>
+<ee>https://doi.org/10.1109/ISIT.2016.7541701</ee>
+<crossref>conf/isit/2016</crossref>
+<url>db/conf/isit/isit2016.html#DuanGLL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pcm/LiZSCQ16" mdate="2021-10-14">
+<author pid="49/612">Yinan Li</author>
+<author pid="86/2678">Xiongwei Zhang</author>
+<author orcid="0000-0002-7435-3752" pid="81/1237-1">Meng Sun 0001</author>
+<author pid="162/6745">Xushan Chen</author>
+<author pid="q/LinQiao">Lin Qiao</author>
+<title>Speech Enhancement Using Non-negative Low-Rank Modeling with Temporal Continuity and Sparseness Constraints.</title>
+<pages>24-32</pages>
+<year>2016</year>
+<booktitle>PCM (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-48896-7_3</ee>
+<crossref>conf/pcm/2016-2</crossref>
+<url>db/conf/pcm/pcm2016-2.html#LiZSCQ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vinci/LiW16" mdate="2018-11-06">
+<author pid="49/612">Yinan Li</author>
+<author pid="39/449">Jian Wang</author>
+<title>Design for the future: Incorporating Cradle to Cradle Design into our street.</title>
+<pages>146-147</pages>
+<year>2016</year>
+<booktitle>VINCI</booktitle>
+<ee>https://doi.org/10.1145/2968220.2968243</ee>
+<crossref>conf/vinci/2016</crossref>
+<url>db/conf/vinci/vinci2016.html#LiW16</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/QiaoLTLVTDBSDB15" mdate="2020-04-25">
+<author pid="q/LinQiao">Lin Qiao</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="166/8364">Sahil Takiar</author>
+<author pid="85/5485">Ziyang Liu</author>
+<author pid="166/8378">Narasimha Veeramreddy</author>
+<author pid="152/3498">Min Tu</author>
+<author pid="52/5861">Ying Dai</author>
+<author pid="166/8363">Issac Buenrostro</author>
+<author pid="116/5288">Kapil Surlaker</author>
+<author pid="69/123">Shirshanka Das</author>
+<author pid="b/ChavdarBotev">Chavdar Botev</author>
+<title>Gobblin: Unifying Data Ingestion for Hadoop.</title>
+<pages>1764-1769</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol8/p1764-qiao.pdf</ee>
+<ee>https://doi.org/10.14778/2824032.2824073</ee>
+<url>db/journals/pvldb/pvldb8.html#QiaoLTLVTDBSDB15</url>
+</article>
+</r>
+<r><article key="journals/sensors/LiWLCC15" mdate="2023-10-23">
+<author pid="49/612">Yinan Li</author>
+<author pid="17/5974-2">Junbo Wang 0002</author>
+<author pid="187/1914">Zhenyu Luo</author>
+<author pid="76/8406">Deyong Chen</author>
+<author orcid="0000-0003-4612-3279" pid="49/6002-12">Jian Chen 0012</author>
+<title>A Resonant Pressure Microsensor Capable of Self-Temperature Compensation.</title>
+<pages>10048-10058</pages>
+<year>2015</year>
+<volume>15</volume>
+<journal>Sensors</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.3390/s150510048</ee>
+<ee>https://www.wikidata.org/entity/Q33464928</ee>
+<url>db/journals/sensors/sensors15.html#LiWLCC15</url>
+</article>
+</r>
+<r><article key="journals/sigmod/PowerLHPW15" mdate="2021-07-25">
+<author orcid="0000-0002-8880-8703" pid="138/4166">Jason Power</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="h/MarkDHill">Mark D. Hill</author>
+<author pid="p/JMPatel">Jignesh M. Patel</author>
+<author pid="w/DavidAWood">David A. Wood 0001</author>
+<title>Implications of Emerging 3D GPU Architecture on the Scan Primitive.</title>
+<pages>18-23</pages>
+<year>2015</year>
+<volume>44</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/2783888.2783896</ee>
+<url>db/journals/sigmod/sigmod44.html#PowerLHPW15</url>
+</article>
+</r>
+<r><article key="journals/taslp/SunLGZ15" mdate="2021-10-14">
+<author orcid="0000-0002-7435-3752" pid="81/1237-1">Meng Sun 0001</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="12/2530">Jort F. Gemmeke</author>
+<author pid="86/2678">Xiongwei Zhang</author>
+<title>Speech Enhancement Under Low SNR Conditions Via Noise Estimation Using Sparse and Low-Rank NMF with Kullback-Leibler Divergence.</title>
+<pages>1233-1242</pages>
+<year>2015</year>
+<volume>23</volume>
+<journal>IEEE ACM Trans. Audio Speech Lang. Process.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TASLP.2015.2427520</ee>
+<url>db/journals/taslp/taslp23.html#SunLGZ15</url>
+</article>
+</r>
+<r><inproceedings key="conf/chinasip/LiZSM15" mdate="2021-10-14">
+<author pid="49/612">Yinan Li</author>
+<author pid="86/2678">Xiongwei Zhang</author>
+<author orcid="0000-0002-7435-3752" pid="81/1237-1">Meng Sun 0001</author>
+<author pid="157/9293">Gang Min</author>
+<title>Unsupervised monaural speech enhancement using robust NMF with low-rank and sparse constraints.</title>
+<pages>1-4</pages>
+<year>2015</year>
+<booktitle>ChinaSIP</booktitle>
+<ee>https://doi.org/10.1109/ChinaSIP.2015.7230350</ee>
+<crossref>conf/chinasip/2015</crossref>
+<url>db/conf/chinasip/chinasip2015.html#LiZSM15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/PowerLHPW15" mdate="2021-07-25">
+<author orcid="0000-0002-8880-8703" pid="138/4166">Jason Power</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="h/MarkDHill">Mark D. Hill</author>
+<author pid="p/JMPatel">Jignesh M. Patel</author>
+<author pid="w/DavidAWood">David A. Wood 0001</author>
+<title>Toward GPUs being mainstream in analytic processing: An initial argument using simple scan-aggregate queries.</title>
+<pages>11:1-11:8</pages>
+<year>2015</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/2771937.2771941</ee>
+<crossref>conf/damon/2015</crossref>
+<url>db/conf/damon/damon2015.html#PowerLHPW15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mmsp/LiZSP15" mdate="2023-09-30">
+<author pid="49/612">Yinan Li</author>
+<author pid="86/2678">Xiongwei Zhang</author>
+<author orcid="0000-0002-7435-3752" pid="81/1237-1">Meng Sun 0001</author>
+<author orcid="0000-0002-3415-0029" pid="172/4644">Jingfeng Pan</author>
+<title>Speech enhancement based on robust NMF solved by alternating direction method of multipliers.</title>
+<pages>1-5</pages>
+<year>2015</year>
+<booktitle>MMSP</booktitle>
+<ee>https://doi.org/10.1109/MMSP.2015.7340815</ee>
+<crossref>conf/mmsp/2015</crossref>
+<url>db/conf/mmsp/mmsp2015.html#LiZSP15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LiCP15" mdate="2018-11-06">
+<author pid="49/612">Yinan Li</author>
+<author pid="134/6795">Craig Chasseur</author>
+<author pid="p/JMPatel">Jignesh M. Patel</author>
+<title>A Padded Encoding Scheme to Accelerate Scans by Leveraging Skew.</title>
+<pages>1509-1524</pages>
+<year>2015</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2723372.2737787</ee>
+<crossref>conf/sigmod/2015</crossref>
+<url>db/conf/sigmod/sigmod2015.html#LiCP15</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/LiP14" mdate="2020-04-25">
+<author pid="49/612">Yinan Li</author>
+<author pid="p/JMPatel">Jignesh M. Patel</author>
+<title>WideTable: An Accelerator for Analytical Data Processing.</title>
+<pages>907-918</pages>
+<year>2014</year>
+<volume>7</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>10</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol7/p907-li.pdf</ee>
+<ee>https://doi.org/10.14778/2732951.2732965</ee>
+<url>db/journals/pvldb/pvldb7.html#LiP14</url>
+</article>
+</r>
+<r><article key="journals/sensors/LuoCWLC14" mdate="2023-10-23">
+<author pid="187/1914">Zhenyu Luo</author>
+<author pid="76/8406">Deyong Chen</author>
+<author pid="17/5974-2">Junbo Wang 0002</author>
+<author pid="49/612">Yinan Li</author>
+<author orcid="0000-0003-4612-3279" pid="49/6002-12">Jian Chen 0012</author>
+<title>A High-Q Resonant Pressure Microsensor with Through-Glass Electrical Interconnections Based on Wafer-Level MEMS Vacuum Packaging.</title>
+<pages>24244-24257</pages>
+<year>2014</year>
+<volume>14</volume>
+<journal>Sensors</journal>
+<number>12</number>
+<ee type="oa">https://doi.org/10.3390/s141224244</ee>
+<ee>https://www.wikidata.org/entity/Q34985108</ee>
+<url>db/journals/sensors/sensors14.html#LuoCWLC14</url>
+</article>
+</r>
+<r><inproceedings key="conf/igarss/LiSLJL14" mdate="2022-01-11">
+<author pid="17/5705-49">Hao Li 0049</author>
+<author pid="153/8597">Guangnan Song</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="92/3194">Jun Ji</author>
+<author pid="03/2134">Jie Liu</author>
+<title>The digital correlator design of FPASMR.</title>
+<pages>636-639</pages>
+<year>2014</year>
+<booktitle>IGARSS</booktitle>
+<ee>https://doi.org/10.1109/IGARSS.2014.6946503</ee>
+<crossref>conf/igarss/2014</crossref>
+<url>db/conf/igarss/igarss2014.html#LiSLJL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/LiLLLSS14" mdate="2022-01-11">
+<author pid="49/612">Yinan Li</author>
+<author pid="17/5705-49">Hao Li 0049</author>
+<author pid="142/6581">Rongchuan Lv</author>
+<author pid="10/2519">Yanming Li</author>
+<author pid="142/6277">Shangyu Shen</author>
+<author pid="153/8597">Guangnan Song</author>
+<title>A novel receiving configuration of correlation radiometer.</title>
+<pages>1907-1909</pages>
+<year>2014</year>
+<booktitle>IGARSS</booktitle>
+<ee>https://doi.org/10.1109/IGARSS.2014.6946830</ee>
+<crossref>conf/igarss/2014</crossref>
+<url>db/conf/igarss/igarss2014.html#LiLLLSS14</url>
+</inproceedings>
+</r>
+<r><article key="journals/mva/LiYS13" mdate="2017-05-17">
+<author pid="49/612">Yinan Li</author>
+<author pid="127/2784">Lingyu Yang</author>
+<author pid="119/0944">Gongzhang Shen</author>
+<title>A robust non-iterative method for similarity transform estimation.</title>
+<pages>637-649</pages>
+<year>2013</year>
+<volume>24</volume>
+<journal>Mach. Vis. Appl.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00138-012-0412-x</ee>
+<url>db/journals/mva/mva24.html#LiYS13</url>
+</article>
+</r>
+<r><article key="journals/pvldb/ElmeleegyL0WWKDC13" mdate="2020-04-25">
+<author pid="12/2856">Hazem Elmeleegy</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="q/YanQi2">Yan Qi 0002</author>
+<author pid="135/4666">Peter Wilmot</author>
+<author pid="w/MingxiWu">Mingxi Wu</author>
+<author pid="52/6948">Santanu Kolay</author>
+<author pid="28/6587">Ali Dasdan</author>
+<author pid="64/1361">Songting Chen</author>
+<title>Overview of Turn Data Management Platform for Digital Advertising.</title>
+<pages>1138-1149</pages>
+<year>2013</year>
+<volume>6</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>11</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol6/p1138-elmeleegy.pdf</ee>
+<ee>https://doi.org/10.14778/2536222.2536238</ee>
+<url>db/journals/pvldb/pvldb6.html#ElmeleegyL0WWKDC13</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/LiPMRL13" mdate="2020-09-30">
+<author pid="49/612">Yinan Li</author>
+<author pid="p/IppokratisPandis">Ippokratis Pandis</author>
+<author pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</author>
+<author pid="r/VijayshankarRaman">Vijayshankar Raman</author>
+<author pid="21/2457">Guy M. Lohman</author>
+<title>NUMA-aware algorithms: the case of data shuffling.</title>
+<year>2013</year>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2013/Papers/CIDR13_Paper121.pdf</ee>
+<crossref>conf/cidr/2013</crossref>
+<url>db/conf/cidr/cidr2013.html#LiPMRL13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsenst/LiL0JZTS13" mdate="2020-05-11">
+<author pid="49/612">Yinan Li</author>
+<author pid="33/5448-42">Jian Li 0042</author>
+<author pid="06/5140-5">Nan Zhou 0005</author>
+<author pid="89/6017">Shijiu Jin</author>
+<author pid="00/1547">Zhoumo Zeng</author>
+<author pid="84/8525">Zhen Tian</author>
+<author pid="89/6423">Lijun Sun</author>
+<title>Gasoline-diesel mixtures quantifying using terahertz time-domain waveform.</title>
+<pages>751-755</pages>
+<year>2013</year>
+<booktitle>ICST</booktitle>
+<ee>https://doi.org/10.1109/ICSensT.2013.6727753</ee>
+<crossref>conf/icsenst/2013</crossref>
+<url>db/conf/icsenst/icst2013.html#LiL0JZTS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/LiLLLLSW13" mdate="2022-01-11">
+<author pid="49/612">Yinan Li</author>
+<author pid="17/5705-49">Hao Li 0049</author>
+<author pid="142/6581">Rongchuan Lv</author>
+<author pid="13/2692">Bing Li</author>
+<author pid="10/2519">Yanming Li</author>
+<author pid="142/6277">Shangyu Shen</author>
+<author pid="142/6273">Dizhu Wang</author>
+<title>FPASMR: An L\X-band Full Polarization Aperture Synthesis Microwave Radiometer.</title>
+<pages>1920-1923</pages>
+<year>2013</year>
+<booktitle>IGARSS</booktitle>
+<ee>https://doi.org/10.1109/IGARSS.2013.6723180</ee>
+<crossref>conf/igarss/2013</crossref>
+<url>db/conf/igarss/igarss2013.html#LiLLLLSW13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/LiWLYJXC13" mdate="2017-05-25">
+<author pid="10/2519">Yanming Li</author>
+<author pid="83/11201">Zhou Wu</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="43/4940">Rui Yu</author>
+<author pid="35/994">Min Jiang</author>
+<author pid="142/6432">Chunyan Xia</author>
+<author pid="82/8228">Wenxin Chen</author>
+<title>In-orbit verifacation of HY-2 radiometer.</title>
+<pages>1940-1943</pages>
+<year>2013</year>
+<booktitle>IGARSS</booktitle>
+<ee>https://doi.org/10.1109/IGARSS.2013.6723186</ee>
+<crossref>conf/igarss/2013</crossref>
+<url>db/conf/igarss/igarss2013.html#LiWLYJXC13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LiP13" mdate="2018-11-06">
+<author pid="49/612">Yinan Li</author>
+<author pid="p/JMPatel">Jignesh M. Patel</author>
+<title>BitWeaving: fast scans for main memory data processing.</title>
+<pages>289-300</pages>
+<year>2013</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/2463676.2465322</ee>
+<crossref>conf/sigmod/2013</crossref>
+<url>db/conf/sigmod/sigmod2013.html#LiP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcsp/LiWZZY13" mdate="2017-05-26">
+<author pid="49/612">Yinan Li</author>
+<author pid="157/8971">Haijia Wu</author>
+<author pid="77/1808">Li Zeng</author>
+<author pid="86/2678">Xiongwei Zhang</author>
+<author pid="157/9096">Jibin Yang</author>
+<title>A novel single channel speech enhancement algorithm based on sparse representation and dictionary learning.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<crossref>conf/wcsp/2013</crossref>
+<booktitle>WCSP</booktitle>
+<ee>https://doi.org/10.1109/WCSP.2013.6677067</ee>
+<url>db/conf/wcsp/wcsp2013.html#LiWZZY13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/webdb/ChasseurLP13" mdate="2020-03-12">
+<author pid="134/6795">Craig Chasseur</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="p/JMPatel">Jignesh M. Patel</author>
+<title>Enabling JSON Document Stores in Relational Systems.</title>
+<pages>1-6</pages>
+<year>2013</year>
+<booktitle>WebDB</booktitle>
+<ee type="oa">http://webdb2013.lille.inria.fr/Paper%2010.pdf</ee>
+<crossref>conf/webdb/2013</crossref>
+<url>db/conf/webdb/webdb2013.html#ChasseurLP13</url>
+</inproceedings>
+</r>
+<r><article key="journals/jece/LiangRLMDC12" mdate="2020-12-29">
+<author pid="83/2265">Yun Liang 0001</author>
+<author orcid="0000-0003-2908-2225" pid="27/5122">Kyle Rupnow</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="44/1149">Dongbo Min</author>
+<author orcid="0000-0001-5132-4986" pid="d/MinhNDo">Minh N. Do</author>
+<author pid="37/1234">Deming Chen</author>
+<title>High-Level Synthesis: Productivity, Performance, and Software Constraints.</title>
+<year>2012</year>
+<volume>2012</volume>
+<journal>J. Electr. Comput. Eng.</journal>
+<ee type="oa">https://doi.org/10.1155/2012/649057</ee>
+<ee>https://www.wikidata.org/entity/Q58908626</ee>
+<url>db/journals/jece/jece2012.html#LiangRLMDC12</url>
+<pages>649057:1-649057:14</pages>
+</article>
+</r>
+<r><article key="journals/tods/LiPT12" mdate="2018-11-06">
+<author pid="49/612">Yinan Li</author>
+<author pid="p/JMPatel">Jignesh M. Patel</author>
+<author pid="71/9726">Allison Terrell</author>
+<title>WHAM: A High-Throughput Sequence Alignment Method.</title>
+<pages>28:1-28:39</pages>
+<year>2012</year>
+<volume>37</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/2389241.2389247</ee>
+<url>db/journals/tods/tods37.html#LiPT12</url>
+</article>
+</r>
+<r><inproceedings key="conf/ihi/TanHMKSMGCL12" mdate="2018-11-06">
+<author pid="t/WangChiewTan">Wang Chiew Tan</author>
+<author pid="h/PeterJHaas">Peter J. Haas</author>
+<author pid="82/10496">Ronald L. Mak</author>
+<author pid="05/2613">Cheryl A. Kieliszewski</author>
+<author pid="48/1954">Patricia G. Selinger</author>
+<author pid="94/226">Paul P. Maglio</author>
+<author pid="57/941">Susanne Glissmann</author>
+<author pid="47/6544">Melissa Cefkin</author>
+<author pid="49/612">Yinan Li</author>
+<title>Splash: a platform for analysis and simulation of health.</title>
+<pages>543-552</pages>
+<year>2012</year>
+<booktitle>IHI</booktitle>
+<ee>https://doi.org/10.1145/2110363.2110424</ee>
+<crossref>conf/ihi/2012</crossref>
+<url>db/conf/ihi/ihi2012.html#TanHMKSMGCL12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/asicon/RupnowLLC11" mdate="2017-09-19">
+<author orcid="0000-0003-2908-2225" pid="27/5122">Kyle Rupnow</author>
+<author pid="83/2265">Yun Liang 0001</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="37/1234">Deming Chen</author>
+<title>A study of high-level synthesis: Promises and challenges.</title>
+<pages>1102-1105</pages>
+<year>2011</year>
+<booktitle>ASICON</booktitle>
+<ee>https://doi.org/10.1109/ASICON.2011.6157401</ee>
+<crossref>conf/asicon/2011</crossref>
+<url>db/conf/asicon/asicon2011.html#RupnowLLC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fpt/RupnowLLMDC11" mdate="2020-12-29">
+<author orcid="0000-0003-2908-2225" pid="27/5122">Kyle Rupnow</author>
+<author pid="83/2265">Yun Liang 0001</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="44/1149">Dongbo Min</author>
+<author orcid="0000-0001-5132-4986" pid="d/MinhNDo">Minh N. Do</author>
+<author pid="37/1234">Deming Chen</author>
+<title>High level synthesis of stereo matching: Productivity, performance, and software constraints.</title>
+<pages>1-8</pages>
+<year>2011</year>
+<booktitle>FPT</booktitle>
+<ee>https://doi.org/10.1109/FPT.2011.6132716</ee>
+<crossref>conf/fpt/2011</crossref>
+<url>db/conf/fpt/fpt2011.html#RupnowLLMDC11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BlanasLP11" mdate="2018-11-06">
+<author pid="65/5338">Spyros Blanas</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="p/JMPatel">Jignesh M. Patel</author>
+<title>Design and evaluation of main memory hash join algorithms for multi-core CPUs.</title>
+<pages>37-48</pages>
+<year>2011</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1989323.1989328</ee>
+<crossref>conf/sigmod/2011</crossref>
+<url>db/conf/sigmod/sigmod2011.html#BlanasLP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/LiTP11" mdate="2018-11-06">
+<author pid="49/612">Yinan Li</author>
+<author pid="71/9726">Allison Terrell</author>
+<author pid="p/JMPatel">Jignesh M. Patel</author>
+<title>WHAM: a high-throughput sequence alignment method.</title>
+<pages>445-456</pages>
+<year>2011</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1989323.1989370</ee>
+<crossref>conf/sigmod/2011</crossref>
+<url>db/conf/sigmod/sigmod2011.html#LiTP11</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/LiH0LY10" mdate="2021-10-14">
+<author pid="49/612">Yinan Li</author>
+<author orcid="0000-0001-8618-4581" pid="h/BingshengHe">Bingsheng He</author>
+<author pid="y/JunYang1">Jun Yang 0001</author>
+<author orcid="0000-0002-2861-9492" pid="l/QiongLuo">Qiong Luo 0001</author>
+<author pid="43/1219-1">Ke Yi 0001</author>
+<title>Tree Indexing on Solid State Drives.</title>
+<pages>1195-1206</pages>
+<year>2010</year>
+<volume>3</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>1</number>
+<ee type="oa">http://www.vldb.org/pvldb/vldb2010/pvldb_vol3/R106.pdf</ee>
+<ee>https://doi.org/10.14778/1920841.1920990</ee>
+<url>db/journals/pvldb/pvldb3.html#LiH0LY10</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/OnLHWLX10" mdate="2021-10-14">
+<author pid="43/7752">Sai Tung On</author>
+<author pid="49/612">Yinan Li</author>
+<author orcid="0000-0001-8618-4581" pid="h/BingshengHe">Bingsheng He</author>
+<author pid="32/2572">Ming Wu</author>
+<author orcid="0000-0002-2861-9492" pid="l/QiongLuo">Qiong Luo 0001</author>
+<author orcid="0000-0001-9404-5848" pid="x/JianliangXu">Jianliang Xu</author>
+<title>FD-buffer: a buffer manager for databases on flash disks.</title>
+<pages>1297-1300</pages>
+<year>2010</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1871437.1871605</ee>
+<crossref>conf/cikm/2010</crossref>
+<url>db/conf/cikm/cikm2010.html#OnLHWLX10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/LiHLY09" mdate="2023-03-23">
+<author pid="49/612">Yinan Li</author>
+<author orcid="0000-0001-8618-4581" pid="h/BingshengHe">Bingsheng He</author>
+<author orcid="0000-0002-2861-9492" pid="l/QiongLuo">Qiong Luo 0001</author>
+<author pid="43/1219-1">Ke Yi 0001</author>
+<title>Tree Indexing on Flash Disks.</title>
+<pages>1303-1306</pages>
+<year>2009</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2009.226</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2009.226</ee>
+<ee>https://www.wikidata.org/entity/Q56783775</ee>
+<crossref>conf/icde/2009</crossref>
+<url>db/conf/icde/icde2009.html#LiHLY09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/YangLLSS09" mdate="2023-03-24">
+<author pid="80/4136">Ke Yang</author>
+<author pid="49/612">Yinan Li</author>
+<author orcid="0000-0002-2861-9492" pid="l/QiongLuo">Qiong Luo 0001</author>
+<author pid="67/6038">Pedro V. Sander</author>
+<author pid="23/2553">Jiaoying Shi</author>
+<title>I3DC: Interactive Three-Dimensional Cubes.</title>
+<pages>1475-1478</pages>
+<year>2009</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2009.60</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2009.60</ee>
+<crossref>conf/icde/2009</crossref>
+<url>db/conf/icde/icde2009.html#YangLLSS09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/damon/HeLLY07" mdate="2021-10-14">
+<author orcid="0000-0001-8618-4581" pid="h/BingshengHe">Bingsheng He</author>
+<author pid="49/612">Yinan Li</author>
+<author orcid="0000-0002-2861-9492" pid="l/QiongLuo">Qiong Luo 0001</author>
+<author pid="65/661">Dongqing Yang</author>
+<title>A general framework for improving query processing performance on multi-level memory hierarchies.</title>
+<pages>3</pages>
+<year>2007</year>
+<booktitle>DaMoN</booktitle>
+<ee>https://doi.org/10.1145/1363189.1363193</ee>
+<crossref>conf/damon/2007</crossref>
+<url>db/conf/damon/damon2007.html#HeLLY07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/HeLLY07" mdate="2021-10-14">
+<author orcid="0000-0001-8618-4581" pid="h/BingshengHe">Bingsheng He</author>
+<author pid="49/612">Yinan Li</author>
+<author orcid="0000-0002-2861-9492" pid="l/QiongLuo">Qiong Luo 0001</author>
+<author pid="65/661">Dongqing Yang</author>
+<title>EaseDB: a cache-oblivious in-memory query processor.</title>
+<pages>1064-1066</pages>
+<year>2007</year>
+<crossref>conf/sigmod/2007</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1247480.1247607</ee>
+<url>db/conf/sigmod/sigmod2007.html#HeLLY07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/skg/LiG05" mdate="2023-03-23">
+<author pid="49/612">Yinan Li</author>
+<author pid="65/1767">Xiaolin Gui</author>
+<title>An Agent-based Grid Monitoring System Featuring Dynamic and On-demand Sensor Deployment and Management.</title>
+<pages>56</pages>
+<year>2005</year>
+<crossref>conf/skg/2005</crossref>
+<booktitle>SKG</booktitle>
+<ee>https://doi.org/10.1109/SKG.2005.33</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SKG.2005.33</ee>
+<url>db/conf/skg/skg2005.html#LiG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/IEEEscc/GuiXLQ04" mdate="2023-03-24">
+<author pid="65/1767">Xiaolin Gui</author>
+<author pid="94/2438">Bing Xie</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="08/4002">Depei Qian</author>
+<title>Study on the Behavior-based Trust Model in Grid Security System.</title>
+<pages>506-509</pages>
+<year>2004</year>
+<crossref>conf/IEEEscc/2004</crossref>
+<booktitle>IEEE SCC</booktitle>
+<ee>https://doi.org/10.1109/SCC.2004.1358053</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SCC.2004.1358053</ee>
+<url>db/conf/IEEEscc/scc2004.html#GuiXLQ04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gcc/GuiXLQ04" mdate="2017-05-24">
+<author pid="65/1767">Xiaolin Gui</author>
+<author pid="94/2438">Bing Xie</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="08/4002">Depei Qian</author>
+<title>A Grid Security Infrastructure Based on Behaviors and Trusts.</title>
+<pages>482-489</pages>
+<ee>https://doi.org/10.1007/978-3-540-30207-0_60</ee>
+<year>2004</year>
+<crossref>conf/gcc/2004-w</crossref>
+<booktitle>GCC Workshops</booktitle>
+<url>db/conf/gcc/gcc2004-w.html#GuiXLQ04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gcc/XieGLQ04" mdate="2017-05-24">
+<author pid="94/2438">Bing Xie</author>
+<author pid="65/1767">Xiaolin Gui</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="08/4002">Depei Qian</author>
+<title>A New Grid Security Framework with Dynamic Access Control.</title>
+<pages>863-866</pages>
+<ee>https://doi.org/10.1007/978-3-540-30208-7_124</ee>
+<year>2004</year>
+<crossref>conf/gcc/2004</crossref>
+<booktitle>GCC</booktitle>
+<url>db/conf/gcc/gcc2004.html#XieGLQ04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/gcc/GuiLG04" mdate="2017-05-24">
+<author pid="65/1767">Xiaolin Gui</author>
+<author pid="49/612">Yinan Li</author>
+<author pid="75/4678">Wenqiang Gong</author>
+<title>Implementing the Resource Monitoring Services in Grid Environment Using Sensors.</title>
+<pages>907-910</pages>
+<ee>https://doi.org/10.1007/978-3-540-30208-7_135</ee>
+<year>2004</year>
+<crossref>conf/gcc/2004</crossref>
+<booktitle>GCC</booktitle>
+<url>db/conf/gcc/gcc2004.html#GuiLG04</url>
+</inproceedings>
+</r>
+<coauthors n="331" nc="5">
+<co c="0"><na f="a/Acharya:Rajeev" pid="263/7214">Rajeev Acharya</na></co>
+<co c="0"><na f="a/Apeldoorn:Joran_van" pid="200/8513">Joran van Apeldoorn</na></co>
+<co c="0"><na f="b/Blanas:Spyros" pid="65/5338">Spyros Blanas</na></co>
+<co c="0"><na f="b/Botev:Chavdar" pid="b/ChavdarBotev">Chavdar Botev</na></co>
+<co c="0"><na f="b/Brooksbank:Peter_A=" pid="45/4653">Peter A. Brooksbank</na></co>
+<co c="0"><na f="b/Buenrostro:Issac" pid="166/8363">Issac Buenrostro</na></co>
+<co c="0"><na f="b/B=uuml=rgisser:Peter" pid="52/1065">Peter B&#252;rgisser</na></co>
+<co c="1"><na f="c/Caicedo=Narvaez:Carlos" pid="244/5885">Carlos Caicedo-Narvaez</na></co>
+<co c="0"><na f="c/Camacho=Rodr=iacute=guez:Jes=uacute=s" pid="26/8398">Jes&#250;s Camacho-Rodr&#237;guez</na></co>
+<co c="0"><na f="c/Cefkin:Melissa" pid="47/6544">Melissa Cefkin</na></co>
+<co c="0"><na f="c/Chandramouli:Badrish" pid="01/2861">Badrish Chandramouli</na></co>
+<co c="0"><na f="c/Chasseur:Craig" pid="134/6795">Craig Chasseur</na></co>
+<co c="0"><na f="c/Chen:Deming" pid="37/1234">Deming Chen</na></co>
+<co c="0"><na f="c/Chen:Deyong" pid="76/8406">Deyong Chen</na></co>
+<co c="0"><na f="c/Chen:Gang" pid="67/6383">Gang Chen</na></co>
+<co c="0"><na f="c/Chen:Hang" pid="87/3677">Hang Chen</na></co>
+<co c="0"><na f="c/Chen_0012:Jian" pid="49/6002-12">Jian Chen 0012</na></co>
+<co c="0"><na f="c/Chen:Jieqia" pid="366/2124">Jieqia Chen</na></co>
+<co c="0"><na f="c/Chen_0014:Ke" pid="47/6529-14">Ke Chen 0014</na></co>
+<co c="0"><na f="c/Chen:Liangbing" pid="129/9233">Liangbing Chen</na></co>
+<co c="0"><na f="c/Chen_0006:Long" pid="64/5725-6">Long Chen 0006</na></co>
+<co c="0"><na f="c/Chen:Qiuhao" pid="318/3464">Qiuhao Chen</na></co>
+<co c="0"><na f="c/Chen:Songting" pid="64/1361">Songting Chen</na></co>
+<co c="0"><na f="c/Chen:Wenxin" pid="82/8228">Wenxin Chen</na></co>
+<co c="0"><na f="c/Chen:Xiangning" pid="56/7393">Xiangning Chen</na></co>
+<co c="0"><na f="c/Chen:Xushan" pid="162/6745">Xushan Chen</na></co>
+<co c="0"><na f="c/Chen_0015:Yunfei" pid="361/3855">Yunfei Chen 0015</na></co>
+<co c="0"><na f="c/Chen:Zhanye" pid="233/6172">Zhanye Chen</na></co>
+<co c="0"><na f="c/Chen:Zhihuai" pid="245/0305">Zhihuai Chen</na></co>
+<co c="0"><na f="c/Cheng_0005:Peng" pid="76/185-5">Peng Cheng 0005</na></co>
+<co c="0"><na f="c/Cheng:Yayun" pid="170/9550">Yayun Cheng</na></co>
+<co c="1"><na f="c/Cosoroaba:Eva" pid="244/5801">Eva Cosoroaba</na></co>
+<co c="0"><na f="c/Cui:Wei" pid="42/3805">Wei Cui</na></co>
+<co c="0"><na f="d/Dai:Ying" pid="52/5861">Ying Dai</na></co>
+<co c="0"><na f="d/Dang:Hongxing" pid="186/8706">Hongxing Dang</na></co>
+<co c="0"><na f="d/Dang:Pengju" pid="211/1850">Pengju Dang</na></co>
+<co c="0"><na f="d/Das:Shirshanka" pid="69/123">Shirshanka Das</na></co>
+<co c="0"><na f="d/Dasdan:Ali" pid="28/6587">Ali Dasdan</na></co>
+<co c="0"><na f="d/Ding:Jialin" pid="145/8597">Jialin Ding</na></co>
+<co c="0"><na f="d/Do:Jaeyoung" pid="40/7404">Jaeyoung Do</na></co>
+<co c="0"><na f="d/Do:Minh_N=" pid="d/MinhNDo">Minh N. Do</na></co>
+<co c="0"><na f="d/Dong:Qi" pid="59/3833">Qi Dong</na></co>
+<co c="0"><na f="d/Dou:Haofeng" pid="170/9765">Haofeng Dou</na></co>
+<co c="0"><na f="d/Du:Wangwang" pid="343/4414">Wangwang Du</na></co>
+<co c="0"><na f="d/Du:Yuxuan" pid="222/7868">Yuxuan Du</na></co>
+<co c="0"><na f="d/Duan:Runyao" pid="74/315">Runyao Duan</na></co>
+<co c="0"><na f="d/Durner:Dominik" pid="241/5228">Dominik Durner</na></co>
+<co c="0"><na f="e/Eilebrecht:Eric" pid="18/8783">Eric Eilebrecht</na></co>
+<co c="0"><na f="e/Elmeleegy:Hazem" pid="12/2856">Hazem Elmeleegy</na></co>
+<co c="1"><na f="f/Fahimi:Babak" pid="17/5795">Babak Fahimi</na></co>
+<co c="0"><na f="f/Fan:Qingbiao" pid="206/5794">Qingbiao Fan</na></co>
+<co c="0"><na f="f/Fang:Han" pid="209/7867">Han Fang</na></co>
+<co c="0"><na f="f/Fang:Kun" pid="51/5923">Kun Fang</na></co>
+<co c="0"><na f="f/Fang:Yuqiang" pid="124/5793">Yuqiang Fang</na></co>
+<co c="0"><na f="f/Feng:Jiashi" pid="56/8278">Jiashi Feng</na></co>
+<co c="0"><na f="f/Feng_0002:Li" pid="39/456-2">Li Feng 0002</na></co>
+<co c="0"><na f="f/Feng:Yu" pid="30/4550">Yu Feng</na></co>
+<co c="0"><na f="f/Feng:Yuanjing" pid="99/9686">Yuanjing Feng</na></co>
+<co c="0"><na f="f/Fu:Shijian" pid="303/9898">Shijian Fu</na></co>
+<co c="0"><na f="f/Fu:Yongjie" pid="283/4189">Yongjie Fu</na></co>
+<co c="0"><na f="g/Gao:Bo" pid="93/2407">Bo Gao</na></co>
+<co c="0"><na f="g/Gao:Li" pid="18/4703">Li Gao</na></co>
+<co c="0"><na f="g/Gao:Wenyu" pid="92/2355">Wenyu Gao</na></co>
+<co c="0"><na f="g/Gao:Xinyi" pid="176/6793">Xinyi Gao</na></co>
+<co c="0"><na f="g/Ge_0002:Chang" pid="122/5424-2">Chang Ge 0002</na></co>
+<co c="0"><na f="g/Gehrke:Johannes" pid="g/JohannesGehrke">Johannes Gehrke</na></co>
+<co c="0"><na f="g/Gemmeke:Jort_F=" pid="12/2530">Jort F. Gemmeke</na></co>
+<co c="0"><na f="g/Glissmann:Susanne" pid="57/941">Susanne Glissmann</na></co>
+<co c="0"><na f="g/Goldstein:Jonathan" pid="g/JonathanGoldstein">Jonathan Goldstein</na></co>
+<co c="0"><na f="g/Gong:Wenqiang" pid="75/4678">Wenqiang Gong</na></co>
+<co c="0"><na f="g/Gong:Xun" pid="58/5901">Xun Gong</na></co>
+<co c="0"><na f="g/Gribling:Sander" pid="200/8633">Sander Gribling</na></co>
+<co c="0"><na f="g/Grochow:Joshua_A=" pid="39/782">Joshua A. Grochow</na></co>
+<co c="0"><na f="g/Guan:Ji" pid="205/2739">Ji Guan</na></co>
+<co c="0"><na f="g/Gui:Liangqi" pid="143/9997">Liangqi Gui</na></co>
+<co c="0"><na f="g/Gui:Xiaolin" pid="65/1767">Xiaolin Gui</na></co>
+<co c="0"><na f="g/Guo:Cheng" pid="76/5349">Cheng Guo</na></co>
+<co c="0"><na f="g/Guo:Ping" pid="33/5440">Ping Guo</na></co>
+<co c="0"><na f="h/Haas:Peter_J=" pid="h/PeterJHaas">Peter J. Haas</na></co>
+<co c="0"><na f="h/hamme:Hugo_Van" pid="77/6519">Hugo Van hamme</na></co>
+<co c="0"><na f="h/Han:Jiahao" pid="321/5086">Jiahao Han</na></co>
+<co c="0"><na f="h/Haynes:Brandon" pid="180/5761">Brandon Haynes</na></co>
+<co c="0"><na f="h/He:Bingsheng" pid="h/BingshengHe">Bingsheng He</na></co>
+<co c="0" n="2"><na f="h/He:Ren" pid="40/713">Ren He</na><na>He Ren</na></co>
+<co c="0"><na f="h/He:Yang" pid="06/1998">Yang He</na></co>
+<co c="0"><na f="h/He:Zheng" pid="61/678">Zheng He</na></co>
+<co c="0"><na f="h/He:Zixuan" pid="271/5232">Zixuan He</na></co>
+<co c="0"><na f="h/Hill:Mark_D=" pid="h/MarkDHill">Mark D. Hill</na></co>
+<co c="0"><na f="h/Hou:Zhongsheng" pid="36/1628">Zhongsheng Hou</na></co>
+<co c="0"><na f="h/Hu:Yonggang" pid="49/7213">Yonggang Hu</na></co>
+<co c="0"><na f="h/Huang:Jingjia" pid="202/1720">Jingjia Huang</na></co>
+<co c="3"><na f="h/Huang:Zhenming" pid="334/6459">Zhenming Huang</na></co>
+<co c="0"><na f="i/Interlandi:Matteo" pid="49/10034">Matteo Interlandi</na></co>
+<co c="0"><na f="j/Ji:Jiayi" pid="250/9459">Jiayi Ji</na></co>
+<co c="0"><na f="j/Ji:Jun" pid="92/3194">Jun Ji</na></co>
+<co c="0"><na f="j/Ji:Rongrong" pid="86/5681">Rongrong Ji</na></co>
+<co c="0"><na f="j/Jia:Chong" pid="68/8347">Chong Jia</na></co>
+<co c="0"><na f="j/Jiang:Chenghao" pid="131/5567">Chenghao Jiang</na></co>
+<co c="0"><na f="j/Jiang:Min" pid="35/994">Min Jiang</na></co>
+<co c="0"><na f="j/Jiang:Mingyong" pid="295/3889">Mingyong Jiang</na></co>
+<co c="0"><na f="j/Jiang:Renzhi" pid="342/0357">Renzhi Jiang</na></co>
+<co c="0"><na f="j/Jiang:Tong" pid="177/5631">Tong Jiang</na></co>
+<co c="0"><na f="j/Jiao:Yuling" pid="136/7658">Yuling Jiao</na></co>
+<co c="0"><na f="j/Jin:Anzhong" pid="211/2789">Anzhong Jin</na></co>
+<co c="0"><na f="j/Jin:Pengju" pid="210/9966">Pengju Jin</na></co>
+<co c="0"><na f="j/Jin_0002:Rong" pid="308/8430-2">Rong Jin 0002</na></co>
+<co c="0"><na f="j/Jin:Shijiu" pid="89/6017">Shijiu Jin</na></co>
+<co c="0"><na f="j/Jin:Xu" pid="70/2014">Xu Jin</na></co>
+<co c="0"><na f="k/Katsipoulakis:Nikos_R=" pid="142/7802">Nikos R. Katsipoulakis</na></co>
+<co c="1"><na f="k/Kiani:Morgan" pid="159/5166">Morgan Kiani</na></co>
+<co c="0"><na f="k/Kieliszewski:Cheryl_A=" pid="05/2613">Cheryl A. Kieliszewski</na></co>
+<co c="0"><na f="k/Kolay:Santanu" pid="52/6948">Santanu Kolay</na></co>
+<co c="0"><na f="k/Kossmann:Donald" pid="k/DonaldKossmann">Donald Kossmann</na></co>
+<co c="0"><na f="k/Kraska:Tim" pid="26/6037">Tim Kraska</na></co>
+<co c="0"><na f="l/Lang:Liang" pid="98/9621">Liang Lang</na></co>
+<co c="0"><na f="l/Larson:Per==Aring=ke" pid="l/PALarson">Per-&#197;ke Larson</na></co>
+<co c="0"><na f="l/Lei_0001:Zhenyu" pid="229/5143-1">Zhenyu Lei 0001</na></co>
+<co c="0"><na f="l/Li:Bing" pid="13/2692">Bing Li</na></co>
+<co c="0"><na f="l/Li:Chi=Kwong" pid="24/3627">Chi-Kwong Li</na></co>
+<co c="0"><na f="l/Li:Gang" pid="62/2655">Gang Li</na></co>
+<co c="0"><na f="l/Li:Geng" pid="23/3761">Geng Li</na></co>
+<co c="0"><na f="l/Li:Hao" pid="17/5705">Hao Li</na></co>
+<co c="0"><na f="l/Li_0049:Hao" pid="17/5705-49">Hao Li 0049</na></co>
+<co c="0"><na f="l/Li_0042:Jian" pid="33/5448-42">Jian Li 0042</na></co>
+<co c="0"><na f="l/Li:Jinhai" pid="69/9201">Jinhai Li</na></co>
+<co c="0"><na f="l/Li:Li" pid="53/2189">Li Li</na></co>
+<co c="0"><na f="l/Li:Pengfei" pid="10/1749">Pengfei Li</na></co>
+<co c="0"><na f="l/Li:Qingxia" pid="91/5508">Qingxia Li</na></co>
+<co c="0"><na f="l/Li_0203:Wei" pid="64/6025-203">Wei Li 0203</na></co>
+<co c="0"><na f="l/Li_0008:Xi" pid="46/2311-8">Xi Li 0008</na></co>
+<co c="0"><na f="l/Li_0020:Yan" pid="87/660-20">Yan Li 0020</na></co>
+<co c="0"><na f="l/Li_0088:Yan" pid="87/660-88">Yan Li 0088</na></co>
+<co c="0"><na f="l/Li:Yanming" pid="10/2519">Yanming Li</na></co>
+<co c="0"><na f="l/Li:Yi" pid="59/871">Yi Li</na></co>
+<co c="0"><na f="l/Li:Ying" pid="22/1805">Ying Li</na></co>
+<co c="0"><na f="l/Li_0003:Yongqiang" pid="76/6452-3">Yongqiang Li 0003</na></co>
+<co c="0"><na f="l/Liang_0001:Yun" pid="83/2265">Yun Liang 0001</na></co>
+<co c="0"><na f="l/Liao:Tongkui" pid="211/2099">Tongkui Liao</na></co>
+<co c="0"><na f="l/Lin:Mingsen" pid="53/9003">Mingsen Lin</na></co>
+<co c="0"><na f="l/Liu:Fang" pid="67/5807">Fang Liu</na></co>
+<co c="0"><na f="l/Liu_0006:Fang" pid="67/5807-6">Fang Liu 0006</na></co>
+<co c="0"><na f="l/Liu:Hao" pid="09/3214">Hao Liu</na></co>
+<co c="0"><na f="l/Liu_0001:Hao" pid="09/3214-1">Hao Liu 0001</na></co>
+<co c="0"><na f="l/Liu:Hongxia" pid="37/28">Hongxia Liu</na></co>
+<co c="0"><na f="l/Liu:Jianwei" pid="43/3771">Jianwei Liu</na></co>
+<co c="0"><na f="l/Liu:Jie" pid="03/2134">Jie Liu</na></co>
+<co c="0"><na f="l/Liu:Shubo" pid="90/4308">Shubo Liu</na></co>
+<co c="0"><na f="l/Liu_0002:Shusen" pid="36/9116-2">Shusen Liu 0002</na></co>
+<co c="0"><na f="l/Liu:Tonglai" pid="34/7806">Tonglai Liu</na></co>
+<co c="0"><na f="l/Liu:Tongliang" pid="150/6667">Tongliang Liu</na></co>
+<co c="0"><na f="l/Liu:Weili" pid="22/2743">Weili Liu</na></co>
+<co c="0"><na f="l/Liu:Xiao" pid="82/1364">Xiao Liu</na></co>
+<co c="0"><na f="l/Liu:Yukai" pid="202/6966">Yukai Liu</na></co>
+<co c="0"><na f="l/Liu:Ziyang" pid="85/5485">Ziyang Liu</na></co>
+<co c="0"><na f="l/Lohman:Guy_M=" pid="21/2457">Guy M. Lohman</na></co>
+<co c="0"><na f="l/Lomet:David_B=" pid="l/DavidBLomet">David B. Lomet</na></co>
+<co c="0"><na f="l/Long:Jun" pid="40/5250">Jun Long</na></co>
+<co c="0" n="2"><na f="l/Lowe=Power:Jason" pid="138/4166">Jason Lowe-Power</na><na>Jason Power</na></co>
+<co c="0"><na f="l/Lu:Chaolun" pid="249/8177">Chaolun Lu</na></co>
+<co c="0"><na f="l/Lu:Hailiang" pid="152/6257">Hailiang Lu</na></co>
+<co c="0"><na f="l/Lu:Jianan" pid="44/10023">Jianan Lu</na></co>
+<co c="0"><na f="l/Lu:Xiliang" pid="70/7812">Xiliang Lu</na></co>
+<co c="0"><na f="l/Luo_0001:Qiong" pid="l/QiongLuo">Qiong Luo 0001</na></co>
+<co c="3"><na f="l/Luo:Ronghua" pid="60/7089">Ronghua Luo</na></co>
+<co c="0"><na f="l/Luo:Zhangkai" pid="191/6457">Zhangkai Luo</na></co>
+<co c="0"><na f="l/Luo:Zhenyu" pid="187/1914">Zhenyu Luo</na></co>
+<co c="0"><na f="l/Lv:Ailing" pid="121/6360">Ailing Lv</na></co>
+<co c="0"><na f="l/Lv:Rongchuan" pid="142/6581">Rongchuan Lv</na></co>
+<co c="0"><na f="m/Ma:Chaofei" pid="211/2113">Chaofei Ma</na></co>
+<co c="0"><na f="m/Ma:Yifan" pid="182/7259">Yifan Ma</na></co>
+<co c="0"><na f="m/Ma:Yiwei" pid="184/9558">Yiwei Ma</na></co>
+<co c="0"><na f="m/Ma:Zehua" pid="240/2623">Zehua Ma</na></co>
+<co c="0"><na f="m/Maglio:Paul_P=" pid="94/226">Paul P. Maglio</na></co>
+<co c="1"><na f="m/Maharjan:Lizon" pid="244/6026">Lizon Maharjan</na></co>
+<co c="0"><na f="m/Mak:Ronald_L=" pid="82/10496">Ronald L. Mak</na></co>
+<co c="0"><na f="m/Mao:Yu" pid="59/5119">Yu Mao</na></co>
+<co c="0"><na f="m/Min:Dongbo" pid="44/1149">Dongbo Min</na></co>
+<co c="0"><na f="m/Min:Gang" pid="157/9293">Gang Min</na></co>
+<co c="0"><na f="m/Minhas:Umar_Farooq" pid="99/6349">Umar Farooq Minhas</na></co>
+<co c="1"><na f="m/Moallem:Mehdi" pid="78/10321">Mehdi Moallem</na></co>
+<co c="0"><na f="m/M=uuml=ller_0001:Ren=eacute=" pid="m/ReneMuller">Ren&#233; M&#252;ller 0001</na></co>
+<co c="2"><na f="n/Nayyeri:Mojtaba" pid="203/6666">Mojtaba Nayyeri</na></co>
+<co c="0"><na f="n/Nieuwboer:Harold" pid="273/3929">Harold Nieuwboer</na></co>
+<co c="0"><na f="n/Niu:Zhendong" pid="06/3613">Zhendong Niu</na></co>
+<co c="0"><na f="o/On:Sai_Tung" pid="43/7752">Sai Tung On</na></co>
+<co c="2"><na f="p/Pan:Jiaxin" pid="02/8828">Jiaxin Pan</na></co>
+<co c="0"><na f="p/Pan:Jingfeng" pid="172/4644">Jingfeng Pan</na></co>
+<co c="0"><na f="p/Pandis:Ippokratis" pid="p/IppokratisPandis">Ippokratis Pandis</na></co>
+<co c="0"><na f="p/Patel:Jignesh_M=" pid="p/JMPatel">Jignesh M. Patel</na></co>
+<co c="0"><na f="q/Qi_0002:Yan" pid="q/YanQi2">Yan Qi 0002</na></co>
+<co c="0"><na f="q/Qi:Zhenhao" pid="369/8323">Zhenhao Qi</na></co>
+<co c="0"><na f="q/Qian:Depei" pid="08/4002">Depei Qian</na></co>
+<co c="0"><na f="q/Qiao:Lin" pid="q/LinQiao">Lin Qiao</na></co>
+<co c="0"><na f="q/Qiao:Youming" pid="91/312">Youming Qiao</na></co>
+<co c="0" n="2"><na f="r/Ramamurthy:Ravishankar" pid="02/4973">Ravishankar Ramamurthy</na><na>Ravi Ramamurthy</na></co>
+<co c="0"><na f="r/Raman:Vijayshankar" pid="r/VijayshankarRaman">Vijayshankar Raman</na></co>
+<co c="0"><na f="r/Ren:Fengchao" pid="348/1939">Fengchao Ren</na></co>
+<co c="0"><na f="r/Ren:Yi" pid="75/6568">Yi Ren</na></co>
+<co c="0"><na f="r/Rupnow:Kyle" pid="27/5122">Kyle Rupnow</na></co>
+<co c="0"><na f="s/Sander:Pedro_V=" pid="67/6038">Pedro V. Sander</na></co>
+<co c="0" n="2"><na f="s/Saupp=eacute=:Allison" pid="71/9726">Allison Saupp&#233;</na><na>Allison Terrell</na></co>
+<co c="0"><na f="s/Selinger:Patricia_G=" pid="48/1954">Patricia G. Selinger</na></co>
+<co c="0"><na f="s/Sen:Rathijit" pid="08/2832">Rathijit Sen</na></co>
+<co c="4"><na f="s/Shen:Gongzhang" pid="119/0944">Gongzhang Shen</na></co>
+<co c="0"><na f="s/Shen:Shangyu" pid="142/6277">Shangyu Shen</na></co>
+<co c="0"><na f="s/Sheng:Ming" pid="04/7822">Ming Sheng</na></co>
+<co c="0"><na f="s/Shi:Jiaoying" pid="23/2553">Jiaoying Shi</na></co>
+<co c="0"><na f="s/Shi:Ruqi" pid="359/1293">Ruqi Shi</na></co>
+<co c="0" n="2"><na f="s/So:Hing=Cheung" pid="09/461">Hing-Cheung So</na><na>Hing Cheung So</na></co>
+<co c="0"><na f="s/Song:Guangnan" pid="153/8597">Guangnan Song</na></co>
+<co c="2"><na f="s/Staab:Steffen" pid="s/SteffenStaab">Steffen Staab</na></co>
+<co c="0"><na f="s/Su:Xiang" pid="30/6911">Xiang Su</na></co>
+<co c="0"><na f="s/Sun:Guoliang" pid="30/7699">Guoliang Sun</na></co>
+<co c="0"><na f="s/Sun:Lijun" pid="89/6423">Lijun Sun</na></co>
+<co c="0"><na f="s/Sun_0001:Meng" pid="81/1237-1">Meng Sun 0001</na></co>
+<co c="0"><na f="s/Sun_0001:Xiaoming" pid="87/285-1">Xiaoming Sun 0001</na></co>
+<co c="0"><na f="s/Sun:Xiaoshuai" pid="26/5787">Xiaoshuai Sun</na></co>
+<co c="0"><na f="s/Surlaker:Kapil" pid="116/5288">Kapil Surlaker</na></co>
+<co c="0"><na f="t/Takiar:Sahil" pid="166/8364">Sahil Takiar</na></co>
+<co c="0"><na f="t/Tan:Qinggui" pid="201/0708">Qinggui Tan</na></co>
+<co c="0"><na f="t/Tan:Wang_Chiew" pid="t/WangChiewTan">Wang Chiew Tan</na></co>
+<co c="0"><na f="t/Tang:Shiyang" pid="144/0341">Shiyang Tang</na></co>
+<co c="0"><na f="t/Tao:Dacheng" pid="46/3391">Dacheng Tao</na></co>
+<co c="0"><na f="t/Tian:Zhen" pid="84/8525">Zhen Tian</na></co>
+<co c="0"><na f="t/Tong_0001:Ling" pid="87/2412-1">Ling Tong 0001</na></co>
+<co c="0"><na f="t/Tu:Min" pid="152/3498">Min Tu</na></co>
+<co c="0"><na f="v/Veeramreddy:Narasimha" pid="166/8378">Narasimha Veeramreddy</na></co>
+<co c="0"><na f="w/Walter_0005:Michael" pid="66/2288-5">Michael Walter 0005</na></co>
+<co c="0"><na f="w/Wang_0001:Chi" pid="09/404-1">Chi Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Congcong" pid="120/5872">Congcong Wang</na></co>
+<co c="0"><na f="w/Wang:Decheng" pid="132/0459">Decheng Wang</na></co>
+<co c="0"><na f="w/Wang:Dizhu" pid="142/6273">Dizhu Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Haowei" pid="94/10479-1">Haowei Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Hongwei" pid="13/5641">Hongwei Wang</na></co>
+<co c="0"><na f="w/Wang:Jiakun" pid="171/0110">Jiakun Wang</na></co>
+<co c="0"><na f="w/Wang:Jian" pid="39/449">Jian Wang</na></co>
+<co c="0"><na f="w/Wang_0002:Junbo" pid="17/5974-2">Junbo Wang 0002</na></co>
+<co c="0"><na f="w/Wang:Ke" pid="181/2613">Ke Wang</na></co>
+<co c="0"><na f="w/Wang:Peicheng" pid="147/7771">Peicheng Wang</na></co>
+<co c="0"><na f="w/Wang:Ruili" pid="00/7016">Ruili Wang</na></co>
+<co c="0"><na f="w/Wang:Shishuai" pid="253/4411">Shishuai Wang</na></co>
+<co c="0"><na f="w/Wang:Wenjing" pid="42/1822">Wenjing Wang</na></co>
+<co c="0"><na f="w/Wang:Xin" pid="10/5630">Xin Wang</na></co>
+<co c="0"><na f="w/Wang_0022:Xin" pid="10/5630-22">Xin Wang 0022</na></co>
+<co c="0"><na f="w/Wen:Zhongkai" pid="309/8359">Zhongkai Wen</na></co>
+<co c="0"><na f="w/Wigderson:Avi" pid="w/AviWigderson">Avi Wigderson</na></co>
+<co c="0"><na f="w/Wigderson:Yuval" pid="157/8452">Yuval Wigderson</na></co>
+<co c="0"><na f="w/Wilmot:Peter" pid="135/4666">Peter Wilmot</na></co>
+<co c="0"><na f="w/Wilson:James_B=" pid="68/5859">James B. Wilson</na></co>
+<co c="0"><na f="w/Wolf:Ronald_de" pid="w/RonalddeWolf">Ronald de Wolf</na></co>
+<co c="0"><na f="w/Wood_0001:David_A=" pid="w/DavidAWood">David A. Wood 0001</na></co>
+<co c="0"><na f="w/Wu:Haijia" pid="157/8971">Haijia Wu</na></co>
+<co c="0"><na f="w/Wu:Jigang" pid="21/1136">Jigang Wu</na></co>
+<co c="0"><na f="w/Wu:Lulu" pid="204/0396">Lulu Wu</na></co>
+<co c="0"><na f="w/Wu:Ming" pid="32/2572">Ming Wu</na></co>
+<co c="0"><na f="w/Wu:Mingxi" pid="w/MingxiWu">Mingxi Wu</na></co>
+<co c="0"><na f="w/Wu:Xinglong" pid="269/4913">Xinglong Wu</na></co>
+<co c="0"><na f="w/Wu:Yalan" pid="18/9166">Yalan Wu</na></co>
+<co c="0"><na f="w/Wu:Yanrui" pid="234/1163">Yanrui Wu</na></co>
+<co c="0"><na f="w/Wu:Yuanchao" pid="229/5056">Yuanchao Wu</na></co>
+<co c="0"><na f="w/Wu:Zhou" pid="83/11201">Zhou Wu</na></co>
+<co c="0"><na f="x/Xia:Chunyan" pid="142/6432">Chunyan Xia</na></co>
+<co c="0"><na f="x/Xiao:Chengwang" pid="309/8946">Chengwang Xiao</na></co>
+<co c="0"><na f="x/Xie:Bing" pid="94/2438">Bing Xie</na></co>
+<co c="0"><na f="x/Xie_0001:Dong" pid="20/6977-1">Dong Xie 0001</na></co>
+<co c="0"><na f="x/Xie_0002:Xu" pid="95/7632-2">Xu Xie 0002</na></co>
+<co c="0"><na f="x/Xing:Chunxiao" pid="x/ChunxiaoXing">Chunxiao Xing</na></co>
+<co c="0"><na f="x/Xu:Jianliang" pid="x/JianliangXu">Jianliang Xu</na></co>
+<co c="0"><na f="x/Xu:Lin" pid="40/1068">Lin Xu</na></co>
+<co c="0"><na f="x/Xue:Liang" pid="52/6941">Liang Xue</na></co>
+<co c="0"><na f="y/Yan:Songhua" pid="09/10345">Songhua Yan</na></co>
+<co c="0"><na f="y/Yang:Danni" pid="324/3772">Danni Yang</na></co>
+<co c="0"><na f="y/Yang:Dongqing" pid="65/661">Dongqing Yang</na></co>
+<co c="0"><na f="y/Yang:Haitao" pid="61/5907">Haitao Yang</na></co>
+<co c="0"><na f="y/Yang:Jerry_Zhijian" pid="11/9336">Jerry Zhijian Yang</na></co>
+<co c="0"><na f="y/Yang:Jibin" pid="157/9096">Jibin Yang</na></co>
+<co c="0"><na f="y/Yang_0001:Jun" pid="y/JunYang1">Jun Yang 0001</na></co>
+<co c="0"><na f="y/Yang:Ke" pid="80/4136">Ke Yang</na></co>
+<co c="4"><na f="y/Yang:Lingyu" pid="127/2784">Lingyu Yang</na></co>
+<co c="0"><na f="y/Yang:Liu" pid="27/3367">Liu Yang</na></co>
+<co c="0"><na f="y/Yang:Xi" pid="13/1520">Xi Yang</na></co>
+<co c="0"><na f="y/Yang:Xiaojiao" pid="211/2030">Xiaojiao Yang</na></co>
+<co c="0"><na f="y/Yang:Yang" pid="48/450">Yang Yang</na></co>
+<co c="0"><na f="y/Yang:Zhan" pid="51/11433">Zhan Yang</na></co>
+<co c="0"><na f="y/Yang:Zongheng" pid="181/5822">Zongheng Yang</na></co>
+<co c="0"><na f="y/Yao:Xin" pid="202/9077">Xin Yao</na></co>
+<co c="0"><na f="y/Yi:Hui" pid="71/10593">Hui Yi</na></co>
+<co c="0"><na f="y/Yi_0001:Ke" pid="43/1219-1">Ke Yi 0001</na></co>
+<co c="0"><na f="y/Yin:Xiaobin" pid="55/8988">Xiaobin Yin</na></co>
+<co c="0"><na f="y/Ying:Mingsheng" pid="13/6525">Mingsheng Ying</na></co>
+<co c="0"><na f="y/Yu_0001:Jia" pid="86/3457-1">Jia Yu 0001</na></co>
+<co c="0"><na f="y/Yu:Nenghai" pid="96/5144">Nenghai Yu</na></co>
+<co c="0"><na f="y/Yu:Rui" pid="43/4940">Rui Yu</na></co>
+<co c="0"><na f="y/Yu:Xiao" pid="89/2407">Xiao Yu</na></co>
+<co c="0"><na f="y/Yu:Zhan" pid="33/382">Zhan Yu</na></co>
+<co c="0"><na f="y/Yuan:Pei" pid="198/0000">Pei Yuan</na></co>
+<co c="0"><na f="z/Zeng:Li" pid="77/1808">Li Zeng</na></co>
+<co c="0"><na f="z/Zeng:Zhoumo" pid="00/1547">Zhoumo Zeng</na></co>
+<co c="0"><na f="z/Zhai:Ren" pid="323/0604">Ren Zhai</na></co>
+<co c="-1"><na f="z/Zhang:Chicheng" pid="149/2402">Chicheng Zhang</na></co>
+<co c="0"><na f="z/Zhang:Chuanqi" pid="265/8205">Chuanqi Zhang</na></co>
+<co c="0"><na f="z/Zhang_0001:Fuquan" pid="142/7079-1">Fuquan Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Hantian" pid="155/9999">Hantian Zhang</na></co>
+<co c="0"><na f="z/Zhang_0001:Jialin" pid="91/2798-1">Jialin Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Juan" pid="14/2573">Juan Zhang</na></co>
+<co c="0"><na f="z/Zhang:Kaiting" pid="361/4665">Kaiting Zhang</na></co>
+<co c="0"><na f="z/Zhang:Kun" pid="96/3115">Kun Zhang</na></co>
+<co c="0"><na f="z/Zhang:Linrang" pid="06/6908">Linrang Zhang</na></co>
+<co c="0"><na f="z/Zhang:Munan" pid="359/1904">Munan Zhang</na></co>
+<co c="0"><na f="z/Zhang:Qianxi" pid="291/4798">Qianxi Zhang</na></co>
+<co c="0"><na f="z/Zhang:Sifan" pid="235/8641">Sifan Zhang</na></co>
+<co c="0"><na f="z/Zhang_0001:Weiming" pid="20/612-1">Weiming Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Wenxuan" pid="85/1177">Wenxuan Zhang</na></co>
+<co c="0"><na f="z/Zhang:Xintian" pid="343/4345">Xintian Zhang</na></co>
+<co c="0"><na f="z/Zhang:Xiongwei" pid="86/2678">Xiongwei Zhang</na></co>
+<co c="0"><na f="z/Zhang_0002:Yong" pid="66/4615-2">Yong Zhang 0002</na></co>
+<co c="0"><na f="z/Zhang:Yunjie" pid="69/2928">Yunjie Zhang</na></co>
+<co c="0"><na f="z/Zhao:Feng" pid="181/2734">Feng Zhao</na></co>
+<co c="0"><na f="z/Zhao:Yingying" pid="166/3018">Yingying Zhao</na></co>
+<co c="0"><na f="z/Zheng_0001:Wenchao" pid="177/9356-1">Wenchao Zheng 0001</na></co>
+<co c="0"><na f="z/Zhi:Huilai" pid="73/11533">Huilai Zhi</na></co>
+<co c="0"><na f="z/Zhou:Li" pid="54/40">Li Zhou</na></co>
+<co c="0"><na f="z/Zhou_0005:Nan" pid="06/5140-5">Nan Zhou 0005</na></co>
+<co c="0"><na f="z/Zhou:Weilai" pid="304/0225">Weilai Zhou</na></co>
+<co c="0"><na f="z/Zhou:Wu" pid="14/7096">Wu Zhou</na></co>
+<co c="0"><na f="z/Zhou:Yiyi" pid="174/0086">Yiyi Zhou</na></co>
+<co c="0"><na f="z/Zhu:Dong" pid="57/5560">Dong Zhu</na></co>
+<co c="0"><na f="z/Zhu:Li" pid="74/3823">Li Zhu</na></co>
+<co c="0"><na f="z/Zhu:Yifan" pid="94/1593">Yifan Zhu</na></co>
+<co c="0"><na f="z/Zou:Xia" pid="06/7721">Xia Zou</na></co>
+<co c="-1"><na f="z/Zuiddam:Jeroen" pid="162/0063">Jeroen Zuiddam</na></co>
+</coauthors>
+</dblpperson>
+
