@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<dblpperson name="Dwaipayan Roy" pid="315/0861" n="5">
+<person publtype="disambiguation" key="homepages/315/0861" mdate="2023-09-08">
+<author pid="315/0861">Dwaipayan Roy</author>
+</person>
+<homonyms n="2">
+<h f="r/Roy_0001:Dwaipayan"><person key="homepages/151/2098" mdate="2023-09-17">
+<author pid="151/2098">Dwaipayan Roy 0001</author>
+<note type="affiliation">Indian Institute of Science Education and Research, Department of Computational and Data Sciences, Kolkata, India</note>
+<note type="affiliation">GESIS - Leibniz Institute for the Social Sciences, Cologne, Germany</note>
+<url>https://dwaipayanroy.github.io/</url>
+<url>https://scholar.google.com/citations?user=zmc1M2UAAAAJ</url>
+<url>https://github.com/dwaipayanroy</url>
+<url>https://orcid.org/0000-0002-5962-5983</url>
+</person>
+</h>
+<h f="r/Roy_0002:Dwaipayan"><person key="homepages/315/0861-2" mdate="2023-09-17">
+<author pid="315/0861-2">Dwaipayan Roy 0002</author>
+<note type="affiliation">University of Virginia, Darden School of Business, Charlottesville, VA, USA</note>
+<note type="affiliation" label="PhD">University of Minnesota, Carlson School of Management, Minneapolis, MN, USA</note>
+<url>https://www.darden.virginia.edu/faculty-research/directory/dwai-roy</url>
+<url>https://orcid.org/0000-0003-2096-773X</url>
+</person>
+</h>
+</homonyms>
+<r><inproceedings key="conf/trec/GautamMR20" mdate="2021-07-07">
+<author pid="149/0758">Rahul Gautam</author>
+<author pid="85/2002">Mandar Mitra</author>
+<author pid="315/0861">Dwaipayan Roy</author>
+<title>TREC 2020 NEWS Track Background Linking Task.</title>
+<year>2020</year>
+<booktitle>TREC</booktitle>
+<ee type="oa">https://trec.nist.gov/pubs/trec29/papers/IRLABISI.N.pdf</ee>
+<crossref>conf/trec/2020</crossref>
+<url>db/conf/trec/trec2020.html#GautamMR20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aaai/RoyRM16" mdate="2023-09-05">
+<author pid="315/0861">Dwaipayan Roy</author>
+<author pid="58/9438">Kunal Ray</author>
+<author pid="85/2002">Mandar Mitra</author>
+<title>From a Scholarly Big Dataset to a Test Collection for Bibliographic Citation Recommendation.</title>
+<year>2016</year>
+<booktitle>AAAI Workshop: Scholarly Big Data</booktitle>
+<ee type="archive">http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12635</ee>
+<crossref>conf/aaai/2016data</crossref>
+<url>db/conf/aaai/data2016.html#RoyRM16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/RoyPMG16" mdate="2018-08-13">
+<author pid="315/0861">Dwaipayan Roy</author>
+<author pid="91/6381">Debjyoti Paul</author>
+<author pid="85/2002">Mandar Mitra</author>
+<author pid="81/4230">Utpal Garain</author>
+<title>Using Word Embeddings for Automatic Query Expansion.</title>
+<year>2016</year>
+<volume>abs/1606.07608</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1606.07608</ee>
+<url>db/journals/corr/corr1606.html#RoyPMG16</url>
+</article>
+</r>
+<r><inproceedings key="conf/lwa/BandyopadhyayRMS14" mdate="2023-03-10">
+<author pid="53/220">Ayan Bandyopadhyay</author>
+<author pid="315/0861">Dwaipayan Roy</author>
+<author pid="85/2002">Mandar Mitra</author>
+<author pid="95/5989">Sanjoy Kumar Saha 0001</author>
+<title>Named Entity Recognition from Tweets.</title>
+<pages>218-225</pages>
+<year>2014</year>
+<booktitle>LWA</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1226/paper33.pdf</ee>
+<crossref>conf/lwa/2014</crossref>
+<url>db/conf/lwa/lwa2014.html#BandyopadhyayRMS14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/trec/RoyBM13" mdate="2020-03-12">
+<author pid="315/0861">Dwaipayan Roy</author>
+<author pid="53/220">Ayan Bandyopadhyay</author>
+<author pid="85/2002">Mandar Mitra</author>
+<title>A Simple Context Dependent Suggestion System.</title>
+<year>2013</year>
+<booktitle>TREC</booktitle>
+<ee type="oa">http://trec.nist.gov/pubs/trec22/papers/isi-context.pdf</ee>
+<crossref>conf/trec/2013</crossref>
+<url>db/conf/trec/trec2013.html#RoyBM13</url>
+</inproceedings>
+</r>
+<coauthors n="7" nc="1">
+<co c="0"><na f="b/Bandyopadhyay:Ayan" pid="53/220">Ayan Bandyopadhyay</na></co>
+<co c="0"><na f="g/Garain:Utpal" pid="81/4230">Utpal Garain</na></co>
+<co c="0"><na f="g/Gautam:Rahul" pid="149/0758">Rahul Gautam</na></co>
+<co c="0"><na f="m/Mitra:Mandar" pid="85/2002">Mandar Mitra</na></co>
+<co c="0"><na f="p/Paul:Debjyoti" pid="91/6381">Debjyoti Paul</na></co>
+<co c="0"><na f="r/Ray:Kunal" pid="58/9438">Kunal Ray</na></co>
+<co c="0"><na f="s/Saha_0001:Sanjoy_Kumar" pid="95/5989">Sanjoy Kumar Saha 0001</na></co>
+</coauthors>
+</dblpperson>
+

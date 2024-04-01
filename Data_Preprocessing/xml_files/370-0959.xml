@@ -1,0 +1,1140 @@
+<?xml version="1.0"?>
+<dblpperson name="Dimitrios Georgakopoulos" pid="370/0959" n="68">
+<person key="homepages/370/0959" mdate="2024-03-07">
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+</person>
+<homonyms n="2">
+<h f="g/Georgakopoulos_0001:Dimitrios"><person key="homepages/82/2760" mdate="2024-03-07">
+<author pid="82/2760">Dimitrios Georgakopoulos 0001</author>
+<note type="affiliation">Swinburne University of Technology, Hawthorn, Australia</note>
+<url>https://www.swinburne.edu.au/research/our-research/access-our-research/find-a-researcher-or-supervisor/researcher-profile/?id=dgeorgakopoulos</url>
+<url>https://orcid.org/0000-0001-7880-2140</url>
+</person>
+</h>
+<h f="g/Georgakopoulos_0002:Dimitrios"><person key="homepages/82/2760-2" mdate="2024-03-07">
+<author pid="82/2760-2">Dimitrios Georgakopoulos 0002</author>
+<note type="affiliation">National Measurement Institute, Lindfield, Australia</note>
+<url>https://ieeexplore.ieee.org/author/37283748100</url>
+<url>https://ieee-ims.org/contact/dimitrios-georgakopoulos</url>
+<url>https://au.linkedin.com/in/dimitrios-georgakopoulos-b290249</url>
+<url>https://orcid.org/0000-0002-5687-7229</url>
+</person>
+</h>
+</homonyms>
+<r><inproceedings key="conf/hicss/KoralaGJY21" mdate="2022-05-04">
+<author pid="260/1256">Harindu Korala</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author pid="63/5509">Prem Prakash Jayaraman</author>
+<author pid="190/9294">Ali Yavari</author>
+<title>A Time-Sensitive IoT Data Analysis Framework.</title>
+<pages>1-10</pages>
+<year>2021</year>
+<booktitle>HICSS</booktitle>
+<ee type="oa">https://hdl.handle.net/10125/71486</ee>
+<crossref>conf/hicss/2021</crossref>
+<url>db/conf/hicss/hicss2021.html#KoralaGJY21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-06385" mdate="2021-04-21">
+<author pid="189/2658">Ranesh Kumar Naha</author>
+<author pid="04/883">Saurabh Kumar Garg 0001</author>
+<author pid="158/1997">Sudheer Kumar Battula</author>
+<author pid="92/11191">Muhammad Bilal Amin</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>Multiple Linear Regression-Based Energy-Aware Resource Allocation in the Fog Computing Environment.</title>
+<year>2021</year>
+<volume>abs/2103.06385</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.06385</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-06385</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-02819" mdate="2022-12-30">
+<author pid="226/4638">Kaneez Fizza</author>
+<author pid="63/5509">Prem Prakash Jayaraman</author>
+<author pid="06/2736">Abhik Banerjee</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author pid="68/163-1">Rajiv Ranjan 0001</author>
+<title>Evaluating Sensor Data Quality in Internet ofThings Smart Agriculture Applications.</title>
+<year>2021</year>
+<volume>abs/2105.02819</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.02819</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-02819</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2109-12964" mdate="2022-01-03">
+<author pid="06/2736">Abhik Banerjee</author>
+<author orcid="0000-0003-0237-1705" pid="148/0724">Abdur Rahim Mohammad Forkan</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author pid="260/1213">Josip Karabotic Milovac</author>
+<author pid="63/5509">Prem Prakash Jayaraman</author>
+<title>An IIoT machine model for achieving consistency in product quality in manufacturing plants.</title>
+<year>2021</year>
+<volume>abs/2109.12964</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2109.12964</ee>
+<url>db/journals/corr/corr2109.html#abs-2109-12964</url>
+</article>
+</r>
+<r><proceedings key="conf/acsw/2020" mdate="2020-02-09">
+<editor pid="63/5509">Prem Prakash Jayaraman</editor>
+<editor pid="370/0959">Dimitrios Georgakopoulos</editor>
+<editor pid="s/TimosKSellis">Timos K. Sellis</editor>
+<editor pid="148/0724">Abdur Forkan</editor>
+<title>Proceedings of the Australasian Computer Science Week, ACSW 2020, Melbourne, VIC, Australia, February 3-7, 2020</title>
+<publisher>ACM</publisher>
+<booktitle>ACSW</booktitle>
+<year>2020</year>
+<isbn>978-1-4503-7697-6</isbn>
+<ee>https://doi.org/10.1145/3373017</ee>
+<url>db/conf/acsw/acsw2020.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/iciot2/2018" mdate="2019-05-14">
+<editor pid="370/0959">Dimitrios Georgakopoulos</editor>
+<editor pid="z/LiangJieZhang">Liang-Jie Zhang</editor>
+<title>Internet of Things - ICIOT 2018 - Third International Conference, Held as Part of the Services Conference Federation, SCF 2018, Seattle, WA, USA, June 25-30, 2018, Proceedings</title>
+<booktitle>ICIOT</booktitle>
+<publisher>Springer</publisher>
+<year>2018</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>10972</volume>
+<isbn>978-3-319-94369-5</isbn>
+<isbn>978-3-319-94370-1</isbn>
+<ee>https://doi.org/10.1007/978-3-319-94370-1</ee>
+<url>db/conf/iciot2/iciot2018.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1807-00976" mdate="2022-12-30">
+<author pid="189/2658">Ranesh Kumar Naha</author>
+<author pid="04/883">Saurabh Kumar Garg 0001</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author pid="63/5509">Prem Prakash Jayaraman</author>
+<author pid="44/7500">Longxiang Gao</author>
+<author pid="98/2912-1">Yong Xiang 0001</author>
+<author pid="68/163-1">Rajiv Ranjan 0001</author>
+<title>Fog Computing: Survey of Trends, Architectures, Requirements, and Research Directions.</title>
+<year>2018</year>
+<volume>abs/1807.00976</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1807.00976</ee>
+<url>db/journals/corr/corr1807.html#abs-1807-00976</url>
+</article>
+</r>
+<r><inproceedings key="conf/hicss/YavariJGN17" mdate="2022-05-04">
+<author pid="190/9294">Ali Yavari</author>
+<author pid="63/5509">Prem Prakash Jayaraman</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author pid="22/3939">Surya Nepal</author>
+<title>ConTaaS: An Approach to Internet-Scale Contextualisation for Developing Efficient Internet of Things Applications.</title>
+<year>2017</year>
+<booktitle>HICSS</booktitle>
+<ee type="oa">https://hdl.handle.net/10125/41879</ee>
+<ee>http://aisel.aisnet.org/hicss-50/st/cloud_and_iot/2</ee>
+<crossref>conf/hicss/2017</crossref>
+<url>db/conf/hicss/hicss2017.html#YavariJGN17</url>
+<pages>1-9</pages>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/ZengGSJGR16" mdate="2022-12-30">
+<author pid="09/10501">Xuezhi Zeng</author>
+<author pid="04/883">Saurabh Kumar Garg 0001</author>
+<author pid="s/PeterEStrazdins">Peter E. Strazdins</author>
+<author pid="63/5509">Prem Prakash Jayaraman</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author pid="68/163-1">Rajiv Ranjan 0001</author>
+<title>IOTSim: a Cloud based Simulator for Analysing IoT Applications.</title>
+<year>2016</year>
+<volume>abs/1602.06488</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1602.06488</ee>
+<url>db/journals/corr/corr1602.html#ZengGSJGR16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/JayaramanPGDTR16" mdate="2022-12-30">
+<author pid="63/5509">Prem Prakash Jayaraman</author>
+<author pid="115/6940">Charith Perera</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author pid="d/SDustdar">Schahram Dustdar</author>
+<author pid="61/2159">Dhavalkumar Thakker</author>
+<author pid="68/163-1">Rajiv Ranjan 0001</author>
+<title>Analytics-as-a-Service in a Multi-Cloud Environment through Semantically enabled Hierarchical Data Processing.</title>
+<year>2016</year>
+<volume>abs/1606.07935</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1606.07935</ee>
+<url>db/journals/corr/corr1606.html#JayaramanPGDTR16</url>
+</article>
+</r>
+<r><article key="journals/tim/Georgakopoulos15" mdate="2020-06-08">
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>Maximizing the Resolution of a Dual RF Drive Programmable Josephson Voltage Standard.</title>
+<pages>1503-1508</pages>
+<year>2015</year>
+<volume>64</volume>
+<journal>IEEE Trans. Instrum. Meas.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TIM.2015.2406054</ee>
+<url>db/journals/tim/tim64.html#Georgakopoulos15</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/AlhamazaniRJMLR15" mdate="2022-12-30">
+<author pid="126/0574">Khalid Alhamazani</author>
+<author pid="68/163-1">Rajiv Ranjan 0001</author>
+<author pid="63/5509">Prem Prakash Jayaraman</author>
+<author pid="92/7791">Karan Mitra</author>
+<author pid="52/5716-1">Chang Liu 0001</author>
+<author pid="63/1104">Fethi A. Rabhi</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author pid="w/LizheWang">Lizhe Wang 0001</author>
+<title>Cross-Layer Multi-Cloud Real-Time Application QoS Monitoring and Benchmarking As-a-Service Framework.</title>
+<year>2015</year>
+<volume>abs/1502.00206</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1502.00206</ee>
+<url>db/journals/corr/corr1502.html#AlhamazaniRJMLR15</url>
+</article>
+</r>
+<r><article key="journals/eetcc/BertinoGNSV14" mdate="2020-06-25">
+<author pid="b/ElisaBertino">Elisa Bertino</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author pid="22/3939">Surya Nepal</author>
+<author pid="16/6744">Mudhakar Srivatsa</author>
+<author pid="09/6044">Alessandro Vinciarelli</author>
+<title>Guest Editorial: Selected Papers from IEEE IEEE/EAI CollaborateCom 2013.</title>
+<pages>e2</pages>
+<year>2014</year>
+<volume>1</volume>
+<number>1</number>
+<journal>EAI Endorsed Trans. Collab. Comput.</journal>
+<ee type="oa">https://doi.org/10.4108/cc.1.1.e2</ee>
+<url>db/journals/eetcc/eetcc1.html#BertinoGNSV14</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/JayaramanPGZ14" mdate="2018-08-13">
+<author pid="63/5509">Prem Prakash Jayaraman</author>
+<author pid="115/6940">Charith Perera</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author pid="z/ArkadyBZaslavsky">Arkady B. Zaslavsky</author>
+<title>MOSDEN: A Scalable Mobile Collaborative Platform for Opportunistic Sensing Applications.</title>
+<year>2014</year>
+<volume>abs/1405.5867</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1405.5867</ee>
+<url>db/journals/corr/corr1405.html#JayaramanPGZ14</url>
+</article>
+</r>
+<r><article key="journals/ijngc/ZhangRGSKH13" mdate="2023-01-03">
+<author pid="120/7672">Miranda Zhang</author>
+<author pid="68/163-1">Rajiv Ranjan 0001</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author pid="s/PeterEStrazdins">Peter Strazdins</author>
+<author pid="k/SameeUllahKhan">Samee Ullah Khan</author>
+<author pid="06/5883">Armin Haller</author>
+<title>Investigating Techniques for Automating the Selection of Cloud Infrastructure Services.</title>
+<year>2013</year>
+<volume>4</volume>
+<journal>Int. J. Next Gener. Comput.</journal>
+<number>3</number>
+<ee>http://perpetualinnovation.net/ojs/index.php/ijngc/article/view/227</ee>
+<url>db/journals/ijngc/ijngc4.html#ZhangRGSKH13</url>
+</article>
+</r>
+<r><inproceedings key="conf/colcom/BertinoG13" mdate="2021-08-08">
+<author pid="b/ElisaBertino">Elisa Bertino</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>Preface.</title>
+<year>2013</year>
+<booktitle>CollaborateCom</booktitle>
+<ee>https://ieeexplore.ieee.org/document/6679962/</ee>
+<crossref>conf/colcom/2013</crossref>
+<url>db/conf/colcom/colcom2013.html#BertinoG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semweb/PereraZCCG13" mdate="2023-03-10">
+<author pid="115/6940">Charith Perera</author>
+<author pid="z/ArkadyBZaslavsky">Arkady B. Zaslavsky</author>
+<author pid="73/1427">Michael Compton</author>
+<author pid="c/PeterChristen">Peter Christen</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>Context Aware Sensor Configuration Model for Internet of Things.</title>
+<pages>253-256</pages>
+<year>2013</year>
+<booktitle>ISWC (Posters &#38; Demos)</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-1035/iswc2013_poster_19.pdf</ee>
+<crossref>conf/semweb/2013p</crossref>
+<url>db/conf/semweb/iswc2013p.html#PereraZCCG13</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/colcom/2013" mdate="2019-10-16">
+<editor pid="b/ElisaBertino">Elisa Bertino</editor>
+<editor pid="370/0959">Dimitrios Georgakopoulos</editor>
+<editor pid="16/6744">Mudhakar Srivatsa</editor>
+<editor pid="22/3939">Surya Nepal</editor>
+<editor pid="09/6044">Alessandro Vinciarelli</editor>
+<title>9th IEEE International Conference on Collaborative Computing: Networking, Applications and Worksharing, Austin, TX, USA, October 20-23, 2013</title>
+<publisher>ICST / IEEE</publisher>
+<year>2013</year>
+<isbn>978-1-936968-92-3</isbn>
+<ee>http://eudl.eu/proceedings/COLLABORATECOM/2013</ee>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/6675896/proceeding</ee>
+<booktitle>CollaborateCom</booktitle>
+<url>db/conf/colcom/colcom2013.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1301-0157" mdate="2018-08-13">
+<author pid="115/6940">Charith Perera</author>
+<author pid="z/ArkadyBZaslavsky">Arkady B. Zaslavsky</author>
+<author pid="c/PeterChristen">Peter Christen</author>
+<author pid="35/95">Ali Salehi</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>Capturing Sensor Data from Mobile Phones using Global Sensor Network Middleware</title>
+<ee type="oa">http://arxiv.org/abs/1301.0157</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1301.0157</volume>
+<url>db/journals/corr/corr1301.html#abs-1301-0157</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1301-0159" mdate="2018-08-13">
+<author pid="z/ArkadyBZaslavsky">Arkady B. Zaslavsky</author>
+<author pid="115/6940">Charith Perera</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>Sensing as a Service and Big Data</title>
+<ee type="oa">http://arxiv.org/abs/1301.0159</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1301.0159</volume>
+<url>db/journals/corr/corr1301.html#abs-1301-0159</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1301-1084" mdate="2018-08-13">
+<author pid="115/6940">Charith Perera</author>
+<author pid="z/ArkadyBZaslavsky">Arkady B. Zaslavsky</author>
+<author pid="c/PeterChristen">Peter Christen</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>CA4IOT Context Awareness for Internet of Things</title>
+<ee type="oa">http://arxiv.org/abs/1301.1084</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1301.1084</volume>
+<url>db/journals/corr/corr1301.html#abs-1301-1084</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1301-1085" mdate="2018-08-13">
+<author pid="115/6940">Charith Perera</author>
+<author pid="z/ArkadyBZaslavsky">Arkady B. Zaslavsky</author>
+<author pid="c/PeterChristen">Peter Christen</author>
+<author pid="35/95">Ali Salehi</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>Connecting Mobile Things to Global Sensor Network Middleware using System-generated Wrappers</title>
+<ee type="oa">http://arxiv.org/abs/1301.1085</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1301.1085</volume>
+<url>db/journals/corr/corr1301.html#abs-1301-1085</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1302-1131" mdate="2018-08-13">
+<author pid="115/6940">Charith Perera</author>
+<author pid="63/5509">Prem Prakash Jayaraman</author>
+<author pid="z/ArkadyBZaslavsky">Arkady B. Zaslavsky</author>
+<author pid="c/PeterChristen">Peter Christen</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>Dynamic Configuration of Sensors Using Mobile Sensor Hub in Internet of Things Paradigm</title>
+<ee type="oa">http://arxiv.org/abs/1302.1131</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1302.1131</volume>
+<url>db/journals/corr/corr1302.html#abs-1302-1131</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1303-2447" mdate="2018-08-13">
+<author pid="115/6940">Charith Perera</author>
+<author pid="z/ArkadyBZaslavsky">Arkady B. Zaslavsky</author>
+<author pid="c/PeterChristen">Peter Christen</author>
+<author pid="73/1427">Michael Compton</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>Context-aware Sensor Search, Selection and Ranking Model for Internet of Things Middleware</title>
+<ee type="oa">http://arxiv.org/abs/1303.2447</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1303.2447</volume>
+<url>db/journals/corr/corr1303.html#abs-1303-2447</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1305-0982" mdate="2018-08-13">
+<author pid="115/6940">Charith Perera</author>
+<author pid="z/ArkadyBZaslavsky">Arkady B. Zaslavsky</author>
+<author pid="c/PeterChristen">Peter Christen</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>Context Aware Computing for The Internet of Things: A Survey</title>
+<ee type="oa">http://arxiv.org/abs/1305.0982</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1305.0982</volume>
+<url>db/journals/corr/corr1305.html#abs-1305-0982</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/PereraZCG13" mdate="2018-08-13">
+<author pid="115/6940">Charith Perera</author>
+<author pid="z/ArkadyBZaslavsky">Arkady B. Zaslavsky</author>
+<author pid="c/PeterChristen">Peter Christen</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>Sensing as a Service Model for Smart Cities Supported by Internet of Things.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1307.8198</ee>
+<volume>abs/1307.8198</volume>
+<url>db/journals/corr/corr1307.html#PereraZCG13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/PereraZCCG13" mdate="2018-08-13">
+<author pid="115/6940">Charith Perera</author>
+<author pid="z/ArkadyBZaslavsky">Arkady B. Zaslavsky</author>
+<author pid="73/1427">Michael Compton</author>
+<author pid="c/PeterChristen">Peter Christen</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>Semantic-driven Configuration of Internet of Things Middleware.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1309.1515</ee>
+<volume>abs/1309.1515</volume>
+<url>db/journals/corr/corr1309.html#PereraZCCG13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/PereraZCCG13a" mdate="2018-08-13">
+<author pid="115/6940">Charith Perera</author>
+<author pid="z/ArkadyBZaslavsky">Arkady B. Zaslavsky</author>
+<author pid="73/1427">Michael Compton</author>
+<author pid="c/PeterChristen">Peter Christen</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>Context Aware Sensor Configuration Model for Internet of Things.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1309.1811</ee>
+<volume>abs/1309.1811</volume>
+<url>db/journals/corr/corr1309.html#PereraZCCG13a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/PereraZLCCG13" mdate="2018-08-13">
+<author pid="115/6940">Charith Perera</author>
+<author pid="z/ArkadyBZaslavsky">Arkady B. Zaslavsky</author>
+<author pid="45/4723">Chi Harold Liu</author>
+<author pid="73/1427">Michael Compton</author>
+<author pid="c/PeterChristen">Peter Christen</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>Sensor Search Techniques for Sensing as a Service Architecture for The Internet of Things.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1309.3618</ee>
+<volume>abs/1309.3618</volume>
+<url>db/journals/corr/corr1309.html#PereraZLCCG13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/PereraJZCG13" mdate="2018-08-13">
+<author pid="115/6940">Charith Perera</author>
+<author pid="63/5509">Prem Prakash Jayaraman</author>
+<author pid="z/ArkadyBZaslavsky">Arkady B. Zaslavsky</author>
+<author pid="c/PeterChristen">Peter Christen</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>MOSDEN: An Internet of Things Middleware for Resource Constrained Mobile Devices.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1310.4038</ee>
+<volume>abs/1310.4038</volume>
+<url>db/journals/corr/corr1310.html#PereraJZCG13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/JayaramanPGZ13" mdate="2018-08-13">
+<author pid="63/5509">Prem Prakash Jayaraman</author>
+<author pid="115/6940">Charith Perera</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author pid="z/ArkadyBZaslavsky">Arkady B. Zaslavsky</author>
+<title>Efficient Opportunistic Sensing using Mobile Collaborative Platform MOSDEN.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1310.4052</ee>
+<volume>abs/1310.4052</volume>
+<url>db/journals/corr/corr1310.html#JayaramanPGZ13</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/PereraJZCG13a" mdate="2018-08-13">
+<author pid="115/6940">Charith Perera</author>
+<author pid="63/5509">Prem Prakash Jayaraman</author>
+<author pid="z/ArkadyBZaslavsky">Arkady B. Zaslavsky</author>
+<author pid="c/PeterChristen">Peter Christen</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>Context-aware Dynamic Discovery and Configuration of 'Things' in Smart Environments.</title>
+<year>2013</year>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1311.2134</ee>
+<volume>abs/1311.2134</volume>
+<url>db/journals/corr/corr1311.html#PereraJZCG13a</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/PereraJZCG13b" mdate="2018-08-13">
+<author pid="115/6940">Charith Perera</author>
+<author pid="63/5509">Prem Prakash Jayaraman</author>
+<author pid="z/ArkadyBZaslavsky">Arkady B. Zaslavsky</author>
+<author pid="c/PeterChristen">Peter Christen</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>Sensor Discovery and Configuration Framework for The Internet of Things Paradigm.</title>
+<year>2013</year>
+<volume>abs/1312.6721</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1312.6721</ee>
+<url>db/journals/corr/corr1312.html#PereraJZCG13b</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1206-1943" mdate="2023-01-03">
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author pid="68/163-1">Rajiv Ranjan 0001</author>
+<author pid="92/7791">Karan Mitra</author>
+<author pid="29/4724">Xiangmin Zhou</author>
+<title>MediaWise - Designing a Smart Media Cloud</title>
+<ee type="oa">http://arxiv.org/abs/1206.1943</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1206.1943</volume>
+<url>db/journals/corr/corr1206.html#abs-1206-1943</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1210-3077" mdate="2023-01-03">
+<author pid="120/7672">Miranda Zhang</author>
+<author pid="68/163-1">Rajiv Ranjan 0001</author>
+<author pid="06/5883">Armin Haller</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author pid="s/PeterEStrazdins">Peter Strazdins</author>
+<title>Investigating Decision Support Techniques for Automating Cloud Service Selection</title>
+<ee type="oa">http://arxiv.org/abs/1210.3077</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1210.3077</volume>
+<url>db/journals/corr/corr1210.html#abs-1210-3077</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1212-0156" mdate="2023-01-03">
+<author pid="120/7672">Miranda Zhang</author>
+<author pid="68/163-1">Rajiv Ranjan 0001</author>
+<author pid="06/5883">Armin Haller</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author pid="84/5432-2">Michael Menzel 0002</author>
+<author pid="22/3939">Surya Nepal</author>
+<title>An Ontology based System for Cloud Infrastructure Services Discovery</title>
+<ee type="oa">http://arxiv.org/abs/1212.0156</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1212.0156</volume>
+<url>db/journals/corr/corr1212.html#abs-1212-0156</url>
+</article>
+</r>
+<r><proceedings key="conf/colcom/2011" mdate="2019-10-16">
+<editor pid="370/0959">Dimitrios Georgakopoulos</editor>
+<editor pid="j/JamesJoshi">James B. D. Joshi</editor>
+<title>7th International Conference on Collaborative Computing: Networking, Applications and Worksharing, CollaborateCom 2011, Orlando, FL, USA, 15-18 October, 2011</title>
+<publisher>ICST / IEEE</publisher>
+<year>2011</year>
+<isbn>978-1-4673-0683-6</isbn>
+<ee>http://eudl.eu/proceedings/COLLABORATECOM/2011</ee>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/6133495/proceeding</ee>
+<booktitle>CollaborateCom</booktitle>
+<url>db/conf/colcom/colcom2011.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/colcom/SalehiPGD10" mdate="2021-08-08">
+<author pid="35/95">Ali Salehi</author>
+<author pid="161/4584">Mukkaddim Pathan</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author orcid="0000-0001-5486-6625" pid="51/10492">David Deery</author>
+<title>Collaborative information analysis for sensor-enabled scientific applications.</title>
+<pages>1-7</pages>
+<year>2010</year>
+<booktitle>CollaborateCom</booktitle>
+<ee>https://doi.org/10.4108/icst.collaboratecom.2010.39</ee>
+<ee>https://ieeexplore.ieee.org/document/5767050/</ee>
+<crossref>conf/colcom/2010</crossref>
+<url>db/conf/colcom/colcom2010.html#SalehiPGD10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/adc/Georgakopoulos09" mdate="2009-03-25">
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>Engineering Agile Systems.</title>
+<pages>5</pages>
+<year>2009</year>
+<booktitle>ADC</booktitle>
+<crossref>conf/adc/2009</crossref>
+<url>db/conf/adc/adc2009.html#Georgakopoulos09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isola/Georgakopoulos08" mdate="2018-06-26">
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>Information System Engineering Supporting Observation, Orientation, Decision, and Compliant Action.</title>
+<pages>14</pages>
+<year>2008</year>
+<booktitle>ISoLA</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-540-88479-8_2</ee>
+<crossref>conf/isola/2008</crossref>
+<url>db/conf/isola/isola2008.html#Georgakopoulos08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/otm/Georgakopoulos08" mdate="2017-05-25">
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>Engineering OODA Systems: Architectures, Applications, and Research Areas.</title>
+<pages>1215-1216</pages>
+<year>2008</year>
+<booktitle>OTM Conferences (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-540-88873-4_21</ee>
+<crossref>conf/otm/2008-2</crossref>
+<url>db/conf/otm/otm2008-2.html#Georgakopoulos08</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/wise/2007" mdate="2019-05-14">
+<editor pid="b/BoualemBenatallah">Boualem Benatallah</editor>
+<editor pid="c/FabioCasati">Fabio Casati</editor>
+<editor pid="370/0959">Dimitrios Georgakopoulos</editor>
+<editor pid="b/CBartolini">Claudio Bartolini</editor>
+<editor pid="s/WasimSadiq">Wasim Sadiq</editor>
+<editor pid="g/ClaudeGodart">Claude Godart</editor>
+<title>Web Information Systems Engineering - WISE 2007, 8th International Conference on Web Information Systems Engineering, Nancy, France, December 3-7, 2007, Proceedings</title>
+<booktitle>WISE</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>4831</volume>
+<publisher>Springer</publisher>
+<year>2007</year>
+<isbn>978-3-540-76992-7</isbn>
+<ee>https://doi.org/10.1007/978-3-540-76993-4</ee>
+<url>db/conf/wise/wise2007.html</url>
+</proceedings>
+</r>
+<r><inproceedings key="conf/sigmap/GeorgakopoulosB06" mdate="2009-09-06">
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author pid="26/6823">Donald Baker</author>
+<title>Providing Physical Security via Video Event Awareness.</title>
+<pages>240-251</pages>
+<year>2006</year>
+<booktitle>SIGMAP</booktitle>
+<crossref>conf/sigmap/2006</crossref>
+<url>db/conf/sigmap/sigmap2006.html#GeorgakopoulosB06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/saint/BakerCGN05" mdate="2023-03-23">
+<author pid="26/6823">Donald Baker</author>
+<author pid="c/AndrzejCichocki">Andrzej Cichocki</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author pid="95/2148">Marian H. Nodine</author>
+<title>Awareness-Enabled Coordination.</title>
+<pages>230-233</pages>
+<year>2005</year>
+<crossref>conf/saint/2005w</crossref>
+<booktitle>SAINT Workshops</booktitle>
+<ee>https://doi.org/10.1109/SAINTW.2005.1620018</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SAINTW.2005.42</ee>
+<url>db/conf/saint/saint2005w.html#BakerCGN05</url>
+</inproceedings>
+</r>
+<r><article key="journals/cacm/PapazoglouG03" mdate="2018-11-06">
+<author pid="p/MPPapazoglou">Mike P. Papazoglou</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>Introduction.</title>
+<pages>24-28</pages>
+<year>2003</year>
+<volume>46</volume>
+<journal>Commun. ACM</journal>
+<number>10</number>
+<ee>https://doi.org/10.1145/944217.944233</ee>
+<url>db/journals/cacm/cacm46.html#PapazoglouG03</url>
+</article>
+</r>
+<r><article key="journals/ijcis/BakerGSC02" mdate="2017-05-18">
+<author pid="26/6823">Donald Baker</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author pid="s/HansSchuster">Hans Schuster</author>
+<author pid="c/AndrzejCichocki">Andrzej Cichocki</author>
+<title>Awareness Provisioning in Collaboration Management.</title>
+<pages>145-173</pages>
+<year>2002</year>
+<volume>11</volume>
+<journal>Int. J. Cooperative Inf. Syst.</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.1142/S0218843002000522</ee>
+<url>db/journals/ijcis/ijcis11.html#BakerGSC02</url>
+</article>
+</r>
+<r><article key="journals/vldb/CasatiSG01" mdate="2017-05-28">
+<author pid="c/FabioCasati">Fabio Casati</author>
+<author pid="64/561">Ming-Chien Shan</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>E-Services - Guest editorial.</title>
+<pages>1</pages>
+<year>2001</year>
+<volume>10</volume>
+<journal>VLDB J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s007780100041</ee>
+<url>db/journals/vldb/vldb10.html#CasatiSG01</url>
+</article>
+</r>
+<r><proceedings key="conf/icde/2001" mdate="2019-10-16">
+<editor pid="370/0959">Dimitrios Georgakopoulos</editor>
+<editor pid="81/393">Alexander Buchmann</editor>
+<title>Proceedings of the 17th International Conference on Data Engineering, April 2-6, 2001, Heidelberg, Germany</title>
+<publisher>IEEE Computer Society</publisher>
+<year>2001</year>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/7304/proceeding</ee>
+<ee>https://www.computer.org/csdl/proceedings/icde/2001/1001/00/index.html</ee>
+<url>db/conf/icde/icde2001.html</url>
+<isbn>0-7695-1001-9</isbn>
+</proceedings>
+</r>
+<r><inproceedings key="conf/caise/SchusterGCB00" mdate="2017-05-24">
+<author pid="s/HansSchuster">Hans Schuster</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author pid="c/AndrzejCichocki">Andrzej Cichocki</author>
+<author pid="26/6823">Donald Baker</author>
+<title>Modeling and Composing Service-Based nd Reference Process-Based Multi-enterprise Processes.</title>
+<pages>247-263</pages>
+<ee>https://doi.org/10.1007/3-540-45140-4_17</ee>
+<year>2000</year>
+<crossref>conf/caise/2000</crossref>
+<booktitle>CAiSE</booktitle>
+<url>db/conf/caise/caise2000.html#SchusterGCB00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/GeorgakopoulosSBC00" mdate="2023-03-24">
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author pid="s/HansSchuster">Hans Schuster</author>
+<author pid="26/6823">Donald Baker</author>
+<author pid="c/AndrzejCichocki">Andrzej Cichocki</author>
+<title>Managing Escalation of Collaboration Processes in Crisis Mitigation Situations.</title>
+<pages>45-56</pages>
+<year>2000</year>
+<crossref>conf/icde/2000</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2000.839386</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2000.839386</ee>
+<url>db/conf/icde/icde2000.html#GeorgakopoulosSBC00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/SchusterBCGR00" mdate="2023-03-23">
+<author pid="s/HansSchuster">Hans Schuster</author>
+<author pid="26/6823">Donald Baker</author>
+<author pid="c/AndrzejCichocki">Andrzej Cichocki</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author pid="r/MRusinkiewicz">Marek Rusinkiewicz</author>
+<title>The Collaboration Management Infrastructure.</title>
+<pages>677-678</pages>
+<year>2000</year>
+<crossref>conf/icde/2000</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2000.839490</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2000.839490</ee>
+<url>db/conf/icde/icde2000.html#SchusterBCGR00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/tes/GeorgakopoulosCSB00" mdate="2019-08-08">
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author pid="c/AndrzejCichocki">Andrzej Cichocki</author>
+<author pid="s/HansSchuster">Hans Schuster</author>
+<author pid="26/6823">Donald Baker</author>
+<title>Process-based e-service integration.</title>
+<pages>117-134</pages>
+<year>2000</year>
+<crossref>conf/tes/2000</crossref>
+<booktitle>TES</booktitle>
+<url>db/conf/tes/tes2000.html#GeorgakopoulosCSB00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/dante/RusinkiewiczG99" mdate="2023-03-24">
+<author pid="r/MRusinkiewicz">Marek Rusinkiewicz</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>From Coordination of Workflow and Group Activities to Composition and Management of Virtual Enterprises.</title>
+<pages>3-15</pages>
+<year>1999</year>
+<crossref>conf/dante/1999</crossref>
+<booktitle>DANTE</booktitle>
+<ee>https://doi.org/10.1109/DANTE.1999.844935</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/DANTE.1999.844935</ee>
+<url>db/conf/dante/dante1999.html#RusinkiewiczG99</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigsoft/ShethGJRSWW97" mdate="2023-08-28">
+<author pid="s/AmitPSheth">Amit P. Sheth</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author pid="97/5771">Stef M. M. Joosten</author>
+<author pid="r/MRusinkiewicz">Marek Rusinkiewicz</author>
+<author pid="s/WaltScacchi">Walt Scacchi</author>
+<author pid="w/JackCWileden">Jack C. Wileden</author>
+<author pid="w/AlexanderLWolf">Alexander L. Wolf</author>
+<title>Report from the NSF workshop on workflow and process automation in information systems.</title>
+<pages>28-38</pages>
+<year>1997</year>
+<volume>22</volume>
+<journal>ACM SIGSOFT Softw. Eng. Notes</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/251759.251825</ee>
+<ee>https://www.wikidata.org/entity/Q119958810</ee>
+<url>db/journals/sigsoft/sigsoft22.html#ShethGJRSWW97</url>
+</article>
+</r>
+<r><article key="journals/ijcis/GeorgakopoulosH94" mdate="2017-05-18">
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author pid="02/5590">Mark F. Hornick</author>
+<title>A Framework for Enforceable Specification of Extended Transaction Models and Transaction Workflows.</title>
+<pages>225-254</pages>
+<year>1994</year>
+<volume>3</volume>
+<journal>Int. J. Cooperative Inf. Syst.</journal>
+<number>3</number>
+<url>db/journals/ijcis/ijcis3.html#GeorgakopoulosH94</url>
+<ee>https://doi.org/10.1142/S0218215794000144</ee>
+</article>
+</r>
+<r><article key="journals/vldb/GeorgakopoulosRL94" mdate="2020-03-12">
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author pid="r/MRusinkiewicz">Marek Rusinkiewicz</author>
+<author pid="12/2734">Witold Litwin</author>
+<title>Chronological Scheduling of Transactions with Temporal Dependencies</title>
+<journal>VLDB J.</journal>
+<volume>3</volume>
+<number>1</number>
+<year>1994</year>
+<pages>1-28</pages>
+<ee type="oa">http://www.vldb.org/journal/VLDBJ3/P001.pdf</ee>
+<url>db/journals/vldb/vldb3.html#GeorgakopoulosRL94</url>
+<cite label="Abbott &#38; Garcia-Molina 1992">journals/tods/AbbottG92</cite>
+<cite label="Bernstein et al. 1987">books/aw/BernsteinHG87</cite>
+<cite label="Berry 1986">...</cite>
+<cite label="Breitbart et al. 1991">journals/tse/BreitbartGRS91</cite>
+<cite label="Breitbart &#38; Silberschatz 1988">conf/sigmod/BreitbartS88</cite>
+<cite label="Dayal et al. 1990">conf/sigmod/DayalHL90</cite>
+<cite label="Du &#38; Elmagarmid 1989">conf/vldb/DuE89</cite>
+<cite label="Elmagarmid et al. 1991">...</cite>
+<cite label="Eswaran et al. 1976">journals/cacm/EswarranGLT76</cite>
+<cite label="Farrag &#38; Ozsu 1989">journals/tods/FarragO89</cite>
+<cite label="Garcia-Molina 1983">journals/tods/Garcia-Molina83</cite>
+<cite label="Garcia-Molina &#38; Salem 1987">conf/sigmod/Garcia-MolinaS87</cite>
+<cite label="Georgakopoulos et al. 1991">conf/icde/GeorgakopoulosRS91</cite>
+<cite label="Gray 1978">conf/ac/Gray78</cite>
+<cite label="Gray 1981">conf/vldb/Gray81</cite>
+<cite label="Gray et al. 1981">conf/berkeley/GrayHKO81</cite>
+<cite label="Herlihy 1990">journals/tods/Herlihy90</cite>
+<cite label="Jefferson 1985a">...</cite>
+<cite label="Jefferson 1985b">journals/toplas/Jefferson85</cite>
+<cite label="Jefferson et al. 1987">conf/sosp/JeffersonBWBLHLSTWWYB87</cite>
+<cite label="Jefferson &#38; Motro 1986">conf/icde/JeffersonM86</cite>
+<cite label="Korth &#38; Speegle 1988">conf/sigmod/KorthS88</cite>
+<cite label="Kumar &#38; Stonebraker 1988">conf/sigmod/KumarS88</cite>
+<cite label="Kung &#38; Robinson 1981">journals/tods/KungR81</cite>
+<cite label="Lamport 1978">journals/cacm/Lamport78</cite>
+<cite label="Leu et al. 1990">conf/vldb/ElmagarmidLLR90</cite>
+<cite label="Litwin 1988">conf/bncod/Litwin88</cite>
+<cite label="Litwin &#38; Shan 1991">...</cite>
+<cite label="Litwin &#38; Tirri 1988">...</cite>
+<cite label="Manola &#38; Tirri 1989">...</cite>
+<cite label="Manola et al. 1992">journals/ijcis/ManolaHGHB92</cite>
+<cite label="Ngu 1990">journals/is/Ngu90</cite>
+<cite label="Papadimitriou 1986">...</cite>
+<cite label="Reed 1983">journals/tocs/Reed83</cite>
+<cite label="Rusinkiewicz et al. 1990">journals/sigmod/RusinkiewiczELL90</cite>
+<cite label="Schwarz 1984">...</cite>
+<cite label="Skeen 1982a">conf/sigmod/Skeen81</cite>
+<cite label="Skeen 1982b">conf/berkeley/Skeen82</cite>
+<cite label="Weihl 1988">journals/tc/Weihl88</cite>
+<cite label="Weihl 1989">journals/toplas/Weihl89</cite>
+</article>
+</r>
+<r><inproceedings key="conf/adbis/RusinkiewiczG94" mdate="2017-02-02">
+<author pid="r/MRusinkiewicz">Marek Rusinkiewicz</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>From Transactions to Transactional Workflows: Technology and Applications.</title>
+<pages>118-119</pages>
+<year>1994</year>
+<crossref>conf/adbis/94</crossref>
+<booktitle>ADBIS</booktitle>
+<url>db/conf/adbis/adbis94.html#RusinkiewiczG94</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/GeorgakopoulosHKM94" mdate="2023-03-23">
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author pid="02/5590">Mark F. Hornick</author>
+<author pid="98/1259">Piotr Krychniak</author>
+<author pid="04/2682">Frank Manola</author>
+<title>Specification and Management of Extended Transactions in a Programmable Transaction Environment.</title>
+<pages>462-473</pages>
+<cdrom>ICDE94/P462.pdf</cdrom>
+<year>1994</year>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde94.html#GeorgakopoulosHKM94</url>
+<crossref>conf/icde/94</crossref>
+<ee>https://doi.org/10.1109/ICDE.1994.283069</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.1994.283069</ee>
+<cite label="ASRS93">conf/vldb/AttieSSR93</cite>
+<cite label="BGRS91">journals/tse/BreitbartGRS91</cite>
+<cite label="BHG87">books/aw/BernsteinHG87</cite>
+<cite label="BOHG92">books/mk/elmagarmid92/BuchmannOGM92</cite>
+<cite label="BR87">conf/icde/BadrinathR87</cite>
+<cite label="BRGP78">journals/tse/BernsteinRGP78</cite>
+<cite label="CR90">conf/sigmod/ChrysanthisR90</cite>
+<cite label="CR92">books/mk/elmagarmid92/ChrysanthisR92</cite>
+<cite label="DHL90">conf/sigmod/DayalHL90</cite>
+<cite label="DHL91">conf/vldb/DayalHL91</cite>
+<cite label="ELLR90">conf/vldb/ElmagarmidLLR90</cite>
+<cite label="FO89">journals/tods/FarragO89</cite>
+<cite label="GH92">...</cite>
+<cite label="GHK92">conf/ride/GeorgakopoulosHK93</cite>
+<cite label="GM83">journals/tods/Garcia-Molina83</cite>
+<cite label="GRL94">journals/vldb/GeorgakopoulosRL94</cite>
+<cite label="GRS91">conf/icde/GeorgakopoulosRS91</cite>
+<cite label="GRS93">journals/tkde/GeorgakopoulosRS94</cite>
+<cite label="GS87">conf/sigmod/Garcia-MolinaS87</cite>
+<cite label="Her90">journals/tods/Herlihy90</cite>
+<cite label="Lis88">journals/cacm/Liskov88</cite>
+<cite label="Lyn83">journals/tods/Lynch83</cite>
+<cite label="MHGH+92">journals/ijcis/ManolaHGHB92</cite>
+<cite label="Mos85">...</cite>
+<cite label="RC92">conf/oodbs/RamamrithamC92</cite>
+<cite label="Reut89">...</cite>
+<cite label="Wei88">journals/tc/Weihl88</cite>
+<cite label="Wei89">journals/toplas/Weihl89</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/Georgakopoulos94" mdate="2023-03-23">
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>Transactional Workflow Management in Distributed Object Computing Environments.</title>
+<pages>540</pages>
+<cdrom>ICDE94/P540.pdf</cdrom>
+<year>1994</year>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde94.html#Georgakopoulos94</url>
+<crossref>conf/icde/94</crossref>
+<ee>https://doi.org/10.1109/ICDE.1994.283079</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.1994.283079</ee>
+</inproceedings>
+</r>
+<r><article key="journals/debu/GeorgakopoulosHMBHNH93" mdate="2020-03-10">
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author pid="02/5590">Mark F. Hornick</author>
+<author pid="04/2682">Frank Manola</author>
+<author pid="95/3763">Michael L. Brodie</author>
+<author pid="61/810">Sandra Heiler</author>
+<author pid="91/563">Farshad Nayeri</author>
+<author pid="20/3449">Benjamin Hurwitz</author>
+<title>An Extended Transaction Environment for Workflows in Distributed Object Computing.</title>
+<pages>24-27</pages>
+<year>1993</year>
+<volume>16</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<cdrom>DEBU/93JUN-CD.PDF</cdrom>
+<url>db/journals/debu/debu16.html#GeorgakopoulosHMBHNH93</url>
+<ee type="oa">http://sites.computer.org/debull/93JUN-CD.pdf</ee>
+<cite label="CR92">books/mk/elmagarmid92/ChrysanthisR92</cite>
+<cite label="DHL90">conf/sigmod/DayalHL90</cite>
+<cite label="GH92">conf/ride/GeorgakopoulosHK93</cite>
+<cite label="GRS92">journals/tkde/GeorgakopoulosRS94</cite>
+<cite label="MHGH+92">journals/ijcis/ManolaHGHB92</cite>
+</article>
+</r>
+<r><article key="journals/ijcis/ManolaHGHB92" mdate="2017-05-18">
+<author pid="04/2682">Frank Manola</author>
+<author pid="61/810">Sandra Heiler</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author pid="02/5590">Mark F. Hornick</author>
+<author pid="95/3763">Michael L. Brodie</author>
+<title>Distributed Object Management.</title>
+<pages>5-42</pages>
+<year>1992</year>
+<volume>1</volume>
+<journal>Int. J. Cooperative Inf. Syst.</journal>
+<number>1</number>
+<url>db/journals/ijcis/ijcis1.html#ManolaHGHB92</url>
+<ee>https://doi.org/10.1142/S0218215792000027</ee>
+</article>
+</r>
+<r><incollection key="books/mk/elmagarmid92/BuchmannOGM92" mdate="2019-08-03">
+<author pid="b/APBuchmann">Alejandro P. Buchmann</author>
+<author pid="o/MTamerOzsu">M. Tamer &#214;zsu</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author pid="04/2682">Frank Manola</author>
+<title>A Transaction Model for Active Distributed Object Systems</title>
+<booktitle>Database Transaction Models for Advanced Applications</booktitle>
+<publisher href="db/publishers/mkp.html">Morgan Kaufmann</publisher>
+<year>1992</year>
+<crossref>books/mk/Elmagarmid92</crossref>
+<pages>123-158</pages>
+<url>db/books/collections/transaction92.html#BuchmannOGM92</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/compcon/RusinkiewiczG91" mdate="2017-05-29">
+<author pid="r/MRusinkiewicz">Marek Rusinkiewicz</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>Multidatabase transactions: impediments and opportunities.</title>
+<pages>137-144</pages>
+<year>1991</year>
+<booktitle>Compcon</booktitle>
+<ee>https://doi.org/10.1109/CMPCON.1991.128797</ee>
+<crossref>conf/compcon/1991</crossref>
+<url>db/conf/compcon/compcon91.html#RusinkiewiczG91</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/GeorgakopoulosRS91" mdate="2023-03-24">
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<author pid="r/MRusinkiewicz">Marek Rusinkiewicz</author>
+<author pid="s/AmitPSheth">Amit P. Sheth</author>
+<title>On Serializability of Multidatabase Transactions Through Forced Local Conflicts.</title>
+<pages>314-323</pages>
+<cdrom>ICDE91/P314.pdf</cdrom>
+<year>1991</year>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde91.html#GeorgakopoulosRS91</url>
+<crossref>conf/icde/91</crossref>
+<ee>https://doi.org/10.1109/ICDE.1991.131479</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.1991.131479</ee>
+<ee>https://www.wikidata.org/entity/Q60961826</ee>
+<cite>journals/debu/AlonsoGS87</cite>
+<cite>books/aw/BernsteinHG87</cite>
+<cite>...</cite>
+<cite>conf/sigmod/BreitbartS88</cite>
+<cite>journals/debu/BreitbartST87</cite>
+<cite>conf/sigmod/BreitbartST90</cite>
+<cite>conf/vldb/DuE89</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/icde/ElmagarmidH88</cite>
+<cite>journals/cacm/EswarranGLT76</cite>
+<cite>conf/sigmod/Garcia-MolinaS87</cite>
+<cite>...</cite>
+<cite>conf/ddss/GligorP84</cite>
+<cite>conf/vldb/Gray81</cite>
+<cite>journals/tods/KungR81</cite>
+<cite>conf/bncod/Litwin88</cite>
+<cite>...</cite>
+<cite>conf/vldb/PonsV88</cite>
+<cite>conf/icde/Pu88</cite>
+<cite>journals/sigmod/RusinkiewiczELL90</cite>
+<cite>conf/parbase/WolskiV90</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ride/Georgakopoulos91" mdate="2012-09-18">
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>Multidatabase Recoverability and Recovery.</title>
+<pages>348-355</pages>
+<year>1991</year>
+<crossref>conf/ride/91</crossref>
+<booktitle>RIDE-IMS</booktitle>
+<url>db/conf/ride/ride91.html#Georgakopoulos91</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="tr/gte/TR-0146-06-91-165" mdate="2019-10-25">
+<author pid="b/APBuchmann">Alejandro P. Buchmann</author>
+<author pid="o/MTamerOzsu">M. Tamer &#214;zsu</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>Towards a Transaction Management System for DOM.</title>
+<journal>GTE Laboratories Incorporated</journal>
+<volume>TR-0146-06-91-165</volume>
+<month>June</month>
+<year>1991</year>
+<url>db/journals/gtelab/index.html#TR-0146-06-91-165</url>
+</article>
+</r>
+<r><inproceedings key="conf/srds/RusinkiewiczG88" mdate="2023-03-24">
+<author pid="r/MRusinkiewicz">Marek Rusinkiewicz</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>Transaction Management in a Distributed Database System for Local Area Networks.</title>
+<pages>177-182</pages>
+<year>1988</year>
+<crossref>conf/srds/1988</crossref>
+<booktitle>SRDS</booktitle>
+<url>db/conf/srds/srds88.html#RusinkiewiczG88</url>
+<ee>https://doi.org/10.1109/RELDIS.1988.25793</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/RELDIS.1988.25793</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fjcc/RusinkiewiczG86" mdate="2006-05-04">
+<author pid="r/MRusinkiewicz">Marek Rusinkiewicz</author>
+<author pid="370/0959">Dimitrios Georgakopoulos</author>
+<title>Request II - A Distributed Database System for Local Area Networks.</title>
+<pages>1179-1188</pages>
+<year>1986</year>
+<crossref>conf/fjcc/1986</crossref>
+<booktitle>FJCC</booktitle>
+<url>db/conf/fjcc/fjcc86.html#RusinkiewiczG86</url>
+</inproceedings>
+</r>
+<coauthors n="71" nc="1">
+<co c="0"><na f="a/Alhamazani:Khalid" pid="126/0574">Khalid Alhamazani</na></co>
+<co c="0"><na f="a/Amin:Muhammad_Bilal" pid="92/11191">Muhammad Bilal Amin</na></co>
+<co c="0"><na f="b/Baker:Donald" pid="26/6823">Donald Baker</na></co>
+<co c="0"><na f="b/Banerjee:Abhik" pid="06/2736">Abhik Banerjee</na></co>
+<co c="0"><na f="b/Bartolini:Claudio" pid="b/CBartolini">Claudio Bartolini</na></co>
+<co c="0"><na f="b/Battula:Sudheer_Kumar" pid="158/1997">Sudheer Kumar Battula</na></co>
+<co c="0"><na f="b/Benatallah:Boualem" pid="b/BoualemBenatallah">Boualem Benatallah</na></co>
+<co c="0"><na f="b/Bertino:Elisa" pid="b/ElisaBertino">Elisa Bertino</na></co>
+<co c="0"><na f="b/Brodie:Michael_L=" pid="95/3763">Michael L. Brodie</na></co>
+<co c="0"><na f="b/Buchmann:Alejandro_P=" pid="b/APBuchmann">Alejandro P. Buchmann</na></co>
+<co c="-1"><na f="b/Buchmann:Alexander" pid="81/393">Alexander Buchmann</na></co>
+<co c="0"><na f="c/Casati:Fabio" pid="c/FabioCasati">Fabio Casati</na></co>
+<co c="0"><na f="c/Christen:Peter" pid="c/PeterChristen">Peter Christen</na></co>
+<co c="0"><na f="c/Cichocki:Andrzej" pid="c/AndrzejCichocki">Andrzej Cichocki</na></co>
+<co c="0"><na f="c/Compton:Michael" pid="73/1427">Michael Compton</na></co>
+<co c="0"><na f="d/Deery:David" pid="51/10492">David Deery</na></co>
+<co c="0"><na f="d/Dustdar:Schahram" pid="d/SDustdar">Schahram Dustdar</na></co>
+<co c="0"><na f="f/Fizza:Kaneez" pid="226/4638">Kaneez Fizza</na></co>
+<co c="0" n="2"><na f="f/Forkan:Abdur" pid="148/0724">Abdur Forkan</na><na>Abdur Rahim Mohammad Forkan</na></co>
+<co c="0"><na f="g/Gao:Longxiang" pid="44/7500">Longxiang Gao</na></co>
+<co c="0"><na f="g/Garg_0001:Saurabh_Kumar" pid="04/883">Saurabh Kumar Garg 0001</na></co>
+<co c="0"><na f="g/Godart:Claude" pid="g/ClaudeGodart">Claude Godart</na></co>
+<co c="0"><na f="h/Haller:Armin" pid="06/5883">Armin Haller</na></co>
+<co c="0"><na f="h/Heiler:Sandra" pid="61/810">Sandra Heiler</na></co>
+<co c="0"><na f="h/Hornick:Mark_F=" pid="02/5590">Mark F. Hornick</na></co>
+<co c="0"><na f="h/Hurwitz:Benjamin" pid="20/3449">Benjamin Hurwitz</na></co>
+<co c="0"><na f="j/Jayaraman:Prem_Prakash" pid="63/5509">Prem Prakash Jayaraman</na></co>
+<co c="0" n="2"><na f="j/Joosten:Stef" pid="97/5771">Stef Joosten</na><na>Stef M. M. Joosten</na></co>
+<co c="0"><na f="j/Joshi:James_B=_D=" pid="j/JamesJoshi">James B. D. Joshi</na></co>
+<co c="0"><na f="k/Khan:Samee_Ullah" pid="k/SameeUllahKhan">Samee Ullah Khan</na></co>
+<co c="0"><na f="k/Korala:Harindu" pid="260/1256">Harindu Korala</na></co>
+<co c="0"><na f="k/Krychniak:Piotr" pid="98/1259">Piotr Krychniak</na></co>
+<co c="0"><na f="l/Litwin:Witold" pid="12/2734">Witold Litwin</na></co>
+<co c="0"><na f="l/Liu_0001:Chang" pid="52/5716-1">Chang Liu 0001</na></co>
+<co c="0"><na f="l/Liu:Chi_Harold" pid="45/4723">Chi Harold Liu</na></co>
+<co c="0"><na f="m/Manola:Frank" pid="04/2682">Frank Manola</na></co>
+<co c="0"><na f="m/Menzel_0002:Michael" pid="84/5432-2">Michael Menzel 0002</na></co>
+<co c="0"><na f="m/Milovac:Josip_Karabotic" pid="260/1213">Josip Karabotic Milovac</na></co>
+<co c="0"><na f="m/Mitra:Karan" pid="92/7791">Karan Mitra</na></co>
+<co c="0"><na f="n/Naha:Ranesh_Kumar" pid="189/2658">Ranesh Kumar Naha</na></co>
+<co c="0"><na f="n/Nayeri:Farshad" pid="91/563">Farshad Nayeri</na></co>
+<co c="0"><na f="n/Nepal:Surya" pid="22/3939">Surya Nepal</na></co>
+<co c="0"><na f="n/Nodine:Marian_H=" pid="95/2148">Marian H. Nodine</na></co>
+<co c="0"><na f="=/=Ouml=zsu:M=_Tamer" pid="o/MTamerOzsu">M. Tamer &#214;zsu</na></co>
+<co c="0"><na f="p/Papazoglou:Mike_P=" pid="p/MPPapazoglou">Mike P. Papazoglou</na></co>
+<co c="0"><na f="p/Pathan:Mukkaddim" pid="161/4584">Mukkaddim Pathan</na></co>
+<co c="0"><na f="p/Perera:Charith" pid="115/6940">Charith Perera</na></co>
+<co c="0"><na f="r/Rabhi:Fethi_A=" pid="63/1104">Fethi A. Rabhi</na></co>
+<co c="0"><na f="r/Ranjan_0001:Rajiv" pid="68/163-1">Rajiv Ranjan 0001</na></co>
+<co c="0"><na f="r/Rusinkiewicz:Marek" pid="r/MRusinkiewicz">Marek Rusinkiewicz</na></co>
+<co c="0"><na f="s/Sadiq:Wasim" pid="s/WasimSadiq">Wasim Sadiq</na></co>
+<co c="0"><na f="s/Salehi:Ali" pid="35/95">Ali Salehi</na></co>
+<co c="0"><na f="s/Scacchi:Walt" pid="s/WaltScacchi">Walt Scacchi</na></co>
+<co c="0"><na f="s/Schuster:Hans" pid="s/HansSchuster">Hans Schuster</na></co>
+<co c="0"><na f="s/Sellis:Timos_K=" pid="s/TimosKSellis">Timos K. Sellis</na></co>
+<co c="0"><na f="s/Shan:Ming=Chien" pid="64/561">Ming-Chien Shan</na></co>
+<co c="0"><na f="s/Sheth:Amit_P=" pid="s/AmitPSheth">Amit P. Sheth</na></co>
+<co c="0"><na f="s/Srivatsa:Mudhakar" pid="16/6744">Mudhakar Srivatsa</na></co>
+<co c="0" n="2"><na f="s/Strazdins:Peter_E=" pid="s/PeterEStrazdins">Peter E. Strazdins</na><na>Peter Strazdins</na></co>
+<co c="0"><na f="t/Thakker:Dhavalkumar" pid="61/2159">Dhavalkumar Thakker</na></co>
+<co c="0"><na f="v/Vinciarelli:Alessandro" pid="09/6044">Alessandro Vinciarelli</na></co>
+<co c="0"><na f="w/Wang_0001:Lizhe" pid="w/LizheWang">Lizhe Wang 0001</na></co>
+<co c="0"><na f="w/Wileden:Jack_C=" pid="w/JackCWileden">Jack C. Wileden</na></co>
+<co c="0"><na f="w/Wolf:Alexander_L=" pid="w/AlexanderLWolf">Alexander L. Wolf</na></co>
+<co c="0"><na f="x/Xiang_0001:Yong" pid="98/2912-1">Yong Xiang 0001</na></co>
+<co c="0"><na f="y/Yavari:Ali" pid="190/9294">Ali Yavari</na></co>
+<co c="0"><na f="z/Zaslavsky:Arkady_B=" pid="z/ArkadyBZaslavsky">Arkady B. Zaslavsky</na></co>
+<co c="0"><na f="z/Zeng:Xuezhi" pid="09/10501">Xuezhi Zeng</na></co>
+<co c="0"><na f="z/Zhang:Liang=Jie" pid="z/LiangJieZhang">Liang-Jie Zhang</na></co>
+<co c="0"><na f="z/Zhang:Miranda" pid="120/7672">Miranda Zhang</na></co>
+<co c="0"><na f="z/Zhou:Xiangmin" pid="29/4724">Xiangmin Zhou</na></co>
+</coauthors>
+</dblpperson>
+

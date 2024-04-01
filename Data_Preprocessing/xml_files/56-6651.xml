@@ -1,0 +1,647 @@
+<?xml version="1.0"?>
+<dblpperson name="Lina Yao" pid="56/6651" n="40">
+<person publtype="disambiguation" key="homepages/56/6651" mdate="2022-05-10">
+<author pid="56/6651">Lina Yao</author>
+</person>
+<homonyms n="2">
+<h f="y/Yao_0001:Lina"><person key="homepages/56/6651-1" mdate="2023-09-17">
+<author pid="56/6651-1">Lina Yao 0001</author>
+<note type="affiliation">University of New South Wales, School of Computer Science and Engineering, Kensington, NSW, Australia</note>
+<note type="affiliation" label="PhD 2014">University of Adelaide, SA, Australia</note>
+<url>https://www.linayao.com/</url>
+<url>https://scholar.google.com/citations?user=EU3snBgAAAAJ</url>
+<url>https://orcid.org/0000-0002-4149-839X</url>
+<url>https://orcid.org/0000-0003-2772-0385</url>
+</person>
+</h>
+<h f="y/Yao_0002:Lina"><person key="homepages/56/6651-2" mdate="2022-05-10">
+<author pid="56/6651-2">Lina Yao 0002</author>
+<note type="affiliation">Zhengzhou University, School of Electrical Engineering, China</note>
+<url>https://orcid.org/0000-0003-2235-7556</url>
+</person>
+</h>
+</homonyms>
+<r><article publtype="informal" key="journals/corr/abs-2401-01625" mdate="2024-01-15">
+<author pid="365/3943">Enbo He</author>
+<author pid="365/4035">Yitong Hao</author>
+<author pid="47/722">Yue Zhang</author>
+<author pid="25/2295">Guisheng Yin</author>
+<author pid="56/6651">Lina Yao</author>
+<title>SCALA: Sparsification-based Contrastive Learning for Anomaly Detection on Attributed Networks.</title>
+<year>2024</year>
+<volume>abs/2401.01625</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.01625</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-01625</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2401-09716" mdate="2024-02-02">
+<author pid="288/1341">Guanglin Zhou</author>
+<author pid="181/7439">Zhongyi Han</author>
+<author pid="63/3682-2">Shiming Chen 0002</author>
+<author pid="165/3288">Biwei Huang</author>
+<author pid="52/4318-1">Liming Zhu 0001</author>
+<author pid="150/6667">Tongliang Liu</author>
+<author pid="56/6651">Lina Yao</author>
+<author pid="96/3115-1">Kun Zhang 0001</author>
+<title>HCVP: Leveraging Hierarchical Contrastive Visual Prompt for Domain Generalization.</title>
+<year>2024</year>
+<volume>abs/2401.09716</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.09716</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-09716</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2402-09023" mdate="2024-02-19">
+<author pid="202/5823">Shiyi Yang</author>
+<author pid="56/6651">Lina Yao</author>
+<author pid="82/4206">Chen Wang</author>
+<author pid="47/3196-1">Xiwei Xu 0001</author>
+<author pid="52/4318-1">Liming Zhu 0001</author>
+<title>Review-Incorporated Model-Agnostic Profile Injection Attacks on Recommender Systems.</title>
+<year>2024</year>
+<volume>abs/2402.09023</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2402.09023</ee>
+<url>db/journals/corr/corr2402.html#abs-2402-09023</url>
+</article>
+</r>
+<r><article key="journals/jfi/LiY23" mdate="2023-03-25">
+<author pid="157/8989">Lifan Li</author>
+<author pid="56/6651">Lina Yao</author>
+<title>Fault tolerant compensation strategy for stochastic distribution systems with communication constraints.</title>
+<pages>2344-2360</pages>
+<year>2023</year>
+<month>February</month>
+<volume>360</volume>
+<journal>J. Frankl. Inst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.jfranklin.2022.10.051</ee>
+<url>db/journals/jfi/jfi360.html#LiY23</url>
+</article>
+</r>
+<r><article key="journals/jocsae/WangCZZY23" mdate="2023-04-29">
+<author pid="218/2005">Qianyu Wang</author>
+<author pid="82/6806">Dong Cao</author>
+<author pid="09/1709">Shuyuan Zhang</author>
+<author pid="344/0580">Yuzan Zhou</author>
+<author orcid="0000-0003-3819-5643" pid="56/6651">Lina Yao</author>
+<title>The Cable Fault Diagnosis for XLPE Cable Based on 1DCNNs-BiLSTM Network.</title>
+<pages>1068078:1-1068078:10</pages>
+<year>2023</year>
+<volume>2023</volume>
+<journal>J. Control. Sci. Eng.</journal>
+<ee type="oa">https://doi.org/10.1155/2023/1068078</ee>
+<url>db/journals/jocsae/jocsae2023.html#WangCZZY23</url>
+</article>
+</r>
+<r><inproceedings key="conf/ijcnn/ZhangHY23" mdate="2023-08-09">
+<author pid="148/7274">Yihong Zhang 0001</author>
+<author pid="40/2808">Takahiro Hara</author>
+<author pid="56/6651">Lina Yao</author>
+<title>Biased or Debiased: Polarization-aware Embedding Learning from Social Media Knowledge Graph.</title>
+<pages>1-8</pages>
+<year>2023</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN54540.2023.10191992</ee>
+<crossref>conf/ijcnn/2023</crossref>
+<url>db/conf/ijcnn/ijcnn2023.html#ZhangHY23</url>
+</inproceedings>
+</r>
+<r><article key="journals/jocsae/ZhangWY22" mdate="2023-08-13">
+<author pid="84/8092">Chang Zhang</author>
+<author pid="313/1577">Yawei Wu</author>
+<author pid="56/6651">Lina Yao</author>
+<title>Fault Diagnosis and Fault-Tolerant Control for Leader-Follower Multi-Agent Systems with Time Delay.</title>
+<pages>1-11</pages>
+<year>2022</year>
+<volume>2022</volume>
+<journal>J. Control. Sci. Eng.</journal>
+<ee type="oa">https://doi.org/10.1155/2022/1850090</ee>
+<url>db/journals/jocsae/jocsae2022.html#ZhangWY22</url>
+</article>
+</r>
+<r><article key="journals/ijsysc/LiY21" mdate="2021-11-08">
+<author pid="157/8989">Lifan Li</author>
+<author pid="56/6651">Lina Yao</author>
+<title>Incipient fault prediction based on generalised correntropy filtering for non-Gaussian stochastic systems.</title>
+<pages>3035-3043</pages>
+<year>2021</year>
+<volume>52</volume>
+<journal>Int. J. Syst. Sci.</journal>
+<number>14</number>
+<ee>https://doi.org/10.1080/00207721.2021.1918281</ee>
+<url>db/journals/ijsysc/ijsysc52.html#LiY21</url>
+</article>
+</r>
+<r><article key="journals/complexity/LiY20" mdate="2020-09-24">
+<author pid="157/8989">Lifan Li</author>
+<author orcid="0000-0003-3819-5643" pid="56/6651">Lina Yao</author>
+<title>Discrete-Time 2-Order Sliding Mode Fault-Tolerant Tracking Control for Non-Gaussian Nonlinear Stochastic Distribution Control Systems with Missing Measurements.</title>
+<pages>9704861:1-9704861:13</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>Complex.</journal>
+<ee type="oa">https://doi.org/10.1155/2020/9704861</ee>
+<url>db/journals/complexity/complexity2020.html#LiY20</url>
+</article>
+</r>
+<r><article key="journals/jr/YaoL20" mdate="2020-08-06">
+<author orcid="0000-0003-3819-5643" pid="56/6651">Lina Yao</author>
+<author pid="174/4384">Fengzhe Li</author>
+<title>Mobile Robot Localization Based on Vision and Multisensor.</title>
+<pages>8701619:1-8701619:11</pages>
+<year>2020</year>
+<volume>2020</volume>
+<journal>J. Robotics</journal>
+<ee type="oa">https://doi.org/10.1155/2020/8701619</ee>
+<url>db/journals/jr/jr2020.html#YaoL20</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/ZhangSYC20" mdate="2023-09-08">
+<author pid="116/7852">Chaoyi Zhang</author>
+<author pid="24/4470-1">Yang Song 0001</author>
+<author pid="56/6651">Lina Yao</author>
+<author orcid="0000-0003-3706-8896" pid="c/WeidongCai">Weidong Cai 0001</author>
+<title>Shape-Oriented Convolution Neural Network for Point Cloud Analysis.</title>
+<pages>12773-12780</pages>
+<year>2020</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v34i07.6972</ee>
+<crossref>conf/aaai/2020</crossref>
+<url>db/conf/aaai/aaai2020.html#ZhangSYC20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-09411" mdate="2020-07-21">
+<author pid="116/7852">Chaoyi Zhang</author>
+<author pid="24/4470-1">Yang Song 0001</author>
+<author pid="56/6651">Lina Yao</author>
+<author pid="c/WeidongCai">Weidong Cai 0001</author>
+<title>Shape-Oriented Convolution Neural Network for Point Cloud Analysis.</title>
+<year>2020</year>
+<volume>abs/2004.09411</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.09411</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-09411</url>
+</article>
+</r>
+<r><article key="journals/ijsysc/YaoLGW19" mdate="2021-10-14">
+<author pid="56/6651">Lina Yao</author>
+<author pid="157/8989">Lifan Li</author>
+<author orcid="0000-0003-0004-7645" pid="169/7625">Yacun Guan</author>
+<author pid="181/2812">Hao Wang</author>
+<title>Fault diagnosis and fault-tolerant control for non-Gaussian nonlinear stochastic systems via entropy optimisation.</title>
+<pages>2552-2564</pages>
+<year>2019</year>
+<volume>50</volume>
+<journal>Int. J. Syst. Sci.</journal>
+<number>13</number>
+<ee>https://doi.org/10.1080/00207721.2019.1671535</ee>
+<url>db/journals/ijsysc/ijsysc50.html#YaoLGW19</url>
+</article>
+</r>
+<r><article key="journals/jmis/NanYHLL19" mdate="2022-06-23">
+<author pid="93/4137">Guofang Nan</author>
+<author pid="56/6651">Lina Yao</author>
+<author pid="207/0219">Yi-Chun (Chad) Ho</author>
+<author orcid="0000-0001-9398-7606" pid="59/5464-12">Zhiyong Li 0012</author>
+<author pid="02/1225">Minqiang Li</author>
+<title>An Economic Analysis of Platform Protection in the Presence of Content Substitutability.</title>
+<pages>1002-1036</pages>
+<year>2019</year>
+<volume>36</volume>
+<journal>J. Manag. Inf. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1080/07421222.2019.1628952</ee>
+<url>db/journals/jmis/jmis36.html#NanYHLL19</url>
+</article>
+</r>
+<r><article key="journals/jocsae/HongYG19" mdate="2023-08-20">
+<author pid="353/9598">Bowen Hong</author>
+<author pid="56/6651">Lina Yao</author>
+<author orcid="0000-0001-5464-3288" pid="122/7149">Zhiwei Gao 0001</author>
+<title>Integrated Sensor Fault Diagnosis and Fault-Tolerant Control for Manipulator.</title>
+<pages>1-10</pages>
+<year>2019</year>
+<volume>2019</volume>
+<journal>J. Control. Sci. Eng.</journal>
+<ee type="oa">https://doi.org/10.1155/2019/4751080</ee>
+<url>db/journals/jocsae/jocsae2019.html#HongYG19</url>
+</article>
+</r>
+<r><inproceedings key="conf/caasafeproc/WangY19" mdate="2021-08-17">
+<author pid="181/2812">Hao Wang</author>
+<author pid="56/6651">Lina Yao</author>
+<title>Sensor Fault Diagnosis and Fault Tolerant Control for Stochastic Distribution Time-delayed Control Systems.</title>
+<pages>720-725</pages>
+<year>2019</year>
+<booktitle>CAA SAFEPROCESS</booktitle>
+<ee>https://doi.org/10.1109/SAFEPROCESS45799.2019.9213313</ee>
+<crossref>conf/caasafeproc/2019</crossref>
+<url>db/conf/caasafeproc/caasafeproc2019.html#WangY19</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijmic/YaoW18" mdate="2020-09-17">
+<author pid="56/6651">Lina Yao</author>
+<author pid="28/3021">Haoran Wang</author>
+<title>Fault diagnosis and fault tolerant control for the non-Gaussian nonlinear stochastic distribution control system using Takagi-Sugeno fuzzy model.</title>
+<pages>22-30</pages>
+<year>2018</year>
+<volume>29</volume>
+<journal>Int. J. Model. Identif. Control.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1504/IJMIC.2018.10010550</ee>
+<url>db/journals/ijmic/ijmic29.html#YaoW18</url>
+</article>
+</r>
+<r><article key="journals/ijsysc/LiY18" mdate="2020-07-22">
+<author pid="157/8989">Lifan Li</author>
+<author pid="56/6651">Lina Yao</author>
+<title>Minimum rational entropy fault tolerant control for non-Gaussian singular stochastic distribution control systems using T-S fuzzy modelling.</title>
+<pages>2900-2911</pages>
+<year>2018</year>
+<volume>49</volume>
+<journal>Int. J. Syst. Sci.</journal>
+<number>14</number>
+<ee>https://doi.org/10.1080/00207721.2018.1526984</ee>
+<url>db/journals/ijsysc/ijsysc49.html#LiY18</url>
+</article>
+</r>
+<r><article key="journals/remotesensing/XuZY18" mdate="2020-05-11">
+<author pid="224/4296">Erqi Xu</author>
+<author pid="15/693">Hongqi Zhang</author>
+<author pid="56/6651">Lina Yao</author>
+<title>An Elevation-Based Stratification Model for Simulating Land Use Change.</title>
+<pages>1730</pages>
+<year>2018</year>
+<volume>10</volume>
+<journal>Remote. Sens.</journal>
+<number>11</number>
+<ee type="oa">https://doi.org/10.3390/rs10111730</ee>
+<url>db/journals/remotesensing/remotesensing10.html#XuZY18</url>
+</article>
+</r>
+<r><article key="journals/bmcbi/YaoTTL17" mdate="2020-10-26">
+<author orcid="0000-0003-1018-5646" pid="56/6651">Lina Yao</author>
+<author pid="195/7629">Kenneth Wei Min Tan</author>
+<author pid="33/1961">Tin Wee Tan</author>
+<author pid="195/7686">Yuan Kun Lee</author>
+<title>Exploring the transcriptome of non-model oleaginous microalga Dunaliella tertiolecta through high-throughput sequencing and high performance computing.</title>
+<pages>122:1-122:11</pages>
+<year>2017</year>
+<volume>18</volume>
+<journal>BMC Bioinform.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s12859-017-1551-x</ee>
+<ee>https://www.wikidata.org/entity/Q36287689</ee>
+<url>db/journals/bmcbi/bmcbi18.html#YaoTTL17</url>
+</article>
+</r>
+<r><article key="journals/entropy/JinGY17" mdate="2021-10-14">
+<author pid="201/9004">Haokun Jin</author>
+<author orcid="0000-0003-0004-7645" pid="169/7625">Yacun Guan</author>
+<author pid="56/6651">Lina Yao</author>
+<title>Minimum Entropy Active Fault Tolerant Control of the Non-Gaussian Stochastic Distribution System Subjected to Mean Constraint.</title>
+<pages>218</pages>
+<year>2017</year>
+<volume>19</volume>
+<journal>Entropy</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.3390/e19050218</ee>
+<url>db/journals/entropy/entropy19.html#JinGY17</url>
+</article>
+</r>
+<r><article key="journals/iet-cds/SunYZWC16" mdate="2022-06-23">
+<author orcid="0000-0001-8518-5064" pid="85/3281">Junwei Sun</author>
+<author pid="56/6651">Lina Yao</author>
+<author orcid="0000-0002-2190-7651" pid="11/6840">Xuncai Zhang</author>
+<author pid="55/5407">Yanfeng Wang</author>
+<author pid="29/5046">Guangzhao Cui</author>
+<title>Generalised mathematical model of memristor.</title>
+<pages>244-249</pages>
+<year>2016</year>
+<volume>10</volume>
+<journal>IET Circuits Devices Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1049/iet-cds.2014.0381</ee>
+<url>db/journals/iet-cds/iet-cds10.html#SunYZWC16</url>
+</article>
+</r>
+<r><inproceedings key="conf/amcc/YaoG16" mdate="2021-10-14">
+<author pid="56/6651">Lina Yao</author>
+<author orcid="0000-0003-0004-7645" pid="169/7625">Yacun Guan</author>
+<title>Minimum entropy fault diagnosis and fault tolerant control for the non-Gaussian stochastic system.</title>
+<pages>6863-6868</pages>
+<year>2016</year>
+<booktitle>ACC</booktitle>
+<ee>https://doi.org/10.1109/ACC.2016.7526753</ee>
+<crossref>conf/amcc/2016</crossref>
+<url>db/conf/amcc/acc2016.html#YaoG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bic-ta/WangAWCY16" mdate="2017-05-17">
+<author pid="24/10098">Zicheng Wang</author>
+<author pid="192/7609">Jian Ai</author>
+<author pid="55/5407">Yanfeng Wang</author>
+<author pid="29/5046">Guangzhao Cui</author>
+<author pid="56/6651">Lina Yao</author>
+<title>A Universal Platform for Building DNA Logic Circuits.</title>
+<pages>64-71</pages>
+<year>2016</year>
+<booktitle>BIC-TA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-981-10-3611-8_8</ee>
+<crossref>conf/bic-ta/2016-1</crossref>
+<url>db/conf/bic-ta/bic-ta2016-1.html#WangAWCY16</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijmic/YaoGW15" mdate="2021-10-14">
+<author pid="56/6651">Lina Yao</author>
+<author orcid="0000-0003-0004-7645" pid="169/7625">Yacun Guan</author>
+<author pid="67/5050">Aiping Wang</author>
+<title>Fault diagnosis and minimum entropy fault tolerant control for non-Gaussian singular stochastic distribution systems using square-root approximation.</title>
+<pages>206-215</pages>
+<year>2015</year>
+<volume>24</volume>
+<journal>Int. J. Model. Identif. Control.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1504/IJMIC.2015.072620</ee>
+<url>db/journals/ijmic/ijmic24.html#YaoGW15</url>
+</article>
+</r>
+<r><proceedings key="conf/apscc/2015" mdate="2019-05-14">
+<editor pid="56/6651">Lina Yao</editor>
+<editor pid="03/6441">Xia Xie</editor>
+<editor pid="26/8541">Qingchen Zhang</editor>
+<editor pid="y/LaurenceTianruoYang">Laurence T. Yang</editor>
+<editor orcid="0000-0002-3090-1059" pid="z/AlbertYZomaya">Albert Y. Zomaya</editor>
+<editor pid="98/4156">Hai Jin 0001</editor>
+<title>Advances in Services Computing - 9th Asia-Pacific Services Computing Conference, APSCC 2015, Bangkok, Thailand, December 7-9, 2015, Proceedings</title>
+<booktitle>APSCC</booktitle>
+<publisher>Springer</publisher>
+<year>2015</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>9464</volume>
+<isbn>978-3-319-26978-8</isbn>
+<ee>https://doi.org/10.1007/978-3-319-26979-5</ee>
+<url>db/conf/apscc/apscc2015.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ijmic/YaoYW14" mdate="2020-09-17">
+<author pid="56/6651">Lina Yao</author>
+<author pid="164/2476">Ziyang Yin</author>
+<author pid="w/HongWang1">Hong Wang 0001</author>
+<title>Robust H<sub>&#8734;</sub> fault diagnosis for stochastic distribution systems with disturbance rejection performance.</title>
+<pages>288-294</pages>
+<year>2014</year>
+<volume>21</volume>
+<journal>Int. J. Model. Identif. Control.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1504/IJMIC.2014.060732</ee>
+<url>db/journals/ijmic/ijmic21.html#YaoYW14</url>
+</article>
+</r>
+<r><article key="journals/jfi/YaoP14" mdate="2020-02-24">
+<author pid="56/6651">Lina Yao</author>
+<author pid="03/5954">Bo Peng</author>
+<title>Fault diagnosis and fault tolerant control for the non-Gaussian time-delayed stochastic distribution control system.</title>
+<pages>1577-1595</pages>
+<year>2014</year>
+<volume>351</volume>
+<journal>J. Frankl. Inst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1016/j.jfranklin.2013.11.009</ee>
+<url>db/journals/jfi/jfi351.html#YaoP14</url>
+</article>
+</r>
+<r><inproceedings key="conf/hucc/JiangYJX14" mdate="2017-05-17">
+<author pid="97/3222">Weijin Jiang</author>
+<author pid="56/6651">Lina Yao</author>
+<author pid="159/4492">Xinjun Jiang</author>
+<author pid="26/3725">Yuhui Xu</author>
+<title>A New Classification Method Based on Semi-supervised Support Vector Machine.</title>
+<pages>633-645</pages>
+<year>2014</year>
+<booktitle>HCC</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-15554-8_52</ee>
+<crossref>conf/hucc/2014</crossref>
+<url>db/conf/hucc/hcc2014.html#JiangYJX14</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijmic/YaoCS13" mdate="2020-09-17">
+<author pid="56/6651">Lina Yao</author>
+<author pid="164/1964">Yueying Chen</author>
+<author pid="31/4501">Li Shi</author>
+<title>Design of fault tolerant control scheme for a class of non-linear collaborative systems.</title>
+<pages>82-88</pages>
+<year>2013</year>
+<volume>20</volume>
+<journal>Int. J. Model. Identif. Control.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1504/IJMIC.2013.055916</ee>
+<url>db/journals/ijmic/ijmic20.html#YaoCS13</url>
+</article>
+</r>
+<r><inproceedings key="conf/amcc/YaoP13" mdate="2021-08-08">
+<author pid="56/6651">Lina Yao</author>
+<author pid="03/5954">Bo Peng</author>
+<title>Fault diagnosis and fault tolerant control for the non-Gaussian time-delayed stochastic distribution control system.</title>
+<pages>5409-5414</pages>
+<year>2013</year>
+<booktitle>ACC</booktitle>
+<ee>https://doi.org/10.1109/ACC.2013.6580683</ee>
+<crossref>conf/amcc/2013</crossref>
+<url>db/conf/amcc/acc2013.html#YaoP13</url>
+</inproceedings>
+</r>
+<r><article key="journals/automatica/YaoQ0J12" mdate="2022-04-09">
+<author pid="56/6651">Lina Yao</author>
+<author pid="06/9804">Jifeng Qin</author>
+<author orcid="0000-0002-9876-0176" pid="w/HongWang1">Hong Wang 0001</author>
+<author pid="18/4625">Bin Jiang</author>
+<title>Design of new fault diagnosis and fault tolerant control scheme for non-Gaussian singular stochastic distribution systems.</title>
+<pages>2305-2313</pages>
+<year>2012</year>
+<volume>48</volume>
+<journal>Autom.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1016/j.automatica.2012.06.036</ee>
+<url>db/journals/automatica/automatica48.html#YaoQ0J12</url>
+</article>
+</r>
+<r><inproceedings key="conf/icca/YaoC10" mdate="2017-06-04">
+<author pid="56/6651">Lina Yao</author>
+<author orcid="0000-0001-7281-911X" pid="19/156">Vincent Cocquempot</author>
+<title>Fault diagnosis and fault tolerant control for a class of nonlinear singular systems.</title>
+<pages>1536-1541</pages>
+<year>2010</year>
+<booktitle>ICCA</booktitle>
+<ee>https://doi.org/10.1109/ICCA.2010.5524262</ee>
+<crossref>conf/icca/2010</crossref>
+<url>db/conf/icca/icca2010.html#YaoC10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icca/YaoC010" mdate="2017-06-04">
+<author pid="56/6651">Lina Yao</author>
+<author orcid="0000-0001-7281-911X" pid="19/156">Vincent Cocquempot</author>
+<author pid="w/HongWang1">Hong Wang 0001</author>
+<title>Fault diagnosis and fault tolerant control for non-Gaussian singular stochastic distribution systems.</title>
+<pages>1949-1954</pages>
+<year>2010</year>
+<booktitle>ICCA</booktitle>
+<ee>https://doi.org/10.1109/ICCA.2010.5524231</ee>
+<crossref>conf/icca/2010</crossref>
+<url>db/conf/icca/icca2010.html#YaoC010</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijdsn/XueYL09" mdate="2022-02-14">
+<author pid="82/2187">Xiao Xue</author>
+<author pid="56/6651">Lina Yao</author>
+<author pid="09/10301">Junwei Luo</author>
+<title>The Reuse Policy in Developing Multi-Agent System.</title>
+<pages>82</pages>
+<year>2009</year>
+<volume>5</volume>
+<journal>Int. J. Distributed Sens. Networks</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1080/15501320802574941</ee>
+<url>db/journals/ijdsn/ijdsn5.html#XueYL09</url>
+</article>
+</r>
+<r><article key="journals/chinaf/YaoW08" mdate="2022-04-09">
+<author pid="56/6651">Lina Yao</author>
+<author orcid="0000-0002-9876-0176" pid="w/HongWang1">Hong Wang 0001</author>
+<title>Robust fault diagnosis for non-Gaussian stochastic systems based on the rational square-root approximation model.</title>
+<pages>1281-1290</pages>
+<year>2008</year>
+<volume>51</volume>
+<journal>Sci. China Ser. F Inf. Sci.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1007/s11432-008-0088-z</ee>
+<url>db/journals/chinaf/chinaf51.html#YaoW08</url>
+</article>
+</r>
+<r><article key="journals/ijmic/YaoW008" mdate="2020-09-17">
+<author pid="56/6651">Lina Yao</author>
+<author pid="67/5050">Aiping Wang</author>
+<author pid="w/HongWang1">Hong Wang 0001</author>
+<title>Fault detection, diagnosis and tolerant control for non-Gaussian stochastic distribution systems using a rational square-root approximation model.</title>
+<pages>162-172</pages>
+<year>2008</year>
+<volume>3</volume>
+<journal>Int. J. Model. Identif. Control.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1504/IJMIC.2008.019355</ee>
+<url>db/journals/ijmic/ijmic3.html#YaoW008</url>
+</article>
+</r>
+<r><inproceedings key="conf/icnc/Yao07" mdate="2023-03-24">
+<author pid="56/6651">Lina Yao</author>
+<title>A Novel Multi-object Trade-Off Mechanism Model Based on Process Management in Software Project.</title>
+<pages>659-663</pages>
+<year>2007</year>
+<booktitle>ICNC (4)</booktitle>
+<ee>https://doi.org/10.1109/ICNC.2007.117</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICNC.2007.117</ee>
+<crossref>conf/icnc/2007-4</crossref>
+<url>db/conf/icnc/icnc2007-4.html#Yao07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cdc/YaoWYZ06" mdate="2021-11-11">
+<author pid="56/6651">Lina Yao</author>
+<author pid="w/HongWang1">Hong Wang 0001</author>
+<author orcid="0000-0003-2072-6223" pid="23/3156">Hong Yue</author>
+<author pid="48/6808">Jinglin Zhou</author>
+<title>Fault Detection and Diagnosis for Stochastic Distribution Systems Using a Rational Square-Root Approximation Model.</title>
+<pages>4163-4168</pages>
+<year>2006</year>
+<booktitle>CDC</booktitle>
+<ee>https://doi.org/10.1109/CDC.2006.377404</ee>
+<crossref>conf/cdc/2006</crossref>
+<url>db/conf/cdc/cdc2006.html#YaoWYZ06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/IEEEisic/YaoW05" mdate="2023-08-10">
+<author pid="56/6651">Lina Yao</author>
+<author orcid="0000-0002-9876-0176" pid="w/HongWang1">Hong Wang 0001</author>
+<title>A fault tolerant control scheme for collaborative two sub-systems.</title>
+<pages>1591-1596</pages>
+<year>2005</year>
+<booktitle>ISIC</booktitle>
+<ee>https://doi.org/10.1109/.2005.1469819</ee>
+<crossref>conf/IEEEisic/2005</crossref>
+<url>db/conf/IEEEisic/isic2005.html#YaoW05</url>
+</inproceedings>
+</r>
+<coauthors n="69" nc="10">
+<co c="1"><na f="a/Ai:Jian" pid="192/7609">Jian Ai</na></co>
+<co c="4" n="2"><na f="c/Cai:Tom_Weidong" pid="c/WeidongCai">Tom Weidong Cai</na><na>Weidong Cai 0001</na></co>
+<co c="3"><na f="c/Cao:Dong" pid="82/6806">Dong Cao</na></co>
+<co c="0"><na f="c/Chen_0002:Shiming" pid="63/3682-2">Shiming Chen 0002</na></co>
+<co c="8"><na f="c/Chen:Yueying" pid="164/1964">Yueying Chen</na></co>
+<co c="0"><na f="c/Cocquempot:Vincent" pid="19/156">Vincent Cocquempot</na></co>
+<co c="1"><na f="c/Cui:Guangzhao" pid="29/5046">Guangzhao Cui</na></co>
+<co c="0" n="2"><na f="g/Gao:David_Zhiwei" pid="122/7149">David Zhiwei Gao</na><na>Zhiwei Gao 0001</na></co>
+<co c="0"><na f="g/Guan:Yacun" pid="169/7625">Yacun Guan</na></co>
+<co c="0"><na f="h/Han:Zhongyi" pid="181/7439">Zhongyi Han</na></co>
+<co c="0"><na f="h/Hao:Yitong" pid="365/4035">Yitong Hao</na></co>
+<co c="0"><na f="h/Hara:Takahiro" pid="40/2808">Takahiro Hara</na></co>
+<co c="0"><na f="h/He:Enbo" pid="365/3943">Enbo He</na></co>
+<co c="2"><na f="h/Ho:Yi=Chun_=Chad=" pid="207/0219">Yi-Chun (Chad) Ho</na></co>
+<co c="0"><na f="h/Hong:Bowen" pid="353/9598">Bowen Hong</na></co>
+<co c="0"><na f="h/Huang:Biwei" pid="165/3288">Biwei Huang</na></co>
+<co c="0"><na f="j/Jiang:Bin" pid="18/4625">Bin Jiang</na></co>
+<co c="6"><na f="j/Jiang:Weijin" pid="97/3222">Weijin Jiang</na></co>
+<co c="6"><na f="j/Jiang:Xinjun" pid="159/4492">Xinjun Jiang</na></co>
+<co c="0"><na f="j/Jin_0001:Hai" pid="98/4156">Hai Jin 0001</na></co>
+<co c="0"><na f="j/Jin:Haokun" pid="201/9004">Haokun Jin</na></co>
+<co c="5"><na f="l/Lee:Yuan_Kun" pid="195/7686">Yuan Kun Lee</na></co>
+<co c="-1"><na f="l/Li:Fengzhe" pid="174/4384">Fengzhe Li</na></co>
+<co c="0"><na f="l/Li:Lifan" pid="157/8989">Lifan Li</na></co>
+<co c="2"><na f="l/Li:Minqiang" pid="02/1225">Minqiang Li</na></co>
+<co c="8" n="2"><na f="l/Li:Shi" pid="31/4501">Shi Li</na><na>Li Shi</na></co>
+<co c="2"><na f="l/Li_0012:Zhiyong" pid="59/5464-12">Zhiyong Li 0012</na></co>
+<co c="0"><na f="l/Liu:Tongliang" pid="150/6667">Tongliang Liu</na></co>
+<co c="0"><na f="l/Luo:Junwei" pid="09/10301">Junwei Luo</na></co>
+<co c="2"><na f="n/Nan:Guofang" pid="93/4137">Guofang Nan</na></co>
+<co c="0"><na f="p/Peng:Bo" pid="03/5954">Bo Peng</na></co>
+<co c="0"><na f="q/Qin:Jifeng" pid="06/9804">Jifeng Qin</na></co>
+<co c="4"><na f="s/Song_0001:Yang" pid="24/4470-1">Yang Song 0001</na></co>
+<co c="1"><na f="s/Sun:Junwei" pid="85/3281">Junwei Sun</na></co>
+<co c="5"><na f="t/Tan:Kenneth_Wei_Min" pid="195/7629">Kenneth Wei Min Tan</na></co>
+<co c="5"><na f="t/Tan:Tin_Wee" pid="33/1961">Tin Wee Tan</na></co>
+<co c="0"><na f="w/Wang:Aiping" pid="67/5050">Aiping Wang</na></co>
+<co c="0"><na f="w/Wang:Chen" pid="82/4206">Chen Wang</na></co>
+<co c="0"><na f="w/Wang:Hao" pid="181/2812">Hao Wang</na></co>
+<co c="0"><na f="w/Wang:Haoran" pid="28/3021">Haoran Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Hong" pid="w/HongWang1">Hong Wang 0001</na></co>
+<co c="3"><na f="w/Wang:Qianyu" pid="218/2005">Qianyu Wang</na></co>
+<co c="1"><na f="w/Wang:Yanfeng" pid="55/5407">Yanfeng Wang</na></co>
+<co c="1"><na f="w/Wang:Zicheng" pid="24/10098">Zicheng Wang</na></co>
+<co c="7"><na f="w/Wu:Yawei" pid="313/1577">Yawei Wu</na></co>
+<co c="0"><na f="x/Xie:Xia" pid="03/6441">Xia Xie</na></co>
+<co c="9"><na f="x/Xu:Erqi" pid="224/4296">Erqi Xu</na></co>
+<co c="0"><na f="x/Xu_0001:Xiwei" pid="47/3196-1">Xiwei Xu 0001</na></co>
+<co c="6"><na f="x/Xu:Yuhui" pid="26/3725">Yuhui Xu</na></co>
+<co c="0"><na f="x/Xue:Xiao" pid="82/2187">Xiao Xue</na></co>
+<co c="0"><na f="y/Yang:Laurence_T=" pid="y/LaurenceTianruoYang">Laurence T. Yang</na></co>
+<co c="0"><na f="y/Yang:Shiyi" pid="202/5823">Shiyi Yang</na></co>
+<co c="0"><na f="y/Yin:Guisheng" pid="25/2295">Guisheng Yin</na></co>
+<co c="0"><na f="y/Yin:Ziyang" pid="164/2476">Ziyang Yin</na></co>
+<co c="0"><na f="y/Yue:Hong" pid="23/3156">Hong Yue</na></co>
+<co c="7"><na f="z/Zhang:Chang" pid="84/8092">Chang Zhang</na></co>
+<co c="4"><na f="z/Zhang:Chaoyi" pid="116/7852">Chaoyi Zhang</na></co>
+<co c="9"><na f="z/Zhang:Hongqi" pid="15/693">Hongqi Zhang</na></co>
+<co c="0"><na f="z/Zhang_0001:Kun" pid="96/3115-1">Kun Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Qingchen" pid="26/8541">Qingchen Zhang</na></co>
+<co c="3"><na f="z/Zhang:Shuyuan" pid="09/1709">Shuyuan Zhang</na></co>
+<co c="1"><na f="z/Zhang:Xuncai" pid="11/6840">Xuncai Zhang</na></co>
+<co c="0"><na f="z/Zhang_0001:Yihong" pid="148/7274">Yihong Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Yue" pid="47/722">Yue Zhang</na></co>
+<co c="0"><na f="z/Zhou:Guanglin" pid="288/1341">Guanglin Zhou</na></co>
+<co c="0"><na f="z/Zhou:Jinglin" pid="48/6808">Jinglin Zhou</na></co>
+<co c="3"><na f="z/Zhou:Yuzan" pid="344/0580">Yuzan Zhou</na></co>
+<co c="0"><na f="z/Zhu_0001:Liming" pid="52/4318-1">Liming Zhu 0001</na></co>
+<co c="0"><na f="z/Zomaya:Albert_Y=" pid="z/AlbertYZomaya">Albert Y. Zomaya</na></co>
+</coauthors>
+</dblpperson>
+
