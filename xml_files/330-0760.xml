@@ -1,0 +1,2569 @@
+<?xml version="1.0"?>
+<dblpperson name="Himanshu Gupta" pid="330/0760" n="136">
+<person publtype="disambiguation" key="homepages/330/0760" mdate="2022-10-13">
+<author pid="330/0760">Himanshu Gupta</author>
+</person>
+<homonyms n="1">
+<h f="g/Gupta_0001:Himanshu"><person key="homepages/g/HimanshuGupta" mdate="2024-03-19">
+<author pid="g/HimanshuGupta">Himanshu Gupta 0001</author>
+<note type="affiliation">Stony Brook University, Department of Computer Science, NY, USA</note>
+<note label="PhD 1999" type="affiliation">Stanford University, USA</note>
+<url>https://www3.cs.stonybrook.edu/~hgupta/</url>
+<url>http://www-db.stanford.edu/~hgupta/</url>
+<url>https://orcid.org/0000-0001-9131-1530</url>
+</person>
+</h>
+</homonyms>
+<r><article key="journals/bspc/GuptaSK24" mdate="2024-01-01">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="81/3758">Himanshu Singh</author>
+<author pid="88/6447-1">Anil Kumar 0001</author>
+<title>Texture and Radiomics inspired Data-Driven Cancerous Lung Nodules Severity Classification.</title>
+<pages>105543</pages>
+<year>2024</year>
+<month>February</month>
+<volume>88</volume>
+<journal>Biomed. Signal Process. Control.</journal>
+<number>Part A</number>
+<ee>https://doi.org/10.1016/j.bspc.2023.105543</ee>
+<url>db/journals/bspc/bspc88.html#GuptaSK24</url>
+</article>
+</r>
+<r><article key="journals/ffa/GuptaT24" mdate="2024-02-29">
+<author pid="330/0760">Himanshu Gupta</author>
+<author orcid="0000-0002-1375-6670" pid="211/6668">Vladislav Taranchuk</author>
+<title>On the eigenvalues of the graphs <i>D</i>(5,<i>q</i>).</title>
+<pages>102358</pages>
+<year>2024</year>
+<month>February</month>
+<volume>94</volume>
+<journal>Finite Fields Their Appl.</journal>
+<ee>https://doi.org/10.1016/j.ffa.2023.102358</ee>
+<url>db/journals/ffa/ffa94.html#GuptaT24</url>
+</article>
+</r>
+<r><article key="journals/mta/GuptaSKVS24" mdate="2024-02-05">
+<author orcid="0000-0002-0187-0433" pid="330/0760">Himanshu Gupta</author>
+<author pid="81/3758">Himanshu Singh</author>
+<author orcid="0000-0002-3945-4646" pid="88/6447-1">Anil Kumar 0001</author>
+<author pid="130/1958">Amit Vishwakarma</author>
+<author pid="00/4610-2">Girish Kumar Singh 0002</author>
+<title>Variational mode decomposition based image denoising using semi-adaptive conductance function inspired diffusion filtering.</title>
+<pages>7433-7456</pages>
+<year>2024</year>
+<month>January</month>
+<volume>83</volume>
+<journal>Multim. Tools Appl.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11042-023-15863-3</ee>
+<url>db/journals/mta/mta83.html#GuptaSKVS24</url>
+</article>
+</r>
+<r><article key="journals/tem/AliKGAE24" mdate="2024-01-24">
+<author orcid="0000-0003-4911-5725" pid="118/6909">Sadia Samar Ali</author>
+<author pid="93/8926">Rajbir Kaur</author>
+<author orcid="0000-0001-9202-4728" pid="330/0760">Himanshu Gupta</author>
+<author pid="23/980">Zulfiqar Ahmad</author>
+<author orcid="0000-0001-7727-5828" pid="362/6355">Ghada Elnaggar</author>
+<title>Determinants of an Organization's Readiness for Drone Technologies Adoption.</title>
+<pages>43-57</pages>
+<year>2024</year>
+<volume>71</volume>
+<journal>IEEE Trans. Engineering Management</journal>
+<ee>https://doi.org/10.1109/TEM.2021.3083138</ee>
+<url>db/journals/tem/tem71.html#AliKGAE24</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2402-03796" mdate="2024-02-12">
+<author pid="192/5470">Purnendu Prabhat</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="236/2548">Ajeet Kumar Vishwakarma</author>
+<title>Face Detection: Present State and Research Directions.</title>
+<year>2024</year>
+<volume>abs/2402.03796</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2402.03796</ee>
+<url>db/journals/corr/corr2402.html#abs-2402-03796</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2402-06689" mdate="2024-02-16">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="348/6824">Aditya Jaiswal</author>
+<title>A Study on Stock Forecasting Using Deep Learning and Statistical Models.</title>
+<year>2024</year>
+<volume>abs/2402.06689</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2402.06689</ee>
+<url>db/journals/corr/corr2402.html#abs-2402-06689</url>
+</article>
+</r>
+<r><article key="journals/anor/AsadabadiAGL23" mdate="2023-04-18">
+<author pid="199/1116">Mehdi Rajabi Asadabadi</author>
+<author pid="288/0254">Hadi Badri Ahmadi</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author orcid="0000-0002-6918-6048" pid="15/7408">James Jiann-Haw Liou</author>
+<title>Supplier selection to support environmental sustainability: the stratified BWM TOPSIS method.</title>
+<pages>321-344</pages>
+<year>2023</year>
+<month>March</month>
+<volume>322</volume>
+<journal>Ann. Oper. Res.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10479-022-04878-y</ee>
+<url>db/journals/anor/anor322.html#AsadabadiAGL23</url>
+</article>
+</r>
+<r><article key="journals/asc/GuptaV23" mdate="2023-12-10">
+<author pid="330/0760">Himanshu Gupta</author>
+<author orcid="0000-0002-7421-295X" pid="61/8145">Om Prakash Verma</author>
+<title>A novel hybrid Coyote-Particle Swarm Optimization Algorithm for three-dimensional constrained trajectory planning of Unmanned Aerial Vehicle.</title>
+<pages>110776</pages>
+<year>2023</year>
+<month>November</month>
+<volume>147</volume>
+<journal>Appl. Soft Comput.</journal>
+<ee>https://doi.org/10.1016/j.asoc.2023.110776</ee>
+<url>db/journals/asc/asc147.html#GuptaV23</url>
+</article>
+</r>
+<r><article key="journals/candie/KumarMJGV23" mdate="2023-01-31">
+<author orcid="0000-0003-4357-5210" pid="181/2881">Ashwani Kumar</author>
+<author orcid="0000-0001-5291-6115" pid="71/8094-1">Venkatesh Mani 0001</author>
+<author orcid="0000-0002-8903-3575" pid="281/1486">Vranda Jain</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="216/5429">V. G. Venkatesh</author>
+<title>Managing healthcare supply chain through artificial intelligence (AI): A study of critical success factors.</title>
+<pages>108815</pages>
+<year>2023</year>
+<volume>175</volume>
+<journal>Comput. Ind. Eng.</journal>
+<ee>https://doi.org/10.1016/j.cie.2022.108815</ee>
+<url>db/journals/candie/candie175.html#KumarMJGV23</url>
+</article>
+</r>
+<r><article key="journals/csse/SreelakshmyGVKA23" mdate="2023-11-12">
+<author pid="338/1291">K. Sreelakshmy</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="61/8145">Om Prakash Verma</author>
+<author pid="28/6892">Kapil Kumar</author>
+<author pid="201/4147">Abdelhamied A. Ateya</author>
+<author orcid="0000-0001-7322-1857" pid="135/7520">Naglaa F. Soliman</author>
+<title>3D Path Optimisation of Unmanned Aerial Vehicles Using Q Learning-Controlled GWO-AOA.</title>
+<pages>2483-2503</pages>
+<year>2023</year>
+<volume>45</volume>
+<journal>Comput. Syst. Sci. Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.32604/csse.2023.032737</ee>
+<url>db/journals/csse/csse45.html#SreelakshmyGVKA23</url>
+</article>
+</r>
+<r><article key="journals/dam/CioabaGIK23" mdate="2023-02-12">
+<author pid="61/208">Sebastian M. Cioaba</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="145/7258">Ferdinand Ihringer</author>
+<author orcid="0000-0002-7664-0122" pid="06/10101">Hirotake Kurihara</author>
+<title>The least Euclidean distortion constant of a distance-regular graph.</title>
+<pages>212-225</pages>
+<year>2023</year>
+<volume>325</volume>
+<journal>Discret. Appl. Math.</journal>
+<ee>https://doi.org/10.1016/j.dam.2022.10.014</ee>
+<url>db/journals/dam/dam325.html#CioabaGIK23</url>
+</article>
+</r>
+<r><article key="journals/evi/GuptaV23" mdate="2023-06-26">
+<author orcid="0000-0003-4799-5693" pid="330/0760">Himanshu Gupta</author>
+<author orcid="0000-0002-7421-295X" pid="61/8145">Om Prakash Verma</author>
+<title>Vaccine hesitancy in the post-vaccination COVID-19 era: a machine learning and statistical analysis driven study.</title>
+<pages>739-757</pages>
+<year>2023</year>
+<month>June</month>
+<volume>16</volume>
+<journal>Evol. Intell.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s12065-022-00704-3</ee>
+<url>db/journals/evi/evi16.html#GuptaV23</url>
+</article>
+</r>
+<r><article key="journals/ijpe/RazdanGS23" mdate="2024-02-05">
+<author orcid="0000-0003-4023-1797" pid="350/0403">Sanjay Razdan</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="36/10405">Ashish Seth</author>
+<title>D-SVM: A Deep Support Vector Machine Model with Different Kernel Types for Improved Intrusion Detection Performance.</title>
+<pages>598</pages>
+<year>2023</year>
+<volume>19</volume>
+<journal>Int. J. Perform. Eng.</journal>
+<number>9</number>
+<ee>https://doi.org/10.23940/ijpe.23.09.p5.598606</ee>
+<url>db/journals/ijpe/ijpe19.html#RazdanGS23</url>
+</article>
+</r>
+<r><article key="journals/ijpr/Kusi-SarpongGBG23" mdate="2023-07-13">
+<author orcid="0000-0003-1618-2518" pid="194/1048">Simonov Kusi-Sarpong</author>
+<author orcid="0000-0002-5411-376X" pid="350/8390">Yu (jack) Gong</author>
+<author pid="25/6497">Steve Brown</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author orcid="0000-0002-9461-1632" pid="01/275">Chunguang Bai</author>
+<author pid="171/6573">Ifeyinwa Juliet Orji</author>
+<title>Multi-tier sustainable supply chains management for global sustainability.</title>
+<pages>4592-4602</pages>
+<year>2023</year>
+<volume>61</volume>
+<journal>Int. J. Prod. Res.</journal>
+<number>14</number>
+<ee>https://doi.org/10.1080/00207543.2023.2216831</ee>
+<url>db/journals/ijpr/ijpr61.html#Kusi-SarpongGBG23</url>
+</article>
+</r>
+<r><article key="journals/jaihc/GuptaIS23" mdate="2023-06-01">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="190/3853">Javed Imran</author>
+<author pid="348/3515">Chandani Sharma</author>
+<title>Flu-Net: two-stream deep heterogeneous network to detect flu like symptoms from videos using grey wolf optimization algorithm.</title>
+<pages>7733-7745</pages>
+<year>2023</year>
+<volume>14</volume>
+<journal>J. Ambient Intell. Humaniz. Comput.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s12652-023-04585-x</ee>
+<url>db/journals/jaihc/jaihc14.html#GuptaIS23</url>
+</article>
+</r>
+<r><article key="journals/jfr/GuptaLAK23" mdate="2024-03-22">
+<author orcid="0000-0001-9364-7994" pid="330/0760">Himanshu Gupta</author>
+<author orcid="0000-0003-0217-9326" pid="21/2153">Achim J. Lilienthal</author>
+<author pid="93/1475">Henrik Andreasson</author>
+<author pid="140/1604">Polina Kurtser</author>
+<title>NDT-6D for color registration in agri-robotic applications.</title>
+<pages>1603-1619</pages>
+<year>2023</year>
+<month>September</month>
+<volume>40</volume>
+<journal>J. Field Robotics</journal>
+<number>6</number>
+<ee>https://doi.org/10.1002/rob.22194</ee>
+<url>db/journals/jfr/jfr40.html#GuptaLAK23</url>
+</article>
+</r>
+<r><article key="journals/mssp/GuptaSKV23" mdate="2023-09-30">
+<author orcid="0000-0002-0187-0433" pid="330/0760">Himanshu Gupta</author>
+<author orcid="0000-0002-0410-0602" pid="81/3758">Himanshu Singh</author>
+<author orcid="0000-0002-3945-4646" pid="88/6447-1">Anil Kumar 0001</author>
+<author pid="130/1958">Amit Vishwakarma</author>
+<title>Adaptive conductance function based improved diffusion filtering and bi-dimensional empirical mode decomposition based image denoising.</title>
+<pages>81-125</pages>
+<year>2023</year>
+<month>March</month>
+<volume>34</volume>
+<journal>Multidimens. Syst. Signal Process.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11045-022-00850-y</ee>
+<url>db/journals/mssp/mssp34.html#GuptaSKV23</url>
+</article>
+</r>
+<r><article key="journals/mta/KumarYGKV23" mdate="2023-09-30">
+<author pid="153/6321">Saurav Kumar</author>
+<author orcid="0000-0002-2974-0323" pid="299/7019">Drishti Yadav</author>
+<author orcid="0000-0003-4799-5693" pid="330/0760">Himanshu Gupta</author>
+<author orcid="0000-0003-1600-6872" pid="14/1342-4">Mohit Kumar 0004</author>
+<author orcid="0000-0002-7421-295X" pid="61/8145">Om Prakash Verma</author>
+<title>Towards smart surveillance as an aftereffect of COVID-19 outbreak for recognition of face masked individuals using YOLOv3 algorithm.</title>
+<pages>8381-8403</pages>
+<year>2023</year>
+<month>March</month>
+<volume>82</volume>
+<journal>Multim. Tools Appl.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s11042-021-11560-1</ee>
+<url>db/journals/mta/mta82.html#KumarYGKV23</url>
+</article>
+</r>
+<r><article key="journals/sensors/GuptaALK23" mdate="2023-07-07">
+<author orcid="0000-0001-9364-7994" pid="330/0760">Himanshu Gupta</author>
+<author pid="93/1475">Henrik Andreasson</author>
+<author orcid="0000-0003-0217-9326" pid="21/2153">Achim J. Lilienthal</author>
+<author pid="140/1604">Polina Kurtser</author>
+<title>Robust Scan Registration for Navigation in Forest Environment Using Low-Resolution LiDAR Sensors.</title>
+<pages>4736</pages>
+<year>2023</year>
+<volume>23</volume>
+<journal>Sensors</journal>
+<number>10</number>
+<ee type="oa">https://doi.org/10.3390/s23104736</ee>
+<url>db/journals/sensors/sensors23.html#GuptaALK23</url>
+</article>
+</r>
+<r><article key="journals/tem/GuptaLOK23" mdate="2023-04-16">
+<author orcid="0000-0001-9202-4728" pid="330/0760">Himanshu Gupta</author>
+<author orcid="0000-0002-3370-8887" pid="343/6063">Jennifer Nguseer Lawal</author>
+<author orcid="0000-0002-1411-9518" pid="171/6573">Ifeyinwa Juliet Orji</author>
+<author orcid="0000-0003-1618-2518" pid="194/1048">Simonov Kusi-Sarpong</author>
+<title>Closing the Gap: The Role of Distributed Manufacturing Systems for Overcoming the Barriers to Manufacturing Sustainability.</title>
+<pages>1754-1773</pages>
+<year>2023</year>
+<month>May</month>
+<volume>70</volume>
+<journal>IEEE Trans. Engineering Management</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TEM.2021.3059231</ee>
+<url>db/journals/tem/tem70.html#GuptaLOK23</url>
+</article>
+</r>
+<r><inproceedings key="conf/acl/VarshneyG00B23" mdate="2023-08-10">
+<author pid="139/3970">Neeraj Varshney</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="50/3320-1">Eric Robertson 0001</author>
+<author pid="l/BingLiu1">Bing Liu 0001</author>
+<author pid="b/ChittaBaral">Chitta Baral</author>
+<title>A Unified Evaluation Framework for Novelty Detection and Accommodation in NLP with an Instantiation in Authorship Attribution.</title>
+<pages>1794-1818</pages>
+<year>2023</year>
+<booktitle>ACL (Findings)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2023.findings-acl.113</ee>
+<ee type="oa">https://aclanthology.org/2023.findings-acl.113</ee>
+<crossref>conf/acl/2023f</crossref>
+<url>db/conf/acl/acl2023f.html#VarshneyG00B23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eacl/GuptaVMPSSGB23" mdate="2023-10-05">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="139/3970">Neeraj Varshney</author>
+<author pid="249/2784">Swaroop Mishra</author>
+<author pid="222/3430">Kuntal Kumar Pal</author>
+<author pid="331/2777">Saurabh Arjun Sawant</author>
+<author pid="331/2843">Kevin Scaria</author>
+<author pid="39/3230">Siddharth Goyal</author>
+<author pid="b/ChittaBaral">Chitta Baral</author>
+<title>&#34;John is 50 years old, can his son be 65?&#34; Evaluating NLP Models' Understanding of Feasibility.</title>
+<pages>407-417</pages>
+<year>2023</year>
+<booktitle>EACL</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2023.eacl-main.30</ee>
+<ee type="oa">https://aclanthology.org/2023.eacl-main.30</ee>
+<crossref>conf/eacl/2023</crossref>
+<url>db/conf/eacl/eacl2023.html#GuptaVMPSSGB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecmr/GuptaAMJL23" mdate="2023-10-07">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="93/1475">Henrik Andreasson</author>
+<author pid="m/MartinMagnusson2">Martin Magnusson 0002</author>
+<author pid="92/1833">Simon Julier</author>
+<author pid="21/2153">Achim J. Lilienthal</author>
+<title>Revisiting Distribution-Based Registration Methods.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>ECMR</booktitle>
+<ee>https://doi.org/10.1109/ECMR59166.2023.10256416</ee>
+<crossref>conf/ecmr/2023</crossref>
+<url>db/conf/ecmr/ecmr2023.html#GuptaAMJL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ic3i/GuptaGKMKJ23" mdate="2024-02-13">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="251/3493">Kamal Kumar Gola</author>
+<author pid="01/6902">Sumit Kumar</author>
+<author pid="118/6987">Mridula</author>
+<author pid="59/3869">Prashant Kumar</author>
+<author pid="361/9098">Narayan Jee</author>
+<title>Suicide Ideation Detection: Harnessing Machine and Deep Learning for Early Risk Identification.</title>
+<pages>1555-1562</pages>
+<year>2023</year>
+<booktitle>IC3I</booktitle>
+<ee>https://doi.org/10.1109/IC3I59117.2023.10397942</ee>
+<crossref>conf/ic3i/2023</crossref>
+<url>db/conf/ic3i/ic3i2023.html#GuptaGKMKJ23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icccnt/BoussiGHJ23" mdate="2023-11-30">
+<author pid="361/8732">Grace Odette Boussi</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="132/9304">Syed Akhter Hossain</author>
+<author pid="361/9351">Fila Rudy J. J</author>
+<title>A Novel Cryptographic Encryption Technique for the Security Enhancement of Electronic Transactions.</title>
+<pages>1-4</pages>
+<year>2023</year>
+<booktitle>ICCCNT</booktitle>
+<ee>https://doi.org/10.1109/ICCCNT56998.2023.10307219</ee>
+<crossref>conf/icccnt/2023</crossref>
+<url>db/conf/icccnt/icccnt2023.html#BoussiGHJ23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icccnt/GuptaADGG23" mdate="2023-11-30">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="46/8315">Neha Arora</author>
+<author pid="316/8123">Sarthika Dutt</author>
+<author pid="361/7607">Aditi Gulati</author>
+<author pid="362/0059">Akriti Gulati</author>
+<title>Detection of Diabetic Retinopathy using Transfer Learning.</title>
+<pages>1-8</pages>
+<year>2023</year>
+<booktitle>ICCCNT</booktitle>
+<ee>https://doi.org/10.1109/ICCCNT56998.2023.10307159</ee>
+<crossref>conf/icccnt/2023</crossref>
+<url>db/conf/icccnt/icccnt2023.html#GuptaADGG23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icccnt/JoshiGKAGK23" mdate="2024-03-27">
+<author pid="343/3016">Kapil Joshi</author>
+<author pid="67/2583">Amit Gupta</author>
+<author pid="116/2914">Vishal Kaushik</author>
+<author pid="341/6647">Harishchander Anandaram</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author orcid="0000-0003-0982-9424" pid="88/6447-9">Anil Kumar 0009</author>
+<title>Intervention of Digital Twin for Smart Monitoring of Battery Management System.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>ICCCNT</booktitle>
+<ee>https://doi.org/10.1109/ICCCNT56998.2023.10306563</ee>
+<crossref>conf/icccnt/2023</crossref>
+<url>db/conf/icccnt/icccnt2023.html#JoshiGKAGK23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ichi/LiGLRPGS23" mdate="2024-01-17">
+<author pid="80/1874-6">Yunfan Li 0006</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="93/3488">Haibin Ling</author>
+<author pid="r/IVRamakrishnan">I. V. Ramakrishnan</author>
+<author pid="133/6611">Prateek Prasanna</author>
+<author pid="186/8108">Georgios Georgakis</author>
+<author pid="356/9284">Aaron Sasson</author>
+<title>Automated Assessment of Critical View of Safety in Laparoscopic Cholecystectomy.</title>
+<pages>330-337</pages>
+<year>2023</year>
+<booktitle>ICHI</booktitle>
+<ee>https://doi.org/10.1109/ICHI57859.2023.00051</ee>
+<crossref>conf/ichi/2023</crossref>
+<url>db/conf/ichi/ichi2023.html#LiGLRPGS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isncc/SahaGTKK23" mdate="2023-12-07">
+<author pid="362/5456">Saptarsi Saha</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="362/5336">Nama Ravi Teja</author>
+<author pid="362/5252">Soumya Kothari</author>
+<author pid="217/8533">D. V. N. Siva Kumar</author>
+<title>An Efficient Blockchain and Smart Contracts Based Approach for Document Verification.</title>
+<pages>1-8</pages>
+<year>2023</year>
+<booktitle>ISNCC</booktitle>
+<ee>https://doi.org/10.1109/ISNCC58260.2023.10323829</ee>
+<crossref>conf/isncc/2023</crossref>
+<url>db/conf/isncc/isncc2023.html#SahaGTKK23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2302-08624" mdate="2023-02-23">
+<author pid="331/2843">Kevin Scaria</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="331/2777">Saurabh Arjun Sawant</author>
+<author pid="249/2784">Swaroop Mishra</author>
+<author pid="b/ChittaBaral">Chitta Baral</author>
+<title>InstructABSA: Instruction Learning for Aspect Based Sentiment Analysis.</title>
+<year>2023</year>
+<volume>abs/2302.08624</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2302.08624</ee>
+<url>db/journals/corr/corr2302.html#abs-2302-08624</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-05079" mdate="2023-05-17">
+<author pid="139/3970">Neeraj Varshney</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="50/3320-1">Eric Robertson 0001</author>
+<author pid="l/BingLiu1">Bing Liu 0001</author>
+<author pid="b/ChittaBaral">Chitta Baral</author>
+<title>A Unified Evaluation Framework for Novelty Detection and Accommodation in NLP with an Instantiation in Authorship Attribution.</title>
+<year>2023</year>
+<volume>abs/2305.05079</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.05079</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-05079</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-16357" mdate="2023-06-07">
+<author pid="340/7701">Ujjwala Anantheswaran</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="253/6105">Mihir Parmar</author>
+<author pid="222/3430">Kuntal Kumar Pal</author>
+<author pid="b/ChittaBaral">Chitta Baral</author>
+<title>EDM3: Event Detection as Multi-task Text Generation.</title>
+<year>2023</year>
+<volume>abs/2305.16357</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.16357</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-16357</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2306-05539" mdate="2023-06-14">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="331/2777">Saurabh Arjun Sawant</author>
+<author pid="249/2784">Swaroop Mishra</author>
+<author pid="99/2452">Mutsumi Nakamura</author>
+<author pid="04/2864">Arindam Mitra</author>
+<author pid="349/0828">Santosh Mashetty</author>
+<author pid="b/ChittaBaral">Chitta Baral</author>
+<title>Instruction Tuned Models are Quick Learners.</title>
+<year>2023</year>
+<volume>abs/2306.05539</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2306.05539</ee>
+<url>db/journals/corr/corr2306.html#abs-2306-05539</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2309-07330" mdate="2023-09-19">
+<author pid="80/1874-6">Yunfan Li 0006</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="93/3488">Haibin Ling</author>
+<author pid="r/IVRamakrishnan">I. V. Ramakrishnan</author>
+<author pid="133/6611">Prateek Prasanna</author>
+<author pid="186/8108">Georgios Georgakis</author>
+<author pid="356/9284">Aaron Sasson</author>
+<title>Automated Assessment of Critical View of Safety in Laparoscopic Cholecystectomy.</title>
+<year>2023</year>
+<volume>abs/2309.07330</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2309.07330</ee>
+<url>db/journals/corr/corr2309.html#abs-2309-07330</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2310-17876" mdate="2023-11-02">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="331/2843">Kevin Scaria</author>
+<author pid="340/7701">Ujjwala Anantheswaran</author>
+<author pid="184/9343">Shreyas Verma</author>
+<author pid="253/6105">Mihir Parmar</author>
+<author pid="331/2777">Saurabh Arjun Sawant</author>
+<author pid="b/ChittaBaral">Chitta Baral</author>
+<author pid="249/2784">Swaroop Mishra</author>
+<title>TarGEN: Targeted Data Generation with Large Language Models.</title>
+<year>2023</year>
+<volume>abs/2310.17876</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2310.17876</ee>
+<url>db/journals/corr/corr2310.html#abs-2310-17876</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-09564" mdate="2023-11-21">
+<author pid="253/6105">Mihir Parmar</author>
+<author pid="204/7137">Aakanksha Naik</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="361/0533">Disha Agrawal</author>
+<author pid="b/ChittaBaral">Chitta Baral</author>
+<title>LongBoX: Evaluating Transformers on Long-Sequence Clinical Tasks.</title>
+<year>2023</year>
+<volume>abs/2311.09564</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.09564</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-09564</url>
+</article>
+</r>
+<r><article key="journals/asc/AhmadiLPGL22" mdate="2023-04-18">
+<author pid="288/0254">Hadi Badri Ahmadi</author>
+<author orcid="0000-0002-8281-8740" pid="229/8419">Huai-Wei Lo</author>
+<author orcid="0000-0002-1207-3587" pid="232/6384">Pourya Pourhejazy</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="15/7408">James Jiann-Haw Liou</author>
+<title>Exploring the mutual influence among the social innovation factors amid the COVID-19 pandemic.</title>
+<pages>109157</pages>
+<year>2022</year>
+<volume>125</volume>
+<journal>Appl. Soft Comput.</journal>
+<ee>https://doi.org/10.1016/j.asoc.2022.109157</ee>
+<url>db/journals/asc/asc125.html#AhmadiLPGL22</url>
+</article>
+</r>
+<r><article key="journals/ecr/KaushikKGD22" mdate="2022-10-02">
+<author orcid="0000-0002-7936-4688" pid="258/4434">Vineet Kaushik</author>
+<author orcid="0000-0003-4357-5210" pid="181/2881">Ashwani Kumar</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author orcid="0000-0001-9251-5818" pid="161/9167">Gaurav Dixit</author>
+<title>Modelling and prioritizing the factors for online apparel return using BWM approach.</title>
+<pages>843-873</pages>
+<year>2022</year>
+<volume>22</volume>
+<journal>Electron. Commer. Res.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10660-020-09406-3</ee>
+<url>db/journals/ecr/ecr22.html#KaushikKGD22</url>
+</article>
+</r>
+<r><article key="journals/gc/CioabaG22" mdate="2022-02-08">
+<author orcid="0000-0001-9983-0212" pid="61/208">Sebastian M. Cioaba</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<title>On the Eigenvalues of Grassmann Graphs, Bilinear Forms Graphs and Hermitian Forms Graphs.</title>
+<pages>30</pages>
+<year>2022</year>
+<volume>38</volume>
+<journal>Graphs Comb.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s00373-021-02445-z</ee>
+<url>db/journals/gc/gc38.html#CioabaG22</url>
+</article>
+</r>
+<r><article key="journals/ijpe/RazdanGS22" mdate="2023-09-30">
+<author orcid="0000-0003-4023-1797" pid="350/0403">Sanjay Razdan</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="36/10405">Ashish Seth</author>
+<title>A Multi-Layer Feed Forward Network Intrusion Detection System using Individual Component Optimization Methodology for Cloud Computing.</title>
+<pages>781-790</pages>
+<year>2022</year>
+<volume>18</volume>
+<journal>Int. J. Perform. Eng.</journal>
+<number>11</number>
+<ee>https://doi.org/10.23940/ijpe.22.11.p3.781790</ee>
+<url>db/journals/ijpe/ijpe18.html#RazdanGS22</url>
+</article>
+</r>
+<r><article key="journals/mta/GuptaV22" mdate="2022-10-02">
+<author orcid="0000-0003-4799-5693" pid="330/0760">Himanshu Gupta</author>
+<author orcid="0000-0002-7421-295X" pid="61/8145">Om Prakash Verma</author>
+<title>Monitoring and surveillance of urban road traffic using low altitude drone images: a deep learning approach.</title>
+<pages>19683-19703</pages>
+<year>2022</year>
+<volume>81</volume>
+<journal>Multim. Tools Appl.</journal>
+<number>14</number>
+<ee>https://doi.org/10.1007/s11042-021-11146-x</ee>
+<url>db/journals/mta/mta81.html#GuptaV22</url>
+</article>
+</r>
+<r><article key="journals/mta/KumarGYAV22" mdate="2022-12-07">
+<author pid="153/6321">Saurav Kumar</author>
+<author orcid="0000-0003-4799-5693" pid="330/0760">Himanshu Gupta</author>
+<author orcid="0000-0002-2974-0323" pid="299/7019">Drishti Yadav</author>
+<author pid="159/2788">Irshad Ahmad Ansari</author>
+<author orcid="0000-0002-7421-295X" pid="61/8145">Om Prakash Verma</author>
+<title>YOLOv4 algorithm for the real-time detection of fire and personal protective equipments at construction sites.</title>
+<pages>22163-22183</pages>
+<year>2022</year>
+<volume>81</volume>
+<journal>Multim. Tools Appl.</journal>
+<number>16</number>
+<ee>https://doi.org/10.1007/s11042-021-11280-6</ee>
+<url>db/journals/mta/mta81.html#KumarGYAV22</url>
+</article>
+</r>
+<r><article key="journals/sncs/ShuklaG22" mdate="2022-10-02">
+<author orcid="0000-0003-1621-9018" pid="299/3038">Sanjeev Shukla</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<title>Identification and Counting of Hosts Behind NAT Using Machine Learning.</title>
+<pages>126</pages>
+<year>2022</year>
+<volume>3</volume>
+<journal>SN Comput. Sci.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s42979-022-01017-z</ee>
+<url>db/journals/sncs/sncs3.html#ShuklaG22</url>
+</article>
+</r>
+<r><inproceedings key="conf/atal/GuptaHS22" mdate="2022-07-18">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="126/9674">Bradley Hayes</author>
+<author pid="129/7529">Zachary Sunberg</author>
+<title>Intention-Aware Navigation in Crowds with Extended-Space POMDP Planning.</title>
+<pages>562-570</pages>
+<year>2022</year>
+<booktitle>AAMAS</booktitle>
+<ee type="oa">https://www.ifaamas.org/Proceedings/aamas2022/pdfs/p562.pdf</ee>
+<ee>https://dl.acm.org/doi/10.5555/3535850.3535914</ee>
+<crossref>conf/atal/2022</crossref>
+<url>db/conf/atal/aamas2022.html#GuptaHS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conll/SahooGB22" mdate="2023-12-07">
+<author pid="321/3442">Nihar Sahoo</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="p/PushpakBhattacharyya">Pushpak Bhattacharyya</author>
+<title>Detecting Unintended Social Bias in Toxic Language Datasets.</title>
+<pages>132-143</pages>
+<year>2022</year>
+<booktitle>CoNLL</booktitle>
+<ee type="oa">https://aclanthology.org/2022.conll-1.10</ee>
+<crossref>conf/conll/2022</crossref>
+<url>db/conf/conll/conll2022.html#SahooGB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/eccv/KristanLMFPKCDZLDBZZYYCMFBBCCCCCCCCCCC22" mdate="2024-02-05">
+<author pid="79/1648">Matej Kristan</author>
+<author pid="l/AlesLeonardis">Ales Leonardis</author>
+<author pid="m/JiriMatas">Jir&#237; Matas</author>
+<author pid="00/78">Michael Felsberg</author>
+<author pid="35/2836">Roman P. Pflugfelder</author>
+<author pid="k/JoniKristianKamarainen">Joni-Kristian K&#228;m&#228;r&#228;inen</author>
+<author pid="96/3551">Hyung Jin Chang</author>
+<author pid="151/8848">Martin Danelljan</author>
+<author pid="19/8654">Luka Cehovin Zajc</author>
+<author pid="160/3679">Alan Lukezic</author>
+<author pid="79/5367">Ondrej Drbohlav</author>
+<author pid="75/5525">Johanna Bj&#246;rklund</author>
+<author pid="50/10702">Yushan Zhang</author>
+<author pid="237/8882">Zhongqun Zhang</author>
+<author pid="58/6692">Song Yan</author>
+<author pid="119/2426">Wenyan Yang</author>
+<author pid="198/1127">Dingding Cai</author>
+<author pid="163/0032-7">Christoph Mayer 0007</author>
+<author pid="160/3616">Gustavo Fern&#225;ndez</author>
+<author pid="340/0959">Kang Ben</author>
+<author pid="190/7682">Goutam Bhat</author>
+<author pid="02/2689">Hong Chang</author>
+<author pid="178/8116">Guangqi Chen</author>
+<author pid="116/2901">Jiaye Chen</author>
+<author pid="93/2479">Shengyong Chen</author>
+<author pid="c/XilinChen">Xilin Chen 0001</author>
+<author pid="24/1518-32">Xin Chen 0032</author>
+<author pid="218/7190">Xiuyi Chen</author>
+<author pid="28/2965">Yiwei Chen</author>
+<author pid="127/3933">Yu-Hsi Chen</author>
+<author pid="62/3074">Zhixing Chen</author>
+<author pid="340/1285">Yangming Cheng</author>
+<author pid="37/6845">Angelo Ciaramella</author>
+<author pid="255/2385">Yutao Cui</author>
+<author pid="340/1520">Benjamin Dzubur</author>
+<author pid="277/5901">Mohana Murali Dasari</author>
+<author pid="246/9797">Qili Deng</author>
+<author pid="128/3182">Debajyoti Dhar</author>
+<author pid="304/1344">Shangzhe Di</author>
+<author pid="198/9412">Emanuel Di Nardo</author>
+<author pid="05/10727">Daniel K. Du</author>
+<author pid="209/8650">Matteo Dunnhofer</author>
+<author pid="20/10120-1">Heng Fan 0001</author>
+<author pid="13/11244">Zhen-Hua Feng</author>
+<author pid="203/1795">Zhihong Fu</author>
+<author pid="28/435">Shang Gao</author>
+<author pid="307/8696">Rama Krishna Gorthi</author>
+<author orcid="0000-0001-6116-7945" pid="86/2306">Eric Granger</author>
+<author pid="340/1209">Q. H. Gu</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="93/8352">Jianfeng He</author>
+<author pid="319/4518">Keji He</author>
+<author pid="75/6434-8">Yan Huang 0008</author>
+<author pid="340/1460">Deepak Jangid</author>
+<author pid="86/5681">Rongrong Ji</author>
+<author pid="15/11195-5">Cheng Jiang 0005</author>
+<author pid="214/0119">Yingjie Jiang</author>
+<author pid="185/0985">Felix J&#228;remo Lawin</author>
+<author pid="340/1063">Ze Kang</author>
+<author pid="39/10281">Madhu Kiran</author>
+<author pid="k/JosefKittler">Josef Kittler</author>
+<author pid="282/1954">Simiao Lai</author>
+<author pid="151/8902">Xiangyuan Lan</author>
+<author pid="25/6543">Dongwook Lee</author>
+<author pid="00/3423">Hyunjeong Lee</author>
+<author pid="210/4662">Seohyung Lee</author>
+<author pid="66/3387-37">Hui Li 0037</author>
+<author pid="l/MingLi10">Ming Li 0010</author>
+<author pid="340/1456">Wangkai Li</author>
+<author pid="46/2311-1">Xi Li 0001</author>
+<author pid="81/4000">Xianxian Li</author>
+<author pid="66/2069">Xiao Li</author>
+<author pid="11/751-8">Zhe Li 0008</author>
+<author pid="227/2204">Liting Lin</author>
+<author pid="93/3488">Haibin Ling</author>
+<author pid="58/2670-5">Bo Liu 0005</author>
+<author pid="52/5716-71">Chang Liu 0071</author>
+<author pid="60/7642">Si Liu 0001</author>
+<author pid="64/6896">Huchuan Lu</author>
+<author pid="05/10069">Rafael M. O. Cruz</author>
+<author pid="62/1822">Bingpeng Ma</author>
+<author pid="79/1552-4">Chao Ma 0004</author>
+<author pid="62/5110">Jie Ma</author>
+<author pid="189/1326">Yinchao Ma</author>
+<author pid="56/10105">Niki Martinel</author>
+<author orcid="0000-0002-6597-694X" pid="69/6460">Alireza Memarmoghadam</author>
+<author pid="28/38">Christian Micheloni</author>
+<author pid="63/5378">Payman Moallem</author>
+<author pid="216/4088">Le Thanh Nguyen-Meidine</author>
+<author pid="250/5753">Siyang Pan</author>
+<author pid="340/0926">ChangBeom Park</author>
+<author pid="151/8836">Danda Pani Paudel</author>
+<author pid="255/6113">Matthieu Paul</author>
+<author pid="133/1706">Houwen Peng</author>
+<author pid="158/5786">Andreas Robinson</author>
+<author pid="206/6445">Litu Rout</author>
+<author pid="s/ShiguangShan">Shiguang Shan</author>
+<author pid="307/8603">Kristian Simonato</author>
+<author pid="181/8738">Tianhui Song</author>
+<author pid="82/6511">Xiaoning Song</author>
+<author pid="54/3957">Chao Sun</author>
+<author pid="255/0702">Jingna Sun</author>
+<author pid="236/3195">Zhangyong Tang</author>
+<author orcid="0000-0002-1478-0402" pid="24/8616">Radu Timofte</author>
+<author orcid="0000-0001-9872-4338" pid="25/1650">Chi-Yi Tsai</author>
+<author pid="61/5017">Luc Van Gool</author>
+<author pid="61/8145">Om Prakash Verma</author>
+<author pid="40/3934-4">Dong Wang 0004</author>
+<author pid="52/3194-32">Fei Wang 0032</author>
+<author pid="56/4499-1">Liang Wang 0001</author>
+<author pid="16/5766">Liangliang Wang</author>
+<author pid="96/6702">Lijun Wang</author>
+<author pid="68/6610-2">Limin Wang 0002</author>
+<author pid="64/5630-23">Qiang Wang 0023</author>
+<author pid="78/1123">Gangshan Wu</author>
+<author pid="123/7200">Jinlin Wu</author>
+<author pid="13/5168-1">Xiaojun Wu 0001</author>
+<author pid="51/1316">Fei Xie</author>
+<author pid="169/4627">Tianyang Xu</author>
+<author pid="32/1213">Wei Xu</author>
+<author pid="07/4630-7">Yong Xu 0007</author>
+<author pid="248/7663">Yuanyou Xu</author>
+<author pid="153/8037">Wanli Xue</author>
+<author pid="340/1441">Zizheng Xun</author>
+<author pid="92/786-4">Bin Yan 0004</author>
+<author pid="22/1038">Dawei Yang</author>
+<author pid="138/6456">Jinyu Yang</author>
+<author pid="99/3602">Wankou Yang</author>
+<author pid="54/230">Xiaoyun Yang</author>
+<author pid="33/4854-1">Yi Yang 0001</author>
+<author pid="249/9678">Yichun Yang</author>
+<author pid="249/5456">Zongxin Yang</author>
+<author pid="227/4610">Botao Ye</author>
+<author pid="117/6314">Fisher Yu 0001</author>
+<author pid="232/2265">Hongyuan Yu</author>
+<author pid="164/7325">Jiaqian Yu</author>
+<author pid="53/10179">Qianjin Yu</author>
+<author pid="325/1209">Weichen Yu</author>
+<author pid="340/1107">Kang Ze</author>
+<author pid="291/9340">Jiang Zhai</author>
+<author pid="129/0954-1">Chengwei Zhang 0001</author>
+<author pid="292/0953">Chunhu Zhang</author>
+<author pid="84/8017">Kaihua Zhang</author>
+<author pid="15/7643">Tianzhu Zhang</author>
+<author pid="340/0966">Wenkang Zhang</author>
+<author pid="85/1218">Zhibin Zhang</author>
+<author pid="49/4941">Zhipeng Zhang</author>
+<author pid="23/3168-14">Jie Zhao 0014</author>
+<author pid="260/3125">Shao-Chuan Zhao</author>
+<author pid="39/800">Feng Zheng</author>
+<author pid="119/1585">Haixia Zheng</author>
+<author pid="23/328">Min Zheng</author>
+<author pid="25/1637">Bineng Zhong</author>
+<author pid="135/5123">Jiawen Zhu</author>
+<author pid="70/6628">Xuefeng Zhu</author>
+<author pid="218/7793">Yueting Zhuang</author>
+<title>The Tenth Visual Object Tracking VOT2022 Challenge Results.</title>
+<pages>431-460</pages>
+<year>2022</year>
+<booktitle>ECCV Workshops (8)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-25085-9_25</ee>
+<crossref>conf/eccv/2022-w8</crossref>
+<url>db/conf/eccv/eccv2022-w8.html#KristanLMFPKCDZLDBZZYYCMFBBCCCCCCCCCCC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ism/GuptaJMTMSP22" mdate="2023-02-06">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="339/2646">Sowmya Vasuki Jallepalli</author>
+<author pid="339/3513">Pratik Mulchandani</author>
+<author pid="339/2762">Chirag Trasikar</author>
+<author pid="202/6360">Chetan Manjesh</author>
+<author pid="306/7338">Vishy Swaminathan</author>
+<author pid="135/0037">Stefano Petrangeli</author>
+<title>Towards Efficient Video Super Resolution for Faster Streaming.</title>
+<pages>153-154</pages>
+<year>2022</year>
+<booktitle>ISM</booktitle>
+<ee>https://doi.org/10.1109/ISM55400.2022.00031</ee>
+<crossref>conf/ism/2022</crossref>
+<url>db/conf/ism/ism2022.html#GuptaJMTMSP22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lrec/SinghRSMGBSSRMS22" mdate="2024-02-12">
+<author pid="206/2103">Sandhya Singh</author>
+<author pid="321/3188">Prapti Roy</author>
+<author pid="321/3442">Nihar Sahoo</author>
+<author pid="321/3834">Niteesh Mallela</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="p/PushpakBhattacharyya">Pushpak Bhattacharyya</author>
+<author pid="139/6973">Milind Savagaonkar</author>
+<author pid="75/284">Nidhi</author>
+<author pid="138/1138">Roshni R. Ramnani</author>
+<author pid="78/424">Anutosh Maitra</author>
+<author pid="33/5030">Shubhashis Sengupta</author>
+<title>Hollywood Identity Bias Dataset: A Context Oriented Bias Analysis of Movie Dialogues.</title>
+<pages>5274-5285</pages>
+<year>2022</year>
+<booktitle>LREC</booktitle>
+<ee type="oa">https://aclanthology.org/2022.lrec-1.565</ee>
+<crossref>conf/lrec/2022</crossref>
+<url>db/conf/lrec/lrec2022.html#SinghRSMGBSSRMS22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-15951" mdate="2023-09-30">
+<author pid="206/2103">Sandhya Singh</author>
+<author pid="321/3188">Prapti Roy</author>
+<author pid="321/3442">Nihar Sahoo</author>
+<author pid="321/3834">Niteesh Mallela</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="p/PushpakBhattacharyya">Pushpak Bhattacharyya</author>
+<author pid="139/6973">Milind Savagaonkar</author>
+<author pid="75/284">Nidhi</author>
+<author pid="138/1138">Roshni R. Ramnani</author>
+<author pid="78/424">Anutosh Maitra</author>
+<author orcid="0009-0003-8298-0216" pid="33/5030">Shubhashis Sengupta</author>
+<title>Hollywood Identity Bias Dataset: A Context Oriented Bias Analysis of Movie Dialogues.</title>
+<year>2022</year>
+<volume>abs/2205.15951</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.15951</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-15951</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-07198" mdate="2022-06-21">
+<author pid="80/1874-6">Yunfan Li 0006</author>
+<author pid="268/6690">Vinayak Shenoy</author>
+<author pid="133/6611">Prateek Prasanna</author>
+<author pid="r/IVRamakrishnan">I. V. Ramakrishnan</author>
+<author pid="93/3488">Haibin Ling</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<title>Surgical Phase Recognition in Laparoscopic Cholecystectomy.</title>
+<year>2022</year>
+<volume>abs/2206.07198</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.07198</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-07198</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-10028" mdate="2022-06-27">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="126/9674">Bradley Hayes</author>
+<author pid="129/7529">Zachary Sunberg</author>
+<title>Intention-Aware Navigation in Crowds with Extended-Space POMDP Planning.</title>
+<year>2022</year>
+<volume>abs/2206.10028</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.10028</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-10028</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2210-07471" mdate="2022-10-18">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="139/3970">Neeraj Varshney</author>
+<author pid="249/2784">Swaroop Mishra</author>
+<author pid="222/3430">Kuntal Kumar Pal</author>
+<author pid="331/2777">Saurabh Arjun Sawant</author>
+<author pid="331/2843">Kevin Scaria</author>
+<author pid="39/3230">Siddharth Goyal</author>
+<author pid="b/ChittaBaral">Chitta Baral</author>
+<title>&#34;John is 50 years old, can his son be 65?&#34; Evaluating NLP Models' Understanding of Feasibility.</title>
+<year>2022</year>
+<volume>abs/2210.07471</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2210.07471</ee>
+<url>db/journals/corr/corr2210.html#abs-2210-07471</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2210-11762" mdate="2022-10-25">
+<author pid="321/3442">Nihar Sahoo</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="p/PushpakBhattacharyya">Pushpak Bhattacharyya</author>
+<title>Detecting Unintended Social Bias in Toxic Language Datasets.</title>
+<year>2022</year>
+<volume>abs/2210.11762</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2210.11762</ee>
+<url>db/journals/corr/corr2210.html#abs-2210-11762</url>
+</article>
+</r>
+<r><article key="journals/fdgth/GuptaAAG21" mdate="2023-08-28">
+<author pid="142/5277">Akash Gupta</author>
+<author pid="298/6905">Shrey Aeron</author>
+<author pid="259/7118">Anjali Agrawal</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<title>Trends in COVID-19 Publications: Streamlining Research Using NLP and LDA.</title>
+<pages>686720</pages>
+<year>2021</year>
+<volume>3</volume>
+<journal>Frontiers Digit. Health</journal>
+<ee type="oa">https://doi.org/10.3389/fdgth.2021.686720</ee>
+<ee>https://www.wikidata.org/entity/Q114854856</ee>
+<url>db/journals/fdgth/fdgth3.html#GuptaAAG21</url>
+</article>
+</r>
+<r><article key="journals/imds/GuptaKKJA21" mdate="2023-08-28">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="303/7403">Sarangdhar Kumar</author>
+<author orcid="0000-0003-1618-2518" pid="194/1048">Simonov Kusi-Sarpong</author>
+<author orcid="0000-0002-6143-4924" pid="98/9789">Charbel Jos&#233; Chiappetta Jabbour</author>
+<author pid="303/7183">Martin Agyemang</author>
+<title>Enablers to supply chain performance on the basis of digitization technologies.</title>
+<pages>1915-1938</pages>
+<year>2021</year>
+<volume>121</volume>
+<journal>Ind. Manag. Data Syst.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1108/IMDS-07-2020-0421</ee>
+<ee>https://www.wikidata.org/entity/Q114824798</ee>
+<url>db/journals/imds/imds121.html#GuptaKKJA21</url>
+</article>
+</r>
+<r><article key="journals/kbs/KhanNKGI21" mdate="2022-01-03">
+<author orcid="0000-0002-5822-0933" pid="121/9743">Sharfuddin Ahmed Khan</author>
+<author pid="160/3786">Iram Naim</author>
+<author orcid="0000-0003-1618-2518" pid="194/1048">Simonov Kusi-Sarpong</author>
+<author orcid="0000-0001-9202-4728" pid="330/0760">Himanshu Gupta</author>
+<author pid="300/8664">Ashraf Rahman Idrisi</author>
+<title>A knowledge-based experts' system for evaluation of digital supply chain readiness.</title>
+<pages>107262</pages>
+<year>2021</year>
+<volume>228</volume>
+<journal>Knowl. Based Syst.</journal>
+<ee>https://doi.org/10.1016/j.knosys.2021.107262</ee>
+<url>db/journals/kbs/kbs228.html#KhanNKGI21</url>
+</article>
+</r>
+<r><inproceedings key="conf/aina/GuptaKKNK21" mdate="2021-05-05">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="263/2464">Tanmay Girish Kulkarni</author>
+<author pid="158/5821">Lov Kumar</author>
+<author pid="158/5831">Lalita Bhanu Murthy Neti</author>
+<author pid="91/5340">Aneesh Krishna</author>
+<title>An Empirical Study on Predictability of Software Code Smell Using Deep Learning Models.</title>
+<pages>120-132</pages>
+<year>2021</year>
+<booktitle>AINA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-75075-6_10</ee>
+<crossref>conf/aina/2021-2</crossref>
+<url>db/conf/aina/aina2021-2.html#GuptaKKNK21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iccsa/GuptaGKN21" mdate="2021-09-17">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="299/1486">Abhiram Anand Gulanikar</author>
+<author pid="158/5821">Lov Kumar</author>
+<author pid="158/5831">Lalita Bhanu Murthy Neti</author>
+<title>Empirical Analysis on Effectiveness of NLP Methods for Predicting Code Smell.</title>
+<pages>43-53</pages>
+<year>2021</year>
+<booktitle>ICCSA (9)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-87013-3_4</ee>
+<crossref>conf/iccsa/2021-9</crossref>
+<url>db/conf/iccsa/iccsa2021-9.html#GuptaGKN21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2102-10155" mdate="2021-02-24">
+<author pid="61/208">Sebastian M. Cioaba</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<title>On the eigenvalues of Grassmann graphs, Bilinear forms graphs and Hermitian forms graphs.</title>
+<year>2021</year>
+<volume>abs/2102.10155</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.10155</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-10155</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2108-04656" mdate="2021-08-11">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="299/1486">Abhiram Anand Gulanikar</author>
+<author pid="158/5821">Lov Kumar</author>
+<author pid="158/5831">Lalita Bhanu Murthy Neti</author>
+<title>Empirical Analysis on Effectiveness of NLP Methods for Predicting Code Smell.</title>
+<year>2021</year>
+<volume>abs/2108.04656</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2108.04656</ee>
+<url>db/journals/corr/corr2108.html#abs-2108-04656</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2108-04659" mdate="2021-08-11">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="263/2464">Tanmay Girish Kulkarni</author>
+<author pid="158/5821">Lov Kumar</author>
+<author pid="158/5831">Lalita Bhanu Murthy Neti</author>
+<author pid="91/5340">Aneesh Krishna</author>
+<title>An Empirical Study on Predictability of Software Code Smell Using Deep Learning Models.</title>
+<year>2021</year>
+<volume>abs/2108.04659</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2108.04659</ee>
+<url>db/journals/corr/corr2108.html#abs-2108-04659</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2108-07717" mdate="2021-08-20">
+<author pid="275/5189">Jide Kehinde Adeniyi</author>
+<author pid="249/6186">Emmanuel Abidemi Adeniyi</author>
+<author pid="243/7913">Roseline Oluwaseun Ogundokun</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="86/20">Sanjay Misra</author>
+<title>Prediction of Students performance with Artificial Neural Network using Demographic Traits.</title>
+<year>2021</year>
+<volume>abs/2108.07717</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2108.07717</ee>
+<url>db/journals/corr/corr2108.html#abs-2108-07717</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2109-08079" mdate="2021-09-22">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="301/9883">Amogh Badugu</author>
+<author pid="302/1108">Tamanna Agrawal</author>
+<author pid="96/8522">Himanshu Sharad Bhatt</author>
+<title>Zero-Shot Open Information Extraction using Question Generation and Reading Comprehension.</title>
+<year>2021</year>
+<volume>abs/2109.08079</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2109.08079</ee>
+<url>db/journals/corr/corr2109.html#abs-2109-08079</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2112-02662" mdate="2021-12-08">
+<author pid="308/2481">Tyrone Machado</author>
+<author pid="308/2693">David Fassbender</author>
+<author pid="272/2502">Abdolreza Taheri</author>
+<author pid="58/1503">Daniel Eriksson</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="308/2618">Amirmasoud Molaei</author>
+<author pid="290/4993">Paolo Forte</author>
+<author pid="152/7907">Prashant Rai</author>
+<author pid="96/2747">Reza Ghabcheloo</author>
+<author pid="27/5599">Saku M&#228;kinen</author>
+<author pid="21/2153">Achim J. Lilienthal</author>
+<author pid="93/1475">Henrik Andreasson</author>
+<author pid="23/10941">Marcus Geimer</author>
+<title>Autonomous Heavy-Duty Mobile Machinery: A Multidisciplinary Collaborative Challenge.</title>
+<year>2021</year>
+<volume>abs/2112.02662</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2112.02662</ee>
+<url>db/journals/corr/corr2112.html#abs-2112-02662</url>
+</article>
+</r>
+<r><article key="journals/ijpr/OrjiKG20" mdate="2022-01-03">
+<author orcid="0000-0002-1411-9518" pid="171/6573">Ifeyinwa Juliet Orji</author>
+<author orcid="0000-0003-1618-2518" pid="194/1048">Simonov Kusi-Sarpong</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<title>The critical success factors of using social media for supply chain social sustainability in the freight logistics industry.</title>
+<pages>1522-1539</pages>
+<year>2020</year>
+<volume>58</volume>
+<journal>Int. J. Prod. Res.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1080/00207543.2019.1660829</ee>
+<url>db/journals/ijpr/ijpr58.html#OrjiKG20</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigdataconf/GuptaRMP20" mdate="2021-08-02">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="205/9137">Rajmohan C</author>
+<author pid="91/877">Sameep Mehta</author>
+<author pid="289/3142">Kiran Pulapa</author>
+<title>On Efficiently Processing Business Lineage Queries.</title>
+<pages>513-522</pages>
+<year>2020</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData50022.2020.9377973</ee>
+<crossref>conf/bigdataconf/2020</crossref>
+<url>db/conf/bigdataconf/bigdataconf2020.html#GuptaRMP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icta2/GuptaMKM20" mdate="2021-07-25">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="86/20">Sanjay Misra</author>
+<author orcid="0000-0002-0123-7822" pid="158/5821">Lov Kumar</author>
+<author pid="158/5831">N. L. Bhanu Murthy</author>
+<title>An Empirical Study to Investigate Data Sampling Techniques for Improving Code-Smell Prediction Using Imbalanced Data.</title>
+<pages>220-233</pages>
+<year>2020</year>
+<booktitle>ICTA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-69143-1_18</ee>
+<crossref>conf/icta2/2020</crossref>
+<url>db/conf/icta2/icta2020.html#GuptaMKM20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/semeval/GuptaGS20" mdate="2022-01-20">
+<author pid="271/8178">Pradyumna Gupta</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="22/3606">Aman Sinha</author>
+<title>DSC IIT-ISM at SemEval-2020 Task 8: Bi-Fusion Techniques for Deep Meme Emotion Analysis.</title>
+<pages>876-884</pages>
+<year>2020</year>
+<booktitle>SemEval@COLING</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2020.semeval-1.111</ee>
+<ee type="oa">https://aclanthology.org/2020.semeval-1.111/</ee>
+<crossref>conf/semeval/2020</crossref>
+<url>db/conf/semeval/semeval2020.html#GuptaGS20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2008-00825" mdate="2020-08-07">
+<author pid="271/8178">Pradyumna Gupta</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="22/3606">Aman Sinha</author>
+<title>DSC IIT-ISM at SemEval-2020 Task 8: Bi-Fusion Techniques for Deep Meme Emotion Analysis.</title>
+<year>2020</year>
+<volume>abs/2008.00825</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2008.00825</ee>
+<url>db/journals/corr/corr2008.html#abs-2008-00825</url>
+</article>
+</r>
+<r><article key="journals/ijaeis/GuptaP19" mdate="2020-07-30">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="130/6184">Roop Pahuja</author>
+<title>Estimating Morphological Features of Plant Growth Using Machine Vision.</title>
+<pages>30-53</pages>
+<year>2019</year>
+<volume>10</volume>
+<journal>Int. J. Agric. Environ. Inf. Syst.</journal>
+<number>3</number>
+<ee>https://doi.org/10.4018/IJAEIS.2019070103</ee>
+<url>db/journals/ijaeis/ijaeis10.html#GuptaP19</url>
+</article>
+</r>
+<r><article key="journals/ijpr/Kusi-SarpongGS19" mdate="2021-10-14">
+<author orcid="0000-0003-1618-2518" pid="194/1048">Simonov Kusi-Sarpong</author>
+<author orcid="0000-0001-9202-4728" pid="330/0760">Himanshu Gupta</author>
+<author pid="85/3935">Joseph Sarkis</author>
+<title>A supply chain sustainability innovation framework and evaluation methodology.</title>
+<pages>1990-2008</pages>
+<year>2019</year>
+<volume>57</volume>
+<journal>Int. J. Prod. Res.</journal>
+<number>7</number>
+<ee>https://doi.org/10.1080/00207543.2018.1518607</ee>
+<url>db/journals/ijpr/ijpr57.html#Kusi-SarpongGS19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icdcs/CLGBHM19" mdate="2019-11-06">
+<author pid="205/9137">Rajmohan C</author>
+<author pid="188/6387">Pranay Lohia</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="99/6888">Siddhartha Brahma</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="91/877">Sameep Mehta</author>
+<title>On Efficiently Processing Workflow Provenance Queries in Spark.</title>
+<pages>1443-1452</pages>
+<year>2019</year>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS.2019.00144</ee>
+<crossref>conf/icdcs/2019</crossref>
+<url>db/conf/icdcs/icdcs2019.html#CLGBHM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mln/GuptaKKN19" mdate="2021-07-25">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="263/2464">Tanmay Girish Kulkarni</author>
+<author orcid="0000-0002-0123-7822" pid="158/5821">Lov Kumar</author>
+<author pid="158/5831">Lalita Bhanu Murthy Neti</author>
+<title>A Novel Approach Towards Analysis of Attacker Behavior in DDoS Attacks.</title>
+<pages>392-402</pages>
+<year>2019</year>
+<booktitle>MLN</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-45778-5_27</ee>
+<crossref>conf/mln/2019</crossref>
+<url>db/conf/mln/mln2019.html#GuptaKKN19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-08547" mdate="2019-10-22">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="r/DJanakiRam">Dharanipragada Janakiram</author>
+<title>CDAG: A Serialized blockDAG for Permissioned Blockchain.</title>
+<year>2019</year>
+<volume>abs/1910.08547</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.08547</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-08547</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEcloud/GuptaHMJ18" mdate="2023-03-24">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="11/7555">Sandeep Hans</author>
+<author pid="91/877">Sameep Mehta</author>
+<author pid="76/3806">Praveen Jayachandran</author>
+<title>On Building Efficient Temporal Indexes on Hyperledger Fabric.</title>
+<pages>294-301</pages>
+<year>2018</year>
+<booktitle>IEEE CLOUD</booktitle>
+<ee>https://doi.org/10.1109/CLOUD.2018.00044</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CLOUD.2018.00044</ee>
+<crossref>conf/IEEEcloud/2018</crossref>
+<url>db/conf/IEEEcloud/IEEEcloud2018.html#GuptaHMJ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/GuptaHAMCJ18" mdate="2023-03-23">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="11/7555">Sandeep Hans</author>
+<author pid="228/6023">Kushagra Aggarwal</author>
+<author pid="91/877">Sameep Mehta</author>
+<author pid="117/6988">Bapi Chatterjee</author>
+<author pid="76/3806">Praveen Jayachandran</author>
+<title>Efficiently Processing Temporal Queries on Hyperledger Fabric.</title>
+<pages>1489-1494</pages>
+<year>2018</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2018.00167</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2018.00167</ee>
+<crossref>conf/icde/2018</crossref>
+<url>db/conf/icde/icde2018.html#GuptaHAMCJ18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/secon/Gupta18" mdate="2018-07-06">
+<author pid="330/0760">Himanshu Gupta</author>
+<title>Deductive Approach to Processing High-Level Video Activity Queries in UAV Networks.</title>
+<pages>24-28</pages>
+<year>2018</year>
+<booktitle>SECON Workshops</booktitle>
+<ee>https://doi.org/10.1109/SECONW.2018.8396347</ee>
+<crossref>conf/secon/2018w</crossref>
+<url>db/conf/secon/secon2018w.html#Gupta18</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/bigda/2018" mdate="2019-05-14">
+<editor pid="61/780">Anirban Mondal</editor>
+<editor pid="330/0760">Himanshu Gupta</editor>
+<editor pid="s/JaideepSrivastava">Jaideep Srivastava</editor>
+<editor pid="78/2714">P. Krishna Reddy</editor>
+<editor pid="72/4050">Durvasula V. L. N. Somayajulu</editor>
+<title>Big Data Analytics - 6th International Conference, BDA 2018, Warangal, India, December 18-21, 2018, Proceedings</title>
+<booktitle>BDA</booktitle>
+<publisher>Springer</publisher>
+<year>2018</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>11297</volume>
+<isbn>978-3-030-04779-5</isbn>
+<isbn>978-3-030-04780-1</isbn>
+<ee>https://doi.org/10.1007/978-3-030-04780-1</ee>
+<url>db/conf/bigda/bigda2018.html</url>
+</proceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Gupta18g" mdate="2019-02-14">
+<author pid="330/0760">Himanshu Gupta</author>
+<title>Incremental Maintenance of Views with Aggregates.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_840</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/i2.html#Gupta18g</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Gupta18m" mdate="2019-02-14">
+<author pid="330/0760">Himanshu Gupta</author>
+<title>Self-Maintenance of Views.</title>
+<year>2018</year>
+<booktitle>Encyclopedia of Database Systems (2nd ed.)</booktitle>
+<ee>https://doi.org/10.1007/978-1-4614-8265-9_839</ee>
+<crossref>reference/db/2018</crossref>
+<url>db/reference/db/s2.html#Gupta18m</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1808-08424" mdate="2018-09-02">
+<author pid="205/9137">Rajmohan C</author>
+<author pid="188/6387">Pranay Lohia</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="99/6888">Siddhartha Brahma</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="91/877">Sameep Mehta</author>
+<title>Efficiently Processing Workflow Provenance Queries on SPARK.</title>
+<year>2018</year>
+<volume>abs/1808.08424</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1808.08424</ee>
+<url>db/journals/corr/corr1808.html#abs-1808-08424</url>
+</article>
+</r>
+<r><article key="journals/mia/LiGLDD17" mdate="2020-02-24">
+<author orcid="0000-0002-8294-6638" pid="l/MingLi30">Ming Li 0030</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="56/1059">Steven G. Lloyd</author>
+<author pid="81/5394">Louis J. Dell'Italia</author>
+<author orcid="0000-0002-6695-4777" pid="49/2991">Thomas S. Denney Jr.</author>
+<title>A graph theoretic approach for computing 3D+time biventricular cardiac strain from tagged MRI data.</title>
+<pages>46-57</pages>
+<year>2017</year>
+<volume>35</volume>
+<journal>Medical Image Anal.</journal>
+<ee>https://doi.org/10.1016/j.media.2016.06.006</ee>
+<ee>https://www.wikidata.org/entity/Q31108949</ee>
+<url>db/journals/mia/mia35.html#LiGLDD17</url>
+</article>
+</r>
+<r><article key="journals/pvldb/BharadwajCDDDCG17" mdate="2021-10-14">
+<author pid="204/3688">Shreyas Bharadwaj</author>
+<author pid="c/LauraChiticariu">Laura Chiticariu</author>
+<author pid="22/8355">Marina Danilevsky</author>
+<author pid="204/3793">Samarth Dhingra</author>
+<author pid="204/3819">Samved Divekar</author>
+<author pid="65/11457">Arnaldo Carreno-Fuentes</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="12/1770-5">Nitin Gupta 0005</author>
+<author pid="204/3677">Sang-Don Han</author>
+<author pid="56/451">Mauricio A. Hern&#225;ndez</author>
+<author pid="h/ChingTienHo">Howard Ho</author>
+<author pid="98/1178">Parag Jain</author>
+<author pid="22/835-1">Salil Joshi 0001</author>
+<author pid="230/8590">Hima Karanam</author>
+<author pid="204/3759">Saravanan Krishnan</author>
+<author pid="51/6067">Rajasekar Krishnamurthy</author>
+<author pid="60/2319">Yunyao Li 0001</author>
+<author pid="204/3633">Satishkumaar Manivannan</author>
+<author pid="184/1441">Ashish R. Mittal</author>
+<author orcid="0000-0002-4418-4724" pid="o/FatmaOzcan">Fatma Ozcan</author>
+<author pid="127/6195">Abdul Quamar</author>
+<author pid="266/2891">Poornima Raman</author>
+<author pid="54/4272">Diptikalyan Saha</author>
+<author pid="74/4923">Karthik Sankaranarayanan</author>
+<author pid="129/8181">Jaydeep Sen</author>
+<author pid="58/1388">Prithviraj Sen</author>
+<author pid="81/6125">Shivakumar Vaithyanathan</author>
+<author pid="02/300">Mitesh Vasa</author>
+<author pid="181/2812">Hao Wang</author>
+<author pid="17/5913-1">Huaiyu Zhu 0001</author>
+<title>Creation and Interaction with Large-scale Domain-Specific Knowledge Bases.</title>
+<pages>1965-1968</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p1965-Danilevsky.pdf</ee>
+<ee>https://doi.org/10.14778/3137765.3137820</ee>
+<url>db/journals/pvldb/pvldb10.html#BharadwajCDDDCG17</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEcloud/GuptaMHCLC17" mdate="2023-03-24">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="91/877">Sameep Mehta</author>
+<author pid="11/7555">Sandeep Hans</author>
+<author pid="117/6988">Bapi Chatterjee</author>
+<author pid="188/6387">Pranay Lohia</author>
+<author pid="205/9137">Rajmohan C</author>
+<title>Provenance in Context of Hadoop as a Service (HaaS) - State of the Art and Research Directions.</title>
+<pages>680-683</pages>
+<year>2017</year>
+<booktitle>CLOUD</booktitle>
+<ee>https://doi.org/10.1109/CLOUD.2017.91</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CLOUD.2017.91</ee>
+<crossref>conf/IEEEcloud/2017</crossref>
+<url>db/conf/IEEEcloud/IEEEcloud2017.html#GuptaMHCLC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hicss/YangMRLGT17" mdate="2022-05-04">
+<author pid="147/1165">Fangjin Yang</author>
+<author pid="147/1270">Gian Merlino</author>
+<author pid="147/1207">Nelson Ray</author>
+<author pid="147/1264">Xavier L&#233;aut&#233;</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="147/1249">Eric Tschetter</author>
+<title>The RADStack: Open Source Lambda Architecture for Interactive Analytics.</title>
+<year>2017</year>
+<booktitle>HICSS</booktitle>
+<ee type="oa">https://hdl.handle.net/10125/41359</ee>
+<ee>http://aisel.aisnet.org/hicss-50/da/streaming_data_analytics/3</ee>
+<crossref>conf/hicss/2017</crossref>
+<url>db/conf/hicss/hicss2017.html#YangMRLGT17</url>
+<pages>1-10</pages>
+</inproceedings>
+</r>
+<r><article key="journals/jcmse/PaulGMVS16" mdate="2021-10-14">
+<author orcid="0000-0002-7212-1886" pid="178/1115">Bobby Paul</author>
+<author orcid="0000-0003-1391-8358" pid="330/0760">Himanshu Gupta</author>
+<author pid="178/1087">Thokur Sreepathy Murali</author>
+<author pid="178/1076">Thanvanthri Gururajan Vasudevan</author>
+<author orcid="0000-0002-2368-5490" pid="178/1215">Kapaettu Satyamoorthy</author>
+<title>Repeat sequence analysis of Mycobacterium tuberculosis.</title>
+<pages>157-164</pages>
+<year>2016</year>
+<volume>16</volume>
+<journal>J. Comput. Methods Sci. Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.3233/JCM-160597</ee>
+<url>db/journals/jcmse/jcmse16.html#PaulGMVS16</url>
+</article>
+</r>
+<r><inproceedings key="conf/icacci/GuptaMJGO16" mdate="2017-05-24">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="190/3880">Deepak Mandloi</author>
+<author pid="190/4019">Anand Jat</author>
+<author pid="122/9141">Arpit Gupta</author>
+<author pid="190/3855">Prabhakar Ojha</author>
+<title>Design of linear phase low pass FIR filter using restart particle swarm optimization.</title>
+<pages>2658-2661</pages>
+<year>2016</year>
+<booktitle>ICACCI</booktitle>
+<ee>https://doi.org/10.1109/ICACCI.2016.7732460</ee>
+<crossref>conf/icacci/2016</crossref>
+<url>db/conf/icacci/icacci2016.html#GuptaMJGO16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictcs2/JebaduraiG16" mdate="2022-10-02">
+<author pid="310/6869">N. Immanuel Jebadurai</author>
+<author orcid="0000-0001-8290-7666" pid="330/0760">Himanshu Gupta</author>
+<title>Automated Verification in Cryptography System.</title>
+<pages>2:1-2:5</pages>
+<year>2016</year>
+<booktitle>ICTCS</booktitle>
+<ee>https://doi.org/10.1145/2905055.2905208</ee>
+<url>db/conf/ictcs2/ictcs2016.html#JebaduraiG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictcs2/SinghG16" mdate="2022-10-02">
+<author pid="310/7589">Kuwar Kuldeep V. V. Singh</author>
+<author orcid="0000-0001-8290-7666" pid="330/0760">Himanshu Gupta</author>
+<title>A New Approach for the Security of VPN.</title>
+<pages>13:1-13:5</pages>
+<year>2016</year>
+<booktitle>ICTCS</booktitle>
+<ee>https://doi.org/10.1145/2905055.2905219</ee>
+<url>db/conf/ictcs2/ictcs2016.html#SinghG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictcs2/PuriG16" mdate="2022-10-02">
+<author pid="310/6821">Gurjeet Singh Puri</author>
+<author orcid="0000-0001-8290-7666" pid="330/0760">Himanshu Gupta</author>
+<title>ID Based Encryption in Modern Cryptography.</title>
+<pages>15:1-15:5</pages>
+<year>2016</year>
+<booktitle>ICTCS</booktitle>
+<ee>https://doi.org/10.1145/2905055.2905221</ee>
+<url>db/conf/ictcs2/ictcs2016.html#PuriG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ictcs2/KumarSG16" mdate="2022-10-02">
+<author orcid="0000-0003-0841-5924" pid="45/3365">Sunil Kumar</author>
+<author pid="51/10220">Jayant Shekhar</author>
+<author orcid="0000-0001-8290-7666" pid="330/0760">Himanshu Gupta</author>
+<title>Agent based Security Model for Cloud Big Data.</title>
+<pages>142:1-142:5</pages>
+<year>2016</year>
+<booktitle>ICTCS</booktitle>
+<ee>https://doi.org/10.1145/2905055.2905202</ee>
+<url>db/conf/ictcs2/ictcs2016.html#KumarSG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/socpar/GuptaGANS16" mdate="2018-06-27">
+<author pid="221/8417">Shubham Kumar Gupta</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="74/6367">Sagar Arora</author>
+<author pid="221/8074">Pranshu Nayak</author>
+<author pid="221/7987">Tanmay Shrivastava</author>
+<title>Efficient Initialization of Particle Swarm Optimization Using Low Discrepancy Sequence.</title>
+<pages>440-449</pages>
+<year>2016</year>
+<booktitle>SoCPaR</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-60618-7_43</ee>
+<crossref>conf/socpar/2016</crossref>
+<url>db/conf/socpar/socpar2016.html#GuptaGANS16</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijcta/GuptaG14" mdate="2020-05-11">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="136/8110">Bahniman Ghosh</author>
+<title>Transistor size optimization in digital circuits using ant colony optimization for continuous domain.</title>
+<pages>642-658</pages>
+<year>2014</year>
+<volume>42</volume>
+<journal>Int. J. Circuit Theory Appl.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1002/cta.1879</ee>
+<url>db/journals/ijcta/ijcta42.html#GuptaG14</url>
+</article>
+</r>
+<r><inproceedings key="conf/bigda/GuptaL14" mdate="2017-05-24">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="51/9970">Sriram Lakshminarasimhan</author>
+<title>Processing Spatio-temporal Data On Map-Reduce.</title>
+<pages>57-59</pages>
+<year>2014</year>
+<booktitle>BDA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-13820-6_5</ee>
+<crossref>conf/bigda/2014</crossref>
+<url>db/conf/bigda/bigda2014.html#GuptaL14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/ChawdaGNFSM14" mdate="2021-01-29">
+<author pid="127/6176">Bhupesh Chawda</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="51/4800">Sumit Negi</author>
+<author pid="53/1182">Tanveer A. Faruquie</author>
+<author pid="s/LVenkataSubramaniam">L. Venkata Subramaniam</author>
+<author pid="85/6670">Mukesh K. Mohania</author>
+<title>Processing Interval Joins On Map-Reduce.</title>
+<pages>463-474</pages>
+<year>2014</year>
+<booktitle>EDBT</booktitle>
+<ee type="oa">https://doi.org/10.5441/002/edbt.2014.42</ee>
+<crossref>conf/edbt/2014</crossref>
+<url>db/conf/edbt/edbt2014.html#ChawdaGNFSM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/miccai/LiGLDD14" mdate="2020-05-30">
+<author orcid="0000-0002-8294-6638" pid="l/MingLi30">Ming Li 0030</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="56/1059">Steven G. Lloyd</author>
+<author pid="81/5394">Louis J. Dell'Italia</author>
+<author pid="49/2991">Thomas S. Denney Jr.</author>
+<title>3D+time Left Ventricular Strain by Unwrapping Harmonic Phase with Graph Cuts.</title>
+<pages>578-585</pages>
+<year>2014</year>
+<booktitle>MICCAI (2)</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-10470-6_72</ee>
+<ee>https://www.wikidata.org/entity/Q86206017</ee>
+<crossref>conf/miccai/2014-2</crossref>
+<url>db/conf/miccai/miccai2014-2.html#LiGLDD14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/GuptaC14" mdate="2017-05-25">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="127/6176">Bhupesh Chawda</author>
+<title>&#949;-Controlled-Replicate: An ImprovedControlled-Replicate Algorithm for Multi-way Spatial Join Processing on Map-Reduce.</title>
+<pages>278-293</pages>
+<year>2014</year>
+<booktitle>WISE (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-11746-1_20</ee>
+<crossref>conf/wise/2014-2</crossref>
+<url>db/conf/wise/wise2014-2.html#GuptaC14</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/AzimiG14" mdate="2018-08-13">
+<author pid="99/8867">Navid Hamed Azimi</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<title>Optimal Spectrum Management in Two-User Interference Channels.</title>
+<year>2014</year>
+<volume>abs/1407.3556</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1407.3556</ee>
+<url>db/journals/corr/corr1407.html#AzimiG14</url>
+</article>
+</r>
+<r><article key="journals/ac/GuptaGM13" mdate="2020-05-20">
+<author pid="70/2530">Rajeev Gupta</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="85/6670">Mukesh K. Mohania</author>
+<title>Efficient Data Analytics Over Cloud.</title>
+<pages>367-401</pages>
+<year>2013</year>
+<volume>90</volume>
+<journal>Adv. Comput.</journal>
+<ee>https://doi.org/10.1016/B978-0-12-408091-1.00006-3</ee>
+<url>db/journals/ac/ac90.html#GuptaGM13</url>
+</article>
+</r>
+<r><inproceedings key="conf/comsnets/JainGGKRS13" mdate="2020-11-13">
+<author pid="126/2498">Dhruv Jain</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="126/2519">Deeksha Gautam</author>
+<author pid="126/2507-4">Mayank Kumar 0004</author>
+<author pid="91/44">Vinay J. Ribeiro</author>
+<author pid="82/6388-2">Manish Sharma 0002</author>
+<title>Whitespace networks for vehicular communication.</title>
+<pages>1-2</pages>
+<year>2013</year>
+<booktitle>COMSNETS</booktitle>
+<ee>https://doi.org/10.1109/COMSNETS.2013.6465588</ee>
+<crossref>conf/comsnets/2013</crossref>
+<url>db/conf/comsnets/comsnets2013.html#JainGGKRS13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/edbt/GuptaCNFSM13" mdate="2018-11-06">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="127/6176">Bhupesh Chawda</author>
+<author pid="51/4800">Sumit Negi</author>
+<author pid="53/1182">Tanveer A. Faruquie</author>
+<author pid="s/LVenkataSubramaniam">L. Venkata Subramaniam</author>
+<author pid="85/6670">Mukesh K. Mohania</author>
+<title>Processing multi-way spatial joins on map-reduce.</title>
+<pages>113-124</pages>
+<year>2013</year>
+<booktitle>EDBT</booktitle>
+<ee>https://doi.org/10.1145/2452376.2452390</ee>
+<crossref>conf/edbt/2013</crossref>
+<url>db/conf/edbt/edbt2013.html#GuptaCNFSM13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wise/GuptaGGP13" mdate="2017-05-25">
+<author pid="70/2530">Rajeev Gupta</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="94/5061">Sanjeev Gupta</author>
+<author pid="p/SPadmanabhan">Sriram Padmanabhan</author>
+<title>A Middleware for Managing Big-Data Flows.</title>
+<pages>410-424</pages>
+<year>2013</year>
+<booktitle>WISE (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-41154-0_31</ee>
+<crossref>conf/wise/2013-2</crossref>
+<url>db/conf/wise/wise2013-2.html#GuptaGGP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/IEEEscc/GuptaGNM12" mdate="2023-03-24">
+<author pid="70/2530">Rajeev Gupta</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="48/1886">Ullas Nambiar</author>
+<author pid="85/6670">Mukesh K. Mohania</author>
+<title>Enabling Active Data Archival over Cloud.</title>
+<pages>98-105</pages>
+<year>2012</year>
+<booktitle>IEEE SCC</booktitle>
+<ee>https://doi.org/10.1109/SCC.2012.20</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SCC.2012.20</ee>
+<crossref>conf/IEEEscc/2012</crossref>
+<url>db/conf/IEEEscc/scc2012.html#GuptaGNM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bigda/GuptaGM12" mdate="2017-05-24">
+<author pid="70/2530">Rajeev Gupta</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="85/6670">Mukesh K. Mohania</author>
+<title>Cloud Computing and Big Data Analytics: What Is New from Databases Perspective?</title>
+<pages>42-61</pages>
+<year>2012</year>
+<booktitle>BDA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-35542-4_5</ee>
+<crossref>conf/bigda/2012</crossref>
+<url>db/conf/bigda/bigda2012.html#GuptaGM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/infocom/Al-AyyoubG11" mdate="2017-05-16">
+<author pid="10/7992">Mahmoud Al-Ayyoub</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<title>Truthful spectrum auctions with approximate revenue.</title>
+<pages>2813-2821</pages>
+<year>2011</year>
+<booktitle>INFOCOM</booktitle>
+<ee>https://doi.org/10.1109/INFCOM.2011.5935115</ee>
+<crossref>conf/infocom/2011</crossref>
+<url>db/conf/infocom/infocom2011.html#Al-AyyoubG11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mascots/GuptaA11" mdate="2023-03-23">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="90/1415">Manoj K. Agarwal</author>
+<title>[Epsilon] - DjC: A Disjoint Clique Approach for Data Driven Approximate Bounded Loss Data Collection in Sensor Networks.</title>
+<pages>205-214</pages>
+<year>2011</year>
+<booktitle>MASCOTS</booktitle>
+<ee>https://doi.org/10.1109/MASCOTS.2011.22</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/MASCOTS.2011.22</ee>
+<crossref>conf/mascots/2011</crossref>
+<url>db/conf/mascots/mascots2011.html#GuptaA11</url>
+</inproceedings>
+</r>
+<r><article key="journals/tmc/Al-AyyoubG10" mdate="2017-05-28">
+<author pid="10/7992">Mahmoud Al-Ayyoub</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<title>Joint Routing, Channel Assignment, and Scheduling for Throughput Maximization in General Interference Models.</title>
+<pages>553-565</pages>
+<year>2010</year>
+<volume>9</volume>
+<journal>IEEE Trans. Mob. Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TMC.2009.144</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TMC.2009.144</ee>
+<url>db/journals/tmc/tmc9.html#Al-AyyoubG10</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/GuptaGNM10" mdate="2018-11-06">
+<author pid="70/2530">Rajeev Gupta</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="48/1886">Ullas Nambiar</author>
+<author pid="85/6670">Mukesh K. Mohania</author>
+<title>Efficiently querying archived data using Hadoop.</title>
+<pages>1301-1304</pages>
+<year>2010</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1871437.1871606</ee>
+<crossref>conf/cikm/2010</crossref>
+<url>db/conf/cikm/cikm2010.html#GuptaGNM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/NambiarGGM10" mdate="2018-11-06">
+<author pid="48/1886">Ullas Nambiar</author>
+<author pid="70/2530">Rajeev Gupta</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="85/6670">Mukesh K. Mohania</author>
+<title>Massive structured data management solution.</title>
+<pages>1905-1908</pages>
+<year>2010</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1871437.1871760</ee>
+<crossref>conf/cikm/2010</crossref>
+<url>db/conf/cikm/cikm2010.html#NambiarGGM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mascots/GuptaRM10" mdate="2023-03-23">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="91/44">Vinay J. Ribeiro</author>
+<author pid="m/AnirbanMahanti">Anirban Mahanti</author>
+<title>A Case for Robust Semi-Experiments.</title>
+<pages>225-234</pages>
+<year>2010</year>
+<booktitle>MASCOTS</booktitle>
+<ee>https://doi.org/10.1109/MASCOTS.2010.31</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/MASCOTS.2010.31</ee>
+<crossref>conf/mascots/2010</crossref>
+<url>db/conf/mascots/mascots2010.html#GuptaRM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/networking/GuptaRM10" mdate="2018-06-26">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="91/44">Vinay J. Ribeiro</author>
+<author pid="m/AnirbanMahanti">Anirban Mahanti</author>
+<title>A Longitudinal Study of Small-Time Scaling Behavior of Internet Traffic.</title>
+<pages>83-95</pages>
+<year>2010</year>
+<booktitle>Networking</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-12963-6_7</ee>
+<crossref>conf/networking/2010</crossref>
+<url>db/conf/networking/networking2010.html#GuptaRM10</url>
+</inproceedings>
+</r>
+<r><article key="journals/ibmrd/BhideNSG09" mdate="2020-03-13">
+<author pid="40/4935">Manish Bhide</author>
+<author pid="51/4800">Sumit Negi</author>
+<author pid="s/LVenkataSubramaniam">L. Venkata Subramaniam</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<title>Customer-focused service management for contact centers.</title>
+<pages>9</pages>
+<year>2009</year>
+<volume>53</volume>
+<journal>IBM J. Res. Dev.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1147/JRD.2009.5429037</ee>
+<url>db/journals/ibmrd/ibmrd53.html#BhideNSG09</url>
+</article>
+</r>
+<r><article key="journals/tlsdkcs/MohaniaBRCG09" mdate="2020-05-19">
+<author pid="85/6670">Mukesh K. Mohania</author>
+<author pid="40/4935">Manish Bhide</author>
+<author pid="89/5441">Prasan Roy</author>
+<author pid="c/VTChakaravarthy">Venkatesan T. Chakaravarthy</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<title>Context Oriented Information Integration.</title>
+<pages>289-326</pages>
+<year>2009</year>
+<volume>1</volume>
+<journal>Trans. Large Scale Data Knowl. Centered Syst.</journal>
+<ee>https://doi.org/10.1007/978-3-642-03722-1_12</ee>
+<crossref>journals/tlsdkcs/2009-1</crossref>
+<url>db/journals/tlsdkcs/tlsdkcs1.html#MohaniaBRCG09</url>
+</article>
+</r>
+<r><inproceedings key="conf/isbi/AmbaleDGLD09" mdate="2017-06-15">
+<author orcid="0000-0002-2330-2373" pid="48/2942">Bharath Ambale</author>
+<author pid="49/2991">Thomas S. Denney Jr.</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="56/1059">Steven Lloyd</author>
+<author pid="81/5394">Louis J. Dell'Italia</author>
+<title>3D Left Ventricular Strain by Phase Unwrapping: A Simulated Annealing Based Branch-Cut Placement Method.</title>
+<pages>466-469</pages>
+<year>2009</year>
+<booktitle>ISBI</booktitle>
+<ee>https://doi.org/10.1109/ISBI.2009.5193085</ee>
+<crossref>conf/isbi/2009</crossref>
+<url>db/conf/isbi/isbi2009.html#AmbaleDGLD09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isbi/FengRDLDG09" mdate="2017-05-25">
+<author pid="17/1152">Wei Feng</author>
+<author pid="76/5631">Stanley J. Reeves</author>
+<author pid="49/2991">Thomas S. Denney Jr.</author>
+<author pid="56/1059">Steven Lloyd</author>
+<author pid="81/5394">Louis J. Dell'Italia</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<title>A New Consistent Image Registration Formulation with a B-Spline Deformation Model.</title>
+<pages>979-982</pages>
+<year>2009</year>
+<booktitle>ISBI</booktitle>
+<ee>https://doi.org/10.1109/ISBI.2009.5193218</ee>
+<crossref>conf/isbi/2009</crossref>
+<url>db/conf/isbi/isbi2009.html#FengRDLDG09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mascots/GuptaMR09" mdate="2023-03-23">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="m/AnirbanMahanti">Anirban Mahanti</author>
+<author pid="91/44">Vinay J. Ribeiro</author>
+<title>Revisiting coexistence of poissonity and self-similarity in Internet traffic.</title>
+<pages>1-10</pages>
+<year>2009</year>
+<booktitle>MASCOTS</booktitle>
+<ee>https://doi.org/10.1109/MASCOT.2009.5366239</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/MASCOT.2009.5366239</ee>
+<crossref>conf/mascots/2009</crossref>
+<url>db/conf/mascots/mascots2009.html#GuptaMR09</url>
+</inproceedings>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Gupta09g" mdate="2017-07-12">
+<author pid="330/0760">Himanshu Gupta</author>
+<title>Incremental Maintenance of Views with Aggregates.</title>
+<pages>1421-1425</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_840</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/i.html#Gupta09g</url>
+</incollection>
+</r>
+<r><incollection publtype="encyclopedia" key="reference/db/Gupta09m" mdate="2017-07-12">
+<author pid="330/0760">Himanshu Gupta</author>
+<title>Self-Maintenance of Views.</title>
+<pages>2548-2550</pages>
+<year>2009</year>
+<booktitle>Encyclopedia of Database Systems</booktitle>
+<ee>https://doi.org/10.1007/978-0-387-39940-9_839</ee>
+<crossref>reference/db/2009</crossref>
+<url>db/reference/db/s.html#Gupta09m</url>
+</incollection>
+</r>
+<r><inproceedings key="conf/cikm/ChakaravarthyGRM08" mdate="2018-11-06">
+<author pid="c/VTChakaravarthy">Venkatesan T. Chakaravarthy</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="89/5441">Prasan Roy</author>
+<author pid="85/6670">Mukesh K. Mohania</author>
+<title>Efficient techniques for document sanitization.</title>
+<pages>843-852</pages>
+<year>2008</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/1458082.1458194</ee>
+<crossref>conf/cikm/2008</crossref>
+<url>db/conf/cikm/cikm2008.html#ChakaravarthyGRM08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/BhideCGGMPRRS08" mdate="2023-03-24">
+<author pid="40/4935">Manish Bhide</author>
+<author pid="127/6695">Venkatesan Chakravarthy</author>
+<author pid="g/AjayGupta4">Ajay Gupta 0004</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="85/6670">Mukesh K. Mohania</author>
+<author pid="82/3877">Kriti Puniyani</author>
+<author pid="89/5441">Prasan Roy</author>
+<author pid="05/6852">Sourashis Roy</author>
+<author pid="59/1386">Vibhuti S. Sengar</author>
+<title>Enhanced Business Intelligence using EROCS.</title>
+<pages>1616-1619</pages>
+<year>2008</year>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2008.4497635</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICDE.2008.4497635</ee>
+<crossref>conf/icde/2008</crossref>
+<url>db/conf/icde/icde2008.html#BhideCGGMPRRS08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isbi/FengDLDG08" mdate="2017-05-25">
+<author pid="17/1152">Wei Feng</author>
+<author pid="49/2991">Thomas S. Denney Jr.</author>
+<author pid="56/1059">Steven Lloyd</author>
+<author pid="81/5394">Louis J. Dell'Italia</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<title>Contour regularized left ventricular strain analysis from cine MRI.</title>
+<pages>520-523</pages>
+<year>2008</year>
+<booktitle>ISBI</booktitle>
+<ee>https://doi.org/10.1109/ISBI.2008.4541047</ee>
+<crossref>conf/isbi/2008</crossref>
+<url>db/conf/isbi/isbi2008.html#FengDLDG08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isbi/AmbaleDGLD08" mdate="2017-06-15">
+<author orcid="0000-0002-2330-2373" pid="48/2942">Bharath Ambale</author>
+<author pid="49/2991">Thomas S. Denney Jr.</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="56/1059">Steven Lloyd</author>
+<author pid="81/5394">Louis J. Dell'Italia</author>
+<title>Measuring 3D left ventricular strain from unwrapped harmonic phase.</title>
+<pages>1433-1436</pages>
+<year>2008</year>
+<booktitle>ISBI</booktitle>
+<ee>https://doi.org/10.1109/ISBI.2008.4541276</ee>
+<crossref>conf/isbi/2008</crossref>
+<url>db/conf/isbi/isbi2008.html#AmbaleDGLD08</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/NambiarGBM08" mdate="2018-11-06">
+<author pid="48/1886">Ullas Nambiar</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="68/1677">Raju Balakrishnan</author>
+<author pid="85/6670">Mukesh K. Mohania</author>
+<title>Helping satisfy multiple objectives during a service desk conversation.</title>
+<pages>1147-1158</pages>
+<year>2008</year>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1376616.1376731</ee>
+<crossref>conf/sigmod/2008</crossref>
+<url>db/conf/sigmod/sigmod2008.html#NambiarGBM08</url>
+</inproceedings>
+</r>
+<r><article key="journals/talg/GuptaW07" mdate="2018-11-06">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="w/RephaelWenger">Rephael Wenger</author>
+<title>Constructing pairwise disjoint paths with few links.</title>
+<year>2007</year>
+<volume>3</volume>
+<journal>ACM Trans. Algorithms</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1273340.1273342</ee>
+<url>db/journals/talg/talg3.html#GuptaW07</url>
+<pages>26</pages>
+</article>
+</r>
+<r><inproceedings key="conf/vldb/NambiarGM07" mdate="2020-03-12">
+<author pid="48/1886">Ullas Nambiar</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="85/6670">Mukesh K. Mohania</author>
+<title>CallAssist: Helping Call Center Agents in Preference Elicitation.</title>
+<pages>1338-1341</pages>
+<year>2007</year>
+<crossref>conf/vldb/2007</crossref>
+<booktitle>VLDB</booktitle>
+<ee type="oa">http://www.vldb.org/conf/2007/papers/demo/p1338-nambiar.pdf</ee>
+<url>db/conf/vldb/vldb2007.html#NambiarGM07</url>
+</inproceedings>
+</r>
+<r><article key="journals/ec/DebG06" mdate="2020-03-13">
+<author pid="21/4802">Kalyanmoy Deb</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<title>Introducing Robustness in Multi-Objective Optimization.</title>
+<pages>463-494</pages>
+<year>2006</year>
+<volume>14</volume>
+<journal>Evol. Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1162/evco.2006.14.4.463</ee>
+<ee>https://www.wikidata.org/entity/Q51103655</ee>
+<url>db/journals/ec/ec14.html#DebG06</url>
+</article>
+</r>
+<r><inproceedings key="conf/isbi/LiDDGLD06" mdate="2017-05-25">
+<author pid="48/1097">Jin Li</author>
+<author pid="54/2236">Craig A. Davis</author>
+<author pid="49/2991">Thomas S. Denney Jr.</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="56/1059">Steven Lloyd</author>
+<author pid="81/5394">Louis J. Dell'Italia</author>
+<title>Tag point classification in tagged cardiac MR images.</title>
+<pages>618-621</pages>
+<year>2006</year>
+<crossref>conf/isbi/2006</crossref>
+<booktitle>ISBI</booktitle>
+<ee>https://doi.org/10.1109/ISBI.2006.1624992</ee>
+<url>db/conf/isbi/isbi2006.html#LiDDGLD06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/ChakaravarthyGRM06" mdate="2020-03-12">
+<author pid="c/VTChakaravarthy">Venkatesan T. Chakaravarthy</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="89/5441">Prasan Roy</author>
+<author pid="85/6670">Mukesh K. Mohania</author>
+<title>Efficiently Linking Text Documents with Relevant Structured Information.</title>
+<pages>667-678</pages>
+<year>2006</year>
+<crossref>conf/vldb/2006</crossref>
+<booktitle>VLDB</booktitle>
+<ee>http://dl.acm.org/citation.cfm?id=1164185</ee>
+<ee type="oa">http://www.vldb.org/conf/2006/p667-chakaravarthy.pdf</ee>
+<url>db/conf/vldb/vldb2006.html#ChakaravarthyGRM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cec/GuptaD05" mdate="2017-05-21">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="21/4802">Kalyanmoy Deb</author>
+<title>Handling constraints in robust multi-objective optimization.</title>
+<pages>25-32</pages>
+<year>2005</year>
+<crossref>conf/cec/2005</crossref>
+<booktitle>Congress on Evolutionary Computation</booktitle>
+<ee>https://doi.org/10.1109/CEC.2005.1554663</ee>
+<url>db/conf/cec/cec2005.html#GuptaD05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/emo/DebG05" mdate="2017-05-23">
+<author pid="21/4802">Kalyanmoy Deb</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<title>Searching for Robust Pareto-Optimal Solutions in Multi-objective Optimization.</title>
+<pages>150-164</pages>
+<ee>https://doi.org/10.1007/978-3-540-31880-4_11</ee>
+<year>2005</year>
+<crossref>conf/emo/2005</crossref>
+<booktitle>EMO</booktitle>
+<url>db/conf/emo/emo2005.html#DebG05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/PandeyGM05" mdate="2018-11-06">
+<author pid="23/3937">Gaurav Pandey</author>
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="m/PabitraMitra">Pabitra Mitra</author>
+<title>Stochastic scheduling of active support vector learning algorithms.</title>
+<pages>38-42</pages>
+<year>2005</year>
+<crossref>conf/sac/2005</crossref>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1066677.1066689</ee>
+<url>db/conf/sac/sac2005.html#PandeyGM05</url>
+</inproceedings>
+</r>
+<r><article key="journals/jal/GuptaW97" mdate="2023-05-13">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="w/RephaelWenger">Rephael Wenger</author>
+<title>Constructing Piecewise Linear Homeomorphisms of Simple Polygons.</title>
+<pages>142-157</pages>
+<year>1997</year>
+<volume>22</volume>
+<journal>J. Algorithms</journal>
+<number>1</number>
+<url>db/journals/jal/jal22.html#GuptaW97</url>
+<ee type="oa">https://doi.org/10.1006/jagm.1995.0808</ee>
+</article>
+</r>
+<r><inproceedings key="conf/bncod/GuptaMV97" mdate="2017-05-22">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="66/1458">Iain McLaren</author>
+<author pid="09/6906">Alfred Vella</author>
+<title>A Framework for Database Mining (Abstract).</title>
+<pages>121-122</pages>
+<year>1997</year>
+<crossref>conf/bncod/1997</crossref>
+<booktitle>BNCOD</booktitle>
+<url>db/conf/bncod/bncod97.html#GuptaMV97</url>
+<ee>https://doi.org/10.1007/3-540-63263-8_10</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wads/GuptaW97" mdate="2017-05-21">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="w/RephaelWenger">Rephael Wenger</author>
+<title>Constructing Pairwise Disjoint Paths with Few Links.</title>
+<pages>416-425</pages>
+<year>1997</year>
+<crossref>conf/wads/1997</crossref>
+<booktitle>WADS</booktitle>
+<url>db/conf/wads/wads97.html#GuptaW97</url>
+<ee>https://doi.org/10.1007/3-540-63307-3_79</ee>
+</inproceedings>
+</r>
+<r><article key="journals/pc/GuptaS96" mdate="2020-02-22">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="s/PSadayappan">P. Sadayappan</author>
+<title>Communication-Efficient Matrix Multiplication on Hypercubes.</title>
+<pages>75-99</pages>
+<year>1996</year>
+<volume>22</volume>
+<journal>Parallel Comput.</journal>
+<number>1</number>
+<url>db/journals/pc/pc22.html#GuptaS96</url>
+<ee>https://doi.org/10.1016/0167-8191(95)00058-5</ee>
+</article>
+</r>
+<r><inproceedings key="conf/spaa/GuptaS94" mdate="2018-11-21">
+<author pid="330/0760">Himanshu Gupta</author>
+<author pid="s/PSadayappan">P. Sadayappan</author>
+<title>Communication Efficient Matrix Multiplication on Hypercubes.</title>
+<pages>320-329</pages>
+<year>1994</year>
+<crossref>conf/spaa/1994</crossref>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/181014.181434</ee>
+<url>db/conf/spaa/spaa94.html#GuptaS94</url>
+</inproceedings>
+</r>
+<coauthors n="412" nc="20">
+<co c="2"><na f="a/Adeniyi:Emmanuel_Abidemi" pid="249/6186">Emmanuel Abidemi Adeniyi</na></co>
+<co c="2"><na f="a/Adeniyi:Jide_Kehinde" pid="275/5189">Jide Kehinde Adeniyi</na></co>
+<co c="10"><na f="a/Aeron:Shrey" pid="298/6905">Shrey Aeron</na></co>
+<co c="0"><na f="a/Agarwal:Manoj_K=" pid="90/1415">Manoj K. Agarwal</na></co>
+<co c="0"><na f="a/Aggarwal:Kushagra" pid="228/6023">Kushagra Aggarwal</na></co>
+<co c="10"><na f="a/Agrawal:Anjali" pid="259/7118">Anjali Agrawal</na></co>
+<co c="0"><na f="a/Agrawal:Disha" pid="361/0533">Disha Agrawal</na></co>
+<co c="0"><na f="a/Agrawal:Tamanna" pid="302/1108">Tamanna Agrawal</na></co>
+<co c="1"><na f="a/Agyemang:Martin" pid="303/7183">Martin Agyemang</na></co>
+<co c="0"><na f="a/Ahmad:Zulfiqar" pid="23/980">Zulfiqar Ahmad</na></co>
+<co c="1"><na f="a/Ahmadi:Hadi_Badri" pid="288/0254">Hadi Badri Ahmadi</na></co>
+<co c="-1"><na f="a/Al=Ayyoub:Mahmoud" pid="10/7992">Mahmoud Al-Ayyoub</na></co>
+<co c="0"><na f="a/Ali:Sadia_Samar" pid="118/6909">Sadia Samar Ali</na></co>
+<co c="0"><na f="a/Ambale:Bharath" pid="48/2942">Bharath Ambale</na></co>
+<co c="0"><na f="a/Anandaram:Harishchander" pid="341/6647">Harishchander Anandaram</na></co>
+<co c="0"><na f="a/Anantheswaran:Ujjwala" pid="340/7701">Ujjwala Anantheswaran</na></co>
+<co c="0"><na f="a/Andreasson:Henrik" pid="93/1475">Henrik Andreasson</na></co>
+<co c="0"><na f="a/Ansari:Irshad_Ahmad" pid="159/2788">Irshad Ahmad Ansari</na></co>
+<co c="9"><na f="a/Arora:Neha" pid="46/8315">Neha Arora</na></co>
+<co c="5"><na f="a/Arora:Sagar" pid="74/6367">Sagar Arora</na></co>
+<co c="1"><na f="a/Asadabadi:Mehdi_Rajabi" pid="199/1116">Mehdi Rajabi Asadabadi</na></co>
+<co c="0"><na f="a/Ateya:Abdelhamied_A=" pid="201/4147">Abdelhamied A. Ateya</na></co>
+<co c="-1"><na f="a/Azimi:Navid_Hamed" pid="99/8867">Navid Hamed Azimi</na></co>
+<co c="0"><na f="b/Badugu:Amogh" pid="301/9883">Amogh Badugu</na></co>
+<co c="1"><na f="b/Bai:Chunguang" pid="01/275">Chunguang Bai</na></co>
+<co c="0"><na f="b/Balakrishnan:Raju" pid="68/1677">Raju Balakrishnan</na></co>
+<co c="0"><na f="b/Baral:Chitta" pid="b/ChittaBaral">Chitta Baral</na></co>
+<co c="0"><na f="b/Ben:Kang" pid="340/0959">Kang Ben</na></co>
+<co c="0"><na f="b/Bharadwaj:Shreyas" pid="204/3688">Shreyas Bharadwaj</na></co>
+<co c="0"><na f="b/Bhat:Goutam" pid="190/7682">Goutam Bhat</na></co>
+<co c="0" n="2"><na f="b/Bhatt:Himanshu_S=" pid="96/8522">Himanshu S. Bhatt</na><na>Himanshu Sharad Bhatt</na></co>
+<co c="0"><na f="b/Bhattacharyya:Pushpak" pid="p/PushpakBhattacharyya">Pushpak Bhattacharyya</na></co>
+<co c="0"><na f="b/Bhide:Manish" pid="40/4935">Manish Bhide</na></co>
+<co c="0"><na f="b/Bj=ouml=rklund:Johanna" pid="75/5525">Johanna Bj&#246;rklund</na></co>
+<co c="12"><na f="b/Boussi:Grace_Odette" pid="361/8732">Grace Odette Boussi</na></co>
+<co c="0"><na f="b/Brahma:Siddhartha" pid="99/6888">Siddhartha Brahma</na></co>
+<co c="1"><na f="b/Brown:Steve" pid="25/6497">Steve Brown</na></co>
+<co c="0"><na f="c/C:Rajmohan" pid="205/9137">Rajmohan C</na></co>
+<co c="0"><na f="c/Cai:Dingding" pid="198/1127">Dingding Cai</na></co>
+<co c="0"><na f="c/Carreno=Fuentes:Arnaldo" pid="65/11457">Arnaldo Carreno-Fuentes</na></co>
+<co c="0" n="2"><na f="c/Cehovin:Luka" pid="19/8654">Luka Cehovin</na><na>Luka Cehovin Zajc</na></co>
+<co c="0"><na f="c/Chakaravarthy:Venkatesan_T=" pid="c/VTChakaravarthy">Venkatesan T. Chakaravarthy</na></co>
+<co c="0"><na f="c/Chakravarthy:Venkatesan" pid="127/6695">Venkatesan Chakravarthy</na></co>
+<co c="0"><na f="c/Chang:Hong" pid="02/2689">Hong Chang</na></co>
+<co c="0"><na f="c/Chang:Hyung_Jin" pid="96/3551">Hyung Jin Chang</na></co>
+<co c="0"><na f="c/Chatterjee:Bapi" pid="117/6988">Bapi Chatterjee</na></co>
+<co c="0"><na f="c/Chawda:Bhupesh" pid="127/6176">Bhupesh Chawda</na></co>
+<co c="0"><na f="c/Chen:Guangqi" pid="178/8116">Guangqi Chen</na></co>
+<co c="0"><na f="c/Chen:Jiaye" pid="116/2901">Jiaye Chen</na></co>
+<co c="0"><na f="c/Chen:Shengyong" pid="93/2479">Shengyong Chen</na></co>
+<co c="0"><na f="c/Chen_0001:Xilin" pid="c/XilinChen">Xilin Chen 0001</na></co>
+<co c="0"><na f="c/Chen_0032:Xin" pid="24/1518-32">Xin Chen 0032</na></co>
+<co c="0"><na f="c/Chen:Xiuyi" pid="218/7190">Xiuyi Chen</na></co>
+<co c="0"><na f="c/Chen:Yiwei" pid="28/2965">Yiwei Chen</na></co>
+<co c="0"><na f="c/Chen:Yu=Hsi" pid="127/3933">Yu-Hsi Chen</na></co>
+<co c="0"><na f="c/Chen:Zhixing" pid="62/3074">Zhixing Chen</na></co>
+<co c="0"><na f="c/Cheng:Yangming" pid="340/1285">Yangming Cheng</na></co>
+<co c="0"><na f="c/Chiticariu:Laura" pid="c/LauraChiticariu">Laura Chiticariu</na></co>
+<co c="0"><na f="c/Ciaramella:Angelo" pid="37/6845">Angelo Ciaramella</na></co>
+<co c="11"><na f="c/Cioaba:Sebastian_M=" pid="61/208">Sebastian M. Cioaba</na></co>
+<co c="0"><na f="c/Cruz:Rafael_M=_O=" pid="05/10069">Rafael M. O. Cruz</na></co>
+<co c="0"><na f="c/Cui:Yutao" pid="255/2385">Yutao Cui</na></co>
+<co c="0"><na f="d/Danelljan:Martin" pid="151/8848">Martin Danelljan</na></co>
+<co c="0"><na f="d/Danilevsky:Marina" pid="22/8355">Marina Danilevsky</na></co>
+<co c="0"><na f="d/Dasari:Mohana_Murali" pid="277/5901">Mohana Murali Dasari</na></co>
+<co c="0"><na f="d/Davis:Craig_A=" pid="54/2236">Craig A. Davis</na></co>
+<co c="-1"><na f="d/Deb:Kalyanmoy" pid="21/4802">Kalyanmoy Deb</na></co>
+<co c="0"><na f="d/Dell=Italia:Louis_J=" pid="81/5394">Louis J. Dell'Italia</na></co>
+<co c="0"><na f="d/Deng:Qili" pid="246/9797">Qili Deng</na></co>
+<co c="0"><na f="d/Denney_Jr=:Thomas_S=" pid="49/2991">Thomas S. Denney Jr.</na></co>
+<co c="0"><na f="d/Dhar:Debajyoti" pid="128/3182">Debajyoti Dhar</na></co>
+<co c="0"><na f="d/Dhingra:Samarth" pid="204/3793">Samarth Dhingra</na></co>
+<co c="0"><na f="d/Di:Shangzhe" pid="304/1344">Shangzhe Di</na></co>
+<co c="0"><na f="d/Divekar:Samved" pid="204/3819">Samved Divekar</na></co>
+<co c="0"><na f="d/Dixit:Gaurav" pid="161/9167">Gaurav Dixit</na></co>
+<co c="0"><na f="d/Drbohlav:Ondrej" pid="79/5367">Ondrej Drbohlav</na></co>
+<co c="0"><na f="d/Du:Daniel_K=" pid="05/10727">Daniel K. Du</na></co>
+<co c="0"><na f="d/Dunnhofer:Matteo" pid="209/8650">Matteo Dunnhofer</na></co>
+<co c="9"><na f="d/Dutt:Sarthika" pid="316/8123">Sarthika Dutt</na></co>
+<co c="0"><na f="d/Dzubur:Benjamin" pid="340/1520">Benjamin Dzubur</na></co>
+<co c="0"><na f="e/Elnaggar:Ghada" pid="362/6355">Ghada Elnaggar</na></co>
+<co c="0"><na f="e/Eriksson:Daniel" pid="58/1503">Daniel Eriksson</na></co>
+<co c="0"><na f="f/Fan_0001:Heng" pid="20/10120-1">Heng Fan 0001</na></co>
+<co c="0"><na f="f/Faruquie:Tanveer_A=" pid="53/1182">Tanveer A. Faruquie</na></co>
+<co c="0"><na f="f/Fassbender:David" pid="308/2693">David Fassbender</na></co>
+<co c="0"><na f="f/Felsberg:Michael" pid="00/78">Michael Felsberg</na></co>
+<co c="0"><na f="f/Feng:Wei" pid="17/1152">Wei Feng</na></co>
+<co c="0"><na f="f/Feng:Zhen=Hua" pid="13/11244">Zhen-Hua Feng</na></co>
+<co c="0"><na f="f/Fern=aacute=ndez:Gustavo" pid="160/3616">Gustavo Fern&#225;ndez</na></co>
+<co c="0"><na f="f/Forte:Paolo" pid="290/4993">Paolo Forte</na></co>
+<co c="0"><na f="f/Fu:Zhihong" pid="203/1795">Zhihong Fu</na></co>
+<co c="0"><na f="g/Gao:Shang" pid="28/435">Shang Gao</na></co>
+<co c="0"><na f="g/Gautam:Deeksha" pid="126/2519">Deeksha Gautam</na></co>
+<co c="0"><na f="g/Geimer:Marcus" pid="23/10941">Marcus Geimer</na></co>
+<co c="0"><na f="g/Georgakis:Georgios" pid="186/8108">Georgios Georgakis</na></co>
+<co c="0"><na f="g/Ghabcheloo:Reza" pid="96/2747">Reza Ghabcheloo</na></co>
+<co c="-1"><na f="g/Ghosh:Bahniman" pid="136/8110">Bahniman Ghosh</na></co>
+<co c="0"><na f="g/Gola:Kamal_Kumar" pid="251/3493">Kamal Kumar Gola</na></co>
+<co c="1"><na f="g/Gong:Yu_=jack=" pid="350/8390">Yu (jack) Gong</na></co>
+<co c="0"><na f="g/Gool:Luc_Van" pid="61/5017">Luc Van Gool</na></co>
+<co c="0"><na f="g/Gorthi:Rama_Krishna" pid="307/8696">Rama Krishna Gorthi</na></co>
+<co c="0"><na f="g/Goyal:Siddharth" pid="39/3230">Siddharth Goyal</na></co>
+<co c="0"><na f="g/Granger:Eric" pid="86/2306">Eric Granger</na></co>
+<co c="0"><na f="g/Gu:Q=_H=" pid="340/1209">Q. H. Gu</na></co>
+<co c="2"><na f="g/Gulanikar:Abhiram_Anand" pid="299/1486">Abhiram Anand Gulanikar</na></co>
+<co c="9"><na f="g/Gulati:Aditi" pid="361/7607">Aditi Gulati</na></co>
+<co c="9"><na f="g/Gulati:Akriti" pid="362/0059">Akriti Gulati</na></co>
+<co c="0"><na f="g/Gupta_0004:Ajay" pid="g/AjayGupta4">Ajay Gupta 0004</na></co>
+<co c="10"><na f="g/Gupta:Akash" pid="142/5277">Akash Gupta</na></co>
+<co c="0"><na f="g/Gupta:Amit" pid="67/2583">Amit Gupta</na></co>
+<co c="7"><na f="g/Gupta:Arpit" pid="122/9141">Arpit Gupta</na></co>
+<co c="0"><na f="g/Gupta_0005:Nitin" pid="12/1770-5">Nitin Gupta 0005</na></co>
+<co c="16"><na f="g/Gupta:Pradyumna" pid="271/8178">Pradyumna Gupta</na></co>
+<co c="0"><na f="g/Gupta:Rajeev" pid="70/2530">Rajeev Gupta</na></co>
+<co c="0"><na f="g/Gupta:Sanjeev" pid="94/5061">Sanjeev Gupta</na></co>
+<co c="5"><na f="g/Gupta:Shubham_Kumar" pid="221/8417">Shubham Kumar Gupta</na></co>
+<co c="0"><na f="h/Han:Sang=Don" pid="204/3677">Sang-Don Han</na></co>
+<co c="0"><na f="h/Hans:Sandeep" pid="11/7555">Sandeep Hans</na></co>
+<co c="13"><na f="h/Hayes:Bradley" pid="126/9674">Bradley Hayes</na></co>
+<co c="0"><na f="h/He:Jianfeng" pid="93/8352">Jianfeng He</na></co>
+<co c="0"><na f="h/He:Keji" pid="319/4518">Keji He</na></co>
+<co c="0"><na f="h/Hern=aacute=ndez:Mauricio_A=" pid="56/451">Mauricio A. Hern&#225;ndez</na></co>
+<co c="0" n="2"><na f="h/Ho:C=_T=_Howard" pid="h/ChingTienHo">C. T. Howard Ho</na><na>Howard Ho</na></co>
+<co c="12"><na f="h/Hossain:Syed_Akhter" pid="132/9304">Syed Akhter Hossain</na></co>
+<co c="0"><na f="h/Huang_0008:Yan" pid="75/6434-8">Yan Huang 0008</na></co>
+<co c="1"><na f="i/Idrisi:Ashraf_Rahman" pid="300/8664">Ashraf Rahman Idrisi</na></co>
+<co c="11"><na f="i/Ihringer:Ferdinand" pid="145/7258">Ferdinand Ihringer</na></co>
+<co c="14"><na f="i/Imran:Javed" pid="190/3853">Javed Imran</na></co>
+<co c="12"><na f="j/J:Fila_Rudy_J=" pid="361/9351">Fila Rudy J. J</na></co>
+<co c="1" n="2"><na f="j/Jabbour:Charbel_J=_C=" pid="98/9789">Charbel J. C. Jabbour</na><na>Charbel Jos&#233; Chiappetta Jabbour</na></co>
+<co c="0"><na f="j/Jain:Dhruv" pid="126/2498">Dhruv Jain</na></co>
+<co c="0"><na f="j/Jain:Parag" pid="98/1178">Parag Jain</na></co>
+<co c="0"><na f="j/Jain:Vranda" pid="281/1486">Vranda Jain</na></co>
+<co c="-1"><na f="j/Jaiswal:Aditya" pid="348/6824">Aditya Jaiswal</na></co>
+<co c="3"><na f="j/Jallepalli:Sowmya_Vasuki" pid="339/2646">Sowmya Vasuki Jallepalli</na></co>
+<co c="0"><na f="j/Jangid:Deepak" pid="340/1460">Deepak Jangid</na></co>
+<co c="7"><na f="j/Jat:Anand" pid="190/4019">Anand Jat</na></co>
+<co c="0"><na f="j/Jayachandran:Praveen" pid="76/3806">Praveen Jayachandran</na></co>
+<co c="-1"><na f="j/Jebadurai:N=_Immanuel" pid="310/6869">N. Immanuel Jebadurai</na></co>
+<co c="0"><na f="j/Jee:Narayan" pid="361/9098">Narayan Jee</na></co>
+<co c="0"><na f="j/Ji:Rongrong" pid="86/5681">Rongrong Ji</na></co>
+<co c="0"><na f="j/Jiang_0005:Cheng" pid="15/11195-5">Cheng Jiang 0005</na></co>
+<co c="0"><na f="j/Jiang:Yingjie" pid="214/0119">Yingjie Jiang</na></co>
+<co c="0"><na f="j/Joshi:Kapil" pid="343/3016">Kapil Joshi</na></co>
+<co c="0"><na f="j/Joshi_0001:Salil" pid="22/835-1">Salil Joshi 0001</na></co>
+<co c="0" n="2"><na f="j/Julier:Simon_J=" pid="92/1833">Simon J. Julier</na><na>Simon Julier</na></co>
+<co c="0"><na f="k/K=auml=m=auml=r=auml=inen:Joni=Kristian" pid="k/JoniKristianKamarainen">Joni-Kristian K&#228;m&#228;r&#228;inen</na></co>
+<co c="0"><na f="k/Kang:Ze" pid="340/1063">Ze Kang</na></co>
+<co c="0" n="2"><na f="k/Karanam:Hima_P=" pid="230/8590">Hima P. Karanam</na><na>Hima Karanam</na></co>
+<co c="0"><na f="k/Kaur:Rajbir" pid="93/8926">Rajbir Kaur</na></co>
+<co c="0"><na f="k/Kaushik:Vineet" pid="258/4434">Vineet Kaushik</na></co>
+<co c="0"><na f="k/Kaushik:Vishal" pid="116/2914">Vishal Kaushik</na></co>
+<co c="1"><na f="k/Khan:Sharfuddin_Ahmed" pid="121/9743">Sharfuddin Ahmed Khan</na></co>
+<co c="0"><na f="k/Kiran:Madhu" pid="39/10281">Madhu Kiran</na></co>
+<co c="0"><na f="k/Kittler:Josef" pid="k/JosefKittler">Josef Kittler</na></co>
+<co c="6"><na f="k/Kothari:Soumya" pid="362/5252">Soumya Kothari</na></co>
+<co c="2"><na f="k/Krishna:Aneesh" pid="91/5340">Aneesh Krishna</na></co>
+<co c="0"><na f="k/Krishnamurthy:Rajasekar" pid="51/6067">Rajasekar Krishnamurthy</na></co>
+<co c="0"><na f="k/Krishnan:Saravanan" pid="204/3759">Saravanan Krishnan</na></co>
+<co c="0"><na f="k/Kristan:Matej" pid="79/1648">Matej Kristan</na></co>
+<co c="2"><na f="k/Kulkarni:Tanmay_Girish" pid="263/2464">Tanmay Girish Kulkarni</na></co>
+<co c="0"><na f="k/Kumar_0001:Anil" pid="88/6447-1">Anil Kumar 0001</na></co>
+<co c="0"><na f="k/Kumar_0009:Anil" pid="88/6447-9">Anil Kumar 0009</na></co>
+<co c="0"><na f="k/Kumar:Ashwani" pid="181/2881">Ashwani Kumar</na></co>
+<co c="6"><na f="k/Kumar:D=_V=_N=_Siva" pid="217/8533">D. V. N. Siva Kumar</na></co>
+<co c="0"><na f="k/Kumar:Kapil" pid="28/6892">Kapil Kumar</na></co>
+<co c="2"><na f="k/Kumar:Lov" pid="158/5821">Lov Kumar</na></co>
+<co c="0"><na f="k/Kumar_0004:Mayank" pid="126/2507-4">Mayank Kumar 0004</na></co>
+<co c="0"><na f="k/Kumar_0004:Mohit" pid="14/1342-4">Mohit Kumar 0004</na></co>
+<co c="0"><na f="k/Kumar:Prashant" pid="59/3869">Prashant Kumar</na></co>
+<co c="1"><na f="k/Kumar:Sarangdhar" pid="303/7403">Sarangdhar Kumar</na></co>
+<co c="0"><na f="k/Kumar:Saurav" pid="153/6321">Saurav Kumar</na></co>
+<co c="0"><na f="k/Kumar:Sumit" pid="01/6902">Sumit Kumar</na></co>
+<co c="0"><na f="k/Kumar:Sunil" pid="45/3365">Sunil Kumar</na></co>
+<co c="11"><na f="k/Kurihara:Hirotake" pid="06/10101">Hirotake Kurihara</na></co>
+<co c="0"><na f="k/Kurtser:Polina" pid="140/1604">Polina Kurtser</na></co>
+<co c="1"><na f="k/Kusi=Sarpong:Simonov" pid="194/1048">Simonov Kusi-Sarpong</na></co>
+<co c="0"><na f="l/Lai:Simiao" pid="282/1954">Simiao Lai</na></co>
+<co c="-1"><na f="l/Lakshminarasimhan:Sriram" pid="51/9970">Sriram Lakshminarasimhan</na></co>
+<co c="0"><na f="l/Lan:Xiangyuan" pid="151/8902">Xiangyuan Lan</na></co>
+<co c="1"><na f="l/Lawal:Jennifer_Nguseer" pid="343/6063">Jennifer Nguseer Lawal</na></co>
+<co c="0"><na f="l/Lawin:Felix_J=auml=remo" pid="185/0985">Felix J&#228;remo Lawin</na></co>
+<co c="4"><na f="l/L=eacute=aut=eacute=:Xavier" pid="147/1264">Xavier L&#233;aut&#233;</na></co>
+<co c="0"><na f="l/Lee:Dongwook" pid="25/6543">Dongwook Lee</na></co>
+<co c="0"><na f="l/Lee:Hyunjeong" pid="00/3423">Hyunjeong Lee</na></co>
+<co c="0"><na f="l/Lee:Seohyung" pid="210/4662">Seohyung Lee</na></co>
+<co c="0"><na f="l/Leonardis:Ales" pid="l/AlesLeonardis">Ales Leonardis</na></co>
+<co c="0"><na f="l/Li_0037:Hui" pid="66/3387-37">Hui Li 0037</na></co>
+<co c="0"><na f="l/Li:Jin" pid="48/1097">Jin Li</na></co>
+<co c="0"><na f="l/Li_0010:Ming" pid="l/MingLi10">Ming Li 0010</na></co>
+<co c="0"><na f="l/Li_0030:Ming" pid="l/MingLi30">Ming Li 0030</na></co>
+<co c="0"><na f="l/Li:Wangkai" pid="340/1456">Wangkai Li</na></co>
+<co c="0"><na f="l/Li_0001:Xi" pid="46/2311-1">Xi Li 0001</na></co>
+<co c="0"><na f="l/Li:Xianxian" pid="81/4000">Xianxian Li</na></co>
+<co c="0"><na f="l/Li:Xiao" pid="66/2069">Xiao Li</na></co>
+<co c="0"><na f="l/Li_0006:Yunfan" pid="80/1874-6">Yunfan Li 0006</na></co>
+<co c="0"><na f="l/Li_0001:Yunyao" pid="60/2319">Yunyao Li 0001</na></co>
+<co c="0"><na f="l/Li_0008:Zhe" pid="11/751-8">Zhe Li 0008</na></co>
+<co c="0"><na f="l/Lilienthal:Achim_J=" pid="21/2153">Achim J. Lilienthal</na></co>
+<co c="0"><na f="l/Lin:Liting" pid="227/2204">Liting Lin</na></co>
+<co c="0"><na f="l/Ling:Haibin" pid="93/3488">Haibin Ling</na></co>
+<co c="1"><na f="l/Liou:James_Jiann=Haw" pid="15/7408">James Jiann-Haw Liou</na></co>
+<co c="0"><na f="l/Liu_0001:Bing" pid="l/BingLiu1">Bing Liu 0001</na></co>
+<co c="0"><na f="l/Liu_0005:Bo" pid="58/2670-5">Bo Liu 0005</na></co>
+<co c="0"><na f="l/Liu_0071:Chang" pid="52/5716-71">Chang Liu 0071</na></co>
+<co c="0"><na f="l/Liu_0001:Si" pid="60/7642">Si Liu 0001</na></co>
+<co c="0" n="2"><na f="l/Lloyd:Steven" pid="56/1059">Steven Lloyd</na><na>Steven G. Lloyd</na></co>
+<co c="1"><na f="l/Lo:Huai=Wei" pid="229/8419">Huai-Wei Lo</na></co>
+<co c="0"><na f="l/Lohia:Pranay" pid="188/6387">Pranay Lohia</na></co>
+<co c="0"><na f="l/Lu:Huchuan" pid="64/6896">Huchuan Lu</na></co>
+<co c="0"><na f="l/Lukezic:Alan" pid="160/3679">Alan Lukezic</na></co>
+<co c="0"><na f="m/Ma:Bingpeng" pid="62/1822">Bingpeng Ma</na></co>
+<co c="0"><na f="m/Ma_0004:Chao" pid="79/1552-4">Chao Ma 0004</na></co>
+<co c="0"><na f="m/Ma:Jie" pid="62/5110">Jie Ma</na></co>
+<co c="0"><na f="m/Ma:Yinchao" pid="189/1326">Yinchao Ma</na></co>
+<co c="0"><na f="m/Machado:Tyrone" pid="308/2481">Tyrone Machado</na></co>
+<co c="0"><na f="m/Magnusson_0002:Martin" pid="m/MartinMagnusson2">Martin Magnusson 0002</na></co>
+<co c="0"><na f="m/Mahanti:Anirban" pid="m/AnirbanMahanti">Anirban Mahanti</na></co>
+<co c="0"><na f="m/Maitra:Anutosh" pid="78/424">Anutosh Maitra</na></co>
+<co c="0"><na f="m/M=auml=kinen:Saku" pid="27/5599">Saku M&#228;kinen</na></co>
+<co c="0"><na f="m/Mallela:Niteesh" pid="321/3834">Niteesh Mallela</na></co>
+<co c="7"><na f="m/Mandloi:Deepak" pid="190/3880">Deepak Mandloi</na></co>
+<co c="0"><na f="m/Mani_0001:Venkatesh" pid="71/8094-1">Venkatesh Mani 0001</na></co>
+<co c="0"><na f="m/Manivannan:Satishkumaar" pid="204/3633">Satishkumaar Manivannan</na></co>
+<co c="3"><na f="m/Manjesh:Chetan" pid="202/6360">Chetan Manjesh</na></co>
+<co c="0"><na f="m/Martinel:Niki" pid="56/10105">Niki Martinel</na></co>
+<co c="0"><na f="m/Mashetty:Santosh" pid="349/0828">Santosh Mashetty</na></co>
+<co c="0" n="2"><na f="m/Matas:Jiri" pid="m/JiriMatas">Jiri Matas</na><na>Jir&#237; Matas</na></co>
+<co c="0"><na f="m/Mayer_0007:Christoph" pid="163/0032-7">Christoph Mayer 0007</na></co>
+<co c="19"><na f="m/McLaren:Iain" pid="66/1458">Iain McLaren</na></co>
+<co c="0"><na f="m/Mehta:Sameep" pid="91/877">Sameep Mehta</na></co>
+<co c="0" n="2"><na f="m/Memarmoghaddam:Alireza" pid="69/6460">Alireza Memarmoghaddam</na><na>Alireza Memarmoghadam</na></co>
+<co c="4"><na f="m/Merlino:Gian" pid="147/1270">Gian Merlino</na></co>
+<co c="0"><na f="m/Micheloni:Christian" pid="28/38">Christian Micheloni</na></co>
+<co c="0"><na f="m/Mishra:Swaroop" pid="249/2784">Swaroop Mishra</na></co>
+<co c="2"><na f="m/Misra:Sanjay" pid="86/20">Sanjay Misra</na></co>
+<co c="0"><na f="m/Mitra:Arindam" pid="04/2864">Arindam Mitra</na></co>
+<co c="15"><na f="m/Mitra:Pabitra" pid="m/PabitraMitra">Pabitra Mitra</na></co>
+<co c="0"><na f="m/Mittal:Ashish_R=" pid="184/1441">Ashish R. Mittal</na></co>
+<co c="0"><na f="m/Moallem:Payman" pid="63/5378">Payman Moallem</na></co>
+<co c="0"><na f="m/Mohania:Mukesh_K=" pid="85/6670">Mukesh K. Mohania</na></co>
+<co c="0"><na f="m/Molaei:Amirmasoud" pid="308/2618">Amirmasoud Molaei</na></co>
+<co c="0"><na f="m/Mondal:Anirban" pid="61/780">Anirban Mondal</na></co>
+<co c="0"><na f="m/Mridula:" pid="118/6987">Mridula</na></co>
+<co c="3"><na f="m/Mulchandani:Pratik" pid="339/3513">Pratik Mulchandani</na></co>
+<co c="8"><na f="m/Murali:Thokur_Sreepathy" pid="178/1087">Thokur Sreepathy Murali</na></co>
+<co c="0"><na f="n/Naik:Aakanksha" pid="204/7137">Aakanksha Naik</na></co>
+<co c="1"><na f="n/Naim:Iram" pid="160/3786">Iram Naim</na></co>
+<co c="0"><na f="n/Nakamura:Mutsumi" pid="99/2452">Mutsumi Nakamura</na></co>
+<co c="0"><na f="n/Nambiar:Ullas" pid="48/1886">Ullas Nambiar</na></co>
+<co c="0"><na f="n/Nardo:Emanuel_Di" pid="198/9412">Emanuel Di Nardo</na></co>
+<co c="5"><na f="n/Nayak:Pranshu" pid="221/8074">Pranshu Nayak</na></co>
+<co c="0"><na f="n/Negi:Sumit" pid="51/4800">Sumit Negi</na></co>
+<co c="2" n="2"><na f="n/Neti:Lalita_Bhanu_Murthy" pid="158/5831">Lalita Bhanu Murthy Neti</na><na>N. L. Bhanu Murthy</na></co>
+<co c="0"><na f="n/Nguyen=Meidine:Le_Thanh" pid="216/4088">Le Thanh Nguyen-Meidine</na></co>
+<co c="0"><na f="n/Nidhi:" pid="75/284">Nidhi</na></co>
+<co c="2"><na f="o/Ogundokun:Roseline_Oluwaseun" pid="243/7913">Roseline Oluwaseun Ogundokun</na></co>
+<co c="7"><na f="o/Ojha:Prabhakar" pid="190/3855">Prabhakar Ojha</na></co>
+<co c="1"><na f="o/Orji:Ifeyinwa_Juliet" pid="171/6573">Ifeyinwa Juliet Orji</na></co>
+<co c="0" n="2"><na f="=/=Ouml=zcan:Fatma" pid="o/FatmaOzcan">Fatma &#214;zcan</na><na>Fatma Ozcan</na></co>
+<co c="0"><na f="p/Padmanabhan:Sriram" pid="p/SPadmanabhan">Sriram Padmanabhan</na></co>
+<co c="-1"><na f="p/Pahuja:Roop" pid="130/6184">Roop Pahuja</na></co>
+<co c="0"><na f="p/Pal:Kuntal_Kumar" pid="222/3430">Kuntal Kumar Pal</na></co>
+<co c="0"><na f="p/Pan:Siyang" pid="250/5753">Siyang Pan</na></co>
+<co c="15"><na f="p/Pandey:Gaurav" pid="23/3937">Gaurav Pandey</na></co>
+<co c="0"><na f="p/Park:ChangBeom" pid="340/0926">ChangBeom Park</na></co>
+<co c="0"><na f="p/Parmar:Mihir" pid="253/6105">Mihir Parmar</na></co>
+<co c="0"><na f="p/Paudel:Danda_Pani" pid="151/8836">Danda Pani Paudel</na></co>
+<co c="8"><na f="p/Paul:Bobby" pid="178/1115">Bobby Paul</na></co>
+<co c="0"><na f="p/Paul:Matthieu" pid="255/6113">Matthieu Paul</na></co>
+<co c="0"><na f="p/Peng:Houwen" pid="133/1706">Houwen Peng</na></co>
+<co c="3"><na f="p/Petrangeli:Stefano" pid="135/0037">Stefano Petrangeli</na></co>
+<co c="0"><na f="p/Pflugfelder:Roman_P=" pid="35/2836">Roman P. Pflugfelder</na></co>
+<co c="1"><na f="p/Pourhejazy:Pourya" pid="232/6384">Pourya Pourhejazy</na></co>
+<co c="17"><na f="p/Prabhat:Purnendu" pid="192/5470">Purnendu Prabhat</na></co>
+<co c="0"><na f="p/Prasanna:Prateek" pid="133/6611">Prateek Prasanna</na></co>
+<co c="0"><na f="p/Pulapa:Kiran" pid="289/3142">Kiran Pulapa</na></co>
+<co c="0"><na f="p/Puniyani:Kriti" pid="82/3877">Kriti Puniyani</na></co>
+<co c="-1"><na f="p/Puri:Gurjeet_Singh" pid="310/6821">Gurjeet Singh Puri</na></co>
+<co c="0"><na f="q/Quamar:Abdul" pid="127/6195">Abdul Quamar</na></co>
+<co c="0"><na f="r/Rai:Prashant" pid="152/7907">Prashant Rai</na></co>
+<co c="-1" n="2"><na f="r/Ram:D=_Janaki" pid="r/DJanakiRam">D. Janaki Ram</na><na>Dharanipragada Janakiram</na></co>
+<co c="0"><na f="r/Ramakrishnan:I=_V=" pid="r/IVRamakrishnan">I. V. Ramakrishnan</na></co>
+<co c="0" n="2"><na f="r/Raman:Poornima_Chozhiyath" pid="266/2891">Poornima Chozhiyath Raman</na><na>Poornima Raman</na></co>
+<co c="0"><na f="r/Ramnani:Roshni_R=" pid="138/1138">Roshni R. Ramnani</na></co>
+<co c="4"><na f="r/Ray:Nelson" pid="147/1207">Nelson Ray</na></co>
+<co c="0"><na f="r/Razdan:Sanjay" pid="350/0403">Sanjay Razdan</na></co>
+<co c="0"><na f="r/Reddy:P=_Krishna" pid="78/2714">P. Krishna Reddy</na></co>
+<co c="0"><na f="r/Reeves:Stanley_J=" pid="76/5631">Stanley J. Reeves</na></co>
+<co c="0"><na f="r/Ribeiro:Vinay_J=" pid="91/44">Vinay J. Ribeiro</na></co>
+<co c="0"><na f="r/Robertson_0001:Eric" pid="50/3320-1">Eric Robertson 0001</na></co>
+<co c="0"><na f="r/Robinson:Andreas" pid="158/5786">Andreas Robinson</na></co>
+<co c="0"><na f="r/Rout:Litu" pid="206/6445">Litu Rout</na></co>
+<co c="0"><na f="r/Roy:Prapti" pid="321/3188">Prapti Roy</na></co>
+<co c="0"><na f="r/Roy:Prasan" pid="89/5441">Prasan Roy</na></co>
+<co c="0"><na f="r/Roy:Sourashis" pid="05/6852">Sourashis Roy</na></co>
+<co c="18"><na f="s/Sadayappan:P=" pid="s/PSadayappan">P. Sadayappan</na></co>
+<co c="0"><na f="s/Saha:Diptikalyan" pid="54/4272">Diptikalyan Saha</na></co>
+<co c="6"><na f="s/Saha:Saptarsi" pid="362/5456">Saptarsi Saha</na></co>
+<co c="0"><na f="s/Sahoo:Nihar" pid="321/3442">Nihar Sahoo</na></co>
+<co c="0"><na f="s/Sankaranarayanan:Karthik" pid="74/4923">Karthik Sankaranarayanan</na></co>
+<co c="1"><na f="s/Sarkis:Joseph" pid="85/3935">Joseph Sarkis</na></co>
+<co c="0"><na f="s/Sasson:Aaron" pid="356/9284">Aaron Sasson</na></co>
+<co c="8"><na f="s/Satyamoorthy:Kapaettu" pid="178/1215">Kapaettu Satyamoorthy</na></co>
+<co c="0"><na f="s/Savagaonkar:Milind" pid="139/6973">Milind Savagaonkar</na></co>
+<co c="0"><na f="s/Sawant:Saurabh_Arjun" pid="331/2777">Saurabh Arjun Sawant</na></co>
+<co c="0"><na f="s/Scaria:Kevin" pid="331/2843">Kevin Scaria</na></co>
+<co c="0"><na f="s/Sen:Jaydeep" pid="129/8181">Jaydeep Sen</na></co>
+<co c="0"><na f="s/Sen:Prithviraj" pid="58/1388">Prithviraj Sen</na></co>
+<co c="0"><na f="s/Sengar:Vibhuti_S=" pid="59/1386">Vibhuti S. Sengar</na></co>
+<co c="0"><na f="s/Sengupta:Shubhashis" pid="33/5030">Shubhashis Sengupta</na></co>
+<co c="0"><na f="s/Seth:Ashish" pid="36/10405">Ashish Seth</na></co>
+<co c="0"><na f="s/Shan:Shiguang" pid="s/ShiguangShan">Shiguang Shan</na></co>
+<co c="14"><na f="s/Sharma:Chandani" pid="348/3515">Chandani Sharma</na></co>
+<co c="0"><na f="s/Sharma_0002:Manish" pid="82/6388-2">Manish Sharma 0002</na></co>
+<co c="0"><na f="s/Shekhar:Jayant" pid="51/10220">Jayant Shekhar</na></co>
+<co c="0"><na f="s/Shenoy:Vinayak" pid="268/6690">Vinayak Shenoy</na></co>
+<co c="5"><na f="s/Shrivastava:Tanmay" pid="221/7987">Tanmay Shrivastava</na></co>
+<co c="-1"><na f="s/Shukla:Sanjeev" pid="299/3038">Sanjeev Shukla</na></co>
+<co c="0"><na f="s/Simonato:Kristian" pid="307/8603">Kristian Simonato</na></co>
+<co c="0"><na f="s/Singh_0002:Girish_Kumar" pid="00/4610-2">Girish Kumar Singh 0002</na></co>
+<co c="0"><na f="s/Singh:Himanshu" pid="81/3758">Himanshu Singh</na></co>
+<co c="-1"><na f="s/Singh:Kuwar_Kuldeep_V=_V=" pid="310/7589">Kuwar Kuldeep V. V. Singh</na></co>
+<co c="0"><na f="s/Singh:Sandhya" pid="206/2103">Sandhya Singh</na></co>
+<co c="16"><na f="s/Sinha:Aman" pid="22/3606">Aman Sinha</na></co>
+<co c="0"><na f="s/Soliman:Naglaa_F=" pid="135/7520">Naglaa F. Soliman</na></co>
+<co c="0"><na f="s/Somayajulu:Durvasula_V=_L=_N=" pid="72/4050">Durvasula V. L. N. Somayajulu</na></co>
+<co c="0"><na f="s/Song:Tianhui" pid="181/8738">Tianhui Song</na></co>
+<co c="0"><na f="s/Song:Xiaoning" pid="82/6511">Xiaoning Song</na></co>
+<co c="0"><na f="s/Sreelakshmy:K=" pid="338/1291">K. Sreelakshmy</na></co>
+<co c="0"><na f="s/Srivastava:Jaideep" pid="s/JaideepSrivastava">Jaideep Srivastava</na></co>
+<co c="0"><na f="s/Subramaniam:L=_Venkata" pid="s/LVenkataSubramaniam">L. Venkata Subramaniam</na></co>
+<co c="0"><na f="s/Sun:Chao" pid="54/3957">Chao Sun</na></co>
+<co c="0"><na f="s/Sun:Jingna" pid="255/0702">Jingna Sun</na></co>
+<co c="13"><na f="s/Sunberg:Zachary" pid="129/7529">Zachary Sunberg</na></co>
+<co c="3" n="2"><na f="s/Swaminathan:Viswanathan_=Vishy=" pid="306/7338">Viswanathan (Vishy) Swaminathan</na><na>Vishy Swaminathan</na></co>
+<co c="0"><na f="t/Taheri:Abdolreza" pid="272/2502">Abdolreza Taheri</na></co>
+<co c="0"><na f="t/Tang:Zhangyong" pid="236/3195">Zhangyong Tang</na></co>
+<co c="-1"><na f="t/Taranchuk:Vladislav" pid="211/6668">Vladislav Taranchuk</na></co>
+<co c="6"><na f="t/Teja:Nama_Ravi" pid="362/5336">Nama Ravi Teja</na></co>
+<co c="0"><na f="t/Timofte:Radu" pid="24/8616">Radu Timofte</na></co>
+<co c="3"><na f="t/Trasikar:Chirag" pid="339/2762">Chirag Trasikar</na></co>
+<co c="0"><na f="t/Tsai:Chi=Yi" pid="25/1650">Chi-Yi Tsai</na></co>
+<co c="4"><na f="t/Tschetter:Eric" pid="147/1249">Eric Tschetter</na></co>
+<co c="0"><na f="v/Vaithyanathan:Shivakumar" pid="81/6125">Shivakumar Vaithyanathan</na></co>
+<co c="0"><na f="v/Varshney:Neeraj" pid="139/3970">Neeraj Varshney</na></co>
+<co c="0"><na f="v/Vasa:Mitesh" pid="02/300">Mitesh Vasa</na></co>
+<co c="8"><na f="v/Vasudevan:Thanvanthri_Gururajan" pid="178/1076">Thanvanthri Gururajan Vasudevan</na></co>
+<co c="19"><na f="v/Vella:Alfred" pid="09/6906">Alfred Vella</na></co>
+<co c="0"><na f="v/Venkatesh:V=_G=" pid="216/5429">V. G. Venkatesh</na></co>
+<co c="0"><na f="v/Verma:Om_Prakash" pid="61/8145">Om Prakash Verma</na></co>
+<co c="0"><na f="v/Verma:Shreyas" pid="184/9343">Shreyas Verma</na></co>
+<co c="17"><na f="v/Vishwakarma:Ajeet_Kumar" pid="236/2548">Ajeet Kumar Vishwakarma</na></co>
+<co c="0"><na f="v/Vishwakarma:Amit" pid="130/1958">Amit Vishwakarma</na></co>
+<co c="0"><na f="w/Wang_0004:Dong" pid="40/3934-4">Dong Wang 0004</na></co>
+<co c="0"><na f="w/Wang_0032:Fei" pid="52/3194-32">Fei Wang 0032</na></co>
+<co c="0"><na f="w/Wang:Hao" pid="181/2812">Hao Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Liang" pid="56/4499-1">Liang Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Liangliang" pid="16/5766">Liangliang Wang</na></co>
+<co c="0"><na f="w/Wang:Lijun" pid="96/6702">Lijun Wang</na></co>
+<co c="0"><na f="w/Wang_0002:Limin" pid="68/6610-2">Limin Wang 0002</na></co>
+<co c="0"><na f="w/Wang_0023:Qiang" pid="64/5630-23">Qiang Wang 0023</na></co>
+<co c="18"><na f="w/Wenger:Rephael" pid="w/RephaelWenger">Rephael Wenger</na></co>
+<co c="0"><na f="w/Wu:Gangshan" pid="78/1123">Gangshan Wu</na></co>
+<co c="0"><na f="w/Wu:Jinlin" pid="123/7200">Jinlin Wu</na></co>
+<co c="0"><na f="w/Wu_0001:Xiaojun" pid="13/5168-1">Xiaojun Wu 0001</na></co>
+<co c="0"><na f="x/Xie:Fei" pid="51/1316">Fei Xie</na></co>
+<co c="0"><na f="x/Xu:Tianyang" pid="169/4627">Tianyang Xu</na></co>
+<co c="0"><na f="x/Xu:Wei" pid="32/1213">Wei Xu</na></co>
+<co c="0"><na f="x/Xu_0007:Yong" pid="07/4630-7">Yong Xu 0007</na></co>
+<co c="0"><na f="x/Xu:Yuanyou" pid="248/7663">Yuanyou Xu</na></co>
+<co c="0"><na f="x/Xue:Wanli" pid="153/8037">Wanli Xue</na></co>
+<co c="0"><na f="x/Xun:Zizheng" pid="340/1441">Zizheng Xun</na></co>
+<co c="0"><na f="y/Yadav:Drishti" pid="299/7019">Drishti Yadav</na></co>
+<co c="0"><na f="y/Yan_0004:Bin" pid="92/786-4">Bin Yan 0004</na></co>
+<co c="0"><na f="y/Yan:Song" pid="58/6692">Song Yan</na></co>
+<co c="0"><na f="y/Yang:Dawei" pid="22/1038">Dawei Yang</na></co>
+<co c="4"><na f="y/Yang:Fangjin" pid="147/1165">Fangjin Yang</na></co>
+<co c="0"><na f="y/Yang:Jinyu" pid="138/6456">Jinyu Yang</na></co>
+<co c="0"><na f="y/Yang:Wankou" pid="99/3602">Wankou Yang</na></co>
+<co c="0"><na f="y/Yang:Wenyan" pid="119/2426">Wenyan Yang</na></co>
+<co c="0"><na f="y/Yang:Xiaoyun" pid="54/230">Xiaoyun Yang</na></co>
+<co c="0"><na f="y/Yang_0001:Yi" pid="33/4854-1">Yi Yang 0001</na></co>
+<co c="0"><na f="y/Yang:Yichun" pid="249/9678">Yichun Yang</na></co>
+<co c="0"><na f="y/Yang:Zongxin" pid="249/5456">Zongxin Yang</na></co>
+<co c="0"><na f="y/Ye:Botao" pid="227/4610">Botao Ye</na></co>
+<co c="0"><na f="y/Yu_0001:Fisher" pid="117/6314">Fisher Yu 0001</na></co>
+<co c="0"><na f="y/Yu:Hongyuan" pid="232/2265">Hongyuan Yu</na></co>
+<co c="0"><na f="y/Yu:Jiaqian" pid="164/7325">Jiaqian Yu</na></co>
+<co c="0"><na f="y/Yu:Qianjin" pid="53/10179">Qianjin Yu</na></co>
+<co c="0"><na f="y/Yu:Weichen" pid="325/1209">Weichen Yu</na></co>
+<co c="0"><na f="z/Ze:Kang" pid="340/1107">Kang Ze</na></co>
+<co c="0"><na f="z/Zhai:Jiang" pid="291/9340">Jiang Zhai</na></co>
+<co c="0"><na f="z/Zhang_0001:Chengwei" pid="129/0954-1">Chengwei Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Chunhu" pid="292/0953">Chunhu Zhang</na></co>
+<co c="0"><na f="z/Zhang:Kaihua" pid="84/8017">Kaihua Zhang</na></co>
+<co c="0"><na f="z/Zhang:Tianzhu" pid="15/7643">Tianzhu Zhang</na></co>
+<co c="0"><na f="z/Zhang:Wenkang" pid="340/0966">Wenkang Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yushan" pid="50/10702">Yushan Zhang</na></co>
+<co c="0"><na f="z/Zhang:Zhibin" pid="85/1218">Zhibin Zhang</na></co>
+<co c="0"><na f="z/Zhang:Zhipeng" pid="49/4941">Zhipeng Zhang</na></co>
+<co c="0"><na f="z/Zhang:Zhongqun" pid="237/8882">Zhongqun Zhang</na></co>
+<co c="0"><na f="z/Zhao_0014:Jie" pid="23/3168-14">Jie Zhao 0014</na></co>
+<co c="0"><na f="z/Zhao:Shao=Chuan" pid="260/3125">Shao-Chuan Zhao</na></co>
+<co c="0"><na f="z/Zheng:Feng" pid="39/800">Feng Zheng</na></co>
+<co c="0"><na f="z/Zheng:Haixia" pid="119/1585">Haixia Zheng</na></co>
+<co c="0"><na f="z/Zheng:Min" pid="23/328">Min Zheng</na></co>
+<co c="0"><na f="z/Zhong:Bineng" pid="25/1637">Bineng Zhong</na></co>
+<co c="0"><na f="z/Zhu_0001:Huaiyu" pid="17/5913-1">Huaiyu Zhu 0001</na></co>
+<co c="0"><na f="z/Zhu:Jiawen" pid="135/5123">Jiawen Zhu</na></co>
+<co c="0"><na f="z/Zhu:Xuefeng" pid="70/6628">Xuefeng Zhu</na></co>
+<co c="0"><na f="z/Zhuang:Yueting" pid="218/7793">Yueting Zhuang</na></co>
+</coauthors>
+</dblpperson>
+

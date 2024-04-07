@@ -1,0 +1,708 @@
+<?xml version="1.0"?>
+<dblpperson name="Ximing Li" pid="130/1013" n="37">
+<person publtype="disambiguation" key="homepages/130/1013" mdate="2024-03-06">
+<author pid="130/1013">Ximing Li</author>
+</person>
+<homonyms n="5">
+<h f="l/Li_0001:Ximing"><person key="homepages/130/1013-1" mdate="2024-02-22">
+<author pid="130/1013-1">Ximing Li 0001</author>
+<note type="affiliation">South China Agricultural University, Guangzhou, China</note>
+<url>https://orcid.org/0000-0003-4022-1273</url>
+</person>
+</h>
+<h f="l/Li_0002:Ximing"><person key="homepages/130/1013-2" mdate="2024-02-22">
+<author pid="130/1013-2">Ximing Li 0002</author>
+<note type="affiliation">Jilin University, Key Laboratory of Symbolic Computation and Knowledge Engineering of Ministry of Education, Jilin, China</note>
+<url>https://orcid.org/0000-0001-8190-5087</url>
+</person>
+</h>
+<h f="l/Li_0003:Ximing"><person key="homepages/130/1013-3" mdate="2024-02-22">
+<author pid="130/1013-3">Ximing Li 0003</author>
+<note type="affiliation">Sun Yat-sen University, Guangzhou, China</note>
+<url>https://orcid.org/0000-0002-8571-8411</url>
+</person>
+</h>
+<h f="l/Li_0004:Ximing"><person key="homepages/130/1013-4" mdate="2024-03-05">
+<author pid="130/1013-4">Ximing Li 0004</author>
+<note type="affiliation">Ohio University, Athens, OH, USA</note>
+<url>https://orcid.org/0000-0002-5157-697X</url>
+<url>https://www.wikidata.org/entity/Q95980220</url>
+</person>
+</h>
+<h f="l/Li_0005:Ximing"><person key="homepages/130/1013-5" mdate="2024-02-22">
+<author pid="130/1013-5">Ximing Li 0005</author>
+<note type="affiliation">Beijing University of Posts and Telecommunications, Key Laboratory of Trustworthy Distributed Computing and Service, Beijing, China</note>
+<url>https://orcid.org/0000-0002-2740-3470</url>
+</person>
+</h>
+</homonyms>
+<r><article key="journals/ecoi/LiLGCLNM24" mdate="2024-02-16">
+<author pid="130/1013">Ximing Li</author>
+<author pid="95/2446">Qi Liu</author>
+<author pid="72/9266">Dongwei Gui</author>
+<author pid="368/6566">Mengtao Ci</author>
+<author pid="136/3330">Yunfei Liu</author>
+<author pid="368/5422">Naifeisai Nuerhamanti</author>
+<author pid="29/3887">Xiaodong Ma</author>
+<title>Zonation-based prioritization of vegetation conservation for terminal lakes in drylands.</title>
+<pages>102400</pages>
+<year>2024</year>
+<month>March</month>
+<volume>79</volume>
+<journal>Ecol. Informatics</journal>
+<ee>https://doi.org/10.1016/j.ecoinf.2023.102400</ee>
+<url>db/journals/ecoi/ecoi79.html#LiLGCLNM24</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/WangQWLHL024" mdate="2024-04-02">
+<author pid="296/2112">Jiaan Wang</author>
+<author pid="129/9411">Jianfeng Qu</author>
+<author pid="44/8799">Kexin Wang</author>
+<author pid="38/3988">Zhixu Li</author>
+<author pid="68/11145">Wen Hua</author>
+<author pid="130/1013">Ximing Li</author>
+<author pid="52/94-2">An Liu 0002</author>
+<title>Improving the Robustness of Knowledge-Grounded Dialogue via Contrastive Learning.</title>
+<pages>19135-19143</pages>
+<year>2024</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v38i17.29881</ee>
+<crossref>conf/aaai/2024</crossref>
+<url>db/conf/aaai/aaai2024.html#WangQWLHL024</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isscc/ChenLHC24" mdate="2024-03-19">
+<author pid="332/6725">Changjin Chen</author>
+<author pid="130/1013">Ximing Li</author>
+<author pid="08/3712">Rui Hu</author>
+<author pid="31/6230">Lin Cheng</author>
+<title>31.1 An 83.4%-Peak-Efficiency Envelope-Tracking Supply Modulator Using a Class-G Linear Amplifier and a Single-Inductor Dual-Input-Dual-Output Converter for 200MHz Bandwidth 5G New Radio RF Applications.</title>
+<pages>496-498</pages>
+<year>2024</year>
+<booktitle>ISSCC</booktitle>
+<ee>https://doi.org/10.1109/ISSCC49657.2024.10454328</ee>
+<crossref>conf/isscc/2024</crossref>
+<url>db/conf/isscc/isscc2024.html#ChenLHC24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2401-04361" mdate="2024-01-24">
+<author pid="296/2112">Jiaan Wang</author>
+<author pid="129/9411">Jianfeng Qu</author>
+<author pid="44/8799">Kexin Wang</author>
+<author pid="38/3988">Zhixu Li</author>
+<author pid="68/11145">Wen Hua</author>
+<author pid="130/1013">Ximing Li</author>
+<author pid="52/94-2">An Liu 0002</author>
+<title>Improving the Robustness of Knowledge-Grounded Dialogue via Contrastive Learning.</title>
+<year>2024</year>
+<volume>abs/2401.04361</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.04361</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-04361</url>
+</article>
+</r>
+<r><article key="journals/apin/ZhangLZCY23" mdate="2023-08-28">
+<author pid="192/1046">Chunxu Zhang</author>
+<author pid="130/1013">Ximing Li</author>
+<author pid="43/6524">Zijian Zhang</author>
+<author pid="220/5564">Jiaxu Cui</author>
+<author pid="46/999-2">Bo Yang 0002</author>
+<title>BO-Aug: learning data augmentation policies via Bayesian optimization.</title>
+<pages>8978-8993</pages>
+<year>2023</year>
+<month>April</month>
+<volume>53</volume>
+<journal>Appl. Intell.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1007/s10489-022-03790-z</ee>
+<ee>https://www.wikidata.org/entity/Q114227484</ee>
+<url>db/journals/apin/apin53.html#ZhangLZCY23</url>
+</article>
+</r>
+<r><article key="journals/inffus/MinLLZLYX23" mdate="2023-06-14">
+<author pid="292/3590">Changrong Min</author>
+<author pid="07/1644">Hongfei Lin</author>
+<author pid="130/1013">Ximing Li</author>
+<author pid="98/3487">He Zhao</author>
+<author pid="155/6767">Junyu Lu</author>
+<author pid="05/3933-3">Liang Yang 0003</author>
+<author pid="26/1194-9">Bo Xu 0009</author>
+<title>Finding hate speech with auxiliary emotion detection from self-training multi-label learning perspective.</title>
+<pages>214-223</pages>
+<year>2023</year>
+<month>August</month>
+<volume>96</volume>
+<journal>Inf. Fusion</journal>
+<ee>https://doi.org/10.1016/j.inffus.2023.03.015</ee>
+<url>db/journals/inffus/inffus96.html#MinLLZLYX23</url>
+</article>
+</r>
+<r><article key="journals/nn/ZhangLPZLY23" mdate="2023-11-28">
+<author pid="192/1046">Chunxu Zhang</author>
+<author pid="130/1013">Ximing Li</author>
+<author pid="157/2982">Hongbin Pei</author>
+<author pid="43/6524">Zijian Zhang</author>
+<author pid="181/2855">Bing Liu</author>
+<author orcid="0000-0003-1927-8419" pid="46/999-2">Bo Yang 0002</author>
+<title>LaenNet: Learning robust GCNs by propagating labels.</title>
+<pages>652-664</pages>
+<year>2023</year>
+<month>November</month>
+<volume>168</volume>
+<journal>Neural Networks</journal>
+<ee>https://doi.org/10.1016/j.neunet.2023.09.035</ee>
+<url>db/journals/nn/nn168.html#ZhangLPZLY23</url>
+</article>
+</r>
+<r><article key="journals/tkde/LiMLXLYW23" mdate="2023-09-30">
+<author pid="130/1013">Ximing Li</author>
+<author orcid="0000-0001-7933-9813" pid="126/4567-1">Chen Ma 0001</author>
+<author pid="130/0123-2">Guozheng Li 0002</author>
+<author pid="84/586">Peng Xu</author>
+<author orcid="0000-0002-0252-329X" pid="45/4723">Chi Harold Liu</author>
+<author pid="33/6315-1">Ye Yuan 0001</author>
+<author pid="64/146">Guoren Wang</author>
+<title>Meta Auxiliary Learning for Top-K Recommendation.</title>
+<pages>10857-10870</pages>
+<year>2023</year>
+<month>October</month>
+<volume>35</volume>
+<journal>IEEE Trans. Knowl. Data Eng.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TKDE.2022.3223155</ee>
+<url>db/journals/tkde/tkde35.html#LiMLXLYW23</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/ChengLC23" mdate="2023-09-04">
+<author pid="05/2700">Bo Cheng</author>
+<author pid="130/1013">Ximing Li</author>
+<author pid="272/4065">Yi Chang</author>
+<title>TC-DWA: Text Clustering with Dual Word-Level Augmentation.</title>
+<pages>7113-7121</pages>
+<year>2023</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v37i6.25868</ee>
+<crossref>conf/aaai/2023</crossref>
+<url>db/conf/aaai/aaai2023.html#ChengLC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/acl/MinL0W0L23" mdate="2023-08-10">
+<author pid="292/3590">Changrong Min</author>
+<author pid="130/1013">Ximing Li</author>
+<author pid="05/3933-3">Liang Yang 0003</author>
+<author pid="53/10643">Zhilin Wang</author>
+<author pid="26/1194-9">Bo Xu 0009</author>
+<author pid="07/1644">Hongfei Lin</author>
+<title>Just Like a Human Would, Direct Access to Sarcasm Augmented with Potential Result and Reaction.</title>
+<pages>10172-10183</pages>
+<year>2023</year>
+<booktitle>ACL (1)</booktitle>
+<ee type="oa">https://doi.org/10.18653/v1/2023.acl-long.566</ee>
+<ee type="oa">https://aclanthology.org/2023.acl-long.566</ee>
+<crossref>conf/acl/2023-1</crossref>
+<url>db/conf/acl/acl2023-1.html#MinL0W0L23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iclr/LiWC23" mdate="2023-06-30">
+<author pid="130/1013">Ximing Li</author>
+<author pid="115/5785">Chendi Wang</author>
+<author pid="99/4812">Guang Cheng</author>
+<title>Statistical Theory of Differentially Private Marginal-based Data Synthesis Algorithms.</title>
+<year>2023</year>
+<booktitle>ICLR</booktitle>
+<ee type="oa">https://openreview.net/pdf?id=hxUwnEGxW87</ee>
+<crossref>conf/iclr/2023</crossref>
+<url>db/conf/iclr/iclr2023.html#LiWC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcai/LiuLLGLWW0FG23" mdate="2023-08-28">
+<author pid="185/7866">Yonghao Liu</author>
+<author pid="165/2145">Di Liang</author>
+<author pid="47/1793">Mengyu Li</author>
+<author pid="g/FaustoGiunchiglia">Fausto Giunchiglia</author>
+<author pid="130/1013">Ximing Li</author>
+<author pid="93/10146">Sirui Wang</author>
+<author pid="95/6985">Wei Wu</author>
+<author pid="74/1260-2">Lan Huang 0002</author>
+<author pid="15/5229">Xiaoyue Feng</author>
+<author pid="84/8179">Renchu Guan</author>
+<title>Local and Global: Temporal Question Answering via Information Fusion.</title>
+<pages>5141-5149</pages>
+<year>2023</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2023/571</ee>
+<crossref>conf/ijcai/2023</crossref>
+<url>db/conf/ijcai/ijcai2023.html#LiuLLGLWW0FG23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2301-08844" mdate="2023-01-26">
+<author pid="130/1013">Ximing Li</author>
+<author pid="115/5785">Chendi Wang</author>
+<author pid="99/4812">Guang Cheng</author>
+<title>Statistical Theory of Differentially Private Marginal-based Data Synthesis Algorithms.</title>
+<year>2023</year>
+<volume>abs/2301.08844</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2301.08844</ee>
+<url>db/journals/corr/corr2301.html#abs-2301-08844</url>
+</article>
+</r>
+<r><article key="journals/cea/LiZWHWSXSG22" mdate="2023-08-28">
+<author pid="130/1013">Ximing Li</author>
+<author pid="332/5295">Zeyong Zhao</author>
+<author pid="15/719">Jingyi Wu</author>
+<author pid="332/4105">Yongding Huang</author>
+<author pid="332/4782">Jiayong Wen</author>
+<author pid="253/3483">Shikai Sun</author>
+<author pid="332/5309">Huanlong Xie</author>
+<author pid="68/4942">Jian Sun</author>
+<author pid="136/5412">Yuefang Gao</author>
+<title>Y-BGD: Broiler counting based on multi-object tracking.</title>
+<pages>107347</pages>
+<year>2022</year>
+<volume>202</volume>
+<journal>Comput. Electron. Agric.</journal>
+<ee>https://doi.org/10.1016/j.compag.2022.107347</ee>
+<ee>https://www.wikidata.org/entity/Q114194609</ee>
+<url>db/journals/cea/cea202.html#LiZWHWSXSG22</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/GeGLF22" mdate="2022-10-19">
+<author pid="305/0099">Zhiqi Ge</author>
+<author pid="202/6765">Yuanyuan Guan</author>
+<author pid="130/1013">Ximing Li</author>
+<author pid="89/1563">Bo Fu</author>
+<title>Consistent, Balanced, and Overlapping Label Trees for Extreme Multi-label Learning.</title>
+<pages>551-560</pages>
+<year>2022</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3511808.3557261</ee>
+<crossref>conf/cikm/2022</crossref>
+<url>db/conf/cikm/cikm2022.html#GeGLF22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/LiuLLGFG22" mdate="2023-09-30">
+<author pid="185/7866">Yonghao Liu</author>
+<author orcid="0000-0001-9327-434X" pid="47/1793">Mengyu Li</author>
+<author pid="130/1013">Ximing Li</author>
+<author pid="g/FaustoGiunchiglia">Fausto Giunchiglia</author>
+<author pid="15/5229">Xiaoyue Feng</author>
+<author pid="84/8179">Renchu Guan</author>
+<title>Few-shot Node Classification on Attributed Networks with Graph Meta-learning.</title>
+<pages>471-481</pages>
+<year>2022</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/3477495.3531978</ee>
+<crossref>conf/sigir/2022</crossref>
+<url>db/conf/sigir/sigir2022.html#LiuLLGFG22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigir/GuanPGLYF22" mdate="2022-07-08">
+<author pid="84/8179">Renchu Guan</author>
+<author pid="257/6390">Haoyu Pang</author>
+<author pid="g/FaustoGiunchiglia">Fausto Giunchiglia</author>
+<author pid="130/1013">Ximing Li</author>
+<author pid="90/147">Xuefeng Yang</author>
+<author pid="15/5229">Xiaoyue Feng</author>
+<title>Deployable and Continuable Meta-learning-Based Recommender System with Fast User-Incremental Updates.</title>
+<pages>1423-1433</pages>
+<year>2022</year>
+<booktitle>SIGIR</booktitle>
+<ee>https://doi.org/10.1145/3477495.3531964</ee>
+<crossref>conf/sigir/2022</crossref>
+<url>db/conf/sigir/sigir2022.html#GuanPGLYF22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/www/PangGLGF22" mdate="2022-04-26">
+<author pid="257/6390">Haoyu Pang</author>
+<author pid="g/FaustoGiunchiglia">Fausto Giunchiglia</author>
+<author pid="130/1013">Ximing Li</author>
+<author pid="84/8179">Renchu Guan</author>
+<author pid="15/5229">Xiaoyue Feng</author>
+<title>PNMTA: A Pretrained Network Modulation and Task Adaptation Approach for User Cold-Start Recommendation.</title>
+<pages>348-359</pages>
+<year>2022</year>
+<booktitle>WWW</booktitle>
+<ee>https://doi.org/10.1145/3485447.3511963</ee>
+<crossref>conf/www/2022</crossref>
+<url>db/conf/www/www2022.html#PangGLGF22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/GeL21" mdate="2021-11-02">
+<author pid="305/0099">Zhiqi Ge</author>
+<author pid="130/1013">Ximing Li</author>
+<title>To Be or not to Be, Tail Labels in Extreme Multi-label Learning.</title>
+<pages>555-564</pages>
+<year>2021</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3459637.3482303</ee>
+<crossref>conf/cikm/2021</crossref>
+<url>db/conf/cikm/cikm2021.html#GeL21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cikm/GuanLFL21" mdate="2022-10-02">
+<author pid="84/8179">Renchu Guan</author>
+<author orcid="0000-0001-8621-7144" pid="185/7866">Yonghao Liu</author>
+<author pid="15/5229">Xiaoyue Feng</author>
+<author pid="130/1013">Ximing Li</author>
+<title>VPALG: Paper-publication Prediction with Graph Neural Networks.</title>
+<pages>617-626</pages>
+<year>2021</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3459637.3482490</ee>
+<crossref>conf/cikm/2021</crossref>
+<url>db/conf/cikm/cikm2021.html#GuanLFL21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smartgridcomm/LiDLLS21" mdate="2021-12-22">
+<author pid="118/0486">Qiyue Li</author>
+<author pid="309/3081">Shengquan Dai</author>
+<author pid="130/1013">Ximing Li</author>
+<author pid="69/8130">Weitao Li</author>
+<author pid="09/5042-11">Wei Sun 0011</author>
+<title>Graph Convolution Networks-Based Island Partition for Energy and Information Coupled Active Distribution Systems.</title>
+<pages>315-320</pages>
+<year>2021</year>
+<booktitle>SmartGridComm</booktitle>
+<ee>https://doi.org/10.1109/SmartGridComm51999.2021.9632294</ee>
+<crossref>conf/smartgridcomm/2021</crossref>
+<url>db/conf/smartgridcomm/smartgridcomm2021.html#LiDLLS21</url>
+</inproceedings>
+</r>
+<r><article key="journals/ieeemm/GuanL20" mdate="2020-12-14">
+<author pid="202/6765">Yuanyuan Guan</author>
+<author pid="130/1013">Ximing Li</author>
+<title>Multilabel Text Classification With Incomplete Labels: A Safe Generative Model With Label Manifold Regularization and Confidence Constraint.</title>
+<pages>38-47</pages>
+<year>2020</year>
+<volume>27</volume>
+<journal>IEEE Multim.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/MMUL.2020.3022068</ee>
+<url>db/journals/ieeemm/ieeemm27.html#GuanL20</url>
+</article>
+</r>
+<r><article key="journals/ijon/XuLCLY20" mdate="2021-10-14">
+<author pid="223/3926">Zhijuan Xu</author>
+<author orcid="0000-0003-1790-3751" pid="07/1898-1">Xueyan Liu 0001</author>
+<author pid="256/3895">Xianjuan Cui</author>
+<author pid="130/1013">Ximing Li</author>
+<author orcid="0000-0003-1927-8419" pid="46/999-2">Bo Yang 0002</author>
+<title>Robust stochastic block model.</title>
+<pages>398-412</pages>
+<year>2020</year>
+<volume>379</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2019.10.069</ee>
+<url>db/journals/ijon/ijon379.html#XuLCLY20</url>
+</article>
+</r>
+<r><article key="journals/jcst/ZhangNWL20" mdate="2020-08-05">
+<author pid="232/2425">Chuang-Ye Zhang</author>
+<author pid="99/3176">Yan Niu</author>
+<author pid="38/9845">Tie-Ru Wu</author>
+<author pid="130/1013">Ximing Li</author>
+<title>Color Image Super-Resolution and Enhancement with Inter-Channel Details at Trivial Cost.</title>
+<pages>889-899</pages>
+<year>2020</year>
+<volume>35</volume>
+<journal>J. Comput. Sci. Technol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s11390-020-0272-1</ee>
+<url>db/journals/jcst/jcst35.html#ZhangNWL20</url>
+</article>
+</r>
+<r><inproceedings key="conf/aaai/WangCPLY20" mdate="2023-09-08">
+<author pid="122/9193">Yiyuan Wang</author>
+<author orcid="0000-0003-1730-6922" pid="45/8399">Shaowei Cai 0001</author>
+<author pid="254/7591">Shiwei Pan</author>
+<author pid="130/1013">Ximing Li</author>
+<author pid="13/3656">Minghao Yin</author>
+<title>Reduction and Local Search for Weighted Graph Coloring Problem.</title>
+<pages>2433-2441</pages>
+<year>2020</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v34i03.5624</ee>
+<crossref>conf/aaai/2020</crossref>
+<url>db/conf/aaai/aaai2020.html#WangCPLY20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcsp/WangZ0XXL20" mdate="2022-06-22">
+<author pid="03/6969">Zhiming Wang</author>
+<author pid="87/461-4">Dongmei Zhang 0004</author>
+<author pid="58/2847-1">Kui Xu 0001</author>
+<author pid="87/1010-1">Wei Xie 0001</author>
+<author pid="54/9718">Jianhui Xu</author>
+<author pid="130/1013">Ximing Li</author>
+<title>NOMA in Cell-Free mMIMO Systems with AP Selection.</title>
+<pages>430-435</pages>
+<year>2020</year>
+<booktitle>WCSP</booktitle>
+<ee>https://doi.org/10.1109/WCSP49889.2020.9299790</ee>
+<crossref>conf/wcsp/2020</crossref>
+<url>db/conf/wcsp/wcsp2020.html#WangZ0XXL20</url>
+</inproceedings>
+</r>
+<r><article key="journals/mta/FuZSLW19" mdate="2022-05-04">
+<author orcid="0000-0001-7030-821X" pid="89/1563">Bo Fu</author>
+<author pid="223/4321">Xiaoyang Zhao 0003</author>
+<author pid="67/3224">Chuanming Song 0001</author>
+<author pid="130/1013">Ximing Li</author>
+<author pid="97/2407-1">Xiang-Hai Wang 0001</author>
+<title>A salt and pepper noise image denoising method based on the generative classification.</title>
+<pages>12043-12053</pages>
+<year>2019</year>
+<volume>78</volume>
+<journal>Multim. Tools Appl.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1007/s11042-018-6732-8</ee>
+<url>db/journals/mta/mta78.html#FuZSLW19</url>
+</article>
+</r>
+<r><inproceedings key="conf/cikm/QuHOZL19" mdate="2023-03-21">
+<author pid="129/9411">Jianfeng Qu</author>
+<author orcid="0000-0001-5456-7035" pid="68/11145">Wen Hua</author>
+<author pid="43/3931">Dantong Ouyang</author>
+<author orcid="0000-0001-6343-1455" pid="z/XiaofangZhou">Xiaofang Zhou 0001</author>
+<author pid="130/1013">Ximing Li</author>
+<title>A Fine-grained and Noise-aware Method for Neural Relation Extraction.</title>
+<pages>659-668</pages>
+<year>2019</year>
+<booktitle>CIKM</booktitle>
+<ee>https://doi.org/10.1145/3357384.3357997</ee>
+<crossref>conf/cikm/2019</crossref>
+<url>db/conf/cikm/cikm2019.html#QuHOZL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icct/QiuXSXZL19" mdate="2022-06-22">
+<author pid="256/4648">Jiahua Qiu</author>
+<author pid="58/2847-1">Kui Xu 0001</author>
+<author pid="216/2997">Zhexian Shen</author>
+<author pid="87/1010-1">Wei Xie 0001</author>
+<author pid="87/461-4">Dongmei Zhang 0004</author>
+<author pid="130/1013">Ximing Li</author>
+<title>Downlink Performance Analysis of Cell-Free Massive MIMO over Spatially Correlated Rayleigh Channels.</title>
+<pages>122-127</pages>
+<year>2019</year>
+<booktitle>ICCT</booktitle>
+<ee>https://doi.org/10.1109/ICCT46805.2019.8947237</ee>
+<crossref>conf/icct/2019</crossref>
+<url>db/conf/icct/icct2019.html#QiuXSXZL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icct/LiZXWXXZL19" mdate="2022-06-22">
+<author pid="18/3173">Na Li</author>
+<author pid="87/461-4">Dongmei Zhang 0004</author>
+<author pid="58/2847-1">Kui Xu 0001</author>
+<author pid="93/6765">Meng Wang</author>
+<author pid="87/1010-1">Wei Xie 0001</author>
+<author pid="54/9718">Jianhui Xu</author>
+<author pid="221/6245">Qingsong Zhang</author>
+<author pid="130/1013">Ximing Li</author>
+<title>NOMA-aided Hybrid SWIPT for Full-Duplex Massive MIMO Systems.</title>
+<pages>367-373</pages>
+<year>2019</year>
+<booktitle>ICCT</booktitle>
+<ee>https://doi.org/10.1109/ICCT46805.2019.8947226</ee>
+<crossref>conf/icct/2019</crossref>
+<url>db/conf/icct/icct2019.html#LiZXWXXZL19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icct/WangZXXXL19" mdate="2022-06-22">
+<author pid="03/6969">Zhiming Wang</author>
+<author pid="87/461-4">Dongmei Zhang 0004</author>
+<author pid="58/2847-1">Kui Xu 0001</author>
+<author pid="87/1010-1">Wei Xie 0001</author>
+<author pid="54/9718">Jianhui Xu</author>
+<author pid="130/1013">Ximing Li</author>
+<title>Beam-Superposition-Based Multi-beam RSMA for Hybrid mmWave Systems.</title>
+<pages>1086-1092</pages>
+<year>2019</year>
+<booktitle>ICCT</booktitle>
+<ee>https://doi.org/10.1109/ICCT46805.2019.8947259</ee>
+<crossref>conf/icct/2019</crossref>
+<url>db/conf/icct/icct2019.html#WangZXXXL19</url>
+</inproceedings>
+</r>
+<r><article key="journals/nn/QuOHYL18" mdate="2018-11-14">
+<author pid="129/9411">Jianfeng Qu</author>
+<author pid="43/3931">Dantong Ouyang</author>
+<author orcid="0000-0001-5456-7035" pid="68/11145">Wen Hua</author>
+<author pid="42/7943">Yuxin Ye</author>
+<author pid="130/1013">Ximing Li</author>
+<title>Distant supervision for neural relation extraction integrated with word attention and property features.</title>
+<pages>59-69</pages>
+<year>2018</year>
+<volume>100</volume>
+<journal>Neural Networks</journal>
+<ee>https://doi.org/10.1016/j.neunet.2018.01.006</ee>
+<ee>https://www.wikidata.org/entity/Q51557343</ee>
+<url>db/journals/nn/nn100.html#QuOHYL18</url>
+</article>
+</r>
+<r><inproceedings key="conf/coling/LiY18" mdate="2023-05-13">
+<author pid="130/1013">Ximing Li</author>
+<author pid="46/999-2">Bo Yang 0002</author>
+<title>A Pseudo Label based Dataless Naive Bayes Algorithm for Text Classification with Seed Words.</title>
+<pages>1908-1917</pages>
+<year>2018</year>
+<booktitle>COLING</booktitle>
+<ee type="oa">https://aclanthology.org/C18-1162/</ee>
+<crossref>conf/coling/2018</crossref>
+<url>db/conf/coling/coling2018.html#LiY18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/giscience/YamamotoL18" mdate="2018-08-23">
+<author pid="191/7149">Kayoko Yamamoto</author>
+<author pid="130/1013">Ximing Li</author>
+<title>A Safety Evaluation Method of Evacuation Routes in Urban Areas in Case of Earthquake Disasters Using Ant Colony Optimization and Geographic Information Systems (Short Paper).</title>
+<pages>68:1-68:7</pages>
+<year>2018</year>
+<booktitle>GIScience</booktitle>
+<ee type="oa">https://doi.org/10.4230/LIPIcs.GISCIENCE.2018.68</ee>
+<crossref>conf/giscience/2018</crossref>
+<url>db/conf/giscience/giscience2018.html#YamamotoL18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1807-05478" mdate="2022-05-04">
+<author pid="89/1563">Bo Fu</author>
+<author pid="223/4321">Xiao-Yang Zhao 0003</author>
+<author pid="192/8888">Yong-Gong Ren</author>
+<author pid="130/1013">Ximing Li</author>
+<author pid="97/2407-1">Xiang-Hai Wang 0001</author>
+<title>A salt and pepper noise image denoising method based on the generative classification.</title>
+<year>2018</year>
+<volume>abs/1807.05478</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1807.05478</ee>
+<url>db/journals/corr/corr1807.html#abs-1807-05478</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1812-07763" mdate="2019-01-01">
+<author pid="232/2425">Chuangye Zhang</author>
+<author pid="99/3176">Yan Niu</author>
+<author pid="144/9828">Tieru Wu</author>
+<author pid="130/1013">Ximing Li</author>
+<title>Light Weight Color Image Warping with Inter-Channel Information.</title>
+<year>2018</year>
+<volume>abs/1812.07763</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1812.07763</ee>
+<url>db/journals/corr/corr1812.html#abs-1812-07763</url>
+</article>
+</r>
+<r><article key="journals/ejwcn/LiuZLS16" mdate="2020-08-27">
+<author pid="93/3167">Xu Liu</author>
+<author pid="95/9457">Zhongbao Zhang</author>
+<author pid="130/1013">Ximing Li</author>
+<author pid="63/2499">Sen Su</author>
+<title>Optimal virtual network embedding based on artificial bee colony.</title>
+<pages>273</pages>
+<year>2016</year>
+<volume>2016</volume>
+<journal>EURASIP J. Wirel. Commun. Netw.</journal>
+<ee type="oa">https://doi.org/10.1186/s13638-016-0766-2</ee>
+<ee>https://www.wikidata.org/entity/Q56835394</ee>
+<url>db/journals/ejwcn/ejwcn2016.html#LiuZLS16</url>
+</article>
+</r>
+<coauthors n="96" nc="2">
+<co c="0"><na f="c/Cai_0001:Shaowei" pid="45/8399">Shaowei Cai 0001</na></co>
+<co c="0"><na f="c/Chang:Yi" pid="272/4065">Yi Chang</na></co>
+<co c="0"><na f="c/Chen:Changjin" pid="332/6725">Changjin Chen</na></co>
+<co c="0"><na f="c/Cheng:Bo" pid="05/2700">Bo Cheng</na></co>
+<co c="1"><na f="c/Cheng:Guang" pid="99/4812">Guang Cheng</na></co>
+<co c="0"><na f="c/Cheng:Lin" pid="31/6230">Lin Cheng</na></co>
+<co c="0"><na f="c/Ci:Mengtao" pid="368/6566">Mengtao Ci</na></co>
+<co c="0"><na f="c/Cui:Jiaxu" pid="220/5564">Jiaxu Cui</na></co>
+<co c="0"><na f="c/Cui:Xianjuan" pid="256/3895">Xianjuan Cui</na></co>
+<co c="0"><na f="d/Dai:Shengquan" pid="309/3081">Shengquan Dai</na></co>
+<co c="0"><na f="f/Feng:Xiaoyue" pid="15/5229">Xiaoyue Feng</na></co>
+<co c="0"><na f="f/Fu:Bo" pid="89/1563">Bo Fu</na></co>
+<co c="0"><na f="g/Gao:Yuefang" pid="136/5412">Yuefang Gao</na></co>
+<co c="0"><na f="g/Ge:Zhiqi" pid="305/0099">Zhiqi Ge</na></co>
+<co c="0"><na f="g/Giunchiglia:Fausto" pid="g/FaustoGiunchiglia">Fausto Giunchiglia</na></co>
+<co c="0"><na f="g/Guan:Renchu" pid="84/8179">Renchu Guan</na></co>
+<co c="0"><na f="g/Guan:Yuanyuan" pid="202/6765">Yuanyuan Guan</na></co>
+<co c="0"><na f="g/Gui:Dongwei" pid="72/9266">Dongwei Gui</na></co>
+<co c="0"><na f="h/Hu:Rui" pid="08/3712">Rui Hu</na></co>
+<co c="0"><na f="h/Hua:Wen" pid="68/11145">Wen Hua</na></co>
+<co c="0"><na f="h/Huang_0002:Lan" pid="74/1260-2">Lan Huang 0002</na></co>
+<co c="0"><na f="h/Huang:Yongding" pid="332/4105">Yongding Huang</na></co>
+<co c="0"><na f="l/Li_0002:Guozheng" pid="130/0123-2">Guozheng Li 0002</na></co>
+<co c="0"><na f="l/Li:Mengyu" pid="47/1793">Mengyu Li</na></co>
+<co c="0"><na f="l/Li:Na" pid="18/3173">Na Li</na></co>
+<co c="0"><na f="l/Li:Qiyue" pid="118/0486">Qiyue Li</na></co>
+<co c="0"><na f="l/Li:Weitao" pid="69/8130">Weitao Li</na></co>
+<co c="0"><na f="l/Li:Zhixu" pid="38/3988">Zhixu Li</na></co>
+<co c="0"><na f="l/Liang:Di" pid="165/2145">Di Liang</na></co>
+<co c="0"><na f="l/Lin:Hongfei" pid="07/1644">Hongfei Lin</na></co>
+<co c="0"><na f="l/Liu_0002:An" pid="52/94-2">An Liu 0002</na></co>
+<co c="0"><na f="l/Liu:Bing" pid="181/2855">Bing Liu</na></co>
+<co c="0"><na f="l/Liu:Chi_Harold" pid="45/4723">Chi Harold Liu</na></co>
+<co c="0"><na f="l/Liu:Qi" pid="95/2446">Qi Liu</na></co>
+<co c="0"><na f="l/Liu:Xu" pid="93/3167">Xu Liu</na></co>
+<co c="0"><na f="l/Liu_0001:Xueyan" pid="07/1898-1">Xueyan Liu 0001</na></co>
+<co c="0"><na f="l/Liu:Yonghao" pid="185/7866">Yonghao Liu</na></co>
+<co c="0"><na f="l/Liu:Yunfei" pid="136/3330">Yunfei Liu</na></co>
+<co c="0"><na f="l/Lu:Junyu" pid="155/6767">Junyu Lu</na></co>
+<co c="0"><na f="m/Ma_0001:Chen" pid="126/4567-1">Chen Ma 0001</na></co>
+<co c="0"><na f="m/Ma:Xiaodong" pid="29/3887">Xiaodong Ma</na></co>
+<co c="0"><na f="m/Min:Changrong" pid="292/3590">Changrong Min</na></co>
+<co c="0"><na f="n/Niu:Yan" pid="99/3176">Yan Niu</na></co>
+<co c="0"><na f="n/Nuerhamanti:Naifeisai" pid="368/5422">Naifeisai Nuerhamanti</na></co>
+<co c="0"><na f="o/Ouyang:Dantong" pid="43/3931">Dantong Ouyang</na></co>
+<co c="0"><na f="p/Pan:Shiwei" pid="254/7591">Shiwei Pan</na></co>
+<co c="0"><na f="p/Pang:Haoyu" pid="257/6390">Haoyu Pang</na></co>
+<co c="0"><na f="p/Pei:Hongbin" pid="157/2982">Hongbin Pei</na></co>
+<co c="0"><na f="q/Qiu:Jiahua" pid="256/4648">Jiahua Qiu</na></co>
+<co c="0"><na f="q/Qu:Jianfeng" pid="129/9411">Jianfeng Qu</na></co>
+<co c="0"><na f="r/Ren:Yong=Gong" pid="192/8888">Yong-Gong Ren</na></co>
+<co c="0"><na f="s/Shen:Zhexian" pid="216/2997">Zhexian Shen</na></co>
+<co c="0"><na f="s/Song_0001:Chuanming" pid="67/3224">Chuanming Song 0001</na></co>
+<co c="0"><na f="s/Su:Sen" pid="63/2499">Sen Su</na></co>
+<co c="0"><na f="s/Sun:Jian" pid="68/4942">Jian Sun</na></co>
+<co c="0"><na f="s/Sun:Shikai" pid="253/3483">Shikai Sun</na></co>
+<co c="0"><na f="s/Sun_0011:Wei" pid="09/5042-11">Wei Sun 0011</na></co>
+<co c="1"><na f="w/Wang:Chendi" pid="115/5785">Chendi Wang</na></co>
+<co c="0"><na f="w/Wang:Guoren" pid="64/146">Guoren Wang</na></co>
+<co c="0"><na f="w/Wang:Jiaan" pid="296/2112">Jiaan Wang</na></co>
+<co c="0"><na f="w/Wang:Kexin" pid="44/8799">Kexin Wang</na></co>
+<co c="0"><na f="w/Wang:Meng" pid="93/6765">Meng Wang</na></co>
+<co c="0"><na f="w/Wang:Sirui" pid="93/10146">Sirui Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Xiang=Hai" pid="97/2407-1">Xiang-Hai Wang 0001</na></co>
+<co c="0"><na f="w/Wang:Yiyuan" pid="122/9193">Yiyuan Wang</na></co>
+<co c="0"><na f="w/Wang:Zhilin" pid="53/10643">Zhilin Wang</na></co>
+<co c="0"><na f="w/Wang:Zhiming" pid="03/6969">Zhiming Wang</na></co>
+<co c="0"><na f="w/Wen:Jiayong" pid="332/4782">Jiayong Wen</na></co>
+<co c="0"><na f="w/Wu:Jingyi" pid="15/719">Jingyi Wu</na></co>
+<co c="0"><na f="w/Wu:Tie=Ru" pid="38/9845">Tie-Ru Wu</na></co>
+<co c="0"><na f="w/Wu:Tieru" pid="144/9828">Tieru Wu</na></co>
+<co c="0"><na f="w/Wu:Wei" pid="95/6985">Wei Wu</na></co>
+<co c="0"><na f="x/Xie:Huanlong" pid="332/5309">Huanlong Xie</na></co>
+<co c="0"><na f="x/Xie_0001:Wei" pid="87/1010-1">Wei Xie 0001</na></co>
+<co c="0"><na f="x/Xu_0009:Bo" pid="26/1194-9">Bo Xu 0009</na></co>
+<co c="0"><na f="x/Xu:Jianhui" pid="54/9718">Jianhui Xu</na></co>
+<co c="0"><na f="x/Xu_0001:Kui" pid="58/2847-1">Kui Xu 0001</na></co>
+<co c="0"><na f="x/Xu:Peng" pid="84/586">Peng Xu</na></co>
+<co c="0"><na f="x/Xu:Zhijuan" pid="223/3926">Zhijuan Xu</na></co>
+<co c="-1"><na f="y/Yamamoto:Kayoko" pid="191/7149">Kayoko Yamamoto</na></co>
+<co c="0"><na f="y/Yang_0002:Bo" pid="46/999-2">Bo Yang 0002</na></co>
+<co c="0"><na f="y/Yang_0003:Liang" pid="05/3933-3">Liang Yang 0003</na></co>
+<co c="0"><na f="y/Yang:Xuefeng" pid="90/147">Xuefeng Yang</na></co>
+<co c="0"><na f="y/Ye:Yuxin" pid="42/7943">Yuxin Ye</na></co>
+<co c="0"><na f="y/Yin:Minghao" pid="13/3656">Minghao Yin</na></co>
+<co c="0"><na f="y/Yuan_0001:Ye" pid="33/6315-1">Ye Yuan 0001</na></co>
+<co c="0" n="2"><na f="z/Zhang:Chuangye" pid="232/2425">Chuangye Zhang</na><na>Chuang-Ye Zhang</na></co>
+<co c="0"><na f="z/Zhang:Chunxu" pid="192/1046">Chunxu Zhang</na></co>
+<co c="0"><na f="z/Zhang_0004:Dongmei" pid="87/461-4">Dongmei Zhang 0004</na></co>
+<co c="0"><na f="z/Zhang:Qingsong" pid="221/6245">Qingsong Zhang</na></co>
+<co c="0"><na f="z/Zhang:Zhongbao" pid="95/9457">Zhongbao Zhang</na></co>
+<co c="0"><na f="z/Zhang:Zijian" pid="43/6524">Zijian Zhang</na></co>
+<co c="0"><na f="z/Zhao:He" pid="98/3487">He Zhao</na></co>
+<co c="0" n="2"><na f="z/Zhao_0003:Xiao=Yang" pid="223/4321">Xiao-Yang Zhao 0003</na><na>Xiaoyang Zhao 0003</na></co>
+<co c="0"><na f="z/Zhao:Zeyong" pid="332/5295">Zeyong Zhao</na></co>
+<co c="0"><na f="z/Zhou_0001:Xiaofang" pid="z/XiaofangZhou">Xiaofang Zhou 0001</na></co>
+</coauthors>
+</dblpperson>
+

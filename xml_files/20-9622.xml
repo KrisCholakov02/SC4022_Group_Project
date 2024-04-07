@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<dblpperson name="Qiang Yin" pid="20/9622" n="5">
+<person publtype="disambiguation" key="homepages/20/9622" mdate="2023-01-24">
+<author pid="20/9622">Qiang Yin</author>
+</person>
+<homonyms n="11">
+<h f="y/Yin_0001:Qiang"><person key="homepages/20/9622-1" mdate="2023-02-18">
+<author pid="20/9622-1">Qiang Yin 0001</author>
+<note type="affiliation">Beijing University of Chemical Technology, Beijing, China</note>
+<url>https://orcid.org/0000-0002-8413-4756</url>
+<url>https://ieeexplore.ieee.org/author/37668100100</url>
+</person>
+</h>
+<h f="y/Yin_0002:Qiang"><person key="homepages/20/9622-2" mdate="2023-02-18">
+<author pid="20/9622-2">Qiang Yin 0002</author>
+<note type="affiliation">Shanghai Jiao Tong University, China</note>
+<note type="affiliation" label="former">Alibaba Damo Academy, China</note>
+<note type="affiliation" label="former">Beihang University, China</note>
+<url>https://basics.sjtu.edu.cn/~yin/</url>
+<url>https://scholar.google.com/citations?user=8N_aoUkAAAAJ</url>
+<url>https://orcid.org/0000-0003-3398-8345</url>
+</person>
+</h>
+<h f="y/Yin_0003:Qiang"><person key="homepages/20/9622-3" mdate="2023-02-18">
+<author pid="20/9622-3">Qiang Yin 0003</author>
+<note type="affiliation">Tianjin University, School of Computer Science and Technology, China</note>
+<url>https://orcid.org/0000-0001-5637-3672</url>
+<url>https://www.wikidata.org/entity/Q96158848</url>
+<url>https://ieeexplore.ieee.org/author/37086262588</url>
+</person>
+</h>
+<h f="y/Yin_0004:Qiang"><person key="homepages/20/9622-4" mdate="2023-01-23">
+<author pid="20/9622-4">Qiang Yin 0004</author>
+<note type="affiliation">Beijing Kingbase Information Technologies Inc., Beijing, China</note>
+</person>
+</h>
+<h f="y/Yin_0005:Qiang"><person key="homepages/20/9622-5" mdate="2023-01-23">
+<author pid="20/9622-5">Qiang Yin 0005</author>
+<note type="affiliation">Xi'an Satellite Control Center, Xi'an, China</note>
+</person>
+</h>
+<h f="y/Yin_0006:Qiang"><person key="homepages/20/9622-6" mdate="2023-01-23">
+<author pid="20/9622-6">Qiang Yin 0006</author>
+<note type="affiliation">Dalian University, Dalian, Liaoning, China</note>
+</person>
+</h>
+<h f="y/Yin_0007:Qiang"><person key="homepages/20/9622-7" mdate="2023-01-23">
+<author pid="20/9622-7">Qiang Yin 0007</author>
+<note type="affiliation">Southwest Institute of Technical Physics, Chengdu, China</note>
+<note label="former" type="affiliation">Nanjing University of Science and Technology, China</note>
+</person>
+</h>
+<h f="y/Yin_0008:Qiang"><person key="homepages/20/9622-8" mdate="2023-02-14">
+<author pid="20/9622-8">Qiang Yin 0008</author>
+<note type="affiliation">Wuhan Polytechnic University, Wuhan, China</note>
+<url>https://orcid.org/0000-0003-1389-1802</url>
+</person>
+</h>
+<h f="y/Yin_0009:Qiang"><person key="homepages/20/9622-9" mdate="2023-01-23">
+<author pid="20/9622-9">Qiang Yin 0009</author>
+<note type="affiliation">Southeast University, Nanjing, China</note>
+</person>
+</h>
+<h f="y/Yin_0010:Qiang"><person key="homepages/20/9622-10" mdate="2023-01-24">
+<author pid="20/9622-10">Qiang Yin 0010</author>
+<note type="affiliation">North University of China, China</note>
+</person>
+</h>
+<h f="y/Yin_0011:Qiang"><person key="homepages/20/9622-11" mdate="2023-01-26">
+<author pid="20/9622-11">Qiang Yin 0011</author>
+<note type="affiliation">Huazhong University of Science and Technology, Wuhan, China</note>
+</person>
+</h>
+</homonyms>
+<r><inproceedings key="conf/aisp/PengYJYZ23" mdate="2024-03-03">
+<author pid="334/6584">Haowei Peng</author>
+<author pid="48/6558">Xiaomei Yu</author>
+<author pid="346/7936">Xiaotong Jiao</author>
+<author pid="20/9622">Qiang Yin</author>
+<author pid="263/0219">Lixiang Zhao</author>
+<title>Online Learning Behavior Analysis and Achievement Prediction with Explainable Machine Learning.</title>
+<pages>22-37</pages>
+<year>2023</year>
+<booktitle>AIS&#38;P (2)</booktitle>
+<ee>https://doi.org/10.1007/978-981-99-9788-6_3</ee>
+<crossref>conf/aisp/2023-2</crossref>
+<url>db/conf/aisp/aisp2023-2.html#PengYJYZ23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/aisp/ZhaoYFYPJ23" mdate="2024-03-03">
+<author pid="263/0219">Lixiang Zhao</author>
+<author pid="48/6558">Xiaomei Yu</author>
+<author pid="305/0262">Wenxiang Fu</author>
+<author pid="20/9622">Qiang Yin</author>
+<author pid="334/6584">Haowei Peng</author>
+<author pid="346/7936">Xiaotong Jiao</author>
+<title>Using Micro Videos to Optimize Premiere Software Course Teaching.</title>
+<pages>92-105</pages>
+<year>2023</year>
+<booktitle>AIS&#38;P (2)</booktitle>
+<ee>https://doi.org/10.1007/978-981-99-9788-6_8</ee>
+<crossref>conf/aisp/2023-2</crossref>
+<url>db/conf/aisp/aisp2023-2.html#ZhaoYFYPJ23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/igarss/Fei-tengYYQW16" mdate="2023-08-04">
+<author pid="76/8969">Feiteng Xue</author>
+<author pid="37/4190">Yang Li</author>
+<author pid="77/1513-2">Yun Lin 0002</author>
+<author pid="20/9622">Qiang Yin</author>
+<author pid="34/209">Wen Hong</author>
+<title>An improved detection and feature retrieval method of anisotropic scattering for multi-aspect PolSAR data processing based on DRIA framework.</title>
+<pages>2368-2371</pages>
+<year>2016</year>
+<booktitle>IGARSS</booktitle>
+<ee>https://doi.org/10.1109/IGARSS.2016.7729611</ee>
+<crossref>conf/igarss/2016</crossref>
+<url>db/conf/igarss/igarss2016.html#Fei-tengYYQW16</url>
+</inproceedings>
+</r>
+<r><article key="journals/eswa/GaoQBYG12" mdate="2017-07-06">
+<author orcid="0000-0003-2266-7263" pid="16/722-2">Fei Gao 0002</author>
+<author pid="28/10695">Yibo Qi</author>
+<author pid="58/3918">Ilangko Balasingham</author>
+<author pid="20/9622">Qiang Yin</author>
+<author pid="89/10693">Hongrui Gao</author>
+<title>A Novel non-Lyapunov way for detecting uncertain parameters of chaos system with random noises.</title>
+<pages>1779-1783</pages>
+<year>2012</year>
+<volume>39</volume>
+<journal>Expert Syst. Appl.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1016/j.eswa.2011.08.076</ee>
+<url>db/journals/eswa/eswa39.html#GaoQBYG12</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEcca/ZengXDYLY11" mdate="2017-05-23">
+<author pid="80/1961">Wei Zeng</author>
+<author pid="09/3704">Bin Xian</author>
+<author pid="51/9704">Chen Diao</author>
+<author pid="20/9622">Qiang Yin</author>
+<author pid="17/10317">Haotao Li</author>
+<author pid="42/10316">Yungao Yang</author>
+<title>Nonlinear adaptive regulation control of a quadrotor unmanned aerial vehicle.</title>
+<pages>133-138</pages>
+<year>2011</year>
+<booktitle>CCA</booktitle>
+<ee>https://doi.org/10.1109/CCA.2011.6044449</ee>
+<crossref>conf/IEEEcca/2011</crossref>
+<url>db/conf/IEEEcca/IEEEcca2011.html#ZengXDYLY11</url>
+</inproceedings>
+</r>
+<coauthors n="18" nc="4">
+<co c="2"><na f="b/Balasingham:Ilangko" pid="58/3918">Ilangko Balasingham</na></co>
+<co c="0"><na f="d/Diao:Chen" pid="51/9704">Chen Diao</na></co>
+<co c="1"><na f="f/Fu:Wenxiang" pid="305/0262">Wenxiang Fu</na></co>
+<co c="2"><na f="g/Gao_0002:Fei" pid="16/722-2">Fei Gao 0002</na></co>
+<co c="2"><na f="g/Gao:Hongrui" pid="89/10693">Hongrui Gao</na></co>
+<co c="3"><na f="h/Hong:Wen" pid="34/209">Wen Hong</na></co>
+<co c="1"><na f="j/Jiao:Xiaotong" pid="346/7936">Xiaotong Jiao</na></co>
+<co c="0"><na f="l/Li:Haotao" pid="17/10317">Haotao Li</na></co>
+<co c="3"><na f="l/Li:Yang" pid="37/4190">Yang Li</na></co>
+<co c="3"><na f="l/Lin_0002:Yun" pid="77/1513-2">Yun Lin 0002</na></co>
+<co c="1"><na f="p/Peng:Haowei" pid="334/6584">Haowei Peng</na></co>
+<co c="2"><na f="q/Qi:Yibo" pid="28/10695">Yibo Qi</na></co>
+<co c="0"><na f="x/Xian:Bin" pid="09/3704">Bin Xian</na></co>
+<co c="3"><na f="x/Xue:Feiteng" pid="76/8969">Feiteng Xue</na></co>
+<co c="0"><na f="y/Yang:Yungao" pid="42/10316">Yungao Yang</na></co>
+<co c="1"><na f="y/Yu:Xiaomei" pid="48/6558">Xiaomei Yu</na></co>
+<co c="0"><na f="z/Zeng:Wei" pid="80/1961">Wei Zeng</na></co>
+<co c="1"><na f="z/Zhao:Lixiang" pid="263/0219">Lixiang Zhao</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<dblpperson name="Qingkai Zeng" pid="66/3005" n="9">
+<person publtype="disambiguation" key="homepages/66/3005" mdate="2023-01-05">
+<author pid="66/3005">Qingkai Zeng</author>
+</person>
+<homonyms n="2">
+<h f="z/Zeng_0001:Qingkai"><person key="homepages/66/3005-1" mdate="2022-12-19">
+<author pid="66/3005-1">Qingkai Zeng 0001</author>
+<note type="affiliation">University of Notre Dame, Notre Dame, IN, USA</note>
+<url>https://qingkaizeng.github.io/</url>
+<url>https://scholar.google.com/citations?user=7qiPINEAAAAJ</url>
+<url>https://dl.acm.org/profile/99659587820</url>
+<url>https://orcid.org/0000-0002-0858-937X</url>
+</person>
+</h>
+<h f="z/Zeng_0002:Qingkai"><person key="homepages/66/3005-2" mdate="2023-01-13">
+<author pid="66/3005-2">Qingkai Zeng 0002</author>
+<note type="affiliation">Nanjing University, Nanjing, China</note>
+<url>https://orcid.org/0000-0002-0610-1553</url>
+</person>
+</h>
+</homonyms>
+<r><article publtype="informal" key="journals/corr/abs-2402-04401" mdate="2024-03-14">
+<author pid="301/7706">Zhaoxuan Tan</author>
+<author pid="66/3005">Qingkai Zeng</author>
+<author pid="234/9123-1">Yijun Tian 0001</author>
+<author pid="367/9515">Zheyuan Liu 0011</author>
+<author pid="98/8323">Bing Yin</author>
+<author pid="69/339">Meng Jiang</author>
+<title>Democratizing Large Language Models via Personalized Parameter-Efficient Fine-tuning.</title>
+<year>2024</year>
+<volume>abs/2402.04401</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2402.04401</ee>
+<url>db/journals/corr/corr2402.html#abs-2402-04401</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2307-07951" mdate="2023-07-25">
+<author pid="226/6083">Zhenwen Liang</author>
+<author pid="136/8648-1">Dian Yu 0001</author>
+<author pid="148/9210">Xiaoman Pan</author>
+<author pid="203/8711">Wenlin Yao</author>
+<author pid="66/3005">Qingkai Zeng</author>
+<author pid="74/1890-1">Xiangliang Zhang 0001</author>
+<author pid="71/4598-1">Dong Yu 0001</author>
+<title>MinT: Boosting Generalization in Mathematical Reasoning via Multi-View Fine-Tuning.</title>
+<year>2023</year>
+<volume>abs/2307.07951</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2307.07951</ee>
+<url>db/journals/corr/corr2307.html#abs-2307-07951</url>
+</article>
+</r>
+<r><article key="journals/jcisd/ChenZWSH22" mdate="2023-01-31">
+<author orcid="0000-0003-1558-4398" pid="38/4520">Jianzhong Chen</author>
+<author pid="66/3005">Qingkai Zeng</author>
+<author pid="35/7092">Wei Wang</author>
+<author pid="81/6709">Haibo Sun</author>
+<author pid="54/8559">Guodong Hu</author>
+<title>Decoding the Identification Mechanism of an SAM-III Riboswitch on Ligands through Multiple Independent Gaussian-Accelerated Molecular Dynamics Simulations.</title>
+<pages>6118-6132</pages>
+<year>2022</year>
+<volume>62</volume>
+<journal>J. Chem. Inf. Model.</journal>
+<number>23</number>
+<ee>https://doi.org/10.1021/acs.jcim.2c00961</ee>
+<url>db/journals/jcisd/jcisd62.html#ChenZWSH22</url>
+</article>
+</r>
+<r><article key="journals/iet-cvi/ZhaoMFCZ18" mdate="2020-12-31">
+<author orcid="0000-0001-6629-5428" pid="197/2859">Xuepeng Zhao</author>
+<author pid="210/0390">Chunning Meng</author>
+<author pid="221/1295">Mingkui Feng</author>
+<author pid="16/6765">Shengjiang Chang</author>
+<author pid="66/3005">Qingkai Zeng</author>
+<title>Eye feature point detection based on single convolutional neural network.</title>
+<pages>453-457</pages>
+<year>2018</year>
+<volume>12</volume>
+<journal>IET Comput. Vis.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1049/iet-cvi.2017.0096</ee>
+<url>db/journals/iet-cvi/iet-cvi12.html#ZhaoMFCZ18</url>
+</article>
+</r>
+<r><inproceedings key="conf/cse/ZhangWYTZ14" mdate="2023-03-24">
+<author pid="74/1336">Yunong Zhang</author>
+<author pid="94/3104-31">Ying Wang 0031</author>
+<author pid="119/0912">Yonghua Yin</author>
+<author orcid="0000-0002-5214-997X" pid="136/7718">Hongzhou Tan</author>
+<author pid="66/3005">Qingkai Zeng</author>
+<title>Theory and Substantiation of z0g1 Controller Conquering Singularity Problem of Output Tracking for a Class of Nonlinear System.</title>
+<pages>83-88</pages>
+<year>2014</year>
+<booktitle>CSE</booktitle>
+<ee>https://doi.org/10.1109/CSE.2014.49</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CSE.2014.49</ee>
+<crossref>conf/cse/2014</crossref>
+<url>db/conf/cse/cse2014.html#ZhangWYTZ14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/ZhangZH10" mdate="2010-11-29">
+<author pid="36/5594">Zhi Zhang</author>
+<author pid="66/3005">Qingkai Zeng</author>
+<author pid="05/6957">Ming Huang</author>
+<title>Some Improvements for More Precise Model Checking.</title>
+<pages>106-112</pages>
+<year>2010</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2010</crossref>
+<url>db/conf/seke/seke2010.html#ZhangZH10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/HuangLZ10" mdate="2010-11-29">
+<author pid="05/6957">Ming Huang</author>
+<author pid="53/8765">Yisha Lu</author>
+<author pid="66/3005">Qingkai Zeng</author>
+<title>Towards a Structured Model for Software Vulnerabilities.</title>
+<pages>543-547</pages>
+<year>2010</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2010</crossref>
+<url>db/conf/seke/seke2010.html#HuangLZ10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nss/LiZ09" mdate="2023-03-23">
+<author pid="80/43">Qin Li</author>
+<author pid="66/3005">Qingkai Zeng</author>
+<title>A Security Calculus of Concurrent Objects for Verifying Ad Hoc Network Protocols.</title>
+<pages>232-239</pages>
+<year>2009</year>
+<booktitle>NSS</booktitle>
+<ee>https://doi.org/10.1109/NSS.2009.12</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/NSS.2009.12</ee>
+<crossref>conf/nss/2009</crossref>
+<url>db/conf/nss/nss2009.html#LiZ09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ispa/ChenGZC04" mdate="2022-04-09">
+<author pid="60/3418">YueQuan Chen</author>
+<author pid="85/3289">Xiaofeng Guo</author>
+<author pid="66/3005">Qingkai Zeng</author>
+<author orcid="0000-0002-6934-1685" pid="51/1742">Guihai Chen</author>
+<title>An Adaptive Routing Strategy Based on Dynamic Cache in Mobile Ad Hoc Networks.</title>
+<pages>357-366</pages>
+<ee>https://doi.org/10.1007/978-3-540-30566-8_43</ee>
+<year>2004</year>
+<crossref>conf/ispa/2004</crossref>
+<booktitle>ISPA</booktitle>
+<url>db/conf/ispa/ispa2004.html#ChenGZC04</url>
+</inproceedings>
+</r>
+<coauthors n="30" nc="4">
+<co c="1"><na f="c/Chang:Shengjiang" pid="16/6765">Shengjiang Chang</na></co>
+<co c="3"><na f="c/Chen:Guihai" pid="51/1742">Guihai Chen</na></co>
+<co c="0"><na f="c/Chen:Jianzhong" pid="38/4520">Jianzhong Chen</na></co>
+<co c="3"><na f="c/Chen:YueQuan" pid="60/3418">YueQuan Chen</na></co>
+<co c="1"><na f="f/Feng:Mingkui" pid="221/1295">Mingkui Feng</na></co>
+<co c="3"><na f="g/Guo:Xiaofeng" pid="85/3289">Xiaofeng Guo</na></co>
+<co c="0"><na f="h/Hu:Guodong" pid="54/8559">Guodong Hu</na></co>
+<co c="0"><na f="h/Huang:Ming" pid="05/6957">Ming Huang</na></co>
+<co c="0"><na f="j/Jiang:Meng" pid="69/339">Meng Jiang</na></co>
+<co c="0"><na f="l/Li:Qin" pid="80/43">Qin Li</na></co>
+<co c="0"><na f="l/Liang:Zhenwen" pid="226/6083">Zhenwen Liang</na></co>
+<co c="0"><na f="l/Liu_0011:Zheyuan" pid="367/9515">Zheyuan Liu 0011</na></co>
+<co c="0"><na f="l/Lu:Yisha" pid="53/8765">Yisha Lu</na></co>
+<co c="1"><na f="m/Meng:Chunning" pid="210/0390">Chunning Meng</na></co>
+<co c="0"><na f="p/Pan:Xiaoman" pid="148/9210">Xiaoman Pan</na></co>
+<co c="0"><na f="s/Sun:Haibo" pid="81/6709">Haibo Sun</na></co>
+<co c="2"><na f="t/Tan:Hongzhou" pid="136/7718">Hongzhou Tan</na></co>
+<co c="0"><na f="t/Tan:Zhaoxuan" pid="301/7706">Zhaoxuan Tan</na></co>
+<co c="0"><na f="t/Tian_0001:Yijun" pid="234/9123-1">Yijun Tian 0001</na></co>
+<co c="0"><na f="w/Wang:Wei" pid="35/7092">Wei Wang</na></co>
+<co c="2"><na f="w/Wang_0031:Ying" pid="94/3104-31">Ying Wang 0031</na></co>
+<co c="0"><na f="y/Yao:Wenlin" pid="203/8711">Wenlin Yao</na></co>
+<co c="0"><na f="y/Yin:Bing" pid="98/8323">Bing Yin</na></co>
+<co c="2"><na f="y/Yin:Yonghua" pid="119/0912">Yonghua Yin</na></co>
+<co c="0"><na f="y/Yu_0001:Dian" pid="136/8648-1">Dian Yu 0001</na></co>
+<co c="0"><na f="y/Yu_0001:Dong" pid="71/4598-1">Dong Yu 0001</na></co>
+<co c="0"><na f="z/Zhang_0001:Xiangliang" pid="74/1890-1">Xiangliang Zhang 0001</na></co>
+<co c="2"><na f="z/Zhang:Yunong" pid="74/1336">Yunong Zhang</na></co>
+<co c="0"><na f="z/Zhang:Zhi" pid="36/5594">Zhi Zhang</na></co>
+<co c="1"><na f="z/Zhao:Xuepeng" pid="197/2859">Xuepeng Zhao</na></co>
+</coauthors>
+</dblpperson>
+
