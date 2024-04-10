@@ -35,7 +35,7 @@ junhao gan,australia,university of melbourne,https://dblp.org/pers/g/Gan:Junhao.
 jianmin wang,china,"tsinghua university, china",https://dblp.org/pers/hd/w/Wang_0001:Jianmin,06-3456-1,https://dblp.org/pid/06/3456-1.html,5
 james cheng,hong kong sar,chinese university of hong kong,https://dblp.uni-trier.de/pers/c/Cheng:James.html,06-4171,https://dblp.uni-trier.de/pid/06/4171.html,9
 xiangnan kong,united states,worcester polytechnic institute,https://dblp.org/pers/k/Kong:Xiangnan.html,06-8315,https://dblp.org/pid/06/8315.html,7
-vijay gabale,india,"{'huew', 'infilect technologies pvt. ltd.'}",https://dblp.org/pid/06/8397.html,06-8397,https://dblp.org/pid/06/8397.html,2
+vijay gabale,india,"{'infilect technologies pvt. ltd.', 'huew'}",https://dblp.org/pid/06/8397.html,06-8397,https://dblp.org/pid/06/8397.html,2
 saptarshi ghosh,india,indian institute of technology kharagpur,https://dblp.uni-trier.de/pers/hd/g/Ghosh_0001:Saptarshi,06-900-1,https://dblp.uni-trier.de/pid/06/900-1.html,4
 jarek szlichta,canada,ontario tech,https://dblp.org/pid/06/9379.html,06-9379,https://dblp.org/pid/06/9379.html,9
 yingjun wu,united states,amazon web services,https://dblp.org/pid/07/11533.html,07-11533,https://dblp.org/pid/07/11533.html,2
@@ -45,7 +45,7 @@ udo kruschwitz,germany,university of regensburg,https://dblp.uni-trier.de/pers/k
 nishant sinha,india,offnote labs,https://dblp.org/pers/hd/s/Sinha_0001:Nishant,07-201-1,https://dblp.org/pid/07/201-1.html,5
 xiang zhao,china,national university of defence technology,https://dblp.org/pers/hd/z/Zhao_0002:Xiang,07-668-2,https://dblp.org/pid/07/668-2.html,2
 joao magalhaes,portugal,universidade nova de lisboa,https://dblp.uni-trier.de/pers/m/Magalh=atilde=es:Jo=atilde=o.html,08-1790,https://dblp.uni-trier.de/pid/08/1790.html,4
-holger pirk,"{'united states', 'united kingdom'}","{'mit', 'imperial college', 'imperial college, uk'}",https://dblp.org/pid/08/3969.html,08-3969,https://dblp.org/pid/08/3969.html,7
+holger pirk,"{'united kingdom', 'united states'}","{'imperial college', 'imperial college, uk', 'mit'}",https://dblp.org/pid/08/3969.html,08-3969,https://dblp.org/pid/08/3969.html,7
 chang-tien lu,united states,virginia tech,https://dblp.uni-trier.de/pers/l/Lu:Chang=Tien.html,08-4367,https://dblp.uni-trier.de/pid/08/4367.html,8
 jia zou,united states,asu,https://dblp.org/pid/08/4537.html,08-4537,https://dblp.org/pid/08/4537.html,3
 panagiotis karras,denmark,"{'aarhus university', 'aalborg university'}",https://dblp.uni-trier.de/pers/k/Karras:Panagiotis.html,08-5342,https://dblp.uni-trier.de/pid/08/5342.html,1
@@ -57,7 +57,7 @@ lipika dey,india,tcs innovation lab delhi,https://dblp.org/pers/d/Dey:Lipika.htm
 chi wang,united states,microsoft research,https://dblp.uni-trier.de/pid/09/404-1.html,09-404-1,https://dblp.uni-trier.de/pid/09/404-1.html,6
 jorge arnulfo quiane ruiz,germany,tu berlin,https://dblp.org/pers/q/Quian=eacute==Ruiz:Jorge=Arnulfo.html,09-6353,https://dblp.org/pid/09/6353.html,6
 marwan hassani,netherlands,eindhoven university of technology,https://dblp.org/pers/h/Hassani:Marwan.html,09-7444,https://dblp.org/pid/09/7444.html,10
-viktor leis,germany,"{'technische universitt mnchen', 'friedrich schiller university jena', 'friedrich-alexander-universitat erlangen-narnberg'}",https://dblp.org/pid/10/11150.html,10-11150,https://dblp.org/pid/10/11150.html,4
+viktor leis,germany,"{'friedrich-alexander-universitat erlangen-narnberg', 'friedrich schiller university jena', 'technische universitt mnchen'}",https://dblp.org/pid/10/11150.html,10-11150,https://dblp.org/pid/10/11150.html,4
 xin wang,united states,suny stonybrook,https://dblp.org/pid/10/5630-1.html,10-5630-1,https://dblp.org/pid/10/5630-1.html,6
 michael gubanov,united states,florida state university,https://dblp.org/pers/g/Gubanov:Michael_N=.html,10-5842,https://dblp.org/pid/10/5842.html,2
 tilmann rabl,germany,hpi,https://dblp.org/pers/r/Rabl:Tilmann.html,10-760,https://dblp.org/pid/10/760.html,10
@@ -141,10 +141,10 @@ mostafa milani,canada,the university of western ontario,https://dblp.org/pid/139
 matteo lissandrini,denmark,aalborg university,https://dblp.org/pers/l/Lissandrini:Matteo.html,139-1128,https://dblp.org/pid/139/1128.html,7
 sandipan sikdar,germany,rwth aachen university,https://dblp.org/pid/139/2312.html,139-2312,https://dblp.org/pid/139/2312.html,9
 julien romero,france,"ltci, tlcom paris, institut polytechnique de paris",https://dblp.org/pers/hd/r/Romero:Julian,139-7506,https://dblp.org/pid/139/7506.html,7
-subarna chatterjee,united states,"{'harvard university, usa', 'harvard university'}",https://dblp.org/pid/139/7927.html,139-7927,https://dblp.org/pid/139/7927.html,1
+subarna chatterjee,united states,"{'harvard university', 'harvard university, usa'}",https://dblp.org/pid/139/7927.html,139-7927,https://dblp.org/pid/139/7927.html,1
 yuanyuan zhu,china,wuhan university,https://dblp.org/pid/14/10147.html,14-10147,https://dblp.org/pid/14/10147.html,1
 jithin vachery,"{'india', 'singapore'}","{'iit madras', 'nus'}",https://dblp.org/pid/14/10827.html,14-10827,https://dblp.org/pid/14/10827.html,9
-chengkai li,united states,"{'ut arlington', 'the university of texas at arlington'}",https://dblp.org/pid/14/3692.html,14-3692,https://dblp.org/pid/14/3692.html,9
+chengkai li,united states,"{'the university of texas at arlington', 'ut arlington'}",https://dblp.org/pid/14/3692.html,14-3692,https://dblp.org/pid/14/3692.html,9
 filip murlak,poland,"university of warsaw, poland",https://dblp.org/pers/m/Murlak:Filip.html,14-4251,https://dblp.org/pid/14/4251.html,4
 zhipeng cai,united states,georgia state university,https://dblp.org/pid/14/5155-1.html,14-5155-1,https://dblp.org/pid/14/5155-1.html,9
 davide martinenghi,italy,politecnico di milano,https://dblp.org/pid/14/6896.html,14-6896,https://dblp.org/pid/14/6896.html,3
@@ -217,7 +217,7 @@ weizhi ma,china,tsinghua university,https://dblp.org/pers/m/Ma:Weizhi.html,169-1
 kangfei zhao,hong kong sar,the chinese university of hong kong,https://dblp.org/pid/169/1501.html,169-1501,https://dblp.org/pid/169/1501.html,7
 qingyao ai,united states,university of utah,https://dblp.uni-trier.de/pers/hd/a/Ai:Qingyao,169-1808,https://dblp.uni-trier.de/pid/169/1808.html,2
 kaiping zheng,singapore,national university of singapore,https://dblp.org/pid/169/3246.html,169-3246,https://dblp.org/pid/169/3246.html,8
-zhongle xie,china,"{'nus ai innovation and commercialisation center', 'zhejiang university'}",https://dblp.org/pid/169/3419.html,169-3419,https://dblp.org/pid/169/3419.html,1
+zhongle xie,china,"{'zhejiang university', 'nus ai innovation and commercialisation center'}",https://dblp.org/pid/169/3419.html,169-3419,https://dblp.org/pid/169/3419.html,1
 zhaojing luo,singapore,national university of singapore,https://dblp.org/pid/169/3426.html,169-3426,https://dblp.org/pid/169/3426.html,9
 riccardo tommasini,estonia,university of tartu,https://dblp.org/pid/169/8184.html,169-8184,https://dblp.org/pid/169/8184.html,9
 nikos giatrakos,greece,technical university of crete,https://dblp.org/pid/17/1242.html,17-1242,https://dblp.org/pid/17/1242.html,2
@@ -243,7 +243,7 @@ andreas zufle,united states,george mason university,https://dblp.org/pid/18/2478
 chao huang,china,university of notre dame,https://dblp.org/pid/18/4087-1.html,18-4087-1,https://dblp.org/pid/18/4087-1.html,8
 peixiang zhao,united states,"{'florida state univ', 'florida state university'}",https://dblp.org/pers/z/Zhao:Peixiang.html,18-4350,https://dblp.org/pid/18/4350.html,6
 lucas lersch,germany,amazon web services,https://dblp.org/pid/180/3171.html,180-3171,https://dblp.org/pid/180/3171.html,8
-brandon haynes,united states,"{'ms jim gray', 'gray systems lab, microsoft'}",https://dblp.org/pid/180/5761.html,180-5761,https://dblp.org/pid/180/5761.html,1
+brandon haynes,united states,"{'gray systems lab, microsoft', 'ms jim gray'}",https://dblp.org/pid/180/5761.html,180-5761,https://dblp.org/pid/180/5761.html,1
 jian tang,canada,hec montreal & mila,https://dblp.org/pers/hd/t/Tang_0005:Jian,181-2667-5,https://dblp.org/pid/181/2667-5.html,8
 qi li,china,tsinghua university,https://dblp.org/pid/181/2688-2.html,181-2688-2,https://dblp.org/pid/181/2688-2.html,4
 qing li,hong kong sar,the hong kong polytechnic university,https://dblp.org/pid/181/2689-1.html,181-2689-1,https://dblp.org/pid/181/2689-1.html,1
@@ -259,7 +259,7 @@ harika abburi,india,iiit hyderabad,https://dblp.org/pid/184/2150.html,184-2150,h
 manuel ciosici,united states,information sciences institute,https://dblp.org/pers/c/Ciosici:Manuel_R=.html,185-1013,https://dblp.org/pid/185/1013.html,2
 brit youngmann,united states,mit,https://dblp.org/pid/185/4349.html,185-4349,https://dblp.org/pid/185/4349.html,2
 remy wang,united states,u of washington,https://dblp.org/pid/185/9964.html,185-9964,https://dblp.org/pid/185/9964.html,2
-mayukh das,"{'united states', 'india'}","{'university of texas at dalas', 'microsoft research lab, india'}",https://dblp.org/pid/186/1469.html,186-1469,https://dblp.org/pid/186/1469.html,6
+mayukh das,"{'india', 'united states'}","{'microsoft research lab, india', 'university of texas at dalas'}",https://dblp.org/pid/186/1469.html,186-1469,https://dblp.org/pid/186/1469.html,6
 pranay lohia,india,ibm research ai,https://dblp.org/pid/188/6387.html,188-6387,https://dblp.org/pid/188/6387.html,3
 pranav maneriker,united states,the ohio state university,https://dblp.org/pid/188/7008.html,188-7008,https://dblp.org/pid/188/7008.html,9
 nikita bhutani,united states,megagon labs,https://dblp.org/pid/188/9073.html,188-9073,https://dblp.org/pid/188/9073.html,4
@@ -295,7 +295,7 @@ qiang yin,china,alibaba group,https://dblp.org/pers/y/Yin:Qiang.html,20-9622,htt
 michael mior,united states,"{'rit', 'rochester institute of technology'}",https://dblp.org/pid/20/9709.html,20-9709,https://dblp.org/pid/20/9709.html,1
 morakot choetkiertikul,thailand,mahidol university,https://dblp.org/pid/20/9870.html,20-9870,https://dblp.org/pid/20/9870.html,5
 behrooz omidvar-tehrani,united states,amazon,https://dblp.org/pid/200/8321.html,200-8321,https://dblp.org/pid/200/8321.html,6
-madhulika mohanty,"{'france', 'india'}","{'iit delhi', 'inria saclay'}",https://dblp.org/pid/200/8759.html,200-8759,https://dblp.org/pid/200/8759.html,3
+madhulika mohanty,"{'india', 'france'}","{'iit delhi', 'inria saclay'}",https://dblp.org/pid/200/8759.html,200-8759,https://dblp.org/pid/200/8759.html,3
 luis espinosa,spain,university of alicante,https://dblp.org/pers/hd/e/Espinosa:Luis,201-1097,https://dblp.org/pid/201/1097.html,9
 ganesh jawahar,france,inria,https://dblp.org/pers/j/Jawahar:Ganesh.html,203-9710,https://dblp.org/pid/203/9710.html,5
 renqin cai,united states,university of virginia,https://dblp.org/pers/c/Cai:Renqin.html,204-0158,https://dblp.org/pid/204/0158.html,8
@@ -376,7 +376,7 @@ yi chang,united states,"school of artificial intelligence, jilin university, chi
 catarina moreira,australia,queensland university of technology,https://dblp.org/pid/28/10108.html,28-10108,https://dblp.org/pid/28/10108.html,4
 weinan zhang,china,harbin institute of technology,https://dblp.org/pers/hd/z/Zhang_0003:Weinan,28-10261-3,https://dblp.org/pid/28/10261-3.html,2
 paolo missier,united kingdom,newcastle university,https://dblp.org/pid/28/1062.html,28-1062,https://dblp.org/pid/28/1062.html,10
-stijn vansummeren,belgium,"{'hasselt university', 'ulb'}",https://dblp.uni-trier.de/pid/28/3797.html,28-3797,https://dblp.uni-trier.de/pid/28/3797.html,3
+stijn vansummeren,belgium,"{'ulb', 'hasselt university'}",https://dblp.uni-trier.de/pid/28/3797.html,28-3797,https://dblp.uni-trier.de/pid/28/3797.html,3
 jae-gil lee,south korea,kaist,https://dblp.org/pers/hd/l/Lee_0001:Jae=Gil,28-3904,https://dblp.org/pid/28/3904.html,1
 xi he,canada,university of waterloo,https://dblp.org/pid/28/949-1.html,28-949-1,https://dblp.org/pid/28/949-1.html,8
 anna fariha,united states,"{'microsoft', 'university of massachusetts amherst'}",https://dblp.org/pid/29/11192.html,29-11192,https://dblp.org/pid/29/11192.html,3
@@ -391,7 +391,7 @@ weiwei gong,united states,oracle,https://dblp.org/pid/30/841.html,30-841,https:/
 jianfei yu,singapore,singapore management university,https://dblp.org/pers/y/Yu:Jianfei.html,30-9823,https://dblp.org/pid/30/9823.html,5
 tanuja ganu,india,microsoft research,https://dblp.org/pers/g/Ganu:Tanuja.html,31-11538,https://dblp.org/pid/31/11538.html,1
 michael carey,united states,uc irvine,https://dblp.org/pid/31/3455.html,31-3455,https://dblp.org/pid/31/3455.html,10
-entong shen,united states,"{'databricks', 'amazon web services'}",https://dblp.org/pid/31/9364.html,31-9364,https://dblp.org/pid/31/9364.html,10
+entong shen,united states,"{'amazon web services', 'databricks'}",https://dblp.org/pid/31/9364.html,31-9364,https://dblp.org/pid/31/9364.html,10
 dwaipayan roy,india,gesis - leibniz institute for the social sciences,https://dblp.org/pers/r/Roy:Dwaipayan.html,315-0861,https://dblp.org/pid/315/0861.html,1
 george papadakis,greece,university of athens,https://dblp.org/pid/32/1624.html,32-1624,https://dblp.org/pid/32/1624.html,2
 yinghui wu,united states,"{'case western reserve', 'washington state university'}",https://dblp.uni-trier.de/pid/32/6122.html,32-6122,https://dblp.uni-trier.de/pid/32/6122.html,6
@@ -404,7 +404,7 @@ huan sun,united states,the ohio state university,https://dblp.org/pid/33/2952.ht
 gao cong,singapore,nanyang technological univesity,https://dblp.org/pers/c/Cong:Gao.html,33-3180,https://dblp.org/pid/33/3180.html,6
 biplav srivastava,united states,ibm,https://dblp.org/pers/s/Srivastava:Biplav.html,33-4411,https://dblp.org/pid/33/4411.html,7
 yue wang,china,shenzhen institute of computing sciencesishenzhen university,https://dblp.org/pid/33/4822-12.html,33-4822-12,https://dblp.org/pid/33/4822-12.html,3
-ye yuan,china,beijing institute of technology,"{'https://dblp.org/pid/33/6315-1.html', 'https://dblp.uni-trier.de/pid/33/6315-1.html'}",33-6315-1,https://dblp.org/pid/33/6315-1.html,10
+ye yuan,china,beijing institute of technology,"{'https://dblp.uni-trier.de/pid/33/6315-1.html', 'https://dblp.org/pid/33/6315-1.html'}",33-6315-1,https://dblp.org/pid/33/6315-1.html,10
 donghyun kim,united states,yahoo! research,https://dblp.uni-trier.de/pers/hd/k/Kim:Donghyun,33-6749,https://dblp.uni-trier.de/pid/33/6749.html,3
 himanshu gupta,india,ibm india research laboratory,https://dblp.org/pers/g/Gupta:Himanshu.html,330-0760,https://dblp.org/pid/330/0760.html,5
 farnoush banaei-kashani,united states,university of colorado-denver,https://dblp.org/pid/34/508.html,34-508,https://dblp.org/pid/34/508.html,6
@@ -455,7 +455,7 @@ giorgos giannopoulos,greece,athena research,https://dblp.org/pid/42/4419.html,42
 kang liu,china,"national laboratory of pattern recognition,institute of automation, chinese academy of sciences",https://dblp.org/pers/hd/l/Liu_0001:Kang,42-4903,https://dblp.org/pid/42/4903.html,10
 vagelis hristidis,united states,uc riverside,https://dblp.org/pers/h/Hristidis:Vagelis.html,42-5855,https://dblp.org/pid/42/5855.html,2
 muhammad abulaish,india,south asian university,https://dblp.uni-trier.de/pers/a/Abulaish:Muhammad.html,42-904,https://dblp.uni-trier.de/pid/42/904.html,3
-"{'yi ke', 'ke yi'}",hong kong sar,"{'hong kong university of science and technology, hong kong', 'hong kong univ. of science and technology'}",https://dblp.org/pid/43/1219-1.html,43-1219-1,https://dblp.org/pid/43/1219-1.html,2
+"{'yi ke', 'ke yi'}",hong kong sar,"{'hong kong univ. of science and technology', 'hong kong university of science and technology, hong kong'}",https://dblp.org/pid/43/1219-1.html,43-1219-1,https://dblp.org/pid/43/1219-1.html,2
 jennie rogers,united states,northwestern university,https://dblp.uni-trier.de/pers/hd/r/Rogers:Jennie,43-2286,https://dblp.uni-trier.de/pid/43/2286.html,3
 shivali agarwal,india,"ibm, india research lab",https://dblp.org/pers/a/Agarwal:Shivali.html,43-5188,https://dblp.org/pid/43/5188.html,7
 jianhua feng,china,tsinghua university,https://dblp.org/pid/43/6576.html,43-6576,https://dblp.org/pid/43/6576.html,1
@@ -469,7 +469,7 @@ peter pietzuch,united kingdom,imperial college london,https://dblp.org/pid/45/48
 weiren yu,united kingdom,university of warwick,https://dblp.org/pers/y/Yu:Weiren.html,45-8097,https://dblp.org/pid/45/8097.html,9
 sumio fujita,japan,yahoo!japan research,https://dblp.uni-trier.de/pers/f/Fujita:Sumio.html,46-1330,https://dblp.uni-trier.de/pid/46/1330.html,7
 mohammed eunus ali,bangladesh,bangladesh university of engineering and technology (buet),https://dblp.org/pers/a/Ali:Mohammed_Eunus.html,46-2884,https://dblp.org/pid/46/2884.html,4
-bolin ding,"{'united states', 'china'}","{'microsoft research', 'data analytics and intelligence lab, alibaba group'}",https://dblp.org/pers/d/Ding:Bolin.html,46-3522,https://dblp.org/pid/46/3522.html,10
+bolin ding,"{'china', 'united states'}","{'microsoft research', 'data analytics and intelligence lab, alibaba group'}",https://dblp.org/pers/d/Ding:Bolin.html,46-3522,https://dblp.org/pid/46/3522.html,10
 maunendra sankar desarkar,india,"iit hyderabad, india",https://dblp.org/pers/d/Desarkar:Maunendra_Sankar.html,46-8779,https://dblp.org/pid/46/8779.html,5
 gregory grefenstette,france,"ihmc and biggerpan, inc",https://dblp.uni-trier.de/pers/g/Grefenstette:Gregory.html,46-968,https://dblp.uni-trier.de/pid/46/968.html,2
 lijun chang,australia,the university of sydney,https://dblp.uni-trier.de/pers/c/Chang:Lijun.html,47-179,https://dblp.uni-trier.de/pid/47/179.html,8
@@ -487,7 +487,7 @@ yinan li,united states,microsoft research,https://dblp.uni-trier.de/pers/l/Li:Yi
 ge yu,china,neu,https://dblp.org/pid/49/6363.html,49-6363,https://dblp.org/pid/49/6363.html,3
 mohamed  y. eltabakh,united states,worcester polytechnic institute,https://dblp.org/pid/49/6395.html,49-6395,https://dblp.org/pid/49/6395.html,4
 weize kong,united states,university of massachusetts amherst,https://dblp.org/pers/k/Kong:Weize.html,49-8024,https://dblp.org/pid/49/8024.html,2
-"{'paris koutris', 'paraschos koutris'}",united states,"{'u. of wisconsin', 'university of wisconsin-madison'}","{'https://dblp.org/pid/49/8316.html', 'https://dblp.org/pers/k/Koutris:Paraschos.html'}",49-8316,https://dblp.org/pid/49/8316.html,1
+"{'paraschos koutris', 'paris koutris'}",united states,"{'university of wisconsin-madison', 'u. of wisconsin'}","{'https://dblp.org/pid/49/8316.html', 'https://dblp.org/pers/k/Koutris:Paraschos.html'}",49-8316,https://dblp.org/pid/49/8316.html,1
 zsolt istvan,germany,tu darmstadt,https://dblp.org/pid/50/10703.html,50-10703,https://dblp.org/pid/50/10703.html,7
 bo li,hong kong sar,hkust,https://dblp.org/pid/50/3402-1.html,50-3402-1,https://dblp.org/pid/50/3402-1.html,8
 quanquan gu,united states,university of virginia,https://dblp.org/pers/g/Gu:Quanquan.html,50-4597,https://dblp.org/pid/50/4597.html,7
@@ -501,7 +501,7 @@ fei sun,china,alibaba group,https://dblp.org/pid/51/394-1.html,51-394-1,https://
 lu qin,australia,uts,https://dblp.org/pid/51/5585.html,51-5585,https://dblp.org/pid/51/5585.html,1
 rui mao,china,shenzhen university,https://dblp.org/pid/51/5793.html,51-5793,https://dblp.org/pid/51/5793.html,1
 bernadete loscio,brazil,universidade federal de pernambuco,https://dblp.org/pid/51/6689.html,51-6689,https://dblp.org/pid/51/6689.html,4
-karthik ramachandra,india,"{'microsoft', 'microsoft research'}",https://dblp.uni-trier.de/pid/51/792-2.html,51-792-2,https://dblp.uni-trier.de/pid/51/792-2.html,9
+karthik ramachandra,india,"{'microsoft research', 'microsoft'}",https://dblp.uni-trier.de/pid/51/792-2.html,51-792-2,https://dblp.uni-trier.de/pid/51/792-2.html,9
 yingyi bu,united states,google,https://dblp.org/pers/b/Bu:Yingyi.html,52-1382,https://dblp.org/pid/52/1382.html,6
 periklis andritsos,canada,university of toronto,https://dblp.org/pid/52/1486.html,52-1486,https://dblp.org/pid/52/1486.html,3
 yuliang li,united states,megagon labs,https://dblp.org/pid/52/4954-1.html,52-4954-1,https://dblp.org/pid/52/4954-1.html,1
@@ -510,7 +510,7 @@ niloy ganguly,india,indian institute of technology kharagpur,https://dblp.org/pe
 xin zhao,china,"renmin university of china, school of information",https://dblp.uni-trier.de/pers/z/Zhao:Wayne_Xin.html,52-8700,https://dblp.uni-trier.de/pid/52/8700.html,3
 chenliang li,china,wuhan university,https://dblp.org/pers/l/Li:Chenliang.html,52-9457,https://dblp.org/pid/52/9457.html,9
 omar chowdhury,united states,university of iowa,https://dblp.org/pid/53/7986.html,53-7986,https://dblp.org/pid/53/7986.html,7
-david koop,united states,"{'northern illinois university', 'u mass dartmouth'}",https://dblp.org/pid/54/1720.html,54-1720,https://dblp.org/pid/54/1720.html,4
+david koop,united states,"{'u mass dartmouth', 'northern illinois university'}",https://dblp.org/pid/54/1720.html,54-1720,https://dblp.org/pid/54/1720.html,4
 gautam shroff,india,"tcs research, tata consultancy services",https://dblp.org/pers/hd/s/Shroff:Gautam_M=,54-3265,https://dblp.org/pid/54/3265.html,3
 anirban dasgupta,india,"{'iitgn', 'iit gandhinagar'}",https://dblp.org/pid/54/385-1.html,54-385-1,https://dblp.org/pid/54/385-1.html,10
 eser kandogan,united states,megagon labs,https://dblp.org/pid/54/6752.html,54-6752,https://dblp.org/pid/54/6752.html,5
@@ -522,13 +522,13 @@ emmanuel muller,germany,"{'hasso plattner institute', 'b-it, data science and da
 mahardhika pratama,singapore,nanyang technological university,https://dblp.org/pers/p/Pratama:Mahardhika.html,55-9613,https://dblp.org/pid/55/9613.html,4
 keping bi,united states,university of massachusetts amherst,https://dblp.org/pers/b/Bi:Keping.html,56-10886,https://dblp.org/pid/56/10886.html,5
 yin yang,qatar,hamad bin khalifa university,https://dblp.org/pid/56/2998-1.html,56-2998-1,https://dblp.org/pid/56/2998-1.html,7
-ramasuri narayanam,india,"{'ibm irl', 'ibm research - india'}",https://dblp.org/pers/n/Narayanam:Ramasuri.html,56-3378,https://dblp.org/pid/56/3378.html,9
+ramasuri narayanam,india,"{'ibm research - india', 'ibm irl'}",https://dblp.org/pers/n/Narayanam:Ramasuri.html,56-3378,https://dblp.org/pid/56/3378.html,9
 maurizio  hernandez,united states,ibm,https://dblp.org/pid/56/451.html,56-451,https://dblp.org/pid/56/451.html,7
 vishwa vinay,india,adobe research,https://dblp.org/pid/56/4585.html,56-4585,https://dblp.org/pid/56/4585.html,5
 lina yao,australia,the university of new south wales,https://dblp.org/pid/56/6651.html,56-6651,https://dblp.org/pid/56/6651.html,10
-mohammad sadoghi,united states,"{'uc davis', 'university of california, davis'}",https://dblp.org/pid/56/7016.html,56-7016,https://dblp.org/pid/56/7016.html,10
+mohammad sadoghi,united states,"{'university of california, davis', 'uc davis'}",https://dblp.org/pid/56/7016.html,56-7016,https://dblp.org/pid/56/7016.html,10
 tingwen liu,china,"institute of information engineering, chinese academy of sciences",https://dblp.org/pers/l/Liu:Tingwen.html,56-7911,https://dblp.org/pid/56/7911.html,7
-saravanan thirumuruganathan,qatar,"{'qcri, hbku', 'qcri'}",https://dblp.org/pid/57/10514.html,57-10514,https://dblp.org/pid/57/10514.html,10
+saravanan thirumuruganathan,qatar,"{'qcri', 'qcri, hbku'}",https://dblp.org/pid/57/10514.html,57-10514,https://dblp.org/pid/57/10514.html,10
 chuan xiao,japan,osaka university & nagoya university,https://dblp.uni-trier.de/pid/57/4384-1.html,57-4384-1,https://dblp.uni-trier.de/pid/57/4384-1.html,5
 nikos bikakis,greece,athena research center,https://dblp.org/pid/57/7247.html,57-7247,https://dblp.org/pid/57/7247.html,3
 cheng long,singapore,nanyang technological university,https://dblp.org/pers/l/Long:Cheng.html,58-10813,https://dblp.org/pid/58/10813.html,7
@@ -604,7 +604,7 @@ pengfei duan,china,wuhan university of technology,https://dblp.org/pers/d/Duan:P
 mayuresh  prakash kunjir,qatar,"qatar computing research institute, hbku",https://dblp.org/pid/71/11498.html,71-11498,https://dblp.org/pid/71/11498.html,7
 sambuddha roy,india,,https://dblp.uni-trier.de/pers/r/Roy:Sambuddha.html,71-1647,https://dblp.uni-trier.de/pid/71/1647.html,9
 philippe cudre-mauroux,switzerland,university of fribourg,https://dblp.org/pers/c/Cudr=eacute==Mauroux:Philippe.html,71-5578,https://dblp.org/pid/71/5578.html,10
-sudipto das,united states,"{'microsoft research', 'amazon web services'}",https://dblp.org/pers/d/Das:Sudipto.html,71-5974,https://dblp.org/pid/71/5974.html,8
+sudipto das,united states,"{'amazon web services', 'microsoft research'}",https://dblp.org/pers/d/Das:Sudipto.html,71-5974,https://dblp.org/pid/71/5974.html,8
 olga poppe,united states,microsoft,https://dblp.org/pid/71/7422.html,71-7422,https://dblp.org/pid/71/7422.html,6
 dong deng,united states,"{'rutgers university', 'rutgers universituy - new brunswick'}",https://dblp.org/pid/71/8700-1.html,71-8700-1,https://dblp.org/pid/71/8700-1.html,8
 megha khosla,germany,"l3s research center, leibniz university",https://dblp.org/pid/71/9649.html,71-9649,https://dblp.org/pid/71/9649.html,5
@@ -629,7 +629,7 @@ richa singh,india,iit jodhpur,https://dblp.org/pers/hd/s/Singh_0001:Richa,75-351
 amitava das,india,"indian institute of information technoogy, sri city",https://dblp.org/pid/75/5002.html,75-5002,https://dblp.org/pid/75/5002.html,2
 oliver kennedy,united states,"university at buffalo, suny",https://dblp.uni-trier.de/pers/k/Kennedy:Oliver.html,75-5478,https://dblp.uni-trier.de/pid/75/5478.html,3
 hai-tao yu,japan,university of tsukuba,https://dblp.uni-trier.de/pid/75/6588-3.html,75-6588-3,https://dblp.uni-trier.de/pid/75/6588-3.html,5
-matthias boehm,"{'austria', 'united states'}","{'graz university of technology', 'ibm almaden', 'tu graz'}",https://dblp.org/pid/75/887.html,75-887,https://dblp.org/pid/75/887.html,9
+matthias boehm,"{'austria', 'united states'}","{'graz university of technology', 'tu graz', 'ibm almaden'}",https://dblp.org/pid/75/887.html,75-887,https://dblp.org/pid/75/887.html,9
 aaron elmore,united states,university of chicago,https://dblp.org/pers/e/Elmore:Aaron_J=.html,75-9436,https://dblp.org/pid/75/9436.html,2
 yixiang fang,"{'china', 'hong kong sar'}","{'the chinese university of hong kong, shenzhen', 'school of data science, the chinese university of hong kong, shenzhen'}",https://dblp.org/pid/76/1735.html,76-1735,https://dblp.org/pid/76/1735.html,10
 sridhar chimalakonda,india,indian institute of technology tirupati,https://dblp.org/pid/76/1783.html,76-1783,https://dblp.org/pid/76/1783.html,8
@@ -641,7 +641,7 @@ nikolaus augsten,austria,university of salzburg,https://dblp.org/pers/a/Augsten:
 marcelo arenas,chile,universidad catolica & imfd chile,https://dblp.org/pid/76/6735.html,76-6735,https://dblp.org/pid/76/6735.html,6
 vijay arya,india,ibm,https://dblp.org/pid/77/1485.html,77-1485,https://dblp.org/pid/77/1485.html,1
 tsuyoshi murata,japan,tokyo institute of technology,https://dblp.uni-trier.de/pers/m/Murata:Tsuyoshi.html,77-1703,https://dblp.uni-trier.de/pid/77/1703.html,2
-feida zhu,singapore,"{'smu', 'singapore management university'}",https://dblp.org/pid/77/1985.html,77-1985,https://dblp.org/pid/77/1985.html,1
+feida zhu,singapore,"{'singapore management university', 'smu'}",https://dblp.org/pid/77/1985.html,77-1985,https://dblp.org/pid/77/1985.html,1
 xin cao,australia,university of new south wales,https://dblp.org/pid/77/2970-1.html,77-2970-1,https://dblp.org/pid/77/2970-1.html,5
 max heimel,germany,snowflake,https://dblp.org/pid/77/3753.html,77-3753,https://dblp.org/pid/77/3753.html,10
 bin yang,denmark,aalborg university,https://dblp.uni-trier.de/pers/hd/y/Yang_0002:Bin,77-377-2,https://dblp.uni-trier.de/pid/77/377-2.html,9
@@ -656,7 +656,7 @@ eddie kohler,united states,harvard university,https://dblp.uni-trier.de/pers/k/K
 min xie,united states,instacart,https://dblp.org/pid/78/8779.html,78-8779,https://dblp.org/pid/78/8779.html,7
 james b. wendt,united states,google,https://dblp.uni-trier.de/pers/hd/w/Wendt:James_B=,79-11278,https://dblp.uni-trier.de/pid/79/11278.html,6
 roger zimmermann,singapore,national university of singapore,https://dblp.org/pid/79/1490.html,79-1490,https://dblp.org/pid/79/1490.html,1
-qian lin,"{'china', 'singapore'}","{'national university of singapore', 'bytedance'}",https://dblp.org/pid/79/3108.html,79-3108,https://dblp.org/pid/79/3108.html,5
+qian lin,"{'singapore', 'china'}","{'national university of singapore', 'bytedance'}",https://dblp.org/pid/79/3108.html,79-3108,https://dblp.org/pid/79/3108.html,5
 yongbin liu,china,tsinghua university,https://dblp.org/pers/l/Liu:Yongbin.html,79-9544,https://dblp.org/pid/79/9544.html,5
 prithu banerjee,india,ubc,https://dblp.org/pid/80/10462.html,80-10462,https://dblp.org/pid/80/10462.html,6
 kai zeng,china,"alibaba, china",https://dblp.uni-trier.de/pers/hd/z/Zeng_0002:Kai,80-1651-2,https://dblp.uni-trier.de/pid/80/1651-2.html,3
@@ -672,7 +672,7 @@ gabriel ghinita,united states,univ. of massachusetts boston,https://dblp.org/per
 hwanjo yu,south korea,postech,https://dblp.org/pers/y/Yu:Hwanjo.html,80-6889,https://dblp.org/pid/80/6889.html,5
 parth gupta,spain,amazon,https://dblp.org/pers/g/Gupta:Parth.html,80-8429,https://dblp.org/pid/80/8429.html,9
 luo mai,united kingdom,"{'imperial college', 'university of edinburgh'}",https://dblp.org/pid/81/10470.html,81-10470,https://dblp.org/pid/81/10470.html,1
-anja gruenheid,united states,"{'microsoft', 'google inc.'}",https://dblp.org/pid/81/10578.html,81-10578,https://dblp.org/pid/81/10578.html,3
+anja gruenheid,united states,"{'google inc.', 'microsoft'}",https://dblp.org/pid/81/10578.html,81-10578,https://dblp.org/pid/81/10578.html,3
 xiaoyang wang,china,zhejiang gongshang university,https://dblp.org/pid/81/1832-2.html,81-1832-2,https://dblp.org/pid/81/1832-2.html,4
 lei zou,china,peking university,https://dblp.org/pers/hd/z/Zou_0001:Lei,81-3390-1,https://dblp.org/pid/81/3390-1.html,1
 eunyee koh,united states,adobe,https://dblp.org/pers/k/Koh:Eunyee.html,81-4388,https://dblp.org/pid/81/4388.html,1
@@ -681,7 +681,7 @@ hongzhi wang,china,harbin institute of technology,https://dblp.uni-trier.de/pid/
 da yan,united states,university of alabama at birmingham,https://dblp.org/pid/81/9436-1.html,81-9436-1,https://dblp.org/pid/81/9436-1.html,8
 chunbin lin,united states,amazon aws,https://dblp.org/pers/l/Lin:Chunbin.html,82-11411,https://dblp.org/pid/82/11411.html,7
 matthias brantner,united states,oracle inc.,https://dblp.org/pers/b/Brantner:Matthias.html,82-1740,https://dblp.org/pid/82/1740.html,10
-michael cafarella,united states,"{'mit csail', 'university of michigan'}",https://dblp.org/pid/82/231.html,82-231,https://dblp.org/pid/82/231.html,10
+michael cafarella,united states,"{'university of michigan', 'mit csail'}",https://dblp.org/pid/82/231.html,82-231,https://dblp.org/pid/82/231.html,10
 shady elbassuoni,lebanon,aub,https://dblp.org/pers/e/Elbassuoni:Shady.html,82-4089,https://dblp.org/pid/82/4089.html,2
 chen wang,china,,https://dblp.org/pid/82/4206-11.html,82-4206-11,https://dblp.org/pid/82/4206-11.html,6
 mauro conti,italy,university of padua,https://dblp.uni-trier.de/pers/c/Conti:Mauro.html,82-4386,https://dblp.uni-trier.de/pid/82/4386.html,6
@@ -690,7 +690,7 @@ qiang yang,hong kong sar,hkust,https://dblp.org/pid/82/6362-1.html,82-6362-1,htt
 manos athanassoulis,united states,boston university,https://dblp.org/pers/a/Athanassoulis:Manos.html,82-7402,https://dblp.org/pid/82/7402.html,1
 julian shun,united states,mit,https://dblp.org/pid/82/9876.html,82-9876,https://dblp.org/pid/82/9876.html,6
 batya kenig,israel,technion,https://dblp.org/pid/83/11148.html,83-11148,https://dblp.org/pid/83/11148.html,5
-shantanu sharma,united states,"{'university of california, irvine', 'new jersey institute of technology'}",https://dblp.org/pid/83/2389-1.html,83-2389-1,https://dblp.org/pid/83/2389-1.html,9
+shantanu sharma,united states,"{'new jersey institute of technology', 'university of california, irvine'}",https://dblp.org/pid/83/2389-1.html,83-2389-1,https://dblp.org/pid/83/2389-1.html,9
 germain forestier,france,university of haute alsace,https://dblp.uni-trier.de/pers/f/Forestier:Germain.html,83-2426,https://dblp.uni-trier.de/pid/83/2426.html,1
 xiaofei zhang,united states,university of memphis,https://dblp.org/pers/hd/z/Zhang_0002:Xiaofei,83-4809-2,https://dblp.org/pid/83/4809-2.html,7
 min zhang,china,tsinghua university,https://dblp.uni-trier.de/pers/hd/z/Zhang_0006:Min,83-5342-6,https://dblp.uni-trier.de/pid/83/5342-6.html,5
@@ -732,7 +732,7 @@ reynold cheng,hong kong sar,"the university of hong kong, china",https://dblp.or
 dongxiang zhang,china,zhejiang university,https://dblp.org/pid/89/6013.html,89-6013,https://dblp.org/pid/89/6013.html,3
 norman may,germany,sap ag,https://dblp.uni-trier.de/pers/m/May:Norman.html,89-6071,https://dblp.uni-trier.de/pid/89/6071.html,9
 markus weimer,united states,microsoft,https://dblp.uni-trier.de/pers/w/Weimer:Markus.html,89-6502,https://dblp.uni-trier.de/pid/89/6502.html,7
-jinfei liu,united states,"{'emory university', 'emory university/georgia institute of technology'}",https://dblp.org/pid/89/9935.html,89-9935,https://dblp.org/pid/89/9935.html,7
+jinfei liu,united states,"{'emory university/georgia institute of technology', 'emory university'}",https://dblp.org/pid/89/9935.html,89-9935,https://dblp.org/pid/89/9935.html,7
 manoj agarwal,india,microsoft,https://dblp.org/pers/a/Agarwal:Manoj_K=.html,90-1415,https://dblp.org/pid/90/1415.html,6
 sahely bhadra,india,indian institute of technology palakkad,https://dblp.org/pid/90/2736.html,90-2736,https://dblp.org/pid/90/2736.html,8
 jun xu,china,renmin university of china,https://dblp.org/pers/hd/x/Xu_0001:Jun,90-514-1,https://dblp.org/pid/90/514-1.html,4
@@ -798,12 +798,12 @@ lyublena antova,united states,datometry,https://dblp.org/pers/a/Antova:Lyublena.
 paolo atzeni,italy,roma tre university,https://dblp.org/pid/a/PAtzeni.html,a-PAtzeni,https://dblp.org/pid/a/PAtzeni.html,7
 pankaj agarwal,united states,duke university,https://dblp.uni-trier.de/pers/a/Agarwal:Pankaj_K=.html,a-PankajKAgarwal,https://dblp.uni-trier.de/pid/a/PankajKAgarwal.html,9
 toshiyuki amagasa,japan,university of tsukuba,https://dblp.org/pers/a/Amagasa:Toshiyuki.html,a-TAmagasa,https://dblp.org/pid/a/TAmagasa.html,1
-walid aref,united states,"{'purdue university', 'purdue'}",https://dblp.org/pers/a/Aref:Walid_G=.html,a-WGAref,https://dblp.org/pid/a/WGAref.html,7
+walid aref,united states,"{'purdue', 'purdue university'}",https://dblp.org/pers/a/Aref:Walid_G=.html,a-WGAref,https://dblp.org/pid/a/WGAref.html,7
 angela bonifati,france,univ. of lyon,https://dblp.uni-trier.de/pers/b/Bonifati:Angela.html,b-ABonifati,https://dblp.uni-trier.de/pid/b/ABonifati.html,6
 chiranjib bhattacharyya,india,iisc,https://dblp.org/pers/b/Bhattacharyya:Chiranjib.html,b-CBhattacharyya,https://dblp.org/pid/b/CBhattacharyya.html,10
 christian bizer,germany,university of mannheim,https://dblp.org/pers/b/Bizer:Christian.html,b-ChristianBizer,https://dblp.org/pid/b/ChristianBizer.html,9
 elisa bertino,united states,"purdue university, usa",https://dblp.uni-trier.de/pers/b/Bertino:Elisa.html,b-ElisaBertino,https://dblp.uni-trier.de/pid/b/ElisaBertino.html,1
-francesco bonchi,"{'italy', 'spain'}","{'yahoo labs barcelona, spain', 'isi foundation, turin'}",https://dblp.uni-trier.de/pid/b/FBonchi.html,b-FBonchi,https://dblp.uni-trier.de/pid/b/FBonchi.html,4
+francesco bonchi,"{'spain', 'italy'}","{'yahoo labs barcelona, spain', 'isi foundation, turin'}",https://dblp.uni-trier.de/pid/b/FBonchi.html,b-FBonchi,https://dblp.uni-trier.de/pid/b/FBonchi.html,4
 ilaria bartolini,italy,university of bologna,https://dblp.org/pers/b/Bartolini:Ilaria.html,b-IlariaBartolini,https://dblp.org/pid/b/IlariaBartolini.html,9
 indrajit bhattacharya,india,tcs research,https://dblp.org/pid/b/IndrajitBhattacharya.html,b-IndrajitBhattacharya,https://dblp.org/pid/b/IndrajitBhattacharya.html,4
 ken barker,canada,university of calgary,https://dblp.org/pid/b/KenBarker1.html,b-KenBarker1,https://dblp.org/pid/b/KenBarker1.html,10
@@ -820,7 +820,7 @@ sourav s bhowmick,singapore,nanyang technological university,https://dblp.org/pe
 srikanta bedathur,india,ibm india,https://dblp.uni-trier.de/pid/b/SrikantaJBedathur.html,b-SrikantaJBedathur,https://dblp.uni-trier.de/pid/b/SrikantaJBedathur.html,10
 arbee chen,taiwan,asia university,https://dblp.org/pers/c/Chen:Arbee_L=_P=.html,c-ALPChen,https://dblp.org/pid/c/ALPChen.html,9
 andrea cali,united kingdom,birkbeck univ. of london,https://dblp.uni-trier.de/pers/c/Cal=igrave=:Andrea.html,c-AndreaCali,https://dblp.uni-trier.de/pid/c/AndreaCali.html,5
-carlo curino,united states,"{'microsoft', 'microsoft -- gsl'}",https://dblp.org/pid/c/CarloCurino.html,c-CarloCurino,https://dblp.org/pid/c/CarloCurino.html,6
+carlo curino,united states,"{'microsoft -- gsl', 'microsoft'}",https://dblp.org/pid/c/CarloCurino.html,c-CarloCurino,https://dblp.org/pid/c/CarloCurino.html,6
 chee-yong chan,singapore,national university of singapore,https://dblp.uni-trier.de/pers/c/Chan:Chee_Yong.html,c-CheeYongChan,https://dblp.uni-trier.de/pid/c/CheeYongChan.html,4
 dario colazzo,france,u. paris dauphine,https://dblp.uni-trier.de/pers/c/Colazzo:Dario.html,c-DarioColazzo,https://dblp.uni-trier.de/pid/c/DarioColazzo.html,10
 gordon cormack,canada,university of waterloo,https://dblp.org/pers/c/Cormack:Gordon_V=.html,c-GVCormack,https://dblp.org/pid/c/GVCormack.html,2
@@ -838,7 +838,7 @@ surajit chaudhuri,united states,microsoft,https://dblp.uni-trier.de/pers/c/Chaud
 toon calders,belgium,universiteit antwerpen,https://dblp.uni-trier.de/pers/c/Calders:Toon.html,c-ToonCalders,https://dblp.uni-trier.de/pid/c/ToonCalders.html,4
 ugur cetintemel,united states,brown,https://dblp.org/pid/c/UgurCetintemel.html,c-UgurCetintemel,https://dblp.org/pid/c/UgurCetintemel.html,8
 venkatesan chakaravarthy,india,ibm research,https://dblp.uni-trier.de/pers/c/Chakaravarthy:Venkatesan_T=.html,c-VTChakaravarthy,https://dblp.uni-trier.de/pid/c/VTChakaravarthy.html,7
-vassilis christophides,france,"{'ensea', 'inria'}","{'https://dblp.uni-trier.de/pid/c/VassilisChristophides.html', 'https://dblp.org/pid/c/VassilisChristophides.html'}",c-VassilisChristophides,https://dblp.org/pid/c/VassilisChristophides.html,9
+vassilis christophides,france,"{'inria', 'ensea'}","{'https://dblp.uni-trier.de/pid/c/VassilisChristophides.html', 'https://dblp.org/pid/c/VassilisChristophides.html'}",c-VassilisChristophides,https://dblp.org/pid/c/VassilisChristophides.html,9
 wei chen,china,"{'zhejiang university', 'zju'}",https://dblp.org/pid/c/WeiChen1.html,c-WeiChen1,https://dblp.org/pid/c/WeiChen1.html,7
 yeow meng chee,singapore,nus,https://dblp.org/pid/c/YeowMengChee.html,c-YeowMengChee,https://dblp.org/pid/c/YeowMengChee.html,3
 "{'antonis deligiannakis', 'antonios deligiannakis'}",greece,technical university of crete,https://dblp.org/pid/d/ADeligiannakis.html,d-ADeligiannakis,https://dblp.org/pid/d/ADeligiannakis.html,3
@@ -850,10 +850,10 @@ gillian dobbie,new zealand,univ. of auckland,https://dblp.org/pers/d/Dobbie:Gill
 josep domingo-ferrer,spain,"universitat rovira i virgili, catalonia",https://dblp.uni-trier.de/pid/d/JDomingoFerrer.html,d-JDomingoFerrer,https://dblp.uni-trier.de/pid/d/JDomingoFerrer.html,2
 jens dittrich,germany,saarland university,https://dblp.org/pers/d/Dittrich:Jens.html,d-JensPeterDittrich,https://dblp.org/pid/d/JensPeterDittrich.html,4
 khuzaima daudjee,canada,university of waterloo,https://dblp.org/pers/d/Daudjee:Khuzaima.html,d-KhuzaimaDaudjee,https://dblp.org/pid/d/KhuzaimaDaudjee.html,4
-"{'xin dong', 'luna dong'}",united states,"{'amazon.com', 'amazon'}",https://dblp.uni-trier.de/pers/d/Dong_0001:Xin.html,d-XinLunaDong,https://dblp.uni-trier.de/pid/d/XinLunaDong.html,6
+"{'xin dong', 'luna dong'}",united states,"{'amazon', 'amazon.com'}",https://dblp.uni-trier.de/pers/d/Dong_0001:Xin.html,d-XinLunaDong,https://dblp.uni-trier.de/pid/d/XinLunaDong.html,6
 edward fox,united states,virginia tech,https://dblp.uni-trier.de/pid/f/EdwardAFox.html,f-EdwardAFox,https://dblp.uni-trier.de/pid/f/EdwardAFox.html,6
 elena ferrari,italy,"university of insubria, varese",https://dblp.org/pers/f/Ferrari:Elena.html,f-ElenaFerrari,https://dblp.org/pid/f/ElenaFerrari.html,1
-"{'george h. l. fletcher', 'george fletcher'}",netherlands,"{'eindhoven  university of technology', 'eindhoven university of technology the netherlands'}","{'https://dblp.uni-trier.de/pid/f/GeorgeHLFletcher.html', 'https://dblp.org/pid/f/GeorgeHLFletcher.html'}",f-GeorgeHLFletcher,https://dblp.org/pid/f/GeorgeHLFletcher.html,8
+"{'george fletcher', 'george h. l. fletcher'}",netherlands,"{'eindhoven university of technology the netherlands', 'eindhoven  university of technology'}","{'https://dblp.uni-trier.de/pid/f/GeorgeHLFletcher.html', 'https://dblp.org/pid/f/GeorgeHLFletcher.html'}",f-GeorgeHLFletcher,https://dblp.org/pid/f/GeorgeHLFletcher.html,8
 hakan ferhatosmanoglu,"{'united kingdom', 'turkey'}",university of warwick,https://dblp.uni-trier.de/pers/f/Ferhatosmanoglu:Hakan.html,f-HFerhatosmanoglu,https://dblp.uni-trier.de/pid/f/HFerhatosmanoglu.html,6
 jose macedo,brazil,universidade federal do cear,https://dblp.uni-trier.de/pers/hd/m/Mac=ecirc=do:Jos=eacute=_A=_F=_de,f-JAFernandesdeMacedo,https://dblp.uni-trier.de/pid/f/JAFernandesdeMacedo.html,3
 johann-christoph freytag,germany,humboldt-universitt zu berlin,https://dblp.uni-trier.de/pers/f/Freytag:Johann=Christoph.html,f-JCFreytag,https://dblp.uni-trier.de/pid/f/JCFreytag.html,9
@@ -895,7 +895,7 @@ chris jermaine,united states,rice university,https://dblp.org/pers/j/Jermaine:Ch
 christian jensen,denmark,aalborg university,https://dblp.uni-trier.de/pers/j/Jensen:Christian_S=.html,j-ChristianSJensen,https://dblp.uni-trier.de/pid/j/ChristianSJensen.html,1
 gabriela jacques-silva,united states,facebook,https://dblp.org/pers/j/Jacques=Silva:Gabriela.html,j-GabrielaJacquesSilva,https://dblp.org/pid/j/GabrielaJacquesSilva.html,9
 h. jagadish,united states,university of michigan,https://dblp.uni-trier.de/pid/j/HVJagadish.html,j-HVJagadish,https://dblp.uni-trier.de/pid/j/HVJagadish.html,8
-alfons kemper,germany,"{'tu munich', 'technical university of munich'}",https://dblp.org/pid/k/AlfonsKemper.html,k-AlfonsKemper,https://dblp.org/pid/k/AlfonsKemper.html,6
+alfons kemper,germany,"{'technical university of munich', 'tu munich'}",https://dblp.org/pid/k/AlfonsKemper.html,k-AlfonsKemper,https://dblp.org/pid/k/AlfonsKemper.html,6
 birgitta koenig-ries,germany,friedrich-schiller-universitat jena,https://dblp.uni-trier.de/pid/k/BKonigRies.html,k-BKonigRies,https://dblp.uni-trier.de/pid/k/BKonigRies.html,7
 ben kao,hongkong sar,university of hong kong,https://dblp.org/pid/k/BenKao.html,k-BenKao,https://dblp.org/pid/k/BenKao.html,3
 bettina kemme,canada,mcgill university,https://dblp.org/pid/k/BettinaKemme.html,k-BettinaKemme,https://dblp.org/pid/k/BettinaKemme.html,1
@@ -940,7 +940,7 @@ josiane mothe,france,"institut de recherche en informatique de toulouse, umr5505
 mirella moro,brazil,universidade federal de minas gerais,https://dblp.org/pid/m/MirellaMouraMoro.html,m-MirellaMouraMoro,https://dblp.org/pid/m/MirellaMouraMoro.html,2
 pabitra mitra,india,indian institute of technology kharagpur,https://dblp.org/pers/m/Mitra:Pabitra.html,m-PabitraMitra,https://dblp.org/pid/m/PabitraMitra.html,5
 paolo merialdo,italy,"{'roma tre university', 'university roma tre'}",https://dblp.uni-trier.de/pid/m/PaoloMerialdo.html,m-PaoloMerialdo,https://dblp.uni-trier.de/pid/m/PaoloMerialdo.html,8
-renee miller,"{'united states', 'canada'}","{'northeastern', 'univ of toronto'}",https://dblp.org/pid/m/RJMiller.html,m-RJMiller,https://dblp.org/pid/m/RJMiller.html,8
+renee miller,"{'canada', 'united states'}","{'northeastern', 'univ of toronto'}",https://dblp.org/pid/m/RJMiller.html,m-RJMiller,https://dblp.org/pid/m/RJMiller.html,8
 rene mueller,"{'united states', 'switzerland'}","{'ibm research - almaden', 'nvidia'}",https://dblp.org/pid/m/ReneMuller.html,m-ReneMuller,https://dblp.org/pid/m/ReneMuller.html,3
 samuel madden,united states,mit,https://dblp.org/pid/m/SamuelMadden.html,m-SamuelMadden,https://dblp.org/pid/m/SamuelMadden.html,7
 sharad mehrotra,united states,u. c. irvine,https://dblp.org/pid/m/SharadMehrotra.html,m-SharadMehrotra,https://dblp.org/pid/m/SharadMehrotra.html,3
@@ -955,7 +955,7 @@ jeff naughton,united states,google,https://dblp.uni-trier.de/pers/n/Naughton:Jef
 nikos ntarmos,united kingdom,huawei technologies r&d (uk) ltd,https://dblp.org/pers/n/Ntarmos:Nikos.html,n-NikosNtarmos,https://dblp.org/pid/n/NikosNtarmos.html,1
 vivek narasayya,united states,microsoft,https://dblp.uni-trier.de/pers/n/Narasayya:Vivek_R=.html,n-VivekRNarasayya,https://dblp.uni-trier.de/pid/n/VivekRNarasayya.html,4
 beng chin ooi,singapore,nus,https://dblp.uni-trier.de/pers/o/Ooi:Beng_Chin.html,o-BengChinOoi,https://dblp.uni-trier.de/pid/o/BengChinOoi.html,7
-fatma ozcan,united states,"{'google', 'ibm almaden'}",https://dblp.uni-trier.de/pers/=/=Ouml=zcan:Fatma.html,o-FatmaOzcan,https://dblp.uni-trier.de/pid/o/FatmaOzcan.html,4
+fatma ozcan,united states,"{'ibm almaden', 'google'}",https://dblp.uni-trier.de/pers/=/=Ouml=zcan:Fatma.html,o-FatmaOzcan,https://dblp.uni-trier.de/pid/o/FatmaOzcan.html,4
 tamer ozsu,canada,university of waterloo,https://dblp.org/pid/o/MTamerOzsu.html,o-MTamerOzsu,https://dblp.org/pid/o/MTamerOzsu.html,6
 mourad ouzzani,qatar,"qatar computing research institute, hbku",https://dblp.org/pers/o/Ouzzani:Mourad.html,o-MouradOuzzani,https://dblp.org/pid/o/MouradOuzzani.html,9
 vincent oria,united states,njit,https://dblp.uni-trier.de/pers/hd/o/Oria:Vincent,o-VincentOria,https://dblp.uni-trier.de/pid/o/VincentOria.html,1
@@ -963,12 +963,12 @@ viviane moreira,brazil,universidade federal do rio grande do sul,https://dblp.or
 apostolos papadopoulos,greece,aristotle university of thessaloniki,https://dblp.org/pers/p/Papadopoulos:Apostolos_N=.html,p-ANPapadopoulos,https://dblp.org/pid/p/ANPapadopoulos.html,7
 dimitris papadias,hong kong sar,hkust,https://dblp.org/pers/hd/p/Papadias:Dimitris,p-DimitrisPapadias,https://dblp.org/pid/p/DimitrisPapadias.html,1
 evaggelia pitoura,greece,univ. of ioannina,https://dblp.org/pers/p/Pitoura:Evaggelia.html,p-EPitoura,https://dblp.org/pid/p/EPitoura.html,4
-ippokratis pandis,united states,"{'amazon web services', 'amazon'}","{'https://dblp.org/pid/p/IppokratisPandis.html', 'https://dblp.uni-trier.de/pid/p/IppokratisPandis.html'}",p-IppokratisPandis,https://dblp.org/pid/p/IppokratisPandis.html,6
+ippokratis pandis,united states,"{'amazon', 'amazon web services'}","{'https://dblp.org/pid/p/IppokratisPandis.html', 'https://dblp.uni-trier.de/pid/p/IppokratisPandis.html'}",p-IppokratisPandis,https://dblp.org/pid/p/IppokratisPandis.html,6
 jean-marc petit,france,liris,https://dblp.org/pid/p/JMPetit.html,p-JMPetit,https://dblp.org/pid/p/JMPetit.html,2
 jian pei,canada,simon fraser university,https://dblp.org/pers/p/Pei:Jian.html,p-JianPei,https://dblp.org/pid/p/JianPei.html,10
 lucian popa,united states,ibm,https://dblp.org/pid/p/LucianPopa.html,p-LucianPopa,https://dblp.org/pid/p/LucianPopa.html,5
 norman paton,united kingdom,university of  manchester,https://dblp.uni-trier.de/pers/p/Paton:Norman_W=.html,p-NWPaton,https://dblp.uni-trier.de/pid/p/NWPaton.html,10
-"{'alkis polyzotis', 'neoklis polyzotis'}",united states,"{'google', 'google, usa'}","{'https://dblp.org/pid/p/NeoklisPolyzotis.html', 'https://dblp.org/pers/p/Polyzotis:Neoklis.html'}",p-NeoklisPolyzotis,https://dblp.org/pid/p/NeoklisPolyzotis.html,1
+"{'neoklis polyzotis', 'alkis polyzotis'}",united states,"{'google, usa', 'google'}","{'https://dblp.org/pers/p/Polyzotis:Neoklis.html', 'https://dblp.org/pid/p/NeoklisPolyzotis.html'}",p-NeoklisPolyzotis,https://dblp.org/pid/p/NeoklisPolyzotis.html,1
 odysseas papapetrou,netherlands,tu eindhoven,"{'https://dblp.org/pers/p/Papapetrou:Odysseas.html', 'https://dblp.org/pid/p/OdysseasPapapetrou.html'}",p-OdysseasPapapetrou,https://dblp.org/pid/p/OdysseasPapapetrou.html,6
 paolo papotti,france,eurecom,https://dblp.org/pers/p/Papotti:Paolo.html,p-PaoloPapotti,https://dblp.org/pid/p/PaoloPapotti.html,6
 torben bach pedersen,denmark,aalborg university,https://dblp.org/pers/p/Pedersen:Torben_Bach.html,p-TorbenBachPedersen,https://dblp.org/pid/p/TorbenBachPedersen.html,4
@@ -981,7 +981,7 @@ elke rundensteiner,united states,wpi,https://dblp.uni-trier.de/pers/r/Rundenstei
 erhard rahm,germany,university of leipzig,https://dblp.org/pid/r/ERahm.html,r-ERahm,https://dblp.org/pid/r/ERahm.html,2
 kenneth ross,united states,columbia university,https://dblp.org/pid/r/KARoss.html,r-KARoss,https://dblp.org/pid/r/KARoss.html,3
 louiqa raschid,united states,umcp,https://dblp.org/pers/r/Raschid:Louiqa.html,r-LouiqaRaschid,https://dblp.org/pid/r/LouiqaRaschid.html,3
-matthias renz,"{'united states', 'germany'}","{'university of kiel', 'george mason univ.'}",https://dblp.org/pid/r/MatthiasRenz.html,r-MatthiasRenz,https://dblp.org/pid/r/MatthiasRenz.html,4
+matthias renz,"{'united states', 'germany'}","{'george mason univ.', 'university of kiel'}",https://dblp.org/pid/r/MatthiasRenz.html,r-MatthiasRenz,https://dblp.org/pid/r/MatthiasRenz.html,4
 maya ramanath,india,iit delhi,https://dblp.org/pers/r/Ramanath:Maya.html,r-MayaRamanath,https://dblp.org/pid/r/MayaRamanath.html,4
 mirek riedewald,united states,northeastern,https://dblp.uni-trier.de/pers/r/Riedewald:Mirek.html,r-MirekRiedewald,https://dblp.uni-trier.de/pid/r/MirekRiedewald.html,10
 uwe roehm,australia,the university of sydney,https://dblp.uni-trier.de/pers/r/R=ouml=hm:Uwe.html,r-UweRohm,https://dblp.uni-trier.de/pid/r/UweRohm.html,5
@@ -998,7 +998,7 @@ julia stoyanovich,united states,"{'nyu', 'new york university'}",https://dblp.or
 kai-uwe sattler,germany,tu ilmenau,https://dblp.org/pid/s/KaiUweSattler.html,s-KaiUweSattler,https://dblp.org/pid/s/KaiUweSattler.html,2
 kenneth salem,canada,university of waterloo,https://dblp.uni-trier.de/pers/s/Salem:Kenneth.html,s-KennethSalem,https://dblp.uni-trier.de/pid/s/KennethSalem.html,9
 mike stonebraker,united states,mit,https://dblp.org/pid/s/MichaelStonebraker.html,s-MichaelStonebraker,https://dblp.org/pid/s/MichaelStonebraker.html,1
-mohamed sharaf,"{'australia', 'uae'}","{'university of queensland', 'united arab emirates university'}",https://dblp.org/pid/s/MohamedASharaf.html,s-MohamedASharaf,https://dblp.org/pid/s/MohamedASharaf.html,8
+mohamed sharaf,"{'australia', 'uae'}","{'united arab emirates university', 'university of queensland'}",https://dblp.org/pid/s/MohamedASharaf.html,s-MohamedASharaf,https://dblp.org/pid/s/MohamedASharaf.html,8
 manica scannapieco,italy,istat,https://dblp.org/pers/s/Scannapieco:Monica.html,s-MonicaScannapieco,https://dblp.org/pid/s/MonicaScannapieco.html,4
 pierangela samarati,italy,universita delgi studi di milano,https://dblp.org/pid/s/PSamarati.html,s-PSamarati,https://dblp.org/pid/s/PSamarati.html,4
 pinar karagoz,turkey,"metu, turkey",https://dblp.org/pid/s/PinarSenkul.html,s-PinarSenkul,https://dblp.org/pid/s/PinarSenkul.html,5
@@ -1007,7 +1007,7 @@ renuka sindhgatta,india,ibm research,https://dblp.org/pid/s/RenukaSindhgatta.htm
 s. sudarshan,india,iit bombay,https://dblp.org/pid/s/SSudarshan1.html,s-SSudarshan1,https://dblp.org/pid/s/SSudarshan1.html,8
 shashi shekhar,united states,university of minnesota,https://dblp.uni-trier.de/pers/s/Shekhar:Shashi.html,s-ShashiShekhar,https://dblp.uni-trier.de/pid/s/ShashiShekhar.html,10
 timos sellis,australia,"{'sut', 'swinburne university of technology'}",https://dblp.org/pid/s/TimosKSellis.html,s-TimosKSellis,https://dblp.org/pid/s/TimosKSellis.html,1
-"{'anthony tung', 'anthony k. h. tung'}",singapore,"{'national university of singapore', 'nus'}","{'https://dblp.org/pid/t/AnthonyKHTung.html', 'https://dblp.org/pers/t/Tung:Anthony_K=_H=.html'}",t-AnthonyKHTung,https://dblp.org/pid/t/AnthonyKHTung.html,10
+"{'anthony k. h. tung', 'anthony tung'}",singapore,"{'national university of singapore', 'nus'}","{'https://dblp.org/pid/t/AnthonyKHTung.html', 'https://dblp.org/pers/t/Tung:Anthony_K=_H=.html'}",t-AnthonyKHTung,https://dblp.org/pid/t/AnthonyKHTung.html,10
 arash termehchy,united states,oregon state university,https://dblp.org/pid/t/ArashTermehchy.html,t-ArashTermehchy,https://dblp.org/pid/t/ArashTermehchy.html,9
 caetano traina jr.,brazil,universidade de s?o paulo,https://dblp.org/pers/t/Traina_Jr=:Caetano.html,t-CaetanoTrainaJr,https://dblp.org/pid/t/CaetanoTrainaJr.html,6
 farouk toumani,france,"limos, cnrs, university clermont auvergne",https://dblp.org/pid/t/FaroukToumani.html,t-FaroukToumani,https://dblp.org/pid/t/FaroukToumani.html,3
@@ -1032,10 +1032,10 @@ jef wijsen,belgium,university of mons,https://dblp.uni-trier.de/pers/w/Wijsen:Je
 ke wang,canada,sfu,https://dblp.uni-trier.de/pers/hd/w/Wang_0001:Ke,w-KeWang,https://dblp.uni-trier.de/pid/w/KeWang.html,9
 melanie herschel,germany,universitat stuttgart,https://dblp.org/pers/h/Herschel:Melanie.html,w-MelanieWeis,https://dblp.org/pid/w/MelanieWeis.html,5
 peter wood,united kingdom,birkbeck,https://dblp.uni-trier.de/pers/hd/w/Wood:Peter_T=,w-PeterTWood,https://dblp.uni-trier.de/pid/w/PeterTWood.html,9
-"{'raymond wong', 'raymond chi-wing wong'}",hong kong sar,"{'hong kong university of science and technology', 'hkust'}",https://dblp.org/pid/w/RaymondChiWingWong.html,w-RaymondChiWingWong,https://dblp.org/pid/w/RaymondChiWingWong.html,10
+"{'raymond chi-wing wong', 'raymond wong'}",hong kong sar,"{'hong kong university of science and technology', 'hkust'}",https://dblp.org/pid/w/RaymondChiWingWong.html,w-RaymondChiWingWong,https://dblp.org/pid/w/RaymondChiWingWong.html,10
 steven whang,south korea,kaist,"{'https://dblp.org/pid/w/StevenEuijongWhang.html', 'https://dblp.uni-trier.de/pid/w/StevenEuijongWhang.html'}",w-StevenEuijongWhang,https://dblp.org/pid/w/StevenEuijongWhang.html,4
 wei wang,united states,ucla,https://dblp.org/pid/w/WeiWang.html,w-WeiWang,https://dblp.org/pid/w/WeiWang.html,9
-wei wang,"{'australia', 'hong kong sar'}","{'hkust', 'university of new south wales'}",https://dblp.org/pid/w/WeiWang11.html,w-WeiWang11,https://dblp.org/pid/w/WeiWang11.html,5
+wei wang,"{'hong kong sar', 'australia'}","{'university of new south wales', 'hkust'}",https://dblp.org/pid/w/WeiWang11.html,w-WeiWang11,https://dblp.org/pid/w/WeiWang11.html,5
 wei wang,china,fudan university,https://dblp.org/pid/w/WeiWang9.html,w-WeiWang9,https://dblp.org/pid/w/WeiWang9.html,10
 sean wang,china,fudan university,https://dblp.org/pid/w/XiaoyangSeanWang.html,w-XiaoyangSeanWang,https://dblp.org/pid/w/XiaoyangSeanWang.html,9
 yang wang,china,ustc heifei,https://dblp.org/pid/w/YangWang15.html,w-YangWang15,https://dblp.org/pid/w/YangWang15.html,3
